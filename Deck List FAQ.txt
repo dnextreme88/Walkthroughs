@@ -1,0 +1,2708 @@
+Character Deck Listing FAQ:
+
+Name of Game : Yu-Gi-Oh! GX: Tag Force 3
+
+Platform : PlayStation Portable (PSP)
+
+By : dnextreme88
+
+==============================================================================
+| Table of Contents :                                                        |
+==============================================================================
+
+*NOTE*: Jump your way through this FAQ by hitting CTRL+F. In the "Find what:"
+dialog box, enter the code found in braces and hit enter. For instance, if
+you wanna view the Version History section, you must type in "[HISTORY]".
+
++----------------------------------------------------------------------------+
+| 1. Introduction.....                                               [INTRO] |
+|----------------------------------------------------------------------------|
+| 2. About.....                                                        [ABT] |
+|----------------------------------------------------------------------------|
+| 3. Version History.....                                          [HISTORY] |
+|----------------------------------------------------------------------------|
+| 4. Contact Information.....                                      [CONTACT] |
+|----------------------------------------------------------------------------|
+| 5. Copyright Information.....                                  [COPYRIGHT] |
+|----------------------------------------------------------------------------|
+| 6. Character Decklists Introduction.....                         [D-INTRO] |
+|----------------------------------------------------------------------------|
+| 7. Yu-Gi-Oh! GX: Tag Force 3 Character Decklists.....               [DECK] |
+|----------------------------------------------------------------------------|
+| 8. Other Character Decklists.....                                 [DECK-2] |
+| 8A. Angry Bastion's Decks.....                                     [ANGRY] |
+| 8B. Alexis Rhodes' Decks.....                                     [ALEXIS] |
+| 8C. Trueman/Mr.T's Decks.....                                       [TRUE] |
+| 8D. Jaden Yuki's Decks.....                                        [JADEN] |
+| 8E. Blair Flannigan's Decks.....                                   [BLAIR] |
+| 8F. Syrus Truesdale's Decks.....                                   [SYRUS] |
+| 8G. Zane Truesdale's Decks.....                                     [ZANE] |
+|----------------------------------------------------------------------------|
+| 9. Important Notes.....                                           [IMPORT] |
+|----------------------------------------------------------------------------|
+| 10. Frequently Asked Questions.....                                  [FAQ] |
+|----------------------------------------------------------------------------|
+| 11. Sites Permitted to use my FAQ.....                            [PERMIT] |
+|----------------------------------------------------------------------------|
+| 12. Credits.....                                                 [CREDITS] |
++----------------------------------------------------------------------------+
+
+==============================================================================
+| 1. Introduction.....                                               [INTRO] |
+==============================================================================
+
+Hello and welcome to my Character Deck Listing FAQ FAQ for the game GunBound
+on PC. I wrote this FAQ because I feel most of you wants to know the deck of
+each MAIN character.
+
+==============================================================================
+| 2. About.....                                                        [ABT] |
+==============================================================================
+
+Yu-Gi-Oh! GX: Tag Force 3 is owned by Konami. All trademarks are subjected to
+Konami.
+
+Copyright © Konami.
+
+==============================================================================
+| 3. Version History.....                                          [HISTORY] |
+==============================================================================
+
+Version 1.0 - Jan 5 2009
+= Submitted the FAQ.
+
+Version 1.1 - Jan 8 2009
+= A major update. Added "Morphing Jar" to all duelists except Alexis Rhodes
+whose Morphing Jar is already listed. Minor corrections corrected. And the
+Frequently Asked Questions updated.
+
+Version 1.2 - Jan 14 2009
+= Added "Angry Bastion"'s deck on a new section entitled "Other Character
+Decklists".
+
+Version 1.3 - Jan 23 2009
+= Updated "Other Character Decklists" section with more decks.
+
+Version 1.4 - Jan 26 2009
+= Added Alexis Rhodes other decks on "Other Character Decklists".
+
+Version 1.5 - Feb 8 2009
+= Added decks for Trueman.
+
+Version 1.6 - Feb 19 2009
+= Corrected "Trueman" as "Trueman" is in the English version and "Mr.T" is
+for the Japanese version. Completed other decks of "Jaden Yuki" and "Blair
+Flannigan".
+
+Version 1.7 - May 8 2009
+= Added Syrus and Zane's other decks. Added a "*NOTE*" as well.
+
+==============================================================================
+| 4. Contact Information.....                                      [CONTACT] |
+==============================================================================
+
+If you have any questions or suggestions, feel free to e-mail me. My e-mail is
+jeannekevindecena@yahoo.com. For corrections, just do the same ^_^. I will be
+glad to help you out. If you want my FAQ to be posted on your website, please
+email me so ( e-mail is above ). When i say "YES", I am allowing you to put
+this FAQ to your site.
+
+==============================================================================
+| 5. Copyright Information.....                                  [COPYRIGHT] |
+==============================================================================
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or a retrieval
+system without the permission in writing from the copyright owner.
+
+Copyright © dnextreme88
+
+==============================================================================
+| 6. Character Decklists Introduction.....                         [D-INTRO] |
+==============================================================================
+
+At the start of Tag Force 3, you're given a choice of one of six characters
+with which to partner for the duration of the game. These characters are Jaden
+Yuki, Syrus Truesdale, Chazz Princeton, Zane Truesdale, Blair Flannigan,Alexis
+Rhodes. Bastion Misawa is also available as a partner after UMD Recognition
+with Tag Force 2.
+
+==============================================================================
+| 7. Yu-Gi-Oh! GX: Tag Force 3 Character Decklists.....               [DECK] |
+==============================================================================
+
+This is the list of characters in the series that you can partner with at the
+start of the game. These decks are not permanent as you can edit their decks
+in the later part of the game. But with a few exceptions :
+
+a) You cannot remove your partner's favorite cards in his/her deck.
+b) Cards in your partner's trunks aren't yours. You will use his/her trunk to
+edit his/her deck.
+
+
+*****Jaden Yuki*****
+Deck Name: Jaden Yuki 01
+Cards in Deck: 42
+Extra Deck: 15
+
+Normal Monsters
+
+    * Elemental Hero Neos (x2)
+
+Effect Monsters
+
+    * Cross Porter
+    * Dandylion
+    * Elemental Hero Stratos
+    * Elemental Hero Neos Alius
+    * Elemental Hero Prisma (x2)
+    * Honest (x2)
+    * Morphing Jar
+    * Neo Space Pathfinder (x2)
+    * Neo-Spacian Aqua Dolphin (x2)
+    * Neo-Spacian Dark Panther
+    * Neo-Spacian Flare Scarab (x2)
+    * Neo-Spacian Glow Moss
+    * Neo-Spacian Grand Mole
+
+Fusion Monsters
+
+    * Elemental Hero Aqua Neos (x2)
+    * Elemental Hero Dark Neos (x2)
+    * Elemental Hero Divine Neos (x3)
+    * Elemental Hero Flare Neos (x2)
+    * Elemental Hero Glow Neos (x2)
+    * Elemental Hero Grand Neos (x2)
+    * Elemental Hero Magma Neos (x2)
+
+Spells 
+
+    * Convert Contact
+    * E - Emergency Call (x2)
+    * H - Heated Heart (x2)
+    * Heavy Storm
+    * Instant Neo Space
+    * Miracle Contact (x2)
+    * Miracle Fusion (x2)
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Neo Space (x2)
+    * O - Oversoul (x2)
+    * Premature Burial
+    * R - Righteous Justice
+    * The Warrior Returning Alive
+    * Wrath of Neos
+
+Traps
+
+    * A Hero Emerges
+    * Hero Blast
+    * Mirror Force
+
+*****Syrus Truesdale*****
+Deck Name: Syrus Truesdale 01
+Cards in Deck: 40
+Extra Deck: 6
+
+Effect Monsters
+
+    * Drillroid (x3)
+    * Expressroid (x3)
+    * Kiteroid (x3)
+    * Morphing Jar
+    * Stealthroid (x2)
+    * Steamroid (x3)
+    * Submarineroid (x2)
+    * Truckroid (x3)
+
+Fusion Monsters
+
+    * Super Vehicroid - Stealth Union (x3)
+    * Super Vehicroid Jumbo Drill (x3)
+
+
+Spells
+
+    * Dimension Fusion
+    * Emergency Provisions (x2)
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Rush Recklessly (x2)
+    * Shrink (x2)
+    * Swords of Revealing Light
+    * Vehicroid Connection Zone (x3)
+
+Traps
+
+    * Chain Material (x2)
+    * Mirror Force
+    * Torrential Tribute
+
+*****Chazz Princeton*****
+Deck Name: Chazz Princeton 01
+Cards in Deck: 43
+Extra Deck: 6
+
+Normal Monsters
+
+    * Ojama Black (x3)
+    * Ojama Green (x3)
+    * Ojama Yellow (x3)
+
+Effect Monsters
+
+    * King of the Swamp (x3)
+    * Morphing Jar
+
+Fusion Monsters
+
+    * Ojama King (x3)
+    * Ojama Knight (x3)
+
+Spells
+
+    * Card Destruction
+    * Ground Collapse (x2)
+    * Heavy Storm
+    * Magical Mallet
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Ojama Delta Hurricane!! (x2)
+    * Ojamagic (x2)
+    * Ojamandala (x2)
+    * Polymerization (x2)
+    * Swords of Revealing Light
+    * Symbols of Duty (x2)
+
+Traps
+
+    * Dimension Wall (x3)
+    * Magical Hats (x2)
+    * Mirror Force
+    * Ojama Trio
+    * Pride Shout (x3)
+    * Torrential Tribute
+
+*****Zane Truesdale*****
+Deck Name: Zane Truesdale 01
+Cards in Deck: 42
+Extra Deck: 15
+
+Effect Monsters
+
+    * Chthonian Emperor Dragon
+    * Cyber Dragon (x2)
+    * Cyberdark Edge (x2)
+    * Cyberdark Horn (x2)
+    * Cyberdark Keel (x2)
+    * Exploder Dragon (x2)
+    * Infernal Dragon
+    * Masked Dragon (x3)
+    * Morphing Jar
+    * Sangan
+    * The Light - Hex-Sealed Fusion (x2)
+    * Twin-Headed Behemoth
+
+Fusion Monsters
+
+    * Chimeratech Fortress Dragon
+    * Chimeratech Overdragon (x2)
+    * Cyber End Dragon
+    * Cyber Twin Dragon (x2)
+    * Cyberdark Dragon (x3)
+    * Dragon Master Knight (x3)
+    * Five-Headed Dragon (x3)
+
+Spells
+
+    * Card Destruction
+    * Cyberdark Impact! (x2)
+    * Future Fusion
+    * Giant Trunade
+    * Gold Sarcophagus
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Overload Fusion
+    * Power Bond
+    * Premature Burial
+
+Traps
+
+    * Crush Card Virus
+    * Deck Devastation Virus
+    * Declaration of Rebirth
+    * Fusion Guard
+    * Mirror Force
+    * Power Wall (x2)
+    * Rebirth Judgment
+    * Torrential Tribute
+
+*****Blair Flannigan*****
+Deck Name: Blair Flannigan 01
+Cards in Deck: 45
+Extra Deck: 0
+
+Effect Monsters
+
+    * Celestia, Lightsworn Angel (x2)
+    * Garoth, Lightsworn Warrior (x2)
+    * Gragonith, Lightsworn Dragon (x2)
+    * Jain, Lightsworn Paladin (x2)
+    * Jenis, Lightsworn Mender (x3)
+    * Judgment Dragon
+    * Lumina, Lightsworn Summoner (x3)
+    * Lyla, Lightsworn Sorceress (x2)
+    * Morphing Jar
+    * Ryko, Lightsworn Hunter (x3)
+    * Wulf, Lightsworn Beast (x2)
+
+Spells
+
+    * Card Destruction
+    * Giant Trunade
+    * Heavy Storm
+    * Lightsworn Sabre (x2)
+    * Monster Reborn
+    * Monster Reincarnation
+    * Mystical Space Typhoon
+    * Pot of Avarice
+    * Premature Burial
+    * Realm of Light (x2)
+    * Solar Recharge (x2)
+
+Traps
+
+    * Glorious Illusion (x2)
+    * Light Spiral (x2)
+    * Lightsworn Barrier (x2)
+    * Mirror Force
+    * Torrential Tribute
+
+*****Alexis Rhodes*****
+Deck Name: Alexis Rhodes 01
+Cards in Deck: 42
+Extra Deck: 3
+
+Normal Monsters
+
+    * Blade Skater (x2)
+
+Effect Monsters
+
+    * Cyber Angel Benten
+    * Cyber Angel Dakini (x2)
+    * Cyber Angel Idaten
+    * Cyber Prima
+    * Etoile Cyber (x2)
+    * Hecatrice (x2)
+    * Majestic Mech - Ohka (x3)
+    * Manju of the Ten Thousand Hands (x3)
+    * Marshmallon
+    * Morphing Jar
+    * Sangan
+    * Senju of the Thousand Hands (x3)
+    * Soul of Purity and Light (x2)
+
+Fusion Monsters
+
+    * Cyber Blader (x3)
+
+Spells
+
+    * Fulfillment of the Contract
+    * Heavy Storm
+    * Machine Angel Ritual (x3)
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Polymerization (x2)
+    * Premature Burial
+    * Ritual Weapon
+    * Swords of Revealing Light
+    * Valhalla, Hall of the Fallen (x2)
+
+Traps
+
+    * Miraculous Descent
+    * Mirror Force
+    * Torrential Tribute
+
+*****Bastion Misawa***** (CAN ONLY BE CHOSEN AS YOUR PARTNER IF YOU DO UMD
+RECOGNITION WITH TAG FORCE 2)
+Deck Name: Bastion Misawa 01
+Cards in Deck: 40
+Extra Deck: 0
+
+Effect Monsters
+
+    * Batteryman AA (x3)
+    * Batteryman Charger (x2)
+    * Batteryman D (x3)
+    * Batteryman Industrial Strength (x2)
+    * Batteryman Micro-Cell (x3)
+    * Morphing Jar
+    * Plasma Warrior Eitom (x2)
+    * Super-Electromagnetic Voltech Dragon
+    * White Magician Pikeru
+    * Zaborg the Thunder Monarch
+
+Spells
+
+    * Battery Charger (x3)
+    * Card Destruction
+    * Giant Trunade
+    * Heavy Storm
+    * Inferno Reckless Summon
+    * Luminous Spark
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Short Circuit
+
+Traps
+
+    * Judgment of Thunder (x2)
+    * Metal Reflect Slime (x3)
+    * Mirror Force
+    * Portable Battery Pack (x2)
+    * Torrential Tribute
+
+==============================================================================
+| 8. Other Character Decklists.....                                 [DECK-2] |
+==============================================================================
+
+This is the list of all other decks used by the duelists in the game. 
+
+------------------------------------------------------------------------------
+| 8A. Angry Bastion's Decks.....                                     [ANGRY] |
+------------------------------------------------------------------------------
+
+The list of Angry Bastion's decks are found right here.
+CREDIT: PenOfStone
+
+======================================================================
+*****ANGRY BASTION ONLY USES THIS DECK FOR HEART EVENTS 1,2 and 3*****
+======================================================================
+
+Normal Monsters
+
+    * Elemental Hero Avian
+    * Elemental Hero Burstinatrix
+    * Elemental Hero Clayman
+    * Elemental Hero Neos
+    * Elemental Hero Sparkman
+
+Effect Monsters
+
+    * Card Ejector (DESTINY CARD) (x3)
+    * Elemental Hero Bladedge
+    * Elemental Hero Bubbleman
+    * Elemental Hero Captain Gold
+    * Elemental Hero Necroshade
+    * Elemental Hero Stratos (DESTINY CARD) (x3)
+    * Elemental Hero Wildheart
+    * King of the Swamp (x2)
+    * Morphing Jar
+    * Plasma Warrior Eitom
+
+Fusion Monsters
+
+    * Elemental Hero Darkbright (x2)
+    * Elemental Hero Electrum
+    * Elemental Hero Flare Wingman (x2)
+    * Elemental Hero Necroid Shaman
+    * Elemental Hero Plasma Vice
+    * Elemental Hero Shining Flare Wingman (x2)
+    * Elemental Hero Tempest
+    * Elemental Hero Thunder Giant (x2)
+    * Elemental Hero Wildwing
+    * Elemental Hero Wildedge (x2)
+
+Spells
+
+    * E - Emergency Call (x2)
+    * Heavy Storm
+    * Miracle Fusion (x2)
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * O - Oversoul (x2)
+    * Polymerization (x2)
+    * Premature Burial
+    * R - Righteous Justice (x2)
+    * Reinforcement of the Army (x2)
+    * Skyscraper
+
+Traps
+
+    * A Hero Emerges
+    * Mirror Force
+    * Mirror Gate
+
+===========================================================================
+*****ANGRY BASTION ONLY USES THIS DECK IN REGULAR DUELS AND LAST EVENT*****
+===========================================================================
+
+Normal Monsters
+
+    * Elemental Hero Neos (x3)
+
+Effect Monsters
+
+    * Card Ejector (DESTINY CARD) (x3)
+    * Elemental Hero Neos Alius (x2)
+    * Elemental Hero Prisma (x2)
+    * Stratos (DESTINY CARD) (x3)
+    * Morphing Jar
+    * Neo-Spacian Grand Mole
+    * Plasma Warrior Eitom
+
+Fusion Monsters
+
+    * Elemental Hero Grand Neos (x3)
+
+Spells
+
+    * Ancient Rules (x2)
+    * E - Emergency Call (x2)
+    * Heavy Storm
+    * Monster Reborn
+    * MST
+    * O - Oversoul (x3)
+    * Premature Burial
+    * R - Righteous Justice (x2)
+    * Reinforcement of the Army (x2)
+    * Skyscraper 2 - Hero City (x2)
+    * Wrath of Neos
+
+Traps
+
+    * Birthright (x2)
+    * Mirror Force
+    * Sakuretsu Armor (x3)
+
+------------------------------------------------------------------------------
+| 8B. Alexis Rhodes' Decks.....                                     [ALEXIS] |
+------------------------------------------------------------------------------
+
+All of Alexis Rhodes' other decks.
+CREDIT: Tenchu_Hikage
+
+-----
+ _____________________________
+| Deck Name: Alexis Rhodes 02 |
+| Cards in Deck: 42           |
+| Extra Deck: 3               |
+|-----------------------------|
+
+Normal Monsters
+
+    * Blade Skater (x2)
+    * Etoile Cyber (x2)
+
+Effect Monsters
+
+    * Command Knight (x2)
+    * Cyber Gymnast (x2)
+    * Cyber Prima (x2)
+    * D.D. Warrior Lady
+    * Giant Rat (x3)
+    * Marshmallon (DESTINY CARD)
+    * Morphing Jar
+    * Sangan
+    * The Earth – Hex-Sealed Fusion (x2)
+    * Warrior Lady of the Wasteland (x3)
+
+Fusion Monsters
+
+    * Cyber Blader (x3)
+
+Spells
+
+    * Creature Swap (x3)
+    * Giant Trunade
+    * Ground Collapse (x3)
+    * Heavy Storm
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Polymerization (x2)
+    * Premature Burial
+    * Reinforcement of the Army (x2)
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+
+ _____________________________
+| Deck Name: Alexis Rhodes 03 |
+| Cards in Deck: 39           |
+| Extra Deck: 0               |
+|-----------------------------|
+
+Effect Monsters
+
+    * Cyber Angel Dakini (x3)
+    * Hecatrie (x3)
+    * Manju of the Ten Thousand Hands (x3)
+    * Marshmallon
+    * Morphing Jar
+    * Sangan
+    * Senju of the Thousan Hands (x3)
+    * Sonic Bird (x3)
+    * Splendid Venus (x3)
+
+Spells
+
+    * Brain Control
+    * Fissure
+    * Heavy Storm
+    * Machine Angel Ritual (x3)
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Smashing Ground
+    * Swords of Revealing Light (DESTINY CARD)
+    * Valhalla, Hall of the Fallen (x2)
+
+Traps
+
+    * Magic Drain
+    * Mirror Force (DESTINY CARD)
+    * Royal Decree (x2)
+    * Torrential Tribute
+
+-----
+
+ _____________________________
+| Deck Name: Alexis Rhodes 04 |
+| Cards in Deck: 40           |
+| Extra Deck: 0               |
+|-----------------------------|
+
+Normal Monsters
+
+    * Archfiend Soldier (x3)
+    * Dunames Dark Witch (x3)
+    * Zure, Knight of Dark World (x3)
+
+Effect Monsters
+
+    * Black Luster Soldier – Envoy of the Beginning
+    * Cyber Angel – Dakini (x2)
+    * Manju of the Ten Thousand Hands (x3)
+    * Morphing Jar
+    * Sangan
+    * Senju of the Thousan Hands (x3)
+    * Sky Scourge Enrise
+    * Sky Scourge Norleras
+
+Spells
+
+    * Advance Ritual Art (DESTINY CARD) (x2)
+    * Fissure
+    * Giant Trunade
+    * Gold Sarcophagus (x2)
+    * Heavy Storm
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Premature Burial
+    * Smashing Ground
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Bottomless Trap Hole
+    * Mirror Force (DESTINY CARD)
+    * Sakuretsu Armor
+    * Torrential Tribute
+    * Widespread Ruin
+
+-----
+
+ _____________________________
+| Deck Name: Alexis Rhodes 05 |
+| Cards in Deck: 42           |
+| Extra Deck: 0               |
+|-----------------------------|
+
+Effect Monsters
+
+    * Blizzard Dragon (x2)
+    * Blizzard, Guard of the Ice Barrier (x2)
+    * Cold Enchanter (x2)
+    * Ice Blast User Rice (x2)
+    * Ice Master
+    * Intoxicated Bug of the Ice Barrier (x2)
+    * Morphing Jar
+    * Practitioner of the Ice Barrier (x2)
+    * Royal Knight of the Ice Barrier
+    * Treeborn Frog
+    * White Night Dragon
+    * White Night Queen (x2)
+
+Spells
+
+    * Brain Control
+    * Fiend's Sanctuary (x2)
+    * Giant Trunade
+    * Heavy Storm
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Premature Burial
+    * Soul Exchange (x2)
+    * Swords of Revealing Light (DESTINY CARD)
+    * Terraforming (x2)
+    * Umiruka (x2)
+    * Wetlands (x2)
+    * White Veil
+
+Traps
+
+    * Metal Reflect Slime (DESTINY CARD) (x2)
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+
+ _____________________________
+| Deck Name: Alexis Rhodes 06 |
+| Cards in Deck: 43           |
+| Extra Deck: 0               |
+|-----------------------------|
+
+Effect Monsters
+
+    * Blizzard Dragon (x3)
+    * Blizzard, Guard of the Ice Barrier (x2)
+    * Cold Enchanter (x3)
+    * Dragon Ice (x2)
+    * Ice Blast User Rice (DESTINY CARD) (x3)
+    * Ice Master (x2)
+    * Intoxicated Bug of the Ice Barrier (x2)
+    * Morphing Jar
+    * Practitioner of the Ice Barrier (x3)
+
+Spells
+
+    * Brain Control
+    * Cold Wave (x2)
+    * Fissure
+    * Giant Trunade
+    * Heavy Storm
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Premature Burial
+    * Salvage (x2)
+    * Shield Crush (x2)
+    * Smashing Ground
+    * Soul Exchange (x2)
+
+Traps
+
+    * Frozen Soul (x2)
+    * Mirror Force
+    * Torrential Tribute
+
+------------------------------------------------------------------------------
+| 8C. Trueman/Mr.T's Decks.....                                       [TRUE] |
+------------------------------------------------------------------------------
+
+All of Trueman's (known as Nightshroud in the English/European version) other
+decks.
+
+Trueman in the Japanese version of the game is called "Mr.T" and in the
+English version it is Trueman. Credit to RPCShadowclaw for correcting me.
+
+CREDIT OF DECK: PenOfStone
+
+===================================================
+*****Trueman 01 - ONLY USED FOR NORMAL DUELING*****
+===================================================
+
+Monsters
+
+    * Armageddon Knight (x2)
+    * Dark Archetype (x2)
+    * Dark Creator
+    * Dark Crusader
+    * Dark Grepher
+    * Dark Horus
+    * Dark Hunter
+    * Dark Nephthys
+    * Dark Psycho Eye
+    * Dark Valkyeria
+    * Darkness Destroyer
+    * Darknight Parshath
+    * Morphing Jar
+    * Mystic Tomato (x2)
+    * Phantom of Chaos (x2)
+    * Snipe Hunter
+    * Spirit Reaper
+
+Spells
+
+    * Book of Moon (x2)
+    * Brain Control
+    * Card Destruction
+    * D.D.R. - Different Dimension Reincarnation
+    * Dimension Fusion
+    * Giant Trunade
+    * Heavy Storm
+    * Monster Reborn (DESTINY CARD)
+    * My Body as a Shield
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Reinforcement of the Army (x2)
+    * Swords of Revealing Light (DESTINY CARD)
+    * The Beginning of the End
+
+Traps
+
+    * Dark Illusion
+    * Escape from the Dark Dimension
+    * Mirror Force (DESTINY CARD)
+    * Return from the Different Dimension
+    * Torrential Tribute
+
+Side Deck
+
+    * Dark Bat
+    * Dark Chimera
+    * Dark Gray
+    * Dark Plant
+    * Dark Prisoner
+    * Dark Rabbit
+    * Dark Shade
+    * Meda Bat
+    * Winged Cleaver
+    * Dark Artist
+    * Dark Elf
+    * Dark Lucius LV4
+    * Dark Lucius LV6
+    * Dark Lucius LV8
+    * Umbral Soul
+
+==========================================================
+*****Trueman 02 - ONLY BEING USED FOR SEASON 4 JADEN.*****
+==========================================================
+
+Monsters
+
+    * Armageddon Knight (x2)
+    * Dark Archetype (x2)
+    * Dark Horus (x2)
+    * Dark Nephthys (x2)
+    * Dark Psycho Eye
+    * Morphing Jar
+    * Mystic Tomato (x3)
+    * Phantom of Chaos (x2)
+    * Snipe Hunter
+    * Spirit Reaper
+    * Dark Creator (x2)
+    * Volcanic Queen (x2)
+
+Spells
+
+    * Brain Control
+    * Card Destruction
+    * Creature Swap (x2)
+    * Dimension Fusion
+    * Heavy Storm
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Swords of Revealing Light (DESTINY CARD)
+    * The Unchosen One (x3)
+
+Traps
+
+    * Dark Illusion (x2)
+    * Escape from the Dark Illusion (x2)
+    * Mirror Force (DESTINY CARD)
+    * Return from the DIfferent Dimension
+    * Torrential Tribute
+
+=============================================================================
+*****Trueman 03 - TRUEMAN ONLY USES THIS DECK FOR BASTION'S EVENT DUEL 3*****
+=============================================================================
+
+Monsters
+
+    * Renge, Gatekeeper of Dark World (x2)
+    * Zure, Knight of Dark World
+    * Beiige, Vanguard of Dark World (x2)
+    * Brron, Mad King of Dark World (x2)
+    * Cyril, Monk of Dark World (x2)
+    * Goldd, Wu Lord of Dark World (x3)
+    * Gren, Tactician of Dark World
+    * Kahkii, Guerilla of Dark World
+    * Morphing Jar
+    * Reign-Beaux, Overlord of Dark World
+    * Sangan
+    * Scarr, Scout of Dark World (x2)
+    * Sillva, Warlord of Dark World (x3)
+
+Spells
+
+    * Card Destruction
+    * Dark World Dealings (x2)
+    * Dark World Lightning (x2)
+    * Gateway to Dark World
+    * Giant Trunade
+    * Heavy Storm
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Pot of Avarice
+    * Power Zone
+    * Premature Burial
+    * Shrink (x2)
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Bottomless Trap Hole (x2)
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+==========================================================================
+*****Trueman 04 - TRUEMAN ONLY USES THIS DECK IF YOU USE BANNED CARDS*****
+==========================================================================
+
+Monsters
+
+    * Brron, Mad King of Dark World (x3)
+    * Cyril, Monk of Dark World (x2)
+    * Goldd, Wu-Lord of Dark World (x3)
+    * Gren, Tactician of Dark World
+    * Kahkii, Guerilla of Dark World (x2)
+    * Morphing Jar (x2)
+    * Rigorous Reaver (x3)
+    * Sangan
+    * Sillva, Warlord of Dark World (x2)
+
+Spells
+
+    * Card Destruction (DESTINY CARD)
+    * Card of Safe Return (x2)
+    * Dark World Dealings (x2)
+    * Dark World Lightning (x2)
+    * Graceful Charity (DESTINY CARD)
+    * Heavy Storm
+    * Mirage of Nightmare
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Rush Recklessly (x2)
+    * Shrink (x2)
+    * United We Stand
+
+Traps
+
+    * Dimensional Prison (x2)
+    * Mirror Force
+    * Torrential Tribute
+
+------------------------------------------------------------------------------
+| 8D. Jaden Yuki's Decks.....                                        [JADEN] |
+------------------------------------------------------------------------------
+
+All of Jaden Yuki's other decks.
+CREDIT: Tenchu_Hikage
+
+-----
+
+ _____________________________
+| Deck Name: Jaden Yuki 02    |
+| Cards in Deck: 42           |
+| Extra Deck: 3               |
+|-----------------------------|
+Normal Monsters
+
+    * Elemental Hero Neos (x2)
+
+Effect Monsters
+
+    * Armageddon Knight (x3)
+    * Elemental Hero Neos Aluis 
+    * Elemental Hero Prisma (x3)
+    * Elemental Hero Stratos
+    * Honest
+    * Morphing Jar
+    * Neos Wiseman (x2)
+    * Neo-spacian Grand Mole (DESTINY CARD)
+    * Phantom of Chaos (x3)
+    * Rainbow Dragon (x1)
+    * Yubel (x2)
+
+
+Fusion Monsters
+
+    * Rainbow Neos (x3)
+
+Spells
+
+    * Card Destruction
+    * E – Emergency Call (x3)
+    * Heavy Storm
+    * Lightning Vortex
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * O - Oversoul (x2)
+    * Premature Burial
+    * R – Righteous Justice (x2)
+    * Super Polymerization 
+
+Traps
+
+    * Limit Reverse (x2) 
+    * Mirror Force (DESTINY CARD)
+    * Raigeki Break
+    * Sakurestu Armour (x2)
+    * Torrential Tribute
+
+-----
+
+ _____________________________
+| Deck Name: Jaden Yuki 03    |
+| Cards in Deck: 42           |
+| Extra Deck: 3               |
+|-----------------------------|
+Normal Monsters
+
+    * Elemental Hero Neos (x3)
+
+Effect Monsters
+
+    * Elemental Hero Neos Aluis (x3)
+    * Elemental Hero Prisma (x3)
+    * Elemental Hero Stratos 
+    * Honest (x3) (DESTINY CARD)
+    * Morphing Jar
+    * Neo-spacian Grand Mole 
+
+
+Fusion Monsters
+
+    * Elemental Hero Grand Neos (x3)
+
+Spells
+
+    * Ancient Rules (x2)
+    * E – Emergency Call (x3)
+    * Heavy Storm
+    * Lightning Vortex
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * O - Oversoul (x3)
+    * Premature Burial
+    * R – Righteous Justice (x2)
+    * Skyscraper 2 – Hero City (X2)
+    * The A. Forces (X2)
+    * Wrath of Neos (X2)
+
+Traps
+
+    * Birthright(x2) 
+    * Mirror Force (DESTINY CARD)
+    * Sakurestu Armour (x3)
+
+-----
+
+ _____________________________
+| Deck Name: Jaden Yuki 04    |
+| Cards in Deck: 42           |
+| Extra Deck: 3               |
+|-----------------------------|
+
+
+Normal Monsters
+
+    * Elemental Hero Neos (x2)
+
+Effect Monsters
+
+    * D.D. Warrior Lady
+    * Elemental Hero Neos Aluis (x2)
+    * Elemental Hero Prisma (x3)
+    * Elemental Hero Stratos (x2)
+    * Honest (x3)
+    * Morphing Jar
+    * Neo-spacian Grand Mole (x2)
+
+
+Fusion Monsters
+
+    * Elemental Hero Grand Neos (x3)
+
+Spells
+
+    * E – Emergency Call (x3)
+    * Heavy Storm
+    * Lightning Vortex
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * O - Oversoul (x3)
+    * Philosopher’s Stone (DESTINY CARD)
+    * Premature Burial
+    * R – Righteous Justice (x3)
+    * Reinforcement of the Army (x2)
+    * Skyscraper 2 – Hero City
+    * The A. Forces
+    * Wrath of Neos 
+
+Traps
+
+    * Birthright(x2) 
+    * Mirror Force (DESTINY CARD)
+    * Sakurestu Armour (x3)
+
+-----
+
+ _____________________________
+| Deck Name: Jaden Yuki 05    |
+| Cards in Deck: 42           |
+| Extra Deck: 15              |
+|-----------------------------|
+Normal Monsters
+
+    * Elemental Hero Avian 
+    * Elemental Hero Burstinatrix (x2)
+    * Elemental Hero Clayman
+    * Elemental Hero Sparkman (x2)
+
+Effect Monsters
+
+    * Elemental Hero Bladedge (x2) 
+    * Elemental Hero Necroshade
+    * Elemental Hero Stratos
+    * Elemental Hero Wildheart (x2)
+    * King of the Swamp (x3) (DESTINY CARD)
+    * Morphing Jar
+
+
+Fusion Monsters
+
+    * Elemental Hero Darkbright (x2)
+    * Elemental Hero Electrum
+    * Elemental Hero Flame Wingman (x2)
+    * Elemental Hero Necroid Shaman
+    * Elemental Hero Plasma Vice
+    * Elemental Hero Rampart Blaste
+    * Elemental Hero Shining Flare Wingman (x2)
+    * Elemental Hero Tempest
+    * Elemental Hero Thunder Giant 
+    * Elemental Hero Wild Wingman 
+    * Elemental Hero Wildedge (x2)
+
+Spells
+
+    * Burst Impact
+    * De-Fusion
+    * E – Emergency Call (x3)
+    * Fusion Recovery
+    * Heavy Storm
+    * Miracle Fusion (x3)
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Polymerization (x2)    
+    * Premature Burial
+    * R – Righteous Justice (x3)
+    * Reinforcement of the Army (x2)
+    * The Warrior Returning Alive 
+
+Traps
+
+    * A Hero Emerges
+    * Hero Blast
+    * Hero Signal (x2)
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+
+ _____________________________
+| Deck Name: Jaden Yuki 06    |
+| Cards in Deck: 42           |
+| Extra Deck: 6               |
+|-----------------------------|
+
+Effect Monsters
+
+    * Armor Breaker
+    * Card Blocker
+    * Card Ejector
+    * Card Trooper
+    * Dandylion
+    * Elemental Hero Heat
+    * Elemental Hero Lady Heat
+    * Elemental Hero Ocean (x2)
+    * Elemental Hero Stratos
+    * Elemental Hero Woodsman (x2)
+    * King of the Swamp (x2)
+    * Miracle Flipper
+    * Necro Gardna
+    * Spell Striker
+    * Winged Kuriboh (x2) (DESTINY CARD)
+    * Winged Kuriboh LV10
+    * Winged Kuriboh LV9
+
+
+Fusion Monsters
+
+    * Elemental Hero Terra Firma (x3)
+    * Elemental Hero Inferno (x3)
+
+Spells
+
+    * Berserker Crush
+    * E – Emergency Call (x2)
+    * Heavy Storm
+    * Miracle Fusion (x2)
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Polymerization     
+    * Premature Burial
+    * R – Righteous Justice
+    * Reinforcement of the Army (x2)
+    * Flute of Summoning Kuriboh
+    * The Rival’s Name
+    * Transcendent Wings
+
+Traps
+
+    * Hero Signal (x2)
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+
+ _____________________________
+| Deck Name: Jaden Yuki 07    |
+| Cards in Deck: 43           |
+| Extra Deck: 15              |
+|-----------------------------|
+Normal Monsters
+
+    * Elemental Hero Sparkman (x2
+    * Elemental Hero Burstinatrix (x2)
+
+Effect Monsters
+
+    * Elemental Hero Bladedge (x2)
+    * Elemental Hero Necroshade 
+    * Elemental Hero Ocean
+    * Elemental Hero Stratos
+    * Elemental Hero Wildheart (x2)
+    * Elemental Hero Woodsman (x2)
+    * King of the Swamp (x3)
+    * Morphing Jar
+
+
+Fusion Monsters
+
+    * Elemental Hero Darkbright (x2)
+    * Elemental Hero Flame Wingman (x2)
+    * Elemental Hero Necroid Shaman (x2)
+    * Elemental Hero Plasma Vice (x2)
+    * Elemental Hero Shining Flare Wingman (x3)
+    * Elemental Hero Terra Firma (x1)
+    * Elemental Hero Wildedge (x3)
+
+Spells
+
+    * Burst Impact
+    * De-Fusion
+    * E – Emergency Call (x3)
+    * Fusion Recovery
+    * Heavy Storm
+    * Miracle Fusion (x3) (DESTINY CARD)
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Polymerization (x2)
+    * Premature Burial
+    * R – Righteous Justice (x3)
+    * Reinforcement of the Army (x2)
+
+Traps
+
+    * Hero Counterattack (x2)
+    * Hero Signal (x2)
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+
+ _____________________________
+| Deck Name: Jaden Yuki 08    |
+| Cards in Deck: 42           |
+| Extra Deck: 15              |
+|-----------------------------|
+Normal Monsters
+
+    * Elemental Hero Clayman
+    * Elemental Hero Sparkman
+
+Effect Monsters
+
+    * Elemental Hero Bladedge (x2)
+    * Elemental Hero Ocean
+    * Elemental Hero Stratos (x2)
+    * Elemental Hero Wildheart (x2)
+    * Elemental Hero Woodsman (x2)	
+    * King of the Swamp (x3)
+    * Morphing Jar
+
+
+Fusion Monsters
+
+    * Elemental Hero Darkbright
+    * Elemental Hero Necroid Shaman
+    * Elemental Hero Plasma Vice (x2)
+    * Elemental Hero Shining Flare Wingman (x3)
+    * Elemental Hero Terra Firma (x2)
+    * Elemental Hero Thunder Giant (x2)
+    * Elemental Hero Wildedge (x3
+
+
+Spells
+
+    * De-Fusion
+    * E – Emergency Call (x3)
+    * Fusion Recovery
+    * Future Fusion (x2)
+    * Heavy Storm
+    * Miracle Fusion (x3)
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Philosopher’s Stone - Sabatier
+    * Polymerization (x2)
+    * Premature Burial
+    * R – Righteous Justice (x2)
+    * Reinforcement of the Army (x2)
+    * The A. Forces
+
+Traps
+
+    * Hero Signal (x2)
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+
+ _____________________________
+| Deck Name: Jaden Yuki 09    |
+| Cards in Deck: 42           |
+| Extra Deck: 15              |
+|-----------------------------|
+Normal Monsters
+
+    * Elemental Hero Avian
+    * Elemental Hero Burstinatrix
+    * Elemental Hero Clayman
+    * Elemental Hero Sparkman
+
+Effect Monsters
+
+    * Card Trooper
+    * Earth Giant Gaia Plate
+    * Elemental Hero Stratos
+    * Elemental Hero Wildheart
+    * Evil Hero Infernal Gainer (x2
+    * Evil Hero Infernal Prodigy (x2)
+    * Evil Hero Malicious Edge
+    * Gigantes
+    * Morphing Jar
+    * Neo-spacian Grand Mole (DESTINY CARD)
+    * Sangan
+    * The Earth – Hex – Sealed Fusion (x3)
+
+
+Fusion Monsters
+
+    * Evil Hero Dark Gaia (x3)
+    * Evil Hero Dark Infernal Sniper (x2)
+    * Evil Hero Dark Infernal Wing (x3)
+    * Evil Hero Lightning Golem (x3)
+    * Evil Hero Dark Malicious Fiend (x2)
+    * Evil Hero Dark Cyclone (x2)
+
+
+Spells
+
+    * Brain Control
+    * Card Destruction
+    * Dark Calling (x3)
+    * Dark Fusion (x2) (DESTINY CARD)
+    * E – Emergency Call (x3)
+    * Giant Trunade
+    * Heavy Storm
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Reinforcement of the Army (x2)
+    * Vicious Claw
+
+Traps
+
+    * Evil Blast 
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+
+ _____________________________
+| Deck Name: Jaden Yuki 10    |
+| Cards in Deck: 42           |
+| Extra Deck: 9               |
+|-----------------------------|
+Normal Monsters
+
+    * Elemental Hero Clayman (x2)
+
+Effect Monsters
+
+    * Caius the Shadow Monarch (x2)
+    * Elemental Hero Stratos
+    * Evil Hero Infernal Gainer
+    * Evil Hero Infernal Prodigy (x2)
+    * Evil Hero Malicious Edge (x2) 
+    * Gigantes
+    * Gorz the Emissary of Darkness
+    * Granmarg the Rock Monarch
+    * Morphing Jar
+    * Neo-spacian Grand Mole
+    * Sangan
+    * The Eath – Hex – Sealed Fusion (x3)
+
+
+Fusion Monsters
+
+    * Evil Hero Dark Gaia (x3)
+    * Evil Hero Lightning Golem (x3)
+    * Evil Hero Dark Malicious Fiend (x3)
+
+
+Spells
+
+    * Brain Control (DESTINY CARD)
+    * Dark Calling (x3) (DESTINY CARD)
+    * Dark Fusion (x2)
+    * Dimension Fusion
+    * E – Emergency Call (x2)
+    * Giant Trunade
+    * Heavy Storm
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Soul Exchange (x2) 
+
+Traps
+    * Dust Tornado (x2)
+    * Metal Reflect Slime (x2) 
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+------------------------------------------------------------------------------
+| 8E. Blair Flannigan's Decks.....                                   [BLAIR] |
+------------------------------------------------------------------------------
+
+All of Blair Flannigan's other decks.
+CREDIT: Tenchu_Hikage
+
+-----
+ _______________________________
+| Deck Name: Blair Flannigan 02 |
+| Cards in Deck: 45             |
+| Extra Deck: 0                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Celestia, Lightsworn Angel (x2)
+    * Garoth, Lightsworn Warrior (x2)
+    * Gragonith, Lightsworn Dragon (x3)
+    * Jain, Lightsworn Paladin (x2)
+    * Jenis, Lightsworn Mender (x3) 
+    * Lumina, Lightsworn Summoner (x3)
+    * Lyla, Lightsworn Sorceress (x2)
+    * Ryko, Lightsworn Hunter (x3)
+    * Wulf, Lightsworn Beast (x2)
+
+Spells
+
+    * Giant Trunade
+    * Heavy Storm
+    * Lightsworn Sabre (x2)
+    * Monster Reborn (DESTINY CARD)
+    * Monster Reincarnation
+    * Mystical Space Typhoon
+    * Pot of Avarice (x2) (DESTINY CARD)
+    * Premature Burial
+    * Realm of Light (x3) 
+    * Solar Recharge (x2)
+
+
+Traps
+
+    * Glorious Illusion (x2)
+    * Light Spiral (x3) 
+    * Lightsworn Protection (x2)
+    * Mirror Force (DESTINY CARD)
+
+-----
+ _______________________________
+| Deck Name: Blair Flannigan 03 |
+| Cards in Deck: 50             |
+| Extra Deck: 0                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Celestia, Lightsworn Angel (x2)
+    * Garoth, Lightsworn Warrior (x3)
+    * Gragonith, Lightsworn Dragon (x2)
+    * Jain, Lightsworn Paladin (x3)
+    * Jenis, Lightsworn Mender  
+    * Judgement Dragon (x3) (DESTINY CARD)
+    * Lumina, Lightsworn Summoner (x2)
+    * Lyla, Lightsworn Sorceress (x3)
+    * Morphing Jar
+    * Ryko, Lightsworn Hunter (x3)
+    * Wulf, Lightsworn Beast (x3)
+
+Spells
+
+    * Cold Wave (x3)
+    * Fissure
+    * Giant Trunade
+    * Heavy Storm
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Pot of Avarice (x2)
+    * Premature Burial
+    * Smashing Ground 
+    * Solar Recharge (x3)
+
+
+Traps
+
+    * Beckoning Light (x2)
+    * Final Attack Orders (x2)
+    * Glorious Illusion (x3)
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+ _______________________________
+| Deck Name: Blair Flannigan 04 |
+| Cards in Deck: 50             |
+| Extra Deck: 0                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Destiny Hero – Plasma (x2)
+    * Elemental Hero Stratos
+    * Garoth, Lightsworn Warrior (x2)
+    * Herald of Creation (x3)
+    * Jain, Lightsworn Paladin (x2)
+    * Judgement Dragon (DESTINY CARD)
+    * Lumina, Lightsworn Summoner (x3)
+    * Lyla, Lightsworn Sorceress (x3)
+    * Morphing Jar
+    * Ryko, Lightsworn Hunter (x3)
+    * Wulf, Lightsworn Beast (x3)
+
+Spells
+
+    * Card Destruction
+    * Cold Wave (x3)
+    * Heavy Storm
+    * Monster Reborn (DESTINY CARD)
+    * My Body as a Sheild (x2)
+    * Mystical Space Typhoon
+    * Pot of Avarice (x2)
+    * Premature Burial
+    * Reinforcement of the Army (x3)
+    * Solar Recharge (x3)
+    * Trade-in (x2)
+
+
+Traps
+
+    * Call of the Haunted
+    * Royal Decree (x3) 
+
+-----
+ _______________________________
+| Deck Name: Blair Flannigan 05 |
+| Cards in Deck: 42             |
+| Extra Deck: 0                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Apprentice Magician (x2)
+    * Crystal Seer (x2)
+    * D.D. Warrior Lady
+    * Maiden in Love (x3)
+    * Marshamllon
+    * Old Vindictive Magician
+    * Shining Angel (x3)
+    * Silent Magician LV4 (x2)
+    * Silent Magician LV8
+    * The Unhappy Girl (x2)
+    * The Unhappy Maiden (x2)
+
+Spells
+
+    * Brain Control
+    * Creature Swap (x2)
+    * Cupid Kiss (x2)
+    * Giant Trunade
+    * Happy Marriage
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Defence Maiden (x3)
+    * Dimensional Wall (x3) 
+    * Magic Cylinder
+    * Magician’s Circle
+    * Mirror Force (DESTINY CARD)
+
+-----
+ _______________________________
+| Deck Name: Blair Flannigan 06 |
+| Cards in Deck: 42             |
+| Extra Deck: 0                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Apprentice Magician (x2)
+    * D.D. Warrior Lady
+    * Maiden in Love (x3)
+    * Marshamllon
+    * Shining Angel (x3)
+    * The Unhappy Girl (x3)
+    * The Unhappy Maiden (x3)
+
+Spells
+
+    * Burden of the Mighty
+    * Creature Swap (x2)
+    * Cupid Kiss (x3)
+    * Giant Trunade
+    * Happy Marriage
+    * Luminous Spark (x2)
+    * Mage Power (x2)
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Swords of Revealing Light (DESTINY CARD)
+    * United We Stand
+
+Traps
+
+    * Defence Maiden (x3)
+    * Enchanted Javelin (x2) 
+    * Mirror Force (DESTINY CARD)
+    * Solemn Wishes
+
+-----
+ _______________________________
+| Deck Name: Blair Flannigan 07 |
+| Cards in Deck: 42             |
+| Extra Deck: 0                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Apprentice Magician (x3)
+    * D.D. Warrior Lady
+    * Magician’s Valkyria (x3)
+    * Maiden in Love (x3)
+    * Marshamllon
+    * Shining Angel (x3)
+    * Silent Magician LV4 (x2)
+    * Silent Magician LV8
+    * The Unhappy Girl (x2)
+
+Spells
+
+    * Brain Control
+    * Creature Swap (x2)
+    * Cupid Kiss (x2)
+    * Giant Trunade
+    * Happy Marriage
+    * Luminous Spark (x3)
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Swords of Revealing Light (DESTINY CARD)
+
+
+Traps
+
+    * Defence Maiden (x2)
+    * Magician’s Circle (x3)
+    * Mirror Force (DESTINY CARD)
+    * Spirit Barrier
+
+-----
+ _______________________________
+| Deck Name: Blair Flannigan 08 |
+| Cards in Deck: 42             |
+| Extra Deck: 15                |
+|-------------------------------|
+
+Effect Monsters
+
+    * Chaos-End Master (x2)
+    * D.D. Warrior Lady
+    * Frequency Magician (x2)
+    * Hanewata (x3)
+    * Maiden in Love (x3)
+    * Marshamllon
+    * Nova Summoner (x3)
+    * Shining Angel (x3)
+    * The Unhappy Girl (x3)
+
+Fusion Monsters/Synchro
+
+    * Ally of Justice - Catastor (x2)
+    * Black Rose Dragon (x2)
+    * Brionac, Dragon of The Ice Barrier
+    * Flamveil Urquizas
+    * Goyo Guardian (x3)
+    * Iron Chain Dragon
+    * Magical Android (x2)
+    * Psychic Lifetrancer (x2)
+    * Queen of Thorns
+
+Spells
+
+    * Brain Control
+    * Change of Heart
+    * Creature Swap (x2)
+    * Fissure
+    * Giant Trunade
+    * Happy Marriage (x2)
+    * Mind Control (x3)
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Smashing Ground
+    * Snatch Steal (DESTING CARD)
+    * Swords of Revealing Light (DESTINY CARD)
+
+
+Traps
+
+    * Mirror Force (DESTINY CARD)
+    * Royal Decree (x2)
+    * Wall of Revealing Light
+
+------------------------------------------------------------------------------
+| 8F. Syrus Truesdale's Decks.....                                   [SYRUS] |
+------------------------------------------------------------------------------
+
+All of Syrus' other decks.
+
+CREDIT: Me
+
+-----
+ _______________________________
+| Deck Name: Syrus Truesdale 02 |
+| Cards in Deck: 40             |
+| Extra Deck: 6                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Carrierroid (x2)
+    * Drillroid (x2)
+    * Expressroid (x2)
+    * Kiteroid (x2)
+    * Morphing Jar
+    * Stealthroid (x2)
+    * Steamroid (x2)
+    * Submarineroid (x2)
+    * The Earth - Hex-Sealed Fusion (x3)
+    * Truckroid (x2)
+
+Fusion Monsters
+
+    * Super Vehicroid - Stealth Union (x3)
+    * Super Vehicroid - Jumbo Drill (x3)
+
+Spells
+
+    * Emergency Provisions (x2)
+    * Giant Trunade
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Premature Burial
+    * Swords of Revealing Light (DESTINY CARD)
+    * Vehicroid Connection Zone (x3)
+
+Traps
+
+    * Astral Barrier (x2)
+    * Magic Cylinder
+    * Mirror Force (DESTINY CARD)
+    * No Entry!! (x2, DESTINY CARD)
+    * Torrential Tribute
+
+-----
+ _______________________________
+| Deck Name: Syrus Truesdale 03 |
+| Cards in Deck: 42             |
+| Extra Deck: 15                |
+|-------------------------------|
+
+Normal Monsters
+
+    * Hunter Dragon (x3)
+
+Effect Monsters
+
+    * Cyberdark Edge (x3)
+    * Cyberdark Horn (x3)
+    * Cyberdark Keel (x3)
+    * Dweller in the Depths (x2)
+    * Masked Dragon (x3)
+    * Morphing Jar
+    * Sangan
+    * Tiger Dragon (x2)
+    * Twin-Headed Behemoth
+
+Fusion Monsters
+
+    * Blue-Eyes Ultimate Dragon (x3)
+    * Cyberdark Dragon (x3)
+    * Dragon Master Knight (x3)
+    * F.G.D. (x3)
+    * Meteor B. Dragon (x3)
+
+Spells
+
+    * Card Destruction
+    * Cyberdark Impact! (x2, DESTINY CARD)
+    * Future Fusion
+    * Giant Trunade
+    * Gold Sarcophagus
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Overload Fusion
+    * Power Bond
+    * Premature Burial
+
+Traps
+
+    * Crush Card Virus
+    * Deck Devastation Virus
+    * Fusion Guard (x2)
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+ _______________________________
+| Deck Name: Syrus Truesdale 04 |
+| Cards in Deck: 40             |
+| Extra Deck: 6                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Drillroid (x3)
+    * Gyroid (x3)
+    * King of the Swamp (x2)
+    * Morphing Jar
+    * Steamroid (x3)
+    * Submarineroid (x3)
+    * The Earth - Hex-Sealed Fusion (x2)
+
+Fusion Monsters
+
+    * Super Vehicroid - Stealth Union (x3)
+    * Super Vehicroid - Jumbo Drill (x3)
+
+Spells
+
+    * Fissure
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Polymerization (x2)
+    * Power Bond
+    * Premature Burial
+    * Shield Crush
+    * Smashing Ground
+    * Swords of Revealing Light (DESTINY CARD)
+    * Vehicroid Connection Zone
+
+Traps
+
+    * Bottomless Trap Hole
+    * Magic Cylinder
+    * Mirror Force (DESTINY CARD)
+    * No Entry!! (x3, DESTINY CARD)
+    * Sakuretsu Armor
+    * Torrential Tribute
+    * Widespread Ruin
+
+-----
+ _______________________________
+| Deck Name: Syrus Truesdale 05 |
+| Cards in Deck: 40             |
+| Extra Deck: 9                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Ambulanceroid (x2)
+    * Decoyroid (x2)
+    * Drillroid (x3)
+    * Gyroid (x3)
+    * Rescueroid (x2)
+    * Steamroid (x3)
+    * Submarineroid (x3)
+
+Fusion Monsters
+
+    * Ambulance Rescueroid (x3)
+    * Steam Gyroid (x3)
+    * Super Vehicroid Jumbo Drill (x3)
+
+Spells
+
+    * Fissure
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Nobleman of Crossout
+    * Polymerization (x2)
+    * Power Bond (DESTINY CARD)
+    * Premature Burial
+    * Shield Crush
+    * Smashing Ground
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Bottomless Trap Hole
+    * Cyber Summon Blaster (x2)
+    * Magic Cylinder
+    * Mirror Force (DESTINY CARD)
+    * Sakuretsu Armor
+    * Torrential Tribute
+    * Widespread Ruin
+    * Wonder Garage
+
+-----
+ _______________________________
+| Deck Name: Syrus Truesdale 06 |
+| Cards in Deck: 40             |
+| Extra Deck: 6                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Drillroid (x3)
+    * Expressroid (x3)
+    * Morphing Jar
+    * Stealthroid (x2)
+    * Steamroid (x3)
+    * Submarineroid (x2)
+    * Truckroid (x3)
+
+Fusion Monsters
+
+    * Super Vehicroid - Stealth Union (x3)
+    * Super Vehicroid - Jumbo Drill (x3)
+
+Spells
+
+    * Emergency Provisions
+    * Fissure
+    * Gaia Power (x2)
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Power Bond (x2)
+    * Premature Burial
+    * Shield Crush
+    * Smashing Ground
+    * Swords of Revealing Light (DESTINY CARD)
+    * Vehicroid Connection Zone (x2)
+
+Traps
+
+    * Bottomless Trap Hole
+    * Magic Cylinder (DESTINY CARD)
+    * Mirror Force (DESTINY CARD)
+    * Sakuretsu Armor
+    * Torrential Tribute
+    * Widespread Ruin
+
+-----
+ _______________________________
+| Deck Name: Syrus Truesdale 07 |
+| Cards in Deck: 40             |
+| Extra Deck: 6                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Drillroid (x2)
+    * Gyroid (x2)
+    * King of the Swamp (x3)
+    * Morphing Jar
+    * Rocket Warrior (x2)
+    * Sangan
+    * Shining Angel (x3)
+    * Steamroid (x2)
+    * Thunder Nyan Nyan
+    * UFOroid (x2)
+
+Fusion Monsters
+
+    * Steam Gyroid (x3)
+    * UFOroid Fighter (x3)
+
+Spells
+
+    * Creature Swap (x2)
+    * Earthquake
+    * Fissure
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Polymerization (x2)
+    * Power Bond
+    * Premature Burial
+    * Shield Crush (x2)
+    * Smashing Ground (DESTINY CARD)
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Magic Cylinder
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+ _______________________________
+| Deck Name: Syrus Truesdale 08 |
+| Cards in Deck: 40             |
+| Extra Deck: 3                 |
+|-------------------------------|
+
+Normal Monsters
+
+    * Cycroid (x2)
+
+Fusion Monsters
+
+    * Steam Gyroid (x3)
+
+Effect Monsters
+
+    * Drillroid (x3)
+    * Gyroid (x3)
+    * Jetroid (x2)
+    * King of the Swamp (x2)
+    * Patroid (x2)
+    * Steamroid (x3)
+    * Thunder Nyan Nyan
+
+Spells
+
+    * Earthquake (x2)
+    * Fissure
+    * Fusion Recovery
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Polymerization (x2)
+    * Premature Burial
+    * Salvage (x2)
+    * Shield Crush (x2, DESTINY CARD)
+    * Smashing Ground
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Magic Cylinder
+    * Mirror Force (DESTINY CARD)
+    * Supercharge (x2)
+    * Torrential Tribute
+
+-----
+ _______________________________
+| Deck Name: Syrus Truesdale 09 |
+| Cards in Deck: 40             |
+| Extra Deck: 0                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Armoroid Gaidengo (x2)
+    * Drillroid (x3)
+    * Expressroid (x2)
+    * Gyroid (x3)
+    * Morphing Jar
+    * Steamroid (x3)
+    * Submarineroid (x2)
+    * Thunder Nyan Nyan
+    * Truckroid (x2)
+
+Spells
+
+    * Fiend's Sanctuary (x2)
+    * Fissure
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Shield Crush
+    * Smashing Ground
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Bottomless Trap Hole
+    * Magic Cylinder
+    * Metal Reflect Slime (x2, DESTINY CARD)
+    * Mirror Force (DESTINY CARD)
+    * No Entry!! (x3)
+    * Sakuretsu Armor
+    * Widespread Ruin
+
+
+-----
+ _______________________________
+| Deck Name: Syrus Truesdale 10 |
+| Cards in Deck: 42             |
+| Extra Deck: 0                 |
+|-------------------------------|
+
+Effect Monsters
+
+    * Amphibious Bugroth MK-3 (x2)
+    * Carrierroid (x2)
+    * Fenrir (x2)
+    * Morphing Jar
+    * Mother Grizzly (x3)
+    * Submarineroid (x3)
+    * Warrior of Atlantis (x3)
+
+Spells
+
+    * A Legendary Ocean (x3)
+    * Creature Swap (x2)
+    * Giant Trunade
+    * Level Limit - Area B (x2, DESTINY CARD)
+    * Limiter Removal
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Premature Burial
+    * Salvage (x2)
+    * Swords of Revealing Light (DESTINY CARD)
+    * Twin Swords of Flashing Light - Tryce
+
+Traps
+
+    * Gravity Bind (x2, DESTINY CARD)
+    * Mirror Force
+    * Ojama Trio (x2)
+    * Robbin' Goblin (x3)
+    * Torrential Tribute
+    * Wall of Revealing Light
+
+------------------------------------------------------------------------------
+| 8G. Zane Truesdale's Decks.....                                     [ZANE] |
+------------------------------------------------------------------------------
+
+All of Syrus' other decks.
+
+CREDIT: Me
+
+-----
+ ______________________________
+| Deck Name: Zane Truesdale 02 |
+| Cards in Deck: 42            |
+| Extra Deck: 15               |
+|------------------------------|
+
+Effect Monsters
+
+    * Chthonian Emperor Dragon
+    * Cyber Dragon (x2)
+    * Cyberdark Edge (x3)
+    * Cyberdark Horn (x3)
+    * Cyberdark Keel (x3)
+    * Exploder Dragon
+    * Infernal Dragon
+    * Masked Dragon (x3)
+    * Morphing Jar
+    * Sangan
+    * Twin-Headed Behemoth
+
+Fusion Monsters
+
+    * Chimeratech Fortress Dragon (x3)
+    * Chimeratech Overdragon (x3)
+    * Cyberdark Dragon (x3)
+    * Dragon Master Knight (x3)
+    * F.G.D. (x3)
+
+Spells
+
+    * Cyberdark Impact! (x2)
+    * Future Fusion
+    * Giant Trunade
+    * Gold Sarcophagus
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn (DESTINY CARD)
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Overload Fusion
+    * Power Bond
+    * Premature Burial
+
+Traps
+
+    * Crush Card Virus
+    * Declaration of Rebirth (x2)
+    * Fusion Guard
+    * Mirror Force (DESTINY CARD)
+    * Power Wall (x2, DESTINY CARD)
+    * Torrential Tribute
+
+-----
+ ______________________________
+| Deck Name: Zane Truesdale 03 |
+| Cards in Deck: 42            |
+| Extra Deck: 12               |
+|------------------------------|
+
+Effect Monsters
+
+    * Armored Cybern (x3)
+    * Cyber Dragon (x2)
+    * Cyber Valley (x3)
+    * Morphing Jar
+    * Proto-Cyber Dragon (x3)
+    * Shining Angel (x3)
+    * The Light - Hex-Sealed Fusion
+
+Fusion Monsters
+
+    * Chimeratech Fortress Dragon (x3)
+    * Chimeratech Overdragon (x3)
+    * Cyber End Dragon (x3)
+    * Cyber Twin Dragon (x3)
+
+Spells
+
+    * Brain Control
+    * Dimension Fusion
+    * Evolution Burst (x2)
+    * Future Fusion
+    * Giant Trunade
+    * Gold Sarcophagus
+    * Heavy Storm
+    * Limiter Removal
+    * Megamorph
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Overload Fusion
+    * Power Bond
+    * Premature Burial
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * DNA Surgery (x3)
+    * Mirror Force (DESTINY CARD)
+    * Sakuretsu Armor (x2)
+    * Torrential Tribute
+
+-----
+ ______________________________
+| Deck Name: Zane Truesdale 04 |
+| Cards in Deck: 43            |
+| Extra Deck: 15               |
+|------------------------------|
+
+Normal Monsters
+
+    * Hunter Dragon (x3)
+
+Effect Monsters
+
+    * Cyber Dragon (x3)
+    * Cyberdark Edge (x2)
+    * Cyberdark Horn (x2)
+    * Cyberdark Keel (x2)
+    * Dweller in the Depths (x2)
+    * Masked Dragon (x3)
+    * Morphing Jar
+    * Sangan
+    * Twin-Headed Behemoth
+
+Fusion Monsters
+
+    * Chimeratech Fortress Dragon
+    * Chimeratech Overdragon (x2)
+    * Cyber End Dragon
+    * Cyber Twin Dragon (x2)
+    * Cyberdark Dragon (x3)
+    * Dragon Master Knight (x3)
+    * F.G.D. (x3)
+
+Spells
+
+    * Battle Fusion (x2)
+    * Cyberdark Impact! (x2)
+    * Dragon's Mirror (x2)
+    * Future Fusion (x2)
+    * Giant Trunade
+    * Gold Sarcophagus
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * My Body as a Shield (x2)
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Overload Fusion (DESTINY CARD)
+    * Premature Burial
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Call of the Haunted
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+ ______________________________
+| Deck Name: Zane Truesdale 05 |
+| Cards in Deck: 42            |
+| Extra Deck: 9                |
+|------------------------------|
+
+Effect Monsters
+
+    * Cyber Dragon (x2)
+    * Cyber Esper
+    * Cyber Ogre (x3)
+    * Cyber Phoenix (x2)
+    * Morphing Jar
+    * Proto-Cyber Dragon (x3)
+    * Reflect Bounder (x2)
+    * Shining Angel (x3)
+    * The Light - Hex-Sealed Fusion
+
+Fusion Monsters
+
+    * Cyber End Dragon (x3)
+    * Cyber Ogre 2 (x3)
+    * Cyber Twin Dragon (x3)
+
+Spells
+
+    * Battle Fusion
+    * De-Fusion
+    * Different Dimension Capsule
+    * Future Fusion
+    * Giant Trunade
+    * Gold Sarcophagus
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Monster Reincarnation
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Polymerization (x2)
+    * Power Bond
+    * Premature Burial
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Byroad Sacrifice
+    * Cyber Shadow Gardna (x2, DESTINY CARD)
+    * Final Fusion
+    * Mirror Force (DESTINY CARD)
+
+-----
+ ______________________________
+| Deck Name: Zane Truesdale 06 |
+| Cards in Deck: 42            |
+| Extra Deck: 6                |
+|------------------------------|
+
+Effect Monsters
+
+    * Cyber Barrier Dragon
+    * Cyber Dragon (x2, DESTINY CARD)
+    * Cyber Kirin
+    * Cyber Laser Dragon (x2)
+    * Cyber Phoenix (x3)
+    * Morphing Jar
+    * Proto-Cyber Dragon (x3)
+    * Shining Angel (x3)
+    * The Light - Hex-Sealed Fusion (x3)
+
+Fusion Monsters
+
+    * Cyber End Dragon (x3)
+    * Cyber Twin Dragon (x3)
+
+Spells
+
+    * Different Dimension Capsule (x2)
+    * Giant Trunade
+    * Gold Sarcophagus
+    * Heavy Storm
+    * Limiter Removal
+    * Monster Reborn
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Photon Generator Unit
+    * Power Bond
+    * Premature Burial
+    * Swords of Revealing Light (DESTINY CARD)
+    * The Dark Door (x2)
+
+Traps
+
+    * Attack Reflector Unit (x2)
+    * Damage Polarizer
+    * Final Fusion
+    * Mirror Force (DESTINY CARD)
+    * Return Soul
+    * Sakuretsu Armor (x2)
+
+-----
+ ______________________________
+| Deck Name: Zane Truesdale 07 |
+| Cards in Deck: 42            |
+| Extra Deck: 6                |
+|------------------------------|
+
+Effect Monsters
+
+    * Cyber Dragon (x2)
+    * Cyber Phoenix
+    * Cyber Valley (x3, DESTINY CARD)
+    * D.D. Warrior Lady
+    * Morphing Jar
+    * Proto-Cyber Dragon (x3)
+    * Reflect Bounder (x2)
+    * Shining Angel (x3)
+    * The Light - Hex-Sealed Fusion
+
+Fusion Monsters
+
+    * Cyber End Dragon (x3)
+    * Cyber Twin Dragon (x3)
+
+Spells
+
+    * Battle Fusion (x2)
+    * Evolution Burst (x2)
+    * Fissure
+    * Future Fusion
+    * Giant Trunade
+    * Gold Sarcophagus
+    * Heavy Storm
+    * Limiter Removal
+    * Megamorph
+    * Monster Reborn
+    * My Body as a Shield (x2)
+    * Mystical Space Typhoon
+    * Nobleman of Crossout
+    * Polymerization
+    * Power Bond
+    * Premature Burial
+    * Smashing Ground
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Mirror Force (DESTINY CARD)
+    * Torrential Tribute
+
+-----
+ ______________________________
+| Deck Name: Zane Truesdale 08 |
+| Cards in Deck: 41            |
+| Extra Deck: 6                |
+|------------------------------|
+
+Effect Monsters
+
+    * Barrel Dragon
+    * Blowback Dragon
+    * Cyber Dragon (x2)
+    * Cyber Phoenix (x3)
+    * Cyber Valley (x3)
+    * Dekoichi the Battlechanted Locomotive (x3)
+    * Jinzo
+    * Marshmallon
+    * Morphing Jar
+    * Spell Canceller
+    * Spirit Reaper
+
+Fusion Monsters
+
+    * Chimeratech Overdragon (x3)
+    * Gatling Dragon (x3)
+
+Spells
+
+    * Card Destruction
+    * Dimension Fusion (x2)
+    * Fissure
+    * Future Fusion (x2)
+    * Giant Trunade
+    * Gold Sarcophagus
+    * Heavy Storm
+    * Level Limit - Area B
+    * Messenger of Peace (x3, DESTINY CARD)
+    * Mystical Space Typhoon
+    * Overload Fusion (x2)
+    * Scapegoat
+    * Smashing Ground
+    * Swords of Revealing Light (DESTINY CARD)
+
+Traps
+
+    * Gravity Bind
+    * Mirror Force
+    * Torrential Tribute
+    * Wall of Revealing Light
+
+==============================================================================
+| 9. Important Notes.....                                           [IMPORT] |
+==============================================================================
+
+Please do note that section "...GX: Tag Force 3 Character Decklists" only
+lists decks that is used by your partner at the start of the game. Your
+partner actually has more than 1 deck and you can load his/her other decks
+when you unlock them. I will list their other decks soon so please bear with
+me.
+
+*ADDED: 1/14/09*
+
+Other decks of duelists are listed on the section "Other Character Decklists".
+This is where you will go for additional decks of each/other duelists.
+
+==============================================================================
+| 10. Frequently Asked Questions.....                                  [FAQ] |
+==============================================================================
+
+This is the section where most questions are asked and answers to solve this
+problem.
+
+---
+Q - Question
+A - Answer
+---
+
+Q = Does my partner only uses 1 deck?
+A = No. Your partner has multiples of decks. But they used their first deck if
+you partner with them. You can still unlock more.
+
+Q = Could we edit their deck?
+A = Yes. On a certain point of the game, you can edit his/her deck. But you
+cannot remove his/her favorite cards. The other cards can be removed and be
+replaced by better and stronger cards.
+
+Q = Can I download my partner's other decks?
+A = I am not sure if you could. But i don't think so. Sorry.
+
+Q = What does the "01" mean?
+A = It means that deck is their first deck. "Jaden Yuki 02" refers to Jaden
+Yuki's second deck and so on.
+
+Q = Can I do "Game Recognition" even if I don't have a umd game? I'm playing
+all my games from an ISO folder saved in my memory card.
+A = No. Sorry but you cannot.
+
+Q = Is there a way I could use their decks?
+A = It is possible. When you beat those duelists at least 10 times (doesn't
+have to be in a row), you will unlock their deck recipes that will also allow
+you to edit them and use them as well.
+
+==============================================================================
+| 11. Sites Permitted to use my FAQ.....                            [PERMIT] |
+==============================================================================
+
+The following sites have my permission to use my FAQ :
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+www.gamesradar.com
+www.cheatplanet.com
+
+If you want your site to be listed, please e-mail me first and tell your
+reason why you want to have my FAQ there.
+
+==============================================================================
+| 12. Credits.....                                                 [CREDITS] |
+==============================================================================
+
+I would like to thank the following :
+
+To GameFAQs, SuperCheats especially for hosting the FAQ and other sites too.
+
+To Konami for making the game.
+
+To PenOfStone for giving me the information about "Angry Bastion"'s deck as
+well as giving me "Trueman"'s decks.
+
+To RPCShadowclaw for correcting me about the English and Japanese version of
+"Trueman".
+
+To Tenchu_Hikage for giving me the other decks of "Alexis Rhodes" as well as
+"Jaden Yuki" and "Blair Flannigan".
+
+To you, as the reader who spent time viewing this FAQ and learning
+something about them.
