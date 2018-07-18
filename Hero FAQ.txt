@@ -389,8 +389,8 @@ EXAMPLES:
 undead units.
         - Healing Wave (Shadow Hunter) - only heals friendly living units.
         - Tranquility (Keeper of the Grove) - only heals friendly living units.
-        - Death Coil (Death Knight) - heals friendly undead units damages enemy
-living units.
+        - Death Coil (Death Knight) - heals friendly undead units and damages
+enemy living units.
 ---------
 
 > INVULNERABILITY - Grants immunity to enemy physical attacks and enemy spells.
@@ -752,7 +752,7 @@ armor, 500 bonus hit points, 20 bonus damage and spell immunity.
  ____________________________________________________________________________
 | LV | DURATION (HERO) | COOLDOWN | MP COST |             EFFECT             |
 |----|-----------------|----------|---------|--------------------------------|
-|  6 | 60 sec.         | 180 sec. |     150 | +5 Armor, +500 HP, +20 damage. |
+|  6 | 60 sec.         | 180 sec. |     150 | +5 armor, +500 HP, +20 damage. |
  ----------------------------------------------------------------------------
 
 ----------------
@@ -1577,13 +1577,13 @@ SPELLS:
 
 1. Fan of Knives:
 The Warden flings a flurry of knives at multiple enemy targets around her.
- _________________________________________________________________
-| LV | DURATION (HERO) | COOLDOWN | MP COST |       EFFECT        |
-|----|-----------------|----------|---------|---------------------|
-|  1 | N/A             | 9 sec.   |     100 | 75 damage, max 300  |
-|  2 | N/A             | 9 sec.   |     100 | 125 damage, max 625 |
-|  3 | N/A             | 9 sec.   |     100 | 190 damage, max 950 |
- -----------------------------------------------------------------
+ __________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |        EFFECT        |
+|----|-----------------|----------|---------|----------------------|
+|  1 | N/A             | 9 sec.   |     100 | 75 damage, max 300.  |
+|  2 | N/A             | 9 sec.   |     100 | 125 damage, max 625. |
+|  3 | N/A             | 9 sec.   |     100 | 190 damage, max 950. |
+ ------------------------------------------------------------------
 
 2. Blink (TELEPORT):
 Short distance teleportation that allows the Warden to move in and out of
@@ -1897,13 +1897,13 @@ that slows movement and attack rate.
 2. Frost Armor (AUTOCAST):
 Creates a shield of frost around a target friendly unit. The shield adds armor
 and slows melee units that attack it.
- ____________________________________________________________________
-| LV | DURATION (HERO) | COOLDOWN | MP COST |         EFFECT         |
-|----|-----------------|----------|---------|------------------------|
-|  1 | 45 sec.         | 2 sec.   |      40 | +3 armor, 5 sec. slow. |
-|  2 | 45 sec.         | 2 sec.   |      40 | +5 armor, 5 sec. slow. |
-|  3 | 45 sec.         | 2 sec.   |      40 | +7 armor, 5 sec. slow. |
- --------------------------------------------------------------------
+ ___________________________________________________________
+| LV |   DURATION (HERO)   | COOLDOWN | MP COST |  EFFECT   |
+|----|---------------------|----------|---------|-----------|
+|  1 | 45 sec. 5 sec. slow | 2 sec.   |      40 | +3 armor. |
+|  2 | 45 sec. 5 sec. slow | 2 sec.   |      40 | +5 armor. |
+|  3 | 45 sec. 5 sec. slow | 2 sec.   |      40 | +7 armor. |
+ -----------------------------------------------------------
 
 3. Dark Ritual:
 Sacrifices a target friendly unit to convert its hit points into mana for the
