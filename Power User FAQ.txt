@@ -1,65 +1,53 @@
 Power User FAQ:
 
-Name of Game : GunBound
+Name of Game: GunBound
 
-Platform : PC
+Platform: PC
 
-By : dnextreme88
+By: dnextreme88
 
-==============================================================================
-| Table of Contents :                                                        |
-==============================================================================
+===============================================================================
+Table of Contents:
+===============================================================================
 
-+----------------------------------------------------------------------------+
-| 1. Introduction.....                                               [INTRO] |
-|----------------------------------------------------------------------------|
-| 2. About.....                                                        [ABT] |
-|----------------------------------------------------------------------------|
-| 3. Version History.....                                          [HISTORY] |
-|----------------------------------------------------------------------------|
-| 4. Contact Information.....                                      [CONTACT] |
-|----------------------------------------------------------------------------|
-| 5. Copyright Information.....                                  [COPYRIGHT] |
-|----------------------------------------------------------------------------|
-| 6. What is a "Power User"?.....                                   [WHATIS] |
-|----------------------------------------------------------------------------|
-| 7. Benefits of a "Power User".....                              [BENEFITS] |
-|----------------------------------------------------------------------------|
-| 8. Downsides of a "Power User".....                            [DOWNSIDES] |
-|----------------------------------------------------------------------------|
-| 9. Detailed Explanations.....                                     [DETAIL] |
-|----------------------------------------------------------------------------|
-| 9A. Benefits.....                                              [BENEFITS1] |
-|----------------------------------------------------------------------------|
-| 9B. Downsides.....                                            [DOWNSIDES1] |
-|----------------------------------------------------------------------------|
-| 10. Frequently Asked Questions.....                                  [FAQ] |
-|----------------------------------------------------------------------------|
-| 11. Sites Permitted to use my FAQ.....                            [PERMIT] |
-|----------------------------------------------------------------------------|
-| 12. Credits.....                                                 [CREDITS] |
-|----------------------------------------------------------------------------|
-| 13. Closing.....                                                   [CLOSE] |
-+----------------------------------------------------------------------------+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
 
-==============================================================================
-| 1. Introduction.....                                               [INTRO] |
-==============================================================================
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. What is a "Power User"?........................................[WHT]
+        B. Benefits of a "Power User".....................................[BEN]
+        C. Downsides of a "Power User"....................................[DOW]
+        D. Detailed Explanations..........................................[DET]
+                - Benefits..............................................[DET-1]
+                - Downsides.............................................[DET-2]
+        E. Frequently Asked Questions.....................................[FAQ]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
 
-Hello and welcome to my Power User FAQ for the game GunBound on PC. I wrote
-this FAQ because I feel that this has a benefit while playing the game.
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
 
-==============================================================================
-| 2. About.....                                                        [ABT] |
-==============================================================================
+Hello and welcome to my Power User FAQ for the game GunBound on PC. Being a
+Power User holder gives you a huge edge over other players, to which I will
+explain in detail in the coming sections. This is the game's premium currency
+that let's you buy stronger items than those bought with GP.
 
 GunBound is owned by Softnyx. All trademarks are subjected to Softnyx.
 
-Copyright © Softnyx.
+Copyright (c) Softnyx.
 
-==============================================================================
-| 3. Version History.....                                          [HISTORY] |
-==============================================================================
+===============================================================================
+2. Version History [Hist]
+===============================================================================
 
 Version 1.0 - Oct 16 2008
 = Submitted the FAQ.
@@ -67,183 +55,203 @@ Version 1.0 - Oct 16 2008
 Version 1.1 - Oct 26 2008
 = Updated the "Sites Permitted to use my FAQ" as I added NeoSeeker.
 
-==============================================================================
-| 4. Contact Information.....                                      [CONTACT] |
-==============================================================================
+Version 1.2 - July 19, 2018
+= Revival. Re-structured the document. Corrected some grammar errors.
+= Changed all section codes so that search is easier.
+= Added missing detailed explanation text for "Power User holders cannot get
+Gold deduction penalty while playing the game:" in "Benefits" section.
+= Removed the following items:
+        > "About" section. Its content is placed in the "Introduction" section.
+        > "Closing" section.
 
-If you have any questions or suggestions, feel free to e-mail me. My e-mail is
-jeannekevindecena@yahoo.com. For corrections, just do the same ^_^. I will be
-glad to help you out. If you want my FAQ to be posted on your website, please
-email me so ( e-mail is above ). When i say "YES", I am allowing you to put
-this FAQ to your site.
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
 
-==============================================================================
-| 5. Copyright Information.....                                  [COPYRIGHT] |
-==============================================================================
-
-No part of this FAQ may be produced or published in any form or by any means, 
+No part of this FAQ may be produced or published in any form or by any means,
 electronic or mechanical, including photocopying, recording, or any information
-storage or retrieval system without the permission in writing from the 
+storage or retrieval system without the permission in writing from the
 copyright owner.
 
-Copyright © dnextreme88
+Copyright (c) dnextreme88
 
-==============================================================================
-| 6. What is a "Power User"?.....                                   [WHATIS] |
-==============================================================================
+===============================================================================
+4. Main Content
+===============================================================================
 
-Power User is the EX item that you buy to earn extra GP and Gold on the game.
+-------------------------------------------------------------------------------
+A. What is a "Power User"? [WHT]
+-------------------------------------------------------------------------------
 
-==============================================================================
-| 7. Benefits of a "Power User".....                              [BENEFITS] |
-==============================================================================
+Power User is an EX item that you buy to earn extra GP and Gold on the game. As
+a Power User holder, you'll stand out over other players who don't even own a
+Power User Card. For a nifty price of 4,000 Cash, you'll gain exclusive access
+to purchase Cash avatars, a special background avatar for your player and much
+more. These and a lot more are explained in detail in the next sections.
 
-Having and being a Power User has so many benefits and advantages. The
-following are the benefits :
+-------------------------------------------------------------------------------
+B. Benefits of a "Power User" [BEN]
+-------------------------------------------------------------------------------
 
-a) Extra GP and Gold.
-b) If the Power User Holder makes a Game Room or Waiting Room, the room is 
-   displayed on the first page of the channel the Power User holder is in.
-c) The balloon ( where your messages come out ) will have a Golden Color 
-   Outline.
-d) Power User Holder get their special background avatar.
-e) Power User Holder can receive 20% bonus GP and 10% bonus Gold.
-f) Power User Holder cannot get Gold deduction penalty while playing the game.
+Being a Power User holder has so many benefits and advantages. You are entitled
+to the following privileges:
 
-==============================================================================
-| 8. Downsides of a "Power User".....                            [DOWNSIDES] |
-==============================================================================
+> Extra GP and Gold.
+> Your Game Room (or Waiting Room if you're not in-game yet) is displayed on
+the first page of the channel you're in.
+> Your speech balloon (where your messages come out) will have a nice golden
+color outline touch to it.
+> Power User holders get an exclusive background avatar.
+> Power User holders can receive 20% bonus GP and 10% bonus Gold.
+> Power User holders cannot get Gold deduction penalty while playing the game.
 
-Downsides is just the opposite of the last section. The following are the 
-disadvantages or downsides of a Power User holder :
+-------------------------------------------------------------------------------
+C. Downsides of a "Power User" [DOW]
+-------------------------------------------------------------------------------
 
-a) Players have to pay to be a "Power User".
-b) Power User Card cannot be wearable.
-c) Power User Card has a period of expiration of use.
-d) Power User Card is only Cash-only avatar.
-e) Power User doesn't have stats that increase the Power User Holder's stats.
+Despite being an advantageous item to have, power user holders have their own
+downsides as well. The following are disadvantages of being a Power User
+holder:
 
-==============================================================================
-| 9. Detailed Explanations.....                                     [DETAIL] |
-==============================================================================
+> Players have to pay to be a Power User.
+> Power User Card cannot be wearable.
+> Power User Card has a period of expiration to use.
+> Power User Card is a Cash-only avatar.
+> Power User doesn't have stats that increase the Power User holder's stats.
 
-In this section, i will explain the benefits and downsides more in detail. 
+===============================================================================
+D. Detailed Explanations [DET]
+===============================================================================
 
-==============================================================================
-| 9A. Benefits.....                                              [BENEFITS1] |
-==============================================================================
+In this section, I will explain the benefits and downsides more in detail.
 
-a) Extra GP and Gold.
- - Power User holder can receive 20% bonus GP and 10% bonus Gold while playing
-  the game. This means that the bonus will take effect after a game has ended 
-  ( where the results are given and GP and Gold are shown ). This is the main 
-  focus of a Power User Card.
+++++++++++++++++++
+- Benefits [DET-1]
+++++++++++++++++++
 
-b) If the Power User Holder makes a Game Room or Waiting Room, the room is 
-   displayed on the first page of the channel the Power User holder is in.
- - When you acquired a Power User Card and want to make a Game Room, your Game
-  Room will be on the first page of the channel. It will not be always as such
-  especially if there are so many Power User Holders that are on the channel 
-  the Power User Holder is in too.
+Extra GP and Gold:
+> Power User holders receive 20% bonus GP and 10% bonus Gold while playing the
+game. This means that the bonus will take effect after a game has ended (where
+the results are given and GP and Gold are shown). This is the main focus of a
+Power User Card.
 
-c) The balloon ( where your messages come out ) will have a Golden Color 
-   Outline.
- - This only occurs and take place when the game has already started. When you
-  type your message and pressed ENTER, your message balloon will not be blue. 
-  Instead, it will be Gold signifying you have a Power User Card and have 
-  purchased it.
+Your Game Room (or Waiting Room if you're not in-game yet) is displayed on the
+first page of the channel you're in:
+> When you acquire a Power User Card and want to make a Game Room, your Game
+Room will be on the first page of the channel. It will not be always as such
+especially if there are so many Power User Holders that are on the channel 
+the Power User Holder is in too. However, that's already ten times better than
+having your game room at the very last page.
 
-d) Power User Holder get their special background avatar.
- - Even they don't have background avatar, Power User Holders get a special 
-  background avatar so it is worth it.
+Your speech balloon (where your messages come out) will have a nice golden
+color outline touch to it:
+> This only occurs and take place when the game has already started. When you
+type your message and pressed ENTER, your message balloon will not be blue. 
+Instead, it will be gold signifying you have a Power User Card and have
+purchased it.
 
-e) Power User Holder can receive 20% bonus GP and 10% bonus Gold.
- - Power User Holders only get these advantages when the battle ended. And the
-  results are shown ( eg. the GP and Gold you got ).
+Power User holders get an exclusive background avatar:
+> If you haven't purchased a background avatar yet, you'll get a special
+background avatar for being a Power User holder.
 
-==============================================================================
-| 9B. Downsides.....                                            [DOWNSIDES1] |
-==============================================================================
+Power User holders can receive 20% bonus GP and 10% bonus Gold:
+> Power User holders only get these advantages when the battle ends and the
+results are shown. The change is reflected immediately.
 
+Power User holders cannot get Gold deduction penalty while playing the game:
+> If you've accidentally damaged yourself or your teammate (the minimum damage
+is 50 to get a penalty), you'd get a penalty. As a Power User, you're entitled
+to avoid this penalty. Just because you don't get a gold deduction penalty, it
+doesn't mean that you should start hitting your teammates recklessly for fun.
 
-a) Players have to pay to be a "Power User".
- - Yes, you have to pay in order to become a "Power User" and to be able to 
-  purchase the "Power User Card". You have to pay through PayPal, VISA etc. to
-  have cash which will be used to purchase Cash-only avatars or avatars that 
-  can also be bought by Cash. A Cash-only avatar is the Power User Card which 
-  needs 4,000 Cash to purchase.
++++++++++++++++++++
+- Downsides [DET-2]
++++++++++++++++++++
 
-b) Power User Card cannot be wearable.
- - You cannot wear them but the Power User Card gives out a big advantage to 
-  anyone who manages to have it.
+Players have to pay to be a Power User:
+> Yes, you have to pay in order to become a "Power User" and to be able to
+purchase the "Power User Card". You have to pay through PayPal, VISA etc. to
+have cash which will be used to purchase Cash-only avatars or avatars that can
+also be bought by Cash. A Cash-only avatar is the Power User Card which
+needs 4,000 Cash to purchase.
 
-c) Power User Card has a period of expiration of use.
- - There is no Power User Card that has unlimited expiration of use 
-  irregardless of how much Cash you will be needing to purchase it. Power User
-  Cards can expire 1 week or 1 month. And after they have expired on the 
-  specified time, you can re-purchase them to get the same advatanges as 
-  before.
+Power User Card cannot be wearable:
+> You cannot wear these like a usual avatar but the Power User Card gives out a
+big advantage to anyone who manages to have it.
 
-d) Power User Card is only Cash-only avatar.
- - You cannot buy Power User Card through Gold irregardless of how much Gold 
-  you wil be needing to purchase it. Using your Cash is the only way to do it.
+Power User Card has a period of expiration to use:
+> There is no Power User Card that has unlimited expiration of use irregardless
+of how much Cash you will be needing to purchase it. Power User Cards can
+expire for 1 week or 1 month. After they have expired on the specified time,
+you can re-purchase them to continue enjoying its benefits.
 
-e) Power User doesn't have stats that increase the Power User Holder's stats.
- - Power User Holders doesn't get increase in Popularity, Attack, Delay, 
-  Defense, Item Delay, Bunge, Mobile Shield and Life when they purchase it. 
-  They only get the advantage as explained on the Benefits section.
+Power User Card is a Cash-only avatar:
+> You cannot buy Power User Card through Gold irregardless of how much Gold you
+will be needing to purchase it. Using your Cash is the only way to do it.
 
-==============================================================================
-| 10. Frequently Asked Questions.....                                  [FAQ] |
-==============================================================================
+Power User doesn't have stats that increase the Power User holder's stats:
+> Power User holders doesn't get increase in Popularity, Attack, Delay, 
+Defense, Item Delay, Bunge, Mobile Shield and Life when they purchase it. They
+only get the advantage as explained on the Benefits section.
 
----
-Q - Question
-A - Answer
----
+===============================================================================
+E. Frequently Asked Questions [FAQ]
+===============================================================================
 
-Q - Why do i have to pay in order to be a Power User Holder?
-A - You really have to pay in order to become one.
------
-Q - How much Cash do i have to pay in order to purchase the Power User Card?
+Q - Why do I have to pay in order to be a Power User holder?
+A - You need to pay to become a Power User. Think of it like a premium currency
+    of the game. You're entitled to exclusive privileges and have the edge over
+    regular players who are not Power User holders.
+
+Q - How much Cash do I have to pay in order to purchase the Power User Card?
 A - You have to pay 4,000 Cash to be able to purchase the Power User Card and 
     get the benefits of it.
------
-Q - What are the paying methods to get cash so that i can buy Power User Card?
+
+Q - What are the paying methods to get cash so that I can buy Power User Card?
 A - You can pay through PayPal, VISA, MasterCard and others. You use those 
     paying methods so that you can get GunBound Cash to purchase Cash avatars 
     or Cash-only avatars.
 
-==============================================================================
-| 11. Sites Permitted to use my FAQ.....                            [PERMIT] |
-==============================================================================
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
 
-The following sites have my permission to use my FAQ :
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "Power User FAQ" to remind me that you are not spam. If not,
+the subject should be at least close to the previous one and I will try to
+answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
 
 www.gamefaqs.com
 www.supercheats.com
 www.neoseeker.com
-www.playhaven.com
 
-If you want your site to be listed, please e-mail me first and tell your
-reason why you want to have my FAQ there.
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
 
-==============================================================================
-| 12. Credits.....                                                 [CREDITS] |
-==============================================================================
+===============================================================================
+7. Credits [Cred]
+===============================================================================
 
-I would like to thank the following :
+I would like to thank the following:
 
-To GameFAQs, SuperCheats, NeoSeeker and PlayHaven for hosting the FAQ.
+To GameFAQs, SuperCheats and NeoSeeker for hosting the FAQ.
 
 To Softnyx for making the game.
 
-To you, as the reader who spent time viewing this FAQ and learning
-something about them.
+To you, as the reader.
 
-==============================================================================
-| 13. Closing.....                                                   [CLOSE] |
-==============================================================================
-
-Thank you for reading this FAQ. You can also visit my other walkthroughs by
-clicking my name. Hope you have fun :)
+END OF DOCUMENT----------------------------------------------------------------
