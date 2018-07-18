@@ -1,0 +1,2241 @@
+Hero FAQ:
+
+Name of Game: Warcraft III: The Frozen Throne
+
+Platform: PC
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. The Attributes.................................................[ATR]
+                - Attribute-increasing items............................[ATR-1]
+                - Attribute-increasing skills...........................[ATR-2]
+        B. Heroes.........................................................[HER]
+                - Humans..................................................[HUM]
+                        - Paladin.........................................[PAL]
+                        - Archmage........................................[ARC]
+                        - Mountain King...................................[MTK]
+                        - Blood Mage......................................[BMG]
+                - Orcs....................................................[ORC]
+                        - Blade Master....................................[BLA]
+                        - Far Seer........................................[FAR]
+                        - Tauren Chieftain................................[TAU]
+                        - Shadow Hunter...................................[SHA]
+                - Night Elves.............................................[ELF]
+                        - Demon Hunter....................................[DEM]
+                        - Keeper of the Grove.............................[KEE]
+                        - Priestess of the Moon...........................[PRI]
+                        - Warden..........................................[WAR]
+                - Undead..................................................[UND]
+                        - Death Knight....................................[DEA]
+                        - Dread Lord......................................[DRE]
+                        - Lich............................................[LIC]
+                        - Crypt Lord......................................[CRY]
+        C. Other Heroes...................................................[OTH]
+                - Cenarius................................................[CEN]
+                - Jaina Proudmoore........................................[JAI]
+        D. Bonus Campaign Key Names.......................................[BCK]
+                - Act I (To Tame A Land)..................................[TOT]
+                - Act II (Old Hatreds)....................................[OLH]
+                - Act III (A Blaze of Glory)..............................[BOG]
+        E. Frequently Asked Questions.....................................[FAQ]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hi and welcome to my Hero FAQ. This FAQ will concentrate on hero units of the
+game. I'll be listing valuable information to every hero, such as statistics,
+hero names, skills and a lot more. It's my second FAQ for the WarCraft series.
+
+Warcraft III: The Frozen Throne is owned by Blizzard Entertainment. All 
+trademarks are subjected to Blizzard Entertainment.
+
+Copyright (c) Blizzard Entertainment.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Sep 11, 2008
+= Submitted the FAQ.
+
+Version 1.1 - Apr 2, 2009
+= Completed "Lich" and "Crypt Lord" heroes.
+= Added "Jaina Proudmoore" and "Cenarius".
+= The sub-sections of "Attributes Guide" section is added but not yet complete.
+
+Version 1.2 - Jun 4, 2009
+= Completed "Attributes Guide" section and its 3 sub-sections "The 3
+Attributes", "Attribute-increasing skills" and "Attribute-increasing items".
+= Added "Bonus Campaign Key Names" section.
+= Added a bunch of heroes:
+
+    ===========
+    KEY HEROES:
+    ===========
+    > KEEPER OF THE GROVE: Cenarius, Malfurion Stormrage
+    > DEMON HUNTER: Illidan Stormrage
+    > PRIESTESS OF THE MOON: Tyrande Whisperwind
+    > WARDEN: Maiev Shadowsong
+    > DEATH KNIGHT: Arthas
+    > DREADLORD: Tichondrius
+    > LICH: Kel'Thuzad
+    > CRYPT LORD: Anub'arak
+
+    ==========================
+    BONUS CAMPAIGN KEY HEROES:
+    ==========================
+    > PALADIN: Admiral Proudmoore, Dagren the Orcslayer
+    > ARCHMAGE: Antonidas, Zerx Hydromon
+    > BLADE MASTER: Samuro
+    > FAR SEER: Drek'Thar
+    > TAUREN CHIEFTAIN: Baine Bloodhoof
+    > SHADOW HUNTER: Rokhan
+    > DREADLORD: Talnivarr the Sleeper
+
+Version 1.3 - Aug 26, 2016
+= Revival. Re-structured the document. Corrected some grammar errors.
+= Changed all section codes so that search is easier.
+= Removed "Attributes Guide" section. Its content was placed in "The 3
+Attributes" section.
+= Fixed missing "AUTOCAST" note of Immolation and Carrion Beetles spells.
+= Renamed the following items:
+    > "Heroes FAQ" to "Hero FAQ".
+    > "Summonable" spell type to "Summon".
+
+= Added the following items:
+    > Cairne Bloodhoof (Tauren Chieftain) from the Bonus Campaign Key Heroes
+list.
+    > Key heroes: Anetheron, Balnazzar, Detheroc, Duke Lionheart, Grom
+Hellscream, Mal'Ganis, Mephistroth, Varimathras.
+
+Version 1.4 - Jul 15, 2018
+= Renamed "Universal Spell" spell type to "Auras" in "Heroes" section.
+= Updated questions in "Frequently Asked Questions" section.
+= Fixed "SUMMONABLE" note of Vengeance and Water Elemental spells as "SUMMON".
+= Level of indention in "Attribute-increasing items" and "Attribute-increasing
+skills" sections has been drastically reduced for improved readability.
+= Added the following items:
+
+    ==============
+    HEROES SECTION
+    ==============
+    > Legend note from all 4 playable races.
+    > Common statistics for each hero now has a separate section (to remove
+    redundancy of having to place the same info across all races).
+    > Added skills for every hero.
+
+= Removed the following items:
+
+    ==============
+    HEROES SECTION
+    ==============
+    > "Ultimate" spell type (as every hero have them).
+    > Night Elves:
+        - "SUMMON" note from the Vengeance spell of Warden.
+
+    ================================
+    BONUS CAMPAIGN KEY NAMES SECTION
+    ================================
+    > Redundant heroes list (these were already listed in the sub-sections).
+
+= Interchanged the following items:
+    > "Attribute-increasing items" and "Attribute-increasing skills" sections.
+    > "Jaina Proudmoore" and "Cenarius" sections.
+
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. The Attributes [ATR]
+-------------------------------------------------------------------------------
+
+In this section, the 3 attributes of the game will be explained here. There
+will also be an example of items that boosts up such attributes. The section
+explains the definitions and uses of each attributes. You can find this in-game
+also.
+
+> Strength (STR):
+- Each point increases hit points by 25
+- Each point increases hit points regeneration
+
+> Agility (AGI):
+- Each point increases damage by 1
+- Every 3 points increase armor by 1
+- Each point increases attack speed
+
+> Intelligence (INT):
+- Each point increases mana by 15
+- Each point increases mana regeneration
+
+Attributes can be increased in two ways: one is to wear specific items to have
+increased attributes while worn or you could use skills too.
+
+++++++++++++++++++++++++++++++++++++
+- Attribute-increasing items [ATR-1]
+++++++++++++++++++++++++++++++++++++
+
+Another way to increase attributes is to let your heroes wear items dropped by
+creeps and enemy heroes or bought at shops. Unlike skills, you will have an
+increased attribute as long as the Hero wears the item.
+
+-----
+Human
+-----
+
+> Arcane Vault (Orb of Fire):
+        - Heroes are able to attack air units if they are melee and has a
+chance to do splash damage to nearby enemy units.
+        - Damage + 5
+
+---
+Orc
+---
+
+> Spirit Lounge (Orb of Lightning):
+        - Heroes are able to attack air units if they are melee and has a
+chance to dispel magic and slows the movement speed of the enemy for 3 seconds.
+
+
+------
+Undead
+------
+
+> Tomb of Relics (Orb of Corruption):
+        - Heroes can attack air units if they are melee and has a chance to
+reduce the armor of enemy units by 5.
+> Undead Campaign (Act 3):
+        - Skull Shield: STR + 1
+        - Spider Ring: AGI + 1
+> Undead Campaign - Act 7, Part 3 (Orb of Darkness):
+        - Heroes are able to attack air units if they are Melee and has a
+chance to spawn a Dark Minion for 80 seconds.
+
+---------
+Night Elf
+---------
+
+> Ancient of Wonders (Orb of Venom):
+        - Heroes are able to attack air units if they are melee and has a
+chance to poison enemy units for 10 seconds.
+> Night Elf Campaign - Act 1 (Spider Ring):
+        - AGI + 1
+> Night Elf Campaign - Act 3 (Shadow Orb +10):
+        - Armor + 3
+        - Damage + 10
+
+-------
+Neutral
+-------
+
+> Goblin Merchant
+        - Circlet of Nobility: STR, AGI, INT + 2
+        - Pendant of Mana: MP + 150
+        - Periapt of Vitality: HP + 150
+> Claws of Attack
+        - + 3: Damage + 3
+        - + 6: Damage + 6
+        - + 9: Damage + 9
+        - + 12: Damage + 12
+> Mantle of Intelligence + 3
+        - INT + 3
+> Ring of Protection
+        - + 1: Armor + 1
+        - + 2: Armor + 2
+        - + 3: Armor + 3
+        - + 4: Armor + 4
+        - + 5: Armor + 5
+> Gauntlets of Ogre Strength + 3
+        - STR + 3
+> Medallion of Courage 
+        - STR + 4
+        - INT + 4
+> Hood of Cunning 
+        - AGI + 4
+        - INT + 4
+
++++++++++++++++++++++++++++++++++++++
+- Attribute-increasing skills [ATR-2]
++++++++++++++++++++++++++++++++++++++
+
+For skills with an asterisk, here is a rundown of what they mean:
+
+* - Without any upgrades
+** - With upgrades
+
+The following skills affect a hero's attributes (as well as the armor and
+damage):
+
+-----
+Human
+-----
+
+> Paladin (Devotion Aura):
+        - Level 1: Armor + 1.5
+        - Level 2: Armor + 3.0
+        - Level 3: Armor + 4.5
+
+> Priest (Inner Fire):
+        - Armor + 5, Damage +2*/3**
+
+---
+Orc
+---
+
+> Kodo Beast (War Drums):
+        - Blademaster: Damage + 4*/7**
+        - Far Seer: Damage + 2*/5**
+        - Tauren Chieftain: Damage + 3*/6**
+
+------
+Undead
+------
+
+> Lich (Frost Armor):
+        - Level 1: Armor + 3
+        - Level 2: Armor + 5
+        - Level 3: Armor + 7
+
+---------
+Night Elf
+---------
+
+> Druid of the Claw (Roar):
+        - STR + 6
+> Druid of the Talon (Faerie Fire):
+        - Armor - 4
+
+-------
+Neutral
+-------
+
+> Kobold Taskmaster (Command Aura):
+        - Damage + 3
+
+-------------------------------------------------------------------------------
+B. Heroes [HER]
+-------------------------------------------------------------------------------
+
+This is the main body of the FAQ. You can find all the heroes on each race as
+well as their statistics here. I classified some spells according to its type.
+Every hero has an ultimate skill located on the 4th slot. These are powerful
+skills that are only unlocked when the hero reaches level 6.
+
+> AURAS - Uncastable spells that supports the Hero as well as the units near
+it. These spells last and are permanent to the Hero when learned. Most auras
+fall under the 3rd slot of each Hero's skills.
+
+---------
+EXAMPLES:
+        - Devotion Aura (Paladin)
+        - Brilliance Aura (Archmage)
+        - Endurance Aura (Tauren Chieftain)
+        - Thorns Aura (Keeper of the Grove)
+        - Trueshot Aura (Priestess of the Moon)
+        - Unholy Aura (Death Knight)
+        - Vampiric Aura (Dreadlord)
+---------
+
+> AUTOCAST - Enables the hero to toggle the spell whether to cast it
+automatically or not without having to cast the spell yourself.
+
+---------
+EXAMPLES:
+        - Searing Arrows (Priestess of the Moon)
+        - Frost Armor (Lich)
+        - Carrion Beetles (Crypt Lord)
+---------
+
+> HEAL - Spells that restore health to friendly living units or damage enemy
+undead units. On the other hand, undead spells damage enemy living units or
+heal the friendly undead units.
+
+---------
+EXAMPLES:
+        - Holy Light (Paladin) - heals friendly living units and damages enemy
+undead units.
+        - Healing Wave (Shadow Hunter) - only heals friendly living units.
+        - Tranquility (Keeper of the Grove) - only heals friendly living units.
+        - Death Coil (Death Knight) - heals friendly undead units damages enemy
+living units.
+---------
+
+> INVULNERABILITY - Grants immunity to enemy physical attacks and enemy spells.
+
+---------
+EXAMPLES:
+        - Divine Shield (Paladin)
+---------
+
+> PASSIVE - Spells that activates by itself without losing mana or letting the
+heroes cast it.
+
+---------
+EXAMPLES:
+        - Bash (Mountain King)
+        - Critical Strike (Blademaster)
+        - Reincarnation (Tauren Chieftain)
+        - Evasion (Demon Hunter)
+        - Spiked Carapace (Crypt Lord)
+---------
+
+> SUMMON - Spells that summons special units to fight for your army. Summoned
+units are not permanent (except the Carrion Beetles spell).
+
+---------
+EXAMPLES:
+        - Water Elemental (Archmage)
+        - Phoenix (Blood Mage)
+        - Mirror Image (Blademaster)
+        - Feral Spirit (Far Seer)
+        - Force of Nature (Keeper of the Grove)
+        - Scout (Priestess of the Moon)
+        - Animate Dead (Death Knight)
+        - Infernal (Dreadlord)
+---------
+
+> TELEPORT - Spells that transfer the Hero to a distant place. These spells are
+very useful for getting out of danger.
+
+---------
+EXAMPLES:
+        - Mass Teleport (Archmage)
+        - Blink (Warden)
+---------
+
+By the way, the first hero bought from its respective altar only costs 5
+food. Subsequent heroes cost 425 gold, 135 lumber and 5 food. Let's take note
+of the following legend to keep the guide short and concise.
+
+-------
+LEGEND:
+        G = Gold
+        L = Lumber
+        F = Food
+        STR = Strength
+        AGI = Agility
+        INT = Intelligence
+-------
+
+All heroes have the following common attributes.
+
+-----------
+STATISTICS:
+        Armor Type: Hero
+        Health Regeneration: Always
+        Mana Regeneration: .01
+        Day Sight: 180
+        Build Time: 55
+        Transport Space Usage: 1
+-----------
+
+++++++++++++++
+- Humans [HUM]
+++++++++++++++
+
+-------------
+Paladin [PAL]
+-------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Normal
+Cooldown: 2.2
+Range: Melee
+Primary Attribute: Strength
+STR Bonus per Level: 2.7
+AGI Bonus per Level: 1.5
+INT Bonus per Level: 1.8
+Night Sight: 80
+Speed: Average (270)
+Production Hot Key: L
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  | 24-34 [29 avg]/None |   4   | 22  | 13  | 17  | 650  | 255  |
+| 2  | 26-36 [31 avg]/None |   4   | 24  | 14  | 18  | 700  | 270  |
+| 3  | 29-39 [34 avg]/None |   5   | 27  | 16  | 20  | 775  | 300  |
+| 4  | 32-42 [37 avg]/None |   5   | 30  | 17  | 22  | 850  | 330  |
+| 5  | 34-44 [39 avg]/None |   6   | 32  | 19  | 24  | 900  | 360  |
+| 6  | 37-47 [42 avg]/None |   6   | 35  | 20  | 26  | 975  | 390  |
+| 7  | 40-50 [45 avg]/None |   7   | 38  | 22  | 27  | 1050 | 405  |
+| 8  | 42-52 [47 avg]/None |   7   | 40  | 23  | 29  | 1100 | 435  |
+| 9  | 45-55 [50 avg]/None |   8   | 43  | 25  | 31  | 1175 | 465  |
+| 10 | 48-58 [53 avg]/None |   8   | 46  | 26  | 33  | 1250 | 495  |
+ ------------------------------------------------------------------
+
+HERO NAMES: (14)
+        - Agamand the True
+        - Arius the Seeker
+        - Aurrius the Pure
+        - Ballador the Bright
+        - Buzan the Fearless
+        - Gavinrad the Dire
+        - Granis Darkhammer
+        - Jorn the Redeemer
+        - Karnwield the Seeker
+        - Malak the Avenger
+        - Manadar the Healer
+        - Morlune the Mighty
+        - Sage Truthbearer
+        - Zann the Defender
+
+KEY HEROES: (5)
+        - Admiral Proudmoore (BONUS CAMPAIGN, ACT III)
+        - Arthas (before turning into an Undead Death Knight)
+        - Dagren the Orcslayer (BONUS CAMPAIGN, ACT II)
+        - Duke Lionheart
+        - Uther
+
+SPELLS:
+
+1. Holy Light (HEAL):
+A holy light that can heal a friendly living unit or damage an enemy undead
+unit.
+ _________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT            |
+|----|-----------------|----------|---------|-----------------------------|
+|  1 | N/A             | 5 sec.   |      65 | Heals 200 HP or 100 damage. |
+|  2 | N/A             | 5 sec.   |      65 | Heals 400 HP or 200 damage. |
+|  3 | N/A             | 5 sec.   |      65 | Heals 600 HP or 200 damage. |
+ -------------------------------------------------------------------------
+
+2. Divine Shield (INVULNERABILITY):
+An impenetrable shield surrounds the Paladin, protecting him from all damage
+and spells for a set amount of time.
+ ___________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |        EFFECT         |
+|----|-----------------|----------|---------|-----------------------|
+|  1 | 15 sec.         | 35 sec.  |      25 | Hero is invulnerable. |
+|  2 | 30 sec.         | 50 sec.  |      25 | Hero is invulnerable. |
+|  3 | 45 sec.         | 65 sec.  |      25 | Hero is invulnerable. |
+ -------------------------------------------------------------------
+
+3. Devotion Aura (AURA):
+An aura that increases armor of nearby friendly units.
+ _________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |   EFFECT    |
+|----|-----------------|----------|---------|-------------|
+|  1 | UNLIMITED       | N/A      | N/A     | +1.5 armor. |
+|  2 | UNLIMITED       | N/A      | N/A     | +3 armor.   |
+|  3 | UNLIMITED       | N/A      | N/A     | +4.5 armor. |
+ ---------------------------------------------------------
+
+4. Resurrection (ULTIMATE):
+Brings back to life the corpses of 6 friendly nearby units. The spell will
+choose the most powerful corpses to resurrect if there are more than 6.
+ ______________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |          EFFECT          |
+|----|-----------------|----------|---------|--------------------------|
+|  6 | N/A             | 240 sec. |     200 | Resurrects 6 dead units. |
+ ----------------------------------------------------------------------
+
+--------------
+Archmage [ARC]
+--------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Missile
+Cooldown: 2.13
+Range: 600
+Primary Attribute: Intelligence
+STR Bonus per Level: 1.8
+AGI Bonus per Level: 1
+INT Bonus per Level: 3.2
+Night Sight: 80
+Speed: Fast (320)
+Production Hot Key: A
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  |    21-27 [24 avg]   |   3   | 14  | 17  | 19  | 450  |  285 |
+| 2  |    24-30 [27 avg]   |   3   | 15  | 18  | 22  | 475  |  330 |
+| 3  |    27-33 [30 avg]   |   4   | 17  | 19  | 25  | 525  |  375 |
+| 4  |    30-36 [33 avg]   |   4   | 19  | 20  | 28  | 575  |  420 |
+| 5  |    33-39 [36 avg]   |   4   | 21  | 21  | 31  | 625  |  465 |
+| 6  |    37-43 [40 avg]   |   5   | 23  | 22  | 35  | 675  |  525 |
+| 7  |    40-46 [43 avg]   |   5   | 24  | 23  | 38  | 700  |  570 |
+| 8  |    43-49 [46 avg]   |   5   | 26  | 24  | 41  | 750  |  615 |
+| 9  |    46-52 [49 avg]   |   6   | 28  | 25  | 44  | 800  |  660 |
+| 10 |    49-55 [52 avg]   |   6   | 30  | 26  | 47  | 850  |  705 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (13)
+        - Andromath
+        - Aran Spellweaver
+        - Conjurus Rex
+        - Dalar Dawnweaver
+        - Doril Magefont
+        - Fordred Aran
+        - Kelen the Seeker
+        - Landazar
+        - Manath Magesinger
+        - Nilas Arcanister
+        - Peril Spellbinder
+        - Shal Lightbinder
+        - Tenn Flamecaster
+
+KEY HEROES: (3)
+        - Antonidas
+        - Jaina Proudmoore (unique female model without a horse)
+        - Zerx Hydromon (BONUS CAMPAIGN, ACT II)
+
+SPELLS:
+
+1. Blizzard:
+Calls down waves of freezing ice shards that damage units in a target area.
+ __________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |            EFFECT            |
+|----|-----------------|----------|---------|------------------------------|
+|  1 | 6 sec.          | 6 sec.   |      75 | 6 waves/30 damage, max 150.  |
+|  2 | 8 sec.          | 6 sec.   |      75 | 8 waves/40 damage, max 200.  |
+|  3 | 10 sec.         | 6 sec.   |      75 | 10 waves/50 damage, max 250. |
+ --------------------------------------------------------------------------
+
+2. Water Elemental (SUMMON):
+Summons a Water Elemental to attack the Archmage's enemies. The Water Elemental
+attacks ground and air units.
+ ________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |       EFFECT       |
+|----|-----------------|----------|---------|--------------------|
+|  1 | 60 sec.         | 20 sec.  |     125 | 525 HP, 20 damage. |
+|  2 | 60 sec.         | 20 sec.  |     125 | 675 HP, 35 damage. |
+|  3 | 60 sec.         | 20 sec.  |     125 | 900 HP, 45 damage. |
+ ----------------------------------------------------------------
+
+3. Brilliance Aura (AURA):
+An aura that increases mana regeneration rate of nearby friendly units.
+ _________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |       EFFECT        |
+|----|-----------------|----------|---------|---------------------|
+|  1 | UNLIMITED       | N/A      | N/A     | +0.75 MP regen/sec. |
+|  2 | UNLIMITED       | N/A      | N/A     | +1.5 MP regen/sec.  |
+|  3 | UNLIMITED       | N/A      | N/A     | +2.25 MP regen/sec. |
+ -----------------------------------------------------------------
+
+4. Mass Teleport (TELEPORT, ULTIMATE):
+Teleports 24 of the player's nearby units, including the Archmage, to a
+friendly ground unit or structure.
+ ___________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |            EFFECT             |
+|----|-----------------|----------|---------|-------------------------------|
+|  6 | N/A             | 20 sec.  |     100 | Teleports to a building/unit. |
+ ---------------------------------------------------------------------------
+
+-------------------
+Mountain King [MTK]
+-------------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Normal
+Cooldown: 2.22
+Range: Melee
+Primary Attribute: Strength
+STR Bonus per Level: 3
+AGI Bonus per Level: 1.5
+INT Bonus per Level: 1.5
+Night Sight: 80
+Speed: Average (270)
+Production Hot Key: M
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  | 26-36 [31 avg]/None |   2   | 24  | 11  | 15  | 700  |  225 |
+| 2  | 29-39 [34 avg]/None |   3   | 27  | 12  | 16  | 775  |  240 |
+| 3  | 32-42 [37 avg]/None |   3   | 30  | 14  | 18  | 850  |  270 |
+| 4  | 35-45 [40 avg]/None |   4   | 33  | 15  | 19  | 925  |  285 |
+| 5  | 38-48 [43 avg]/None |   4   | 36  | 17  | 21  | 1000 |  315 |
+| 6  | 41-51 [46 avg]/None |   4   | 39  | 18  | 22  | 1075 |  330 |
+| 7  | 44-54 [49 avg]/None |   5   | 42  | 20  | 24  | 1150 |  360 |
+| 8  | 47-57 [52 avg]/None |   5   | 45  | 21  | 25  | 1225 |  375 |
+| 9  | 50-60 [55 avg]/None |   6   | 48  | 23  | 27  | 1300 |  405 |
+| 10 | 53-63 [58 avg]/None |   6   | 51  | 24  | 28  | 1375 |  420 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (13)
+        - Aggronor the Mighty
+        - Bandis Forgefire
+        - Beazel Bludstone
+        - Bor Stonebreaker
+        - Buri Frostbeard
+        - Gar Doomforge
+        - Grim Thunderbrew
+        - Huginn Ironcliff
+        - Kelv Sternhammer
+        - Modi Stonesmith
+        - Munin Ironcliff
+        - Thordin Rockbeard
+        - Thorgas Broadaxe
+
+KEY HEROES: (1)
+        - Muradin Bronzebeard
+
+SPELLS:
+
+1. Storm Bolt:
+A magical hammer that is thrown at an enemy unit, causing damage and stunning
+the target.
+ _________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |   EFFECT    |
+|----|-----------------|----------|---------|-------------|
+|  1 | 5 (3) sec. stun | 9 sec.   |      75 | 100 damage. |
+|  2 | 5 (3) sec. stun | 9 sec.   |      75 | 225 damage. |
+|  3 | 5 (3) sec. stun | 9 sec.   |      75 | 350 damage. |
+ ---------------------------------------------------------
+
+2. Thunder Clap:
+Slams the ground, damaging nearby enemy units. Units are also slowed by 50% and
+their attack rate is slowed by 50%.
+ ________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT           |
+|----|-----------------|----------|---------|----------------------------|
+|  1 | 5 (3) sec.      | 6 sec.   |      90 | 60 damage, -50% movement.  |
+|  2 | 5 (3) sec.      | 6 sec.   |      90 | 100 damage, -50% movement. |
+|  3 | 5 (3) sec.      | 6 sec.   |      90 | 140 damage, -50% movement. |
+ ------------------------------------------------------------------------
+
+3. Bash (PASSIVE):
+Gives a chance that the Mountain King's attack will do 25 bonus damage and stun
+his opponent for 2 seconds (1 second for Heroes).
+ _____________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |         EFFECT          |
+|----|-----------------|----------|---------|-------------------------|
+|  1 | 2 (1) sec.      | N/A      | N/A     | 20% chance, +25 damage. |
+|  2 | 2 (1) sec.      | N/A      | N/A     | 30% chance, +25 damage. |
+|  3 | 2 (1) sec.      | N/A      | N/A     | 40% chance, +25 damage. |
+ ---------------------------------------------------------------------
+
+4. Avatar (ULTIMATE):
+Transforms the Mountain King to an Avatar that temporarily gives him 5 bonus
+armor, 500 bonus hit points, 20 bonus damage and spell immunity.
+ ____________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |             EFFECT             |
+|----|-----------------|----------|---------|--------------------------------|
+|  6 | 60 sec.         | 180 sec. |     150 | +5 Armor, +500 HP, +20 damage. |
+ ----------------------------------------------------------------------------
+
+----------------
+Blood Mage [BMG]
+----------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Missile
+Cooldown: 1.64
+Range: 600
+Primary Attribute: Intelligence
+STR Bonus per Level: 2
+AGI Bonus per Level: 1
+INT Bonus per Level: 3
+Night Sight: 80
+Speed: Fast (300)
+Production Hot Key: B
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  |    21-27 [24 avg]   |   2   | 18  | 14  | 19  | 550  |  285 |
+| 2  |    24-30 [27 avg]   |   3   | 20  | 15  | 22  | 600  |  330 |
+| 3  |    27-33 [30 avg]   |   3   | 22  | 16  | 25  | 650  |  375 |
+| 4  |    30-36 [33 avg]   |   3   | 24  | 17  | 28  | 700  |  420 |
+| 5  |    33-39 [36 avg]   |   3   | 26  | 18  | 31  | 750  |  465 |
+| 6  |    36-42 [39 avg]   |   4   | 28  | 19  | 34  | 800  |  510 |
+| 7  |    39-45 [42 avg]   |   4   | 30  | 20  | 37  | 850  |  555 |
+| 8  |    42-48 [45 avg]   |   4   | 32  | 21  | 40  | 900  |  600 |
+| 9  |    45-51 [48 avg]   |   5   | 34  | 22  | 43  | 950  |  645 |
+| 10 |    48-54 [51 avg]   |   5   | 36  | 23  | 46  | 1000 |  690 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (14)
+        - Aldos Firestar
+        - Eldin Sunstrider
+        - Geldor Earthfire
+        - Gilaras Drakeson
+        - Hale Magefire
+        - Halendor Burnkin
+        - Kath'ranis Remar
+        - Kelen the Destroyer
+        - Lorn Bloodseeker
+        - Marakanis Starfury
+        - Sylvos Windrunner
+        - Tanin Hawkwing
+        - Tenris Mirkblood
+        - Tyoril Sunchaser
+
+KEY HEROES: (1)
+        - Kael'thas
+
+SPELLS:
+
+1. Flame Strike:
+Conjures a pillar of fire which damages ground units in a target area over
+time.
+ _____________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |     EFFECT      |
+|----|-----------------|----------|---------|-----------------|
+|  1 | 6 sec.          | 10 sec.  |     135 | 45 damage/sec.  |
+|  2 | 6 sec.          | 10 sec.  |     135 | 80 damage/sec.  |
+|  3 | 6 sec.          | 10 sec.  |     135 | 110 damage/sec. |
+ -------------------------------------------------------------
+
+2. Banish:
+Turns a unit ethereal and slows its movement speed by 50%. Ethereal units
+cannot attack, but they can cast spells and will take 66% more damage from
+magic attacks and spells.
+ __________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |        EFFECT        |
+|----|-----------------|----------|---------|----------------------|
+|  1 | 12 (4) sec.     | N/A      |      75 | Turns unit ethereal. |
+|  2 | 15 (5) sec.     | N/A      |      60 | Turns unit ethereal. |
+|  3 | 18 (6) sec.     | N/A      |      50 | Turns unit ethereal. |
+ ------------------------------------------------------------------
+
+3. Siphon Mana:
+Transfers mana between the Blood Mage and a target. Drains mana from an enemy,
+or transfers mana to an ally. Siphon Mana can push the Blood Mage's mana over
+its maximum value, though excess mana drains off rapidly if not used.
+ _______________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |      EFFECT       |
+|----|-----------------|----------|---------|-------------------|
+|  1 | 6 sec.          | 6 sec.   |      10 | Drains 15 MP/sec. |
+|  2 | 6 sec.          | 6 sec.   |      10 | Drains 30 MP/sec. |
+|  3 | 6 sec.          | 6 sec.   |      10 | Drains 45 MP/sec. |
+ ---------------------------------------------------------------
+
+4. Phoenix (SUMMON):
+Summons a powerful Phoenix. The Phoenix burns with such intensity that it
+damages itself and nearby enemy units. Has Spell Immunity, and Resistant Skin.
+When the Phoenix drops to 0 health points, it turns to an egg that will hatch
+into a Phoenix after a certain period of time. The Phoenix dies when its egg is
+destroyed before it hatches.
+ ______________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |      EFFECT      |
+|----|-----------------|----------|---------|------------------|
+|  6 | UNLIMITED       | 180 sec. |     175 | Summons Phoenix. |
+ --------------------------------------------------------------
+
+++++++++++++
+- Orcs [ORC]
+++++++++++++
+
+------------------
+Blade Master [BLA]
+------------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Normal
+Cooldown: 1.77
+Range: Melee
+Primary Attribute: Agility
+STR Bonus per Level: 2
+AGI Bonus per Level: 1.75
+INT Bonus per Level: 2.25
+Night Sight: 80
+Speed: Fast (320)
+Production Hot Key: B
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  | 26-48 [37 avg]/None |   5   | 18  | 24  | 16  | 550  |  240 |
+| 2  | 27-49 [38 avg]/None |   6   | 20  | 25  | 18  | 600  |  270 |
+| 3  | 29-51 [40 avg]/None |   6   | 22  | 27  | 20  | 650  |  300 |
+| 4  | 31-53 [42 avg]/None |   7   | 24  | 29  | 22  | 700  |  330 |
+| 5  | 33-55 [44 avg]/None |   7   | 26  | 31  | 25  | 750  |  375 |
+| 6  | 34-56 [45 avg]/None |   8   | 28  | 32  | 27  | 800  |  405 |
+| 7  | 36-58 [47 avg]/None |   8   | 30  | 34  | 29  | 850  |  435 |
+| 8  | 38-60 [49 avg]/None |   9   | 32  | 36  | 31  | 900  |  465 |
+| 9  | 40-62 [51 avg]/None |   9   | 34  | 38  | 34  | 950  |  510 |
+| 10 | 41-63 [52 avg]/None |   10  | 36  | 39  | 36  | 1000 |  540 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (13)
+        - Akinos
+        - Arashicage
+        - Daisho
+        - Jubei
+        - Kajind
+        - Kigami
+        - Mazuru
+        - Mikasa
+        - Moogul the Sly
+        - Nikoro
+        - Samuro
+        - Tojara
+        - Yozshura
+
+KEY HEROES: (2)
+        - Grom Hellscream
+        - Samuro (BONUS CAMPAIGN, ACT II)
+
+SPELLS:
+
+1. Wind Walk:
+Allows the Blademaster to become invisible, and move faster for a set amount of
+time. When the Blademaster attacks a unit, he will deal bonus damage but break
+invisibility.
+ __________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |            EFFECT            |
+|----|-----------------|----------|---------|------------------------------|
+|  1 | 20 sec.         | 5 sec.   |      75 | +10% movement, +40 damage.   |
+|  2 | 35 sec.         | 5 sec.   |      75 | +40% movement, +70 damage.   |
+|  3 | 50 sec.         | 5 sec.   |      75 | +100% movement, +100 damage. |
+ --------------------------------------------------------------------------
+
+2. Mirror Image (SUMMON):
+Confuses the enemy by creating illusions of the Blademaster and dispelling all
+magic from the Blademaster.
+ __________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |        EFFECT        |
+|----|-----------------|----------|---------|----------------------|
+|  1 | 60 sec.         | 3 sec.   |     125 | Summons 1 illusion.  |
+|  2 | 60 sec.         | 3 sec.   |     125 | Summons 2 illusions. |
+|  3 | 60 sec.         | 3 sec.   |     125 | Summons 3 illusions. |
+ ------------------------------------------------------------------
+
+3. Critical Strike (PASSIVE):
+Gives a 15% chance that the Blademaster will do more damage on his attacks.
+ _________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |       EFFECT        |
+|----|-----------------|----------|---------|---------------------|
+|  1 | UNLIMITED       | N/A      | N/A     | 2 times the damage. |
+|  2 | UNLIMITED       | N/A      | N/A     | 3 times the damage. |
+|  3 | UNLIMITED       | N/A      | N/A     | 4 times the damage. |
+ -----------------------------------------------------------------
+
+4. Bladestorm (ULTIMATE):
+Causes a bladestorm of destructive force around the Blademaster, rendering him
+immune to magic and dealing 110 damage per second to nearby enemy land units.
+ _____________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |             EFFECT              |
+|----|-----------------|----------|---------|---------------------------------|
+|  6 | 7 sec.          | 180 sec. |     200 | Magic immunity, 110 damage/sec. |
+ -----------------------------------------------------------------------------
+
+--------------
+Far Seer [FAR]
+--------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Missile
+Cooldown: 2.28
+Range: 600
+Primary Attribute: Intelligence
+STR Bonus per Level: 2
+AGI Bonus per Level: 1
+INT Bonus per Level: 3
+Night Sight: 80
+Speed: Fast (320)
+Production Hot Key: F
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  |    21-27 [24 avg]   |   3   | 15  | 18  |  19 | 475  |  285 |
+| 2  |    24-30 [27 avg]   |   4   | 17  | 19  |  22 | 525  |  330 |
+| 3  |    27-33 [30 avg]   |   4   | 19  | 20  |  25 | 575  |  375 |
+| 4  |    30-36 [33 avg]   |   4   | 21  | 21  |  28 | 625  |  420 |
+| 5  |    33-39 [36 avg]   |   5   | 23  | 22  |  31 | 675  |  465 |
+| 6  |    36-42 [39 avg]   |   5   | 25  | 23  |  34 | 725  |  510 |
+| 7  |    39-45 [42 avg]   |   5   | 27  | 24  |  37 | 775  |  555 |
+| 8  |    42-48 [45 avg]   |   6   | 29  | 25  |  40 | 825  |  600 |
+| 9  |    45-51 [48 avg]   |   6   | 31  | 26  |  43 | 875  |  645 |
+| 10 |    48-54 [51 avg]   |   6   | 33  | 27  |  46 | 925  |  690 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (11)
+        - Bale Bleakstare
+        - Fenris'ar Gul
+        - Gar'dal Grimsight
+        - Gorr Grimwolf
+        - Kag'ar Winterfang
+        - Kazil Darkeye
+        - Kazragore
+        - Magis Coldeye
+        - Morg Wolfsong
+        - Nazgrel
+        - Negal Fireye
+
+KEY HEROES: (2)
+        - Drek'Thar (BONUS CAMPAIGN, ACT I)
+        - Thrall (unique model)
+
+SPELLS:
+
+1. Chain Lightning:
+Hurls a bolt of damaging lightning at a target enemy that jumps to nearby
+enemies. Each jump deals less damage.
+ ________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT           |
+|----|-----------------|----------|---------|----------------------------|
+|  1 | N/A             | 9 sec.   |     120 | 85 damage, jumps 4 times.  |
+|  2 | N/A             | 9 sec.   |     120 | 125 damage, jumps 6 times. |
+|  3 | N/A             | 9 sec.   |     120 | 180 damage, jumps 8 times. |
+ ------------------------------------------------------------------------
+
+2. Far Sight:
+Reveals the area of the map that is cast upon. Also reveals invisible units.
+ _________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT            |
+|----|-----------------|----------|---------|-----------------------------|
+|  1 | 8 sec.          | N/A      |      75 | Reveals an area of the map. |
+|  2 | 8 sec.          | N/A      |      60 | Reveals an area of the map. |
+|  3 | 8 sec.          | N/A      |      50 | Reveals an area of the map. |
+ -------------------------------------------------------------------------
+
+3. Feral Spirit (SUMMON):
+Summons 2 Wolves to attack the Far Seer's enemies. Wolves attack ground units.
+ ____________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |             EFFECT             |
+|----|-----------------|----------|---------|--------------------------------|
+|  1 | 60 sec.         | 30 sec.  |      75 | Summons Spirit Wolves, 200 HP. |
+|  2 | 60 sec.         | 25 sec.  |      75 | Summons Dire Wolves, 300 HP.   |
+|  3 | 60 sec.         | 25 sec.  |      75 | Summons Shadow Wolves, 500 HP. |
+ ----------------------------------------------------------------------------
+
+4. Earthquake (ULTIMATE):
+Makes the ground tremble and break, causing 50 damage per second to buildings
+and slowing units by 75% within area of effect. Lasts 25 seconds.
+ ______________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |          EFFECT          |
+|----|-----------------|----------|---------|--------------------------|
+|  6 | 25 sec.         | 90 sec.  |     150 | 50 damage/sec, 75% slow. |
+ ----------------------------------------------------------------------
+
+----------------------
+Tauren Chieftain [TAU]
+----------------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Normal
+Cooldown: 2.05
+Range: Melee
+Primary Attribute: Strength
+STR Bonus per Level: 3.2
+AGI Bonus per Level: 1.5
+INT Bonus per Level: 1.3
+Night Sight: 80
+Speed: Average (270)
+Production Hot Key: T
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  | 27-37 [32 avg]/None |   2   | 25  | 10  |  15 | 725  |  225 |
+| 2  | 30-40 [35 avg]/None |   2   | 28  | 11  |  16 | 800  |  240 |
+| 3  | 33-43 [38 avg]/None |   3   | 31  | 13  |  17 | 875  |  255 |
+| 4  | 36-46 [41 avg]/None |   3   | 34  | 14  |  18 | 950  |  270 |
+| 5  | 39-49 [44 avg]/None |   4   | 37  | 16  |  20 | 1025 |  300 |
+| 6  | 43-53 [48 avg]/None |   4   | 41  | 17  |  21 | 1125 |  315 |
+| 7  | 46-56 [51 avg]/None |   5   | 44  | 19  |  22 | 1200 |  330 |
+| 8  | 49-59 [54 avg]/None |   5   | 47  | 20  |  24 | 1275 |  360 |
+| 9  | 52-62 [57 avg]/None |   6   | 50  | 22  |  25 | 1350 |  375 |
+| 10 | 55-65 [60 avg]/None |   6   | 53  | 23  |  26 | 1425 |  390 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (10)
+        - Durn Harpyslayer
+        - Grok Bloodhorn
+        - Kam Ghoststeer
+        - Kel Stonebull
+        - Malar Plainstrider
+        - Marn Thunderhorn
+        - Mull Stormhoof
+        - Tam Windtotem
+        - Taur Runetotem
+        - Tygore Dusthoof
+
+KEY HEROES: (2)
+        - Baine Bloodhoof (BONUS CAMPAIGN, ACT II)
+        - Cairne Bloodhoof
+
+SPELLS:
+
+1. Shockwave:
+A wave of force that ripples out from the Hero, causing damage to land units in
+a line.
+ _________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |   EFFECT    |
+|----|-----------------|----------|---------|-------------|
+|  1 | N/A             | 8 sec.   |     100 | 75 damage.  |
+|  2 | N/A             | 8 sec.   |     100 | 130 damage. |
+|  3 | N/A             | 8 sec.   |     100 | 200 damage. |
+ ---------------------------------------------------------
+
+2. War Stomp:
+Slams the ground that stun and damage nearby enemy units.
+ ________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |   EFFECT   |
+|----|-----------------|----------|---------|------------|
+|  1 | 3 (2) sec. stun | 6 sec.   |      90 | 25 damage. |
+|  2 | 4 (3) sec. stun | 6 sec.   |      90 | 50 damage. |
+|  3 | 5 (4) sec. stun | 6 sec.   |      90 | 75 damage. |
+ --------------------------------------------------------
+
+3. Endurance Aura (AURA):
+An aura that increases the movement speed and attack rate of nearby friendly
+units.
+ _______________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |          EFFECT           |
+|----|-----------------|----------|---------|---------------------------|
+|  1 | UNLIMITED       | N/A      | N/A     | +10% movement, +5% rate.  |
+|  2 | UNLIMITED       | N/A      | N/A     | +20% movement, +10% rate. |
+|  3 | UNLIMITED       | N/A      | N/A     | +30% movement, +15% rate. |
+ -----------------------------------------------------------------------
+
+4. Reincarnation (PASSIVE, ULTIMATE):
+When killed, the Tauren Chieftain will come back to life. The Tauren Chieftain
+will return with full health points and mana.
+ ___________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |    EFFECT     |
+|----|-----------------|----------|---------|---------------|
+|  6 | 7 sec.          | 240 sec. | N/A     | Hero revives. |
+ -----------------------------------------------------------
+
+-------------------
+Shadow Hunter [SHA]
+-------------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Missile
+Cooldown: 2.28
+Range: 600
+Primary Attribute: Agility
+STR Bonus per Level: 2
+AGI Bonus per Level: 1.5
+INT Bonus per Level: 2.5
+Night Sight: 80
+Speed: Fast (320)
+Production Hot Key: H
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  |    22-28 [25 avg]   |   4   | 15  | 20  |  17 | 475  |  255 |
+| 2  |    23-29 [26 avg]   |   4   | 17  | 21  |  19 | 525  |  285 |
+| 3  |    25-31 [28 avg]   |   5   | 19  | 23  |  22 | 575  |  330 |
+| 4  |    26-32 [29 avg]   |   5   | 21  | 24  |  24 | 625  |  360 |
+| 5  |    28-34 [31 avg]   |   6   | 23  | 26  |  27 | 675  |  405 |
+| 6  |    29-35 [32 avg]   |   6   | 25  | 27  |  29 | 725  |  435 |
+| 7  |    31-37 [34 avg]   |   7   | 27  | 29  |  32 | 775  |  480 |
+| 8  |    32-38 [35 avg]   |   7   | 29  | 31  |  34 | 825  |  510 |
+| 9  |    34-40 [37 avg]   |   8   | 31  | 32  |  37 | 875  |  555 |
+| 10 |    35-41 [38 avg]   |   8   | 33  | 33  |  39 | 925  |  585 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (8)
+        - Jo Jo Headshrinker
+        - Mezil-kree
+        - Shaka-zahn
+        - Shakti-lar
+        - Zul'abar
+        - Zul'kis
+        - Zul'maran
+        - Zul'rajas
+
+KEY HEROES: (1)
+        - Rokhan (BONUS CAMPAIGN, ACT I)
+
+SPELLS:
+
+1. Healing Wave (HEAL):
+Calls forth a wave of energy that heals a target and bounces to nearby
+friendlies. Each bounce heals less damage.
+ __________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |            EFFECT            |
+|----|-----------------|----------|---------|------------------------------|
+|  1 | N/A             | 9 sec.   |      90 | Heals 130 HP, jumps 3 times. |
+|  2 | N/A             | 9 sec.   |      90 | Heals 215 HP, jumps 4 times. |
+|  3 | N/A             | 9 sec.   |      90 | Heals 300 HP, jumps 5 times. |
+ --------------------------------------------------------------------------
+
+2. Hex:
+Transforms an enemy unit into a random critter, disabling special abilities and
+rendering it unable to attack.
+ ________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT           |
+|----|-----------------|----------|---------|----------------------------|
+|  1 | 15 (4) sec.     | 7 sec.   |      70 | Turns unit into a critter. |
+|  2 | 30 (5) sec.     | 7 sec.   |      70 | Turns unit into a critter. |
+|  3 | 45 (6) sec.     | 7 sec.   |      70 | Turns unit into a critter. |
+ ------------------------------------------------------------------------
+
+3. Serpent Ward:
+Creates an immobile serpentine ward to attack the Shadow Hunter's enemies. The
+ward is immune to magic.
+ ___________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |        EFFECT         |
+|----|-----------------|----------|---------|-----------------------|
+|  1 | 40 sec.         | 6.5 sec. |      30 | 75 HP, 11-13 damage.  |
+|  2 | 40 sec.         | 6.5 sec. |      30 | 135 HP, 23-26 damage. |
+|  3 | 40 sec.         | 6.5 sec. |      30 | 135 HP, 41-45 damage. |
+ -------------------------------------------------------------------
+
+4. Big Bad Voodoo (ULTIMATE):
+Turns all friendly units invulnerable in an area around the Shadow Hunter. The
+Shadow Hunter does not turn invulnerable.
+ ________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT           |
+|----|-----------------|----------|---------|----------------------------|
+|  6 | 30 sec.         | 180 sec. |     200 | Units become invulnerable. |
+ ------------------------------------------------------------------------
+
++++++++++++++++++++
+- Night Elves [ELF]
++++++++++++++++++++
+
+------------------
+Demon Hunter [DEM]
+------------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Normal
+Cooldown: 1.7
+Range: Melee
+Primary Attribute: Agility
+STR Bonus per Level: 2.4
+AGI Bonus per Level: 1.5
+INT Bonus per Level: 2.1
+Night Sight: 80 (180*)
+Speed: Fast (320)
+Production Hot Key: D
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  | 24-46 [35 avg]/None |   5   | 19  | 22  |  16 | 575  |  240 |
+| 2  | 25-47 [36 avg]/None |   5   | 21  | 23  |  18 | 625  |  270 |
+| 3  | 27-49 [38 avg]/None |   6   | 23  | 25  |  20 | 675  |  300 |
+| 4  | 28-50 [39 avg]/None |   6   | 26  | 26  |  22 | 750  |  330 |
+| 5  | 30-52 [41 avg]/None |   6   | 28  | 28  |  24 | 800  |  360 |
+| 6  | 31-53 [42 avg]/None |   7   | 31  | 29  |  26 | 875  |  390 |
+| 7  | 33-55 [44 avg]/None |   7   | 33  | 31  |  28 | 925  |  420 |
+| 8  | 34-56 [45 avg]/None |   8   | 35  | 32  |  30 | 975  |  450 |
+| 9  | 36-58 [47 avg]/None |   8   | 38  | 34  |  32 | 1050 |  480 |
+| 10 | 37-59 [48 avg]/None |   9   | 40  | 35  |  34 | 1100 |  510 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (15)
+        - Bloodwrath
+        - Darksorrow
+        - Darkterror
+        - Darkweaver
+        - Firebrand
+        - Flameseeker
+        - Hellbourne
+        - Painkiller
+        - Ragerunner
+        - Shadowfury
+        - Shadowsong
+        - Shadowstalker
+        - Sindweller
+        - Terrorblade
+        - Wrathbringer
+
+KEY HEROES: (1)
+        - Illidan Stormrage
+
+SPELLS:
+
+1. Mana Burn:
+Sends a bolt of negative energy that burns a target enemy unit's mana. Burned
+mana combusts, dealing damage to the target equal to the amount of mana burned.
+ ___________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |    EFFECT     |
+|----|-----------------|----------|---------|---------------|
+|  1 | N/A             | 7 sec.   |      50 | Burns 50 MP.  |
+|  2 | N/A             | 6 sec.   |      50 | Burns 100 MP. |
+|  3 | N/A             | 5 sec.   |      50 | Burns 150 MP. |
+ -----------------------------------------------------------
+
+2. Immolation (AUTOCAST):
+Engulfs the Demon Hunter in flames, causing damage to nearby enemy land units.
+Drains mana until deactivated.
+ ________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN |   MP COST   |     EFFECT     |
+|----|-----------------|----------|-------------|----------------|
+|  1 | N/A             | N/A      | 35 + 7/sec. | 10 damage/sec. |
+|  2 | N/A             | N/A      | 35 + 7/sec. | 15 damage/sec. |
+|  3 | N/A             | N/A      | 35 + 7/sec. | 20 damage/sec. |
+ ----------------------------------------------------------------
+
+3. Evasion (PASSIVE):
+Gives the Demon Hunter a chance to avoid attacks.
+ ______________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |          EFFECT          |
+|----|-----------------|----------|---------|--------------------------|
+|  1 | N/A             | N/A      | N/A     | 10% chance enemy misses. |
+|  2 | N/A             | N/A      | N/A     | 20% chance enemy misses. |
+|  3 | N/A             | N/A      | N/A     | 30% chance enemy misses. |
+ ----------------------------------------------------------------------
+
+4. Metamorphosis (ULTIMATE):
+Transforms the Demon Hunter into a powerful demon with a ranged attack (60
+range) and 500 bonus hit points.
+ ______________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |          EFFECT          |
+|----|-----------------|----------|---------|--------------------------|
+|  6 | 60 sec.         | 180 sec. |     150 | +500 HP, 3 HP regen/sec. |
+ ----------------------------------------------------------------------
+
+-------------------------
+Keeper of the Grove [KEE]
+-------------------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Missile
+Cooldown: 2.13
+Range: 600
+Primary Attribute: Intelligence
+STR Bonus per Level: 1.8
+AGI Bonus per Level: 1.5
+INT Bonus per Level: 2.7
+Night Sight: 80 (180*)
+Speed: Fast (320)
+Production Hot Key: K
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  |    20-26 [23 avg]   |   3   | 16  | 15  |  18 | 500  |  270 |
+| 2  |    22-28 [25 avg]   |   3   | 17  | 16  |  20 | 525  |  300 |
+| 3  |    25-31 [28 avg]   |   3   | 19  | 18  |  23 | 575  |  345 |
+| 4  |    28-34 [31 avg]   |   4   | 21  | 19  |  26 | 625  |  390 |
+| 5  |    30-36 [33 avg]   |   4   | 23  | 21  |  28 | 675  |  420 |
+| 6  |    33-39 [36 avg]   |   5   | 25  | 22  |  31 | 725  |  465 |
+| 7  |    36-42 [39 avg]   |   5   | 26  | 24  |  34 | 750  |  510 |
+| 8  |    38-44 [41 avg]   |   6   | 28  | 25  |  36 | 800  |  540 |
+| 9  |    41-47 [44 avg]   |   6   | 30  | 27  |  39 | 850  |  585 |
+| 10 |    44-50 [47 avg]   |   6   | 32  | 28  |  42 | 900  |  630 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (12)
+        - Anubris
+        - Bandalar
+        - Califax
+        - Centrius
+        - Ceredwyn
+        - Dagda
+        - Gholbine
+        - Larodar
+        - Malorne
+        - Nandieb
+        - Nuada
+        - Oghma
+
+KEY HEROES: (2)
+        - Cenarius (unique model, enlarged version of the regular hero)
+        - Malfurion Stormrage (unique model)
+
+SPELLS:
+
+1. Entangling Roots:
+Causes roots to burst from the ground, immobilizing and damaging a target
+enemy unit.
+ __________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |        EFFECT        |
+|----|-----------------|----------|---------|----------------------|
+|  1 | 9 (3) sec.      | 8 sec.   |      75 | Deals 15 damage/sec. |
+|  2 | 24 (4) sec.     | 8 sec.   |      75 | Deals 15 damage/sec. |
+|  3 | 36 (5) sec.     | 8 sec.   |      75 | Deals 25 damage/sec. |
+ ------------------------------------------------------------------
+
+2. Force of Nature (SUMMON):
+Converts an area of trees into Treants to attack the Keeper of the Grove's
+enemies. Treants attack ground units.
+ ________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT           |
+|----|-----------------|----------|---------|----------------------------|
+|  1 | 60 sec.         | 20 sec.  |     125 | Summons 2 Treants, 300 HP. |
+|  2 | 60 sec.         | 20 sec.  |     125 | Summons 3 Treants, 300 HP. |
+|  3 | 60 sec.         | 20 sec.  |     125 | Summons 4 Treants, 300 HP. |
+ ------------------------------------------------------------------------
+
+3. Thorns Aura (AURA):
+An aura that gives nearby friendly units a damage shield, which returns damage
+inflicted by enemy melee units.
+ __________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |        EFFECT        |
+|----|-----------------|----------|---------|----------------------|
+|  1 | UNLIMITED       | N/A      | N/A     | 10% damage returned. |
+|  2 | UNLIMITED       | N/A      | N/A     | 20% damage returned. |
+|  3 | UNLIMITED       | N/A      | N/A     | 30% damage returned. |
+ ------------------------------------------------------------------
+
+4. Tranquility (HEAL, ULTIMATE):
+Causes a rain of healing energy to pour down in a large area, healing friendly
+units for 20 hit points per second.
+ ______________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |      EFFECT      |
+|----|-----------------|----------|---------|------------------|
+|  6 | 30 sec.         | 60 sec.  |     125 | Heals 20 HP/sec. |
+ --------------------------------------------------------------
+
+---------------------------
+Priestess of the Moon [PRI]
+---------------------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Missile
+Cooldown: 2.46
+Range: 600
+Primary Attribute: Agility
+STR Bonus per Level: 1.9
+AGI Bonus per Level: 1.5
+INT Bonus per Level: 2.6
+Night Sight: 80 (180*)
+Speed: Fast (320)
+Production Hot Key: P
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  |    21-31 [26 avg]   |   4   | 18  | 19  |  15 | 550  |  225 |
+| 2  |    22-32 [27 avg]   |   4   | 19  | 20  |  17 | 575  |  255 |
+| 3  |    24-34 [29 avg]   |   5   | 21  | 22  |  20 | 625  |  300 |
+| 4  |    25-35 [30 avg]   |   5   | 23  | 23  |  22 | 675  |  330 |
+| 5  |    27-37 [32 avg]   |   6   | 25  | 25  |  25 | 725  |  375 |
+| 6  |    28-38 [33 avg]   |   6   | 27  | 26  |  28 | 775  |  420 |
+| 7  |    30-40 [35 avg]   |   6   | 29  | 28  |  30 | 825  |  450 |
+| 8  |    31-41 [36 avg]   |   7   | 31  | 29  |  33 | 875  |  495 |
+| 9  |    33-43 [38 avg]   |   7   | 33  | 31  |  35 | 925  |  525 |
+| 10 |    34-44 [39 avg]   |   8   | 35  | 32  |  38 | 975  |  570 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (13)
+        - Adora Nightshade
+        - Anara Chillwind
+        - Ariel Darkmoon
+        - Delas Moonfang
+        - Diana Windwood
+        - Felore Moonray
+        - Kathris Starsong
+        - Kera Stardragon
+        - Mave Whisperwind
+        - Mira Whitemane
+        - Mora Moonsinger
+        - Theta Saberfang
+        - Tygra Snowscar
+
+KEY HEROES: (1)
+        - Tyrande Whisperwind
+
+SPELLS:
+
+1. Scout (SUMMON):
+Summons an Owl Scout, which can be used to scout the map. Can see invisible
+units. Owl Scouts are invulnerable.
+ ________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |       EFFECT       |
+|----|-----------------|----------|---------|--------------------|
+|  1 | 60 sec.         | 20 sec.  |     100 | Summons Owl Scout. |
+|  2 | 90 sec.         | 20 sec.  |      75 | Summons Owl Scout. |
+|  3 | 120 sec.        | 20 sec.  |      50 | Summons Owl Scout. |
+ ----------------------------------------------------------------
+
+2. Searing Arrows (AUTOCAST):
+Increases the damage of the Priestess' attack by adding fire. Searing Arrows
+will fire until the Priestess is out of mana. Manually casting Searing Arrows
+will allow the Priestess of the Moon to fire beyond her normal 60 range at
+level 2.
+ ________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |       EFFECT       |
+|----|-----------------|----------|---------|--------------------|
+|  1 | N/A             | 1 sec.   |       8 | +10% bonus damage. |
+|  2 | N/A             | 1 sec.   |       8 | +20% bonus damage. |
+|  3 | N/A             | 1 sec.   |       8 | +30% bonus damage. |
+ ----------------------------------------------------------------
+
+3. Trueshot Aura (AURA):
+An aura that gives bonus damage to nearby ranged friendly units.
+ _________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |       EFFECT        |
+|----|-----------------|----------|---------|---------------------|
+|  1 | UNLIMITED       | N/A      | N/A     | +10% ranged damage. |
+|  2 | UNLIMITED       | N/A      | N/A     | +20% ranged damage. |
+|  3 | UNLIMITED       | N/A      | N/A     | +30% ranged damage. |
+ -----------------------------------------------------------------
+
+4. Starfall (ULTIMATE):
+Calls down waves of falling stars that damage nearby enemy units. Each wave
+deals 50 damage. The time between waves is 1.5 seconds.
+ ________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT           |
+|----|-----------------|----------|---------|----------------------------|
+|  6 | 45 sec.         | 180 sec. |     200 | 50 damage/wave for 45 sec. |
+ ------------------------------------------------------------------------
+
+------------
+Warden [WAR]
+------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Normal
+Cooldown: 2.05
+Range: Melee
+Primary Attribute: Agility
+STR Bonus per Level: 2.4
+AGI Bonus per Level: 1.6
+INT Bonus per Level: 2
+Night Sight: 80 (180*)
+Speed: Fast (320)
+Production Hot Key: W
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  | 22-42 [32 avg]/None |   4   | 18  | 20  |  15 | 550  |  225 |
+| 2  | 23-43 [33 avg]/None |   4   | 20  | 21  |  17 | 600  |  255 |
+| 3  | 25-45 [35 avg]/None |   5   | 22  | 23  |  19 | 650  |  285 |
+| 4  | 26-46 [36 avg]/None |   5   | 25  | 24     21 | 725  |  315 |
+| 5  | 28-48 [38 avg]/None |   6   | 27  | 26  |  23 | 775  |  345 |
+| 6  | 30-50 [40 avg]/None |   6   | 30  | 28  |  25 | 850  |  375 |
+| 7  | 31-51 [41 avg]/None |   7   | 32  | 29  |  27 | 900  |  405 |
+| 8  | 33-53 [43 avg]/None |   7   | 34  | 31  |  29 | 950  |  435 |
+| 9  | 34-54 [44 avg]/None |   8   | 37  | 32  |  31 | 1025 |  465 |
+| 10 | 36-56 [46 avg]/None |   8   | 39  | 34  |  33 | 1075 |  495 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (14)
+        - Alsa Iron-cell
+        - Anaya Felgrove
+        - Cordana Felsong
+        - Drelanim Whisperwind
+        - Felhala Starmoon
+        - Kiri Starstalker
+        - Malace Shade
+        - Marin Bladewing
+        - Mirana Starlight
+        - Nalmeena Darkfollow
+        - Saithis
+        - Shalis Darkhunter
+        - Sira Moonwarden
+        - The Iron Raven
+
+KEY HEROES: (1)
+        - Maiev Shadowsong
+
+SPELLS:
+
+1. Fan of Knives:
+The Warden flings a flurry of knives at multiple enemy targets around her.
+ _________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |       EFFECT        |
+|----|-----------------|----------|---------|---------------------|
+|  1 | N/A             | 9 sec.   |     100 | 75 damage, max 300  |
+|  2 | N/A             | 9 sec.   |     100 | 125 damage, max 625 |
+|  3 | N/A             | 9 sec.   |     100 | 190 damage, max 950 |
+ -----------------------------------------------------------------
+
+2. Blink (TELEPORT):
+Short distance teleportation that allows the Warden to move in and out of
+combat.
+ _________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT            |
+|----|-----------------|----------|---------|-----------------------------|
+|  1 | N/A             | 10 sec.  |      50 | Teleports a short distance. |
+|  2 | N/A             | 10 sec.  |      10 | Teleports a short distance. |
+|  3 | N/A             | 1 sec.   |      10 | Teleports a short distance. |
+ -------------------------------------------------------------------------
+
+3. Shadow Strike:
+Hurls a poisoned dagger which deals large initial damage, and then deals damage
+over time. The poisoned unit has its movement rate slowed by 50% for a short
+duration.
+ __________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |            EFFECT            |
+|----|-----------------|----------|---------|------------------------------|
+|  1 | 15 sec.         | 8 sec.   |      75 | 75 damage, 10 damage/3 sec.  |
+|  2 | 15 sec.         | 8 sec.   |      75 | 150 damage, 30 damage/3 sec. |
+|  3 | 15 sec.         | 8 sec.   |      75 | 225 damage, 45 damage/3 sec. |
+ --------------------------------------------------------------------------
+
+4. Vengeance (ULTIMATE):
+Transforms the Warden into a powerful vengeful spirit that summons invulnerable
+spirits from friendly corpses to attack its enemies. When the Avatar of
+Vengeance dies, the spirits vanish.
+ __________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |            EFFECT            |
+|----|-----------------|----------|---------|------------------------------|
+|  6 | N/A             | 180 sec. |     200 | Summons Avatar of Vengeance. |
+ --------------------------------------------------------------------------
+
+++++++++++++++
+- Undead [UND]
+++++++++++++++
+
+------------------
+Death Knight [DEA]
+------------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Normal
+Cooldown: 2.33
+Range: Melee
+Primary Attribute: Strength
+STR Bonus per Level: 2.7
+AGI Bonus per Level: 1.5
+INT Bonus per Level: 1.8
+Night Sight: 80
+Speed: Fast (320)
+Production Hot Key: D
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  | 25-35 [30 avg]/None |   3   | 23  | 12  |  17 | 675  |  255 |
+| 2  | 27-37 [32 avg]/None |   3   | 25  | 13  |  18 | 725  |  270 |
+| 3  | 30-40 [35 avg]/None |   4   | 28  | 15  |  20 | 800  |  300 |
+| 4  | 33-43 [38 avg]/None |   4   | 31  | 16  |  22 | 875  |  330 |
+| 5  | 35-45 [40 avg]/None |   4   | 33  | 18  |  24 | 925  |  360 |
+| 6  | 38-48 [43 avg]/None |   5   | 36  | 19  |  26 | 1000 |  390 |
+| 7  | 41-51 [46 avg]/None |   5   | 39  | 21  |  27 | 1075 |  405 |
+| 8  | 43-53 [48 avg]/None |   6   | 41  | 22  |  29 | 1125 |  435 |
+| 9  | 46-56 [51 avg]/None |   6   | 44  | 24  |  31 | 1200 |  465 |
+| 10 | 49-59 [54 avg]/None |   7   | 47  | 25  |  33 | 1275 |  495 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (15)
+        - Baron Bloodbane
+        - Baron Felblade
+        - Baron Frostfel
+        - Baron Perenolde
+        - Baron Morte
+        - Duke Dreadmoore
+        - Duke Ragereaver
+        - Duke Wintermaul
+        - Lord Darkhallow
+        - Lord Darkscythe
+        - Lord Dethstorm
+        - Lord Lightstalker
+        - Lord Maldazzar
+        - Lord Nightsorrow
+        - Lord Soulrender
+
+KEY HEROES: (1)
+        - Arthas (After completing the Human campaign in Warcraft III: Reign of
+Chaos)
+
+SPELLS:
+
+1. Death Coil (HEAL):
+A coil of death that damage an enemy living unit or heal a friendly undead
+unit.
+ _________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT            |
+|----|-----------------|----------|---------|-----------------------------|
+|  1 | N/A             | 6 sec.   |      75 | 100 damage or heals 200 HP. |
+|  2 | N/A             | 6 sec.   |      75 | 200 damage or heals 400 HP. |
+|  3 | N/A             | 6 sec.   |      75 | 300 damage or heals 600 HP. |
+ -------------------------------------------------------------------------
+
+2. Death Pact:
+Kills a target friendly unit, giving a percentage of its hit points to the
+Death Knight.
+ ______________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |  EFFECT  |
+|----|-----------------|----------|---------|----------|
+|  1 | N/A             | 15 sec.  |      50 | 100% HP. |
+|  2 | N/A             | 15 sec.  |      50 | 200% HP. |
+|  3 | N/A             | 15 sec.  |      50 | 300% HP. |
+ ------------------------------------------------------
+
+3. Unholy Aura (AURA):
+An aura that increases the movement speed and health point regeneration rate
+of nearby friendly units.
+ _________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT            |
+|----|-----------------|----------|---------|-----------------------------|
+|  1 | UNLIMITED       | N/A      | N/A     | +10% movement, +0.5 HP/sec. |
+|  2 | UNLIMITED       | N/A      | N/A     | +20% movement, +1 HP/sec.   |
+|  3 | UNLIMITED       | N/A      | N/A     | +30% movement, +1.5 HP/sec. |
+ -------------------------------------------------------------------------
+
+4. Animate Dead (SUMMON, ULTIMATE):
+Raises 6 nearby dead units in an area to fight for the Death Knight. Animated
+units are invulnerable.
+ __________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |            EFFECT            |
+|----|-----------------|----------|---------|------------------------------|
+|  6 | 40 sec.         | 180 sec. |     175 | Summons 6 random dead units. |
+ --------------------------------------------------------------------------
+
+----------------
+Dread Lord [DRE]
+----------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Normal
+Cooldown: 1.8
+Range: Melee
+Primary Attribute: Strength
+STR Bonus per Level: 2.5
+AGI Bonus per Level: 1
+INT Bonus per Level: 2.5
+Night Sight: 80
+Speed: Average (270)
+Production Hot Key: E
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  | 22-32 [27 avg]/None |   3   | 20  | 16  |  18 | 600  |  270 |
+| 2  | 24-34 [29 avg]/None |   3   | 22  | 17  |  20 | 650  |  300 |
+| 3  | 27-37 [32 avg]/None |   3   | 25  | 18  |  23 | 725  |  345 |
+| 4  | 29-39 [34 avg]/None |   4   | 27  | 19  |  25 | 775  |  375 |
+| 5  | 32-42 [37 avg]/None |   4   | 30  | 20  |  28 | 850  |  420 |
+| 6  | 34-44 [39 avg]/None |   4   | 32  | 21  |  30 | 900  |  450 |
+| 7  | 37-47 [42 avg]/None |   5   | 35  | 22  |  33 | 975  |  495 |
+| 8  | 39-49 [44 avg]/None |   5   | 37  | 23  |  35 | 1025 |  525 |
+| 9  | 42-52 [47 avg]/None |   5   | 40  | 24  |  38 | 1100 |  570 |
+| 10 | 44-54 [49 avg]/None |   6   | 42  | 25  |  40 | 1150 |  600 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (18)
+        - Algammon
+        - Aramachus
+        - Balnazzar
+        - Banehallow
+        - Bleakill
+        - Dethecus
+        - Fearoth
+        - Lorthiras
+        - Maldibion
+        - Mullioch
+        - Necros
+        - Nerothos
+        - Nochthitus
+        - Rashgarroth
+        - Terrordar
+        - Ven'Gyr
+        - Zenedar
+        - Zilfallon
+
+KEY HEROES: (8)
+        - Anetheron
+        - Balnazzar
+        - Detheroc
+        - Mal'Ganis
+        - Mephistroth
+        - Talnivarr the Sleeper (BONUS CAMPAIGN, ACT II)
+        - Tichondrius
+        - Varimathras
+
+SPELLS:
+
+1. Carrion Swarm:
+Sends a horde of bats to damage enemies.
+ ________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT           |
+|----|-----------------|----------|---------|----------------------------|
+|  1 | N/A             | 10 sec.  |     110 | 75 damage/unit, max 300.   |
+|  2 | N/A             | 10 sec.  |     110 | 125 damage/unit, max 600.  |
+|  3 | N/A             | 10 sec.  |     110 | 200 damage/unit, max 1000. |
+ ------------------------------------------------------------------------
+
+2. Sleep:
+Puts a target enemy unit to sleep. A sleeping unit can be awoken by attacking
+it.
+ ________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |       EFFECT       |
+|----|-----------------|----------|---------|--------------------|
+|  1 | 20 (5) sec.     | 6 sec.   |     100 | Unit put to sleep. |
+|  2 | 40 (10) sec.    | 6 sec.   |      75 | Unit put to sleep. |
+|  3 | 60 (15) sec.    | 6 sec.   |      50 | Unit put to sleep. |
+ ----------------------------------------------------------------
+
+3. Vampiric Aura (AURA):
+An aura that gives hit points to nearby melee friendly units when they attack a
+unit.
+ ________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT           |
+|----|-----------------|----------|---------|----------------------------|
+|  1 | UNLIMITED       | N/A      | N/A     | HP equal to 15% of damage. |
+|  2 | UNLIMITED       | N/A      | N/A     | HP equal to 30% of damage. |
+|  3 | UNLIMITED       | N/A      | N/A     | HP equal to 45% of damage. |
+ ------------------------------------------------------------------------
+
+4. Infernal (SUMMON, ULTIMATE):
+Calls an Infernal down from the sky, dealing 50 damage and stunning enemy
+ground units for 4 seconds in an area. An infernal has 1500 hit points.
+ ____________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |             EFFECT             |
+|----|-----------------|----------|---------|--------------------------------|
+|  6 | 180 sec.        | 180 sec. |     175 | Summons Infernal, 4 sec. stun. |
+ ----------------------------------------------------------------------------
+
+----------
+Lich [LIC]
+----------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Missile
+Cooldown: 1.9
+Range: 600
+Primary Attribute: Intelligence
+STR Bonus per Level: 2
+AGI Bonus per Level: 1
+INT Bonus per Level: 3.4
+Night Sight: 80
+Speed: Average (270)
+Production Hot Key: L
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  |	22-28 [25 avg] 	   |   2   | 15  | 14  | 20  | 475  |  300 |
+| 2  |	25-31 [28 avg] 	   |   3   | 17  | 15  | 23  | 525  |  345 |
+| 3  |	28-34 [31 avg] 	   |   3   | 19  | 16  | 26  | 575  |  390 |
+| 4  |	32-38 [35 avg] 	   |   3   | 21  | 17  | 30  | 625  |  450 |
+| 5  |	35-41 [38 avg] 	   |   3   | 23  | 18  | 33  | 675  |  495 |
+| 6  |	39-45 [42 avg] 	   |   4   | 25  | 19  | 37  | 725  |  555 |
+| 7  |	42-48 [45 avg] 	   |   4   | 27  | 20  | 40  | 775  |  600 |
+| 8  |	44-51 [48 avg] 	   |   4   | 29  | 21  | 43  | 825  |  645 |
+| 9  |	49-55 [52 avg] 	   |   5   | 31  | 22  | 47  | 875  |  705 |
+| 10 |	52-58 [55 avg] 	   |   5   | 33  | 23  | 50  | 925  |  750 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (16)
+        - Alandil Lieng
+        - Araj the Summoner
+        - Calis Wraithson
+        - Cho'Nammoth
+        - Coldreaver
+        - Din Frostfire
+        - Kali'naj Dethknell
+        - Kryptikk Soulslayer
+        - Morbent Fell
+        - Naze the Eternal
+        - Ordin Frostbane
+        - Rage Winterchill
+        - Rak Coldskull
+        - Ras Frostwhisper
+        - Ras Splinterspine
+        - Venim Iceblade
+
+KEY HEROES: (1)
+        - Kel'Thuzad (After reviving him during the Undead campaign in Warcraft
+III: Reign of Chaos)
+
+SPELLS:
+
+1. Frost Nova:
+Blasts enemy units around a target enemy unit with a wave of damaging frost
+that slows movement and attack rate.
+ __________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |            EFFECT            |
+|----|-----------------|----------|---------|------------------------------|
+|  1 | 4 (2) sec.      | 8 sec.   |     125 | 100 damage, 50 nova damage.  |
+|  2 | 6 (3) sec.      | 8 sec.   |     125 | 100 damage, 100 nova damage. |
+|  3 | 8 (4) sec.      | 8 sec.   |     125 | 100 damage, 150 nova damage. |
+ --------------------------------------------------------------------------
+
+2. Frost Armor (AUTOCAST):
+Creates a shield of frost around a target friendly unit. The shield adds armor
+and slows melee units that attack it.
+ ____________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |         EFFECT         |
+|----|-----------------|----------|---------|------------------------|
+|  1 | 45 sec.         | 2 sec.   |      40 | +3 armor, 5 sec. slow. |
+|  2 | 45 sec.         | 2 sec.   |      40 | +5 armor, 5 sec. slow. |
+|  3 | 45 sec.         | 2 sec.   |      40 | +7 armor, 5 sec. slow. |
+ --------------------------------------------------------------------
+
+3. Dark Ritual:
+Sacrifices a target friendly unit to convert its hit points into mana for the
+Lich.
+ ____________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |     EFFECT     |
+|----|-----------------|----------|---------|----------------|
+|  1 | N/A             | 15 sec.  |      25 | 33% HP to MP.  |
+|  2 | N/A             | 15 sec.  |      25 | 66% HP to MP.  |
+|  3 | N/A             | 15 sec.  |      25 | 100% HP to MP. |
+ ------------------------------------------------------------
+
+4. Death and Decay (ULTIMATE):
+Damages everything in its area of effect by 4% of its base hit points per
+second.
+ ___________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |            EFFECT             |
+|----|-----------------|----------|---------|-------------------------------|
+|  6 | 35 sec.         | 150 sec. |     250 | Damage equal to 4% of HP/sec. |
+ ---------------------------------------------------------------------------
+
+----------------
+Crypt Lord [CRY]
+----------------
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Normal
+Cooldown: 1.9
+Range: Melee
+Primary Attribute: Strength
+STR Bonus per Level: 3.2
+AGI Bonus per Level: 1.2
+INT Bonus per Level: 1.6
+Night Sight: 80
+Speed: Average (270)
+Production Hot Key: C
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  | 28-34 [31 avg]/None |   2   | 26  | 14  | 14  | 675  |  210 |
+| 2  | 31-37 [34 avg]/None |   3   | 29  | 15  | 15  | 750  |  225 |
+| 3  | 34-40 [37 avg]/None |   3   | 32  | 16  | 17  | 825  |  255 |
+| 4  | 37-43 [40 avg]/None |   3   | 35  | 17  | 18  | 900  |  270 |
+| 5  | 40-46 [43 avg]/None |   3   | 38  | 18  | 20  | 975  |  300 |
+| 6  | 44-50 [47 avg]/None |   4   | 42  | 20  | 22  | 1075 |  330 |
+| 7  | 47-53 [50 avg]/None |   4   | 45  | 21  | 23  | 1150 |  345 |
+| 8  | 50-56 [53 avg]/None |   5   | 48  | 22  | 25  | 1225 |  375 |
+| 9  | 53-59 [56 avg]/None |   5   | 51  | 23  | 26  | 1300 |  390 |
+| 10 | 56-62 [59 avg]/None |   5   | 54  | 24  | 28  | 1375 |  420 |
+ ------------------------------------------------------------------
+
+HERO NAMES: (9)
+        - Anubiros
+        - Arak-arahm
+        - Horus'aman
+        - Memphis-Ahn
+        - Nephri'thos
+        - Pharoh-moth
+        - Thebis-Ra
+        - Tuten'arak
+        - Typhis-Ahn
+
+KEY HEROES: (1)
+        - Anub'arak
+
+SPELLS:
+
+1. Impale:
+Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils
+out in a straight line, dealing damage and hurling enemy ground units into the
+air in their wake.
+ _________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |   EFFECT    | 
+|----|-----------------|----------|---------|-------------|
+|  1 | 2 (1) sec. stun | 9 sec.   |     100 | 50 damage.  |
+|  2 | 3 (2) sec. stun | 9 sec.   |     100 | 80 damage.  |
+|  3 | 4 (3) sec. stun | 9 sec.   |     100 | 110 damage. |
+ ---------------------------------------------------------
+
+2. Spiked Carapace (PASSIVE):
+The Crypt Lord forms barbed layers of chitinous armor that increases its
+defense and returns damage to enemy melee units.
+ ____________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |             EFFECT             |
+|----|-----------------|----------|---------|--------------------------------|
+|  1 | N/A             | N/A      | N/A     | 15% damage returned, +3 armor. |
+|  2 | N/A             | N/A      | N/A     | 25% damage returned, +5 armor. |
+|  3 | N/A             | N/A      | N/A     | 35% damage returned, +7 armor. |
+ ----------------------------------------------------------------------------
+
+3. Carrion Beetles (SUMMON, AUTOCAST):
+The Crypt Lord progenerates 1 Carrion Beetle from a target corpse to attack the
+Crypt Lord's enemies. Beetles are permanent but only 5 can be controlled at a
+time.
+ ___________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |        EFFECT         |
+|----|-----------------|----------|---------|-----------------------|
+|  1 | UNLIMITED       | 6 sec.   |      30 | 140 HP, 8-9 damage.   |
+|  2 | UNLIMITED       | 6 sec.   |      30 | 275 HP, 15-18 damage. |
+|  3 | UNLIMITED       | 6 sec.   |      30 | 410 HP, 22-27 damage. |
+ -------------------------------------------------------------------
+
+4. Locust Swarm (ULTIMATE):
+Creates a swarm of angry locusts that bite and tear at nearby enemy units. As
+they chew the enemy flesh, they convert it into a substance that restores hit
+points to the Crypt Lord when they return.
+ _________________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |           EFFECT            |
+|----|-----------------|----------|---------|-----------------------------|
+|  6 | 30 sec.         | 180 sec. |     150 | 20 locusts, 7 locusts/unit. |
+ -------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+C. Other Heroes [OTH]
+-------------------------------------------------------------------------------
+
+Heroes listed here are not part of the ordinary human race nor can you train
+them at your respective altars. These heroes are classified under this section.
+
+--------------
+Cenarius [CEN]
+--------------
+
+Demigod hero.
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Chaos
+Armor Type: Hero
+Cooldown: 1.9
+Range: 600
+Primary Attribute: Intelligence
+STR Bonus per Level: -
+AGI Bonus per Level: -
+INT Bonus per Level: -
+Health Regeneration: Always
+Mana Regeneration: .01
+Day Sight: 180
+Night Sight: 80 (180*)
+Speed: Fast (320)
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  |  106-162 [131 avg]  |   3   | 17  | 15  | 18  | 3100 |  325 |
+| 2  |  108-164 [132 avg]  |   3   | 18  | 16  | 20  | 3125 |  355 |
+| 3  |  110-166 [133 avg]  |   3   | 19  | 17  | 22  | 3150 |  385 |
+| 4  |  112-168 [134 avg]  |   3   | 20  | 18  | 24  | 3175 |  415 |
+| 5  |  114-170 [135 avg]  |   4   | 21  | 19  | 26  | 3200 |  445 |
+| 6  |  116-172 [136 avg]  |   4   | 22  | 20  | 28  | 3225 |  475 |
+| 7  |  118-174 [137 avg]  |   4   | 23  | 21  | 30  | 3250 |  505 |
+| 8  |  120-176 [138 avg]  |   5   | 24  | 22  | 32  | 3275 |  535 |
+| 9  |  122-178 [139 avg]  |   5   | 25  | 23  | 34  | 3300 |  565 |
+| 10 |  124-180 [140 avg]  |   5   | 26  | 24  | 36  | 3325 |  595 |
+ ------------------------------------------------------------------
+
+His spells are similar to a Keeper of the Grove hero.
+
+----------------------
+Jaina Proudmoore [JAI]
+----------------------
+
+Archmage hero.
+
+Statistics:
+
+Attack Type: Hero
+Weapon Type: Missile
+Armor Type: Hero
+Cooldown: 1.9
+Range: 600
+Primary Attribute: Intelligence
+STR Bonus per Level: -
+AGI Bonus per Level: -
+INT Bonus per Level: -
+Health Regeneration: Always
+Mana Regeneration: .01
+Day Sight: 180
+Night Sight: 80
+Speed: Fast (320)
+Transport Space Usage: 1
+
+ __________________________________________________________________
+| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
+|----|---------------------|-------|-----|-----|-----|------|------|
+| 1  |  91-97 [94 avg]     |   3   | 15  | 17  | 19  | 475  |  285 |
+| 2  |  92-98 [95 avg]     |   3   | 16  | 18  | 20  | 500  |  300 |
+| 3  |  93-99 [96 avg]     |   4   | 18  | 19  | 21  | 550  |  315 |
+| 4  |  94-100 [97 avg]    |   4   | 20  | 20  | 22  | 600  |  330 |
+| 5  |  95-101 [98 avg]    |   4   | 22  | 21  | 23  | 650  |  345 |
+| 6  |  96-102 [99 avg]    |   5   | 24  | 22  | 24  | 700  |  360 |
+| 7  |  97-103 [100 avg]   |   5   | 25  | 23  | 25  | 725  |  375 |
+| 8  |  98-104 [101 avg]   |   5   | 27  | 24  | 26  | 775  |  390 |
+| 9  |  99-105 [102 avg]   |   6   | 29  | 25  | 27  | 825  |  405 |
+| 10 |  100-106 [103 avg]  |   6   | 31  | 26  | 28  | 875  |  420 |
+ ------------------------------------------------------------------
+
+Her spells are similar to an Archmage hero.
+
+-------------------------------------------------------------------------------
+D. Bonus Campaign Key Names [BCK]
+-------------------------------------------------------------------------------
+
+In Bonus Campaign, you will encounter so many names of your foes or even your
+allies. The list below is the complete list of key names of creeps and heroes
+in the order that they appear in the campaign.
+
+----------------------------
+Act I (To Tame A Land) [TOT]
+----------------------------
+
+> Mogrin (Grunt)
+> Rokhan (Shadow Hunter)
+> Drek'Thar (Far Seer)
+> Nazgrel (Raider)
+> Engineer Gazlowe (Goblin Sapper)
+> Bloodfeather (Harpy Queen)
+> Morg Wolfsong (Shaman)
+> Gar'thok (Grunt)
+> Chen Stormstout (Pandaren Brewmaster)
+> Noggrin Onetooth (Kobold Master)
+> Vol'jin (Troll Witch Doctor)
+
+--------------------------
+Act II (Old Hatreds) [OLH]
+--------------------------
+
+> Samuro (Blademaster)
+> Bloodbeak the Berserker (Berserk Wildkin)
+> Dagren the Orcslayer (Paladin)
+> Mathogg (Grunt)
+> Khan Gragtor (Centaur Khan)
+> Lady Darkscale (Naga Sea Witch)
+> Zerx Hydromon (Archmage)
+> Destroyer Zardikar (Doom Guard)
+> Talnivarr the Sleeper (Dreadlord)
+> Sinstralis of the Pain (Scion of Pain)
+> Eldritch Deathlord (Death Revenant)
+> Cairne Bloodhoof (Tauren Chieftain)
+> Tagar (Tauren)
+> Bovan Windtotem (Spirit Walker)
+> Baine Bloodhoof (Tauren Chieftain)
+> Captain Thornby (Footman)
+> Lord Talendar (Skeleton King)
+> Kor'gall (Ogre Warlord)
+
+--------------------------------
+Act III (A Blaze of Glory) [BOG]
+--------------------------------
+
+> Admiral Proudmoore (Paladin)
+
+-------------------------------------------------------------------------------
+E. Frequently Asked Questions [FAQ]
+-------------------------------------------------------------------------------
+
+Q - How many items can hero units carry?
+A - They can carry up to 6 items.
+
+Q - What is the level cap of hero units?
+A - The level cap is 10 and cannot exceed more than that.
+
+Q - Why do I see this -> "Night Sight: 80 (180*)"?
+A - The normal Night Sight of the Night Elves is 80. When you build a Hunter's
+    Hall and upgrade "Ultravision", all Night Elves units you control will have
+    an enhanced Night Vision during night time. When upgraded to Ultravision,
+    their enhanced Night Vision becomes 180.
+
+Q - There are some heroes that cannot attack air units. Is it possible for them
+    to attack air units using spells?
+A - Yes. Certain spells such as Mountain King's Storm Bolt can hit air units.
+
+Q - Are the Hit Points (HP) of the heroes their maximum HP of that level?
+A - Yes. Maximum HP of each heroes increases per level. Refer to the table of
+    that specific hero to know how much increase of HP the hero will have per
+    level. However, if you are gonna wear items like "Periapt of Vitality", it
+    will increase your maximum HP as long as your hero wears the item.
+
+Q - Are hero names randomly generated?
+A - Yes. Even if you are going to restart the mission, a random name is given
+    to the hero. See the HERO NAMES section per hero to see the list of names
+    your hero can have.
+
+Q - Could I give a hero another name?
+A - No. That's only possible on World Editor. You can't do that in a normal 
+    game. There's a file you have to see in order to edit the names of each
+    heroes.
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "Warcraft III: Hero FAQ" to remind me that you are not spam.
+If not, the subject should be at least close to the previous one and I will try
+to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+
+To Blizzard Entertainment for making the game.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------
