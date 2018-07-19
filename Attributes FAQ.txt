@@ -1,0 +1,1287 @@
+Attributes FAQ:
+
+Name of Game: WWE SmackDown vs Raw 2008
+
+Platform: PS2 / PSP / DS
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. Attribute List.................................................[ATR]
+        B. Superstars' Attributes.........................................[SUP]
+        C. Unlockable superstars from the WWE Shop........................[UNL]
+                - PSP-exclusive superstars................................[PSP]
+        D. Increasing superstar attributes................................[INC]
+                - Starter / Premium Kits..................................[KIT]
+                        - Starter Kits....................................[STK]
+                        - Premium Kits....................................[PMK]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+This FAQ is made to concentrate on the attributes of the superstars found in
+the game. These superstars range from divas, legends and superstars.
+
+WWE SmackDown vs Raw 2008 is owned by THQ. All trademarks are subjected to THQ.
+
+Copyright (c) THQ.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - May 23, 2008
+= Submitted the FAQ.
+
+Version 1.1 - May 29, 2008
+= Corrected errors particularly in section 6 of the FAQ.
+
+Version 1.2 - June 10, 2008
+= Added the definition of Technical.
+
+Version 1.3 - June 21, 2008
+= Changed layout for section 6.
+
+Version 1.4 - Aug 23, 2016
+= Revival. Re-structured the document. Corrected some grammar errors.
+= Changed all section codes so that search is easier.
+= Transferred the contents in "About" to "Introduction" section.
+= Renamed "Terminologies" to "Attribute List" section, "Superstars that 
+needs to be bought from the WWE Shop" to "Unlockable superstars from the WWE
+Shop" section and "Way on how to increase Attributes" to "Increasing superstar
+attributes" section.
+= Renamed table headers "Name of wrestler" to "Unlockable superstar" and
+"Price/Cost" to simply "Price" in "Superstars that needs to be purchased in WWE
+Shop" section.
+= The sub-sub section for PSP exclusive superstars is now a sub-section.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. Attribute List [ATR]
+-------------------------------------------------------------------------------
+
+Before we start, let's have a rundown of what each abbreviation stands for. You
+can check back to this section should you get confused with what each of them
+means. There are just few of them. Here are they:
+
+> STR - stands for Strength. This just basically shows the amount of damage you
+can inflict on your opponent.
+
+> SUB - stands for Submission. This just basically shows the amount of damage
+you can inflict during submission holds. This stat also increases time you can
+do submissions on one opponent.
+
+> DUR - stands for Durability. This just basically shows how long you can
+withstand your opponent's attacks. In other words, you take less damage from
+your opponent's attacks.
+
+> TEC - stands for Technical. This just basically shows how your superstar will
+reverse your opponent's attack and grapple.
+
+> SPD - stands for Speed. This just basically shows how fast you can sprint in
+a limited period of time. Your quickness on attacking your opponents.
+
+> CHA - stands for Charisma. This just basically shows the amount of your
+finisher bar. Higher charisma means you can do your finisher in the shortest
+time possible.
+
+> HRD - stands for Hardcore. This just basically shows the amount of damage you
+inflict when using weapons or objects. Almost all matches will allow you to get
+weapons, but beware that when you turn DQ on, you might get disqualified
+resulting in a loss. Turn DQ off in Match Rules if you want to use weapons
+without getting caught by the referee.
+
+> STA - stands for Stamina. This just basically shows the rate in which you use
+always in any match types. If you have a high stamina, you can sprint for a
+long time.
+
+-------------------------------------------------------------------------------
+B. Superstars' Attributes [SUP]
+-------------------------------------------------------------------------------
+
+Well, here it is! The full list of all superstars found in the game. They are
+all sorted in alphabetical order. Ashley until William Regal. There are about
+53 superstars in the game comprising of divas, legends and superstars. Well no
+more time to waste! Here are they:
+
+++++++++
+- Ashley
+++++++++
+        STR:     43
+        SUB:     46
+        DUR:     49
+        TEC:     55
+        SPD:     69
+        CHA:     72
+        HRD:     45
+        STA:     70
+        -----------
+        OVERALL: 61
+        -----------
+
++++++++++
+- Batista
++++++++++
+        STR:     94
+        SUB:     83
+        DUR:     94
+        TEC:     85
+        SPD:     73
+        CHA:     90
+        HRD:     85
+        STA:     85
+        -----------
+        OVERALL: 94
+        -----------
+
++++++++++++++++
+- Bobby Lashley
++++++++++++++++
+        STR:     90
+        SUB:     84
+        DUR:     89
+        TEC:     90
+        SPD:     84
+        CHA:     80
+        HRD:     80
+        STA:     85
+        -----------
+        OVERALL: 93
+        -----------
+
++++++++++++
+- Bret Hart
++++++++++++
+        STR:     74
+        SUB:     97
+        DUR:     80
+        TEC:     97
+        SPD:     82
+        CHA:     85
+        HRD:     80
+        STA:     90
+        -----------
+        OVERALL: 93
+        -----------
+
+++++++++++++++++++
+- Candice Michelle
+++++++++++++++++++
+        STR:     48
+        SUB:     55
+        DUR:     54
+        TEC:     67
+        SPD:     70
+        CHA:     75
+        HRD:     56
+        STA:     72
+        -----------
+        OVERALL: 66
+        -----------
+
++++++++++
+- Carlito
++++++++++
+        STR:     75
+        SUB:     80
+        DUR:     80
+        TEC:     88
+        SPD:     87
+        CHA:     86
+        HRD:     80
+        STA:     80
+        -----------
+        OVERALL: 89
+        -----------
+
+++++++++++++++++
+- Chavo Guerrero
+++++++++++++++++
+        STR:     74
+        SUB:     80
+        DUR:     76
+        TEC:     88
+        SPD:     82
+        CHA:     70
+        HRD:     77
+        STA:     80
+        -----------
+        OVERALL: 85
+        -----------
+
++++++++++++++++
+- Chris Masters
++++++++++++++++
+        STR:     88
+        SUB:     79
+        DUR:     81
+        TEC:     80
+        SPD:     71
+        CHA:     82
+        HRD:     78
+        STA:     77
+        -----------
+        OVERALL: 87
+        -----------
+
++++++++++
+- CM Punk
++++++++++
+        STR:     74
+        SUB:     91
+        DUR:     80
+        TEC:     87
+        SPD:     89
+        CHA:     86
+        HRD:     86
+        STA:     85
+        -----------
+        OVERALL: 92
+        -----------
+
+++++++
+- Edge
+++++++
+        STR:     75
+        SUB:     88
+        DUR:     80
+        TEC:     90
+        SPD:     87
+        CHA:     90
+        HRD:     91
+        STA:     90
+        -----------
+        OVERALL: 94
+        -----------
+
+++++++++++++++
+- Elijah Burke
+++++++++++++++
+        STR:     75
+        SUB:     81
+        DUR:     77
+        TEC:     80
+        SPD:     84
+        CHA:     77
+        HRD:     80
+        STA:     80
+        -----------
+        OVERALL: 86
+        -----------
+
+++++++++
+- Finlay
+++++++++
+        STR:     75
+        SUB:     86
+        DUR:     80
+        TEC:     94
+        SPD:     70
+        CHA:     73
+        HRD:     80
+        STA:     85
+        -----------
+        OVERALL: 88
+        -----------
+
++++++++++++++++++
+- The Great Khali
++++++++++++++++++
+        STR:     96
+        SUB:     85
+        DUR:     98
+        TEC:     69
+        SPD:     49
+        CHA:     68
+        HRD:     80
+        STA:     65
+        -----------
+        OVERALL: 83
+        -----------
+
++++++++++++++++
+- Gregory Helms
++++++++++++++++
+        STR:     75
+        SUB:     83
+        DUR:     78
+        TEC:     89
+        SPD:     75
+        CHA:     73
+        HRD:     74
+        STA:     83
+        -----------
+        OVERALL: 86
+        -----------
+
++++++
+- JBL
++++++
+        STR:     85
+        SUB:     80
+        DUR:     83
+        TEC:     78
+        SPD:     66
+        CHA:     80
+        HRD:     85
+        STA:     69
+        -----------
+        OVERALL: 85
+        -----------
+
+++++++++++++
+- Jeff Hardy
+++++++++++++
+        STR:     73
+        SUB:     79
+        DUR:     80
+        TEC:     85
+        SPD:     90
+        CHA:     89
+        HRD:     92
+        STA:     89
+        -----------
+        OVERALL: 92
+        -----------
+
++++++++++++
+- John Cena
++++++++++++
+        STR:     90
+        SUB:     90
+        DUR:     90
+        TEC:     90
+        SPD:     85
+        CHA:     95
+        HRD:     84
+        STA:     85
+        -----------
+        OVERALL: 97
+        -----------
+
+++++++++++++++
+- Johnny Nitro
+++++++++++++++
+        STR:     75
+        SUB:     77
+        DUR:     80
+        TEC:     85
+        SPD:     87
+        CHA:     82
+        HRD:     90
+        STA:     80
+        -----------
+        OVERALL: 89
+        -----------
+
++++++
+- JTG
++++++
+        STR:     74
+        SUB:     72
+        DUR:     75
+        TEC:     80
+        SPD:     80
+        CHA:     87
+        HRD:     74
+        STA:     76
+        -----------
+        OVERALL: 84
+        -----------
+
+++++++
+- Kane
+++++++
+        STR:     90
+        SUB:     80
+        DUR:     87
+        TEC:     77
+        SPD:     70
+        CHA:     78
+        HRD:     84
+        STA:     75
+        -----------
+        OVERALL: 87
+        -----------
+
++++++++++++++
+- Kelly Kelly
++++++++++++++
+        STR:     36
+        SUB:     44
+        DUR:     48
+        TEC:     54
+        SPD:     62
+        CHA:     73
+        HRD:     42
+        STA:     71
+        -----------
+        OVERALL: 58
+        -----------
+
++++++++++++++++
+- Kenny Dykstra
++++++++++++++++
+        STR:     75
+        SUB:     80
+        DUR:     79
+        TEC:     80
+        SPD:     83
+        CHA:     72
+        HRD:     70
+        STA:     82
+        -----------
+        OVERALL: 85
+        -----------
+
++++++++++++++
+- King Booker
++++++++++++++
+        STR:     87
+        SUB:     85
+        DUR:     86
+        TEC:     88
+        SPD:     78
+        CHA:     84
+        HRD:     81
+        STA:     80
+        -----------
+        OVERALL: 91
+        -----------
+
+++++++++++++++++
+- Marcus Cor Von
+++++++++++++++++
+        STR:     88
+        SUB:     82
+        DUR:     88
+        TEC:     75
+        SPD:     80
+        CHA:     77
+        HRD:     83
+        STA:     79
+        -----------
+        OVERALL: 89
+        -----------
+
+++++++++++++
+- Mark Henry
+++++++++++++
+        STR:     95
+        SUB:     85
+        DUR:     94
+        TEC:     71
+        SPD:     52
+        CHA:     67
+        HRD:     79
+        STA:     64
+        -----------
+        OVERALL: 83
+        -----------
+
+++++++++++++
+- Matt Hardy
+++++++++++++
+        STR:     75
+        SUB:     80
+        DUR:     80
+        TEC:     86
+        SPD:     82
+        CHA:     85
+        HRD:     87
+        STA:     84
+        -----------
+        OVERALL: 90
+        -----------
+
+++++++++
+- Melina
+++++++++
+        STR:     50
+        SUB:     62
+        DUR:     58
+        TEC:     69
+        SPD:     71
+        CHA:     76
+        HRD:     60
+        STA:     73
+        -----------
+        OVERALL: 71
+        -----------
+
++++++++++++++++++
+- Michelle McCool
++++++++++++++++++
+        STR:     45
+        SUB:     57
+        DUR:     59
+        TEC:     70
+        SPD:     72
+        CHA:     72
+        HRD:     60
+        STA:     73
+        -----------
+        OVERALL: 69
+        -----------
+
+++++++++++++
+- Mick Foley
+++++++++++++
+        STR:     86
+        SUB:     86
+        DUR:     90
+        TEC:     80
+        SPD:     60
+        CHA:     88
+        HRD:     96
+        STA:     74
+        -----------
+        OVERALL: 90
+        -----------
+
+++++++++++++++
+- Mickie James
+++++++++++++++
+        STR:     52
+        SUB:     40
+        DUR:     60
+        TEC:     72
+        SPD:     73
+        CHA:     84
+        HRD:     60
+        STA:     77
+        -----------
+        OVERALL: 70
+        -----------
+
++++++++++++++
+- Mr. Kennedy
++++++++++++++
+        STR:     82
+        SUB:     80
+        DUR:     82
+        TEC:     79
+        SPD:     76
+        CHA:     89
+        HRD:     81
+        STA:     80
+        -----------
+        OVERALL: 88
+        -----------
+
++++++
+- MVP
++++++
+        STR:     84
+        SUB:     82
+        DUR:     83
+        TEC:     87
+        SPD:     76
+        CHA:     79
+        HRD:     76
+        STA:     81
+        -----------
+        OVERALL: 88
+        -----------
+
++++++++++++++
+- Randy Orton
++++++++++++++
+        STR:     80
+        SUB:     86
+        DUR:     87
+        TEC:     90
+        SPD:     80
+        CHA:     88
+        HRD:     80
+        STA:     85
+        -----------
+        OVERALL: 92
+        -----------
+
+++++++++++++++
+- Rey Mysterio
+++++++++++++++
+        STR:     70
+        SUB:     80
+        DUR:     80
+        TEC:     90
+        SPD:     94
+        CHA:     90
+        HRD:     84
+        STA:     81
+        -----------
+        OVERALL: 93
+        -----------
+
++++++++++++
+- Ric Flair
++++++++++++
+        STR:     73
+        SUB:     93
+        DUR:     77
+        TEC:     93
+        SPD:     68
+        CHA:     89
+        HRD:     80
+        STA:     74
+        -----------
+        OVERALL: 88
+        -----------
+
++++++++++++
+- Rick Rude
++++++++++++
+        STR:     75
+        SUB:     80
+        DUR:     80
+        TEC:     87
+        SPD:     82
+        CHA:     93
+        HRD:     80
+        STA:     80
+        -----------
+        OVERALL: 90
+        -----------
+
+++++++++++
+- The Rock
+++++++++++
+        STR:     83
+        SUB:     90
+        DUR:     90
+        TEC:     90
+        SPD:     81
+        CHA:     96
+        HRD:     88
+        STA:     85
+        -----------
+        OVERALL: 96
+        -----------
+
++++++++++++++
+- Roddy Piper
++++++++++++++
+        STR:     79
+        SUB:     86
+        DUR:     83
+        TEC:     79
+        SPD:     72
+        CHA:     83
+        HRD:     80
+        STA:     80
+        -----------
+        OVERALL: 87
+        -----------
+
+++++++
+- Sabu
+++++++
+        STR:     74
+        SUB:     78
+        DUR:     80
+        TEC:     76
+        SPD:     86
+        CHA:     83
+        HRD:     97
+        STA:     80
+        -----------
+        OVERALL: 89
+        -----------
+
++++++++++
+- Sandman
++++++++++
+        STR:     79
+        SUB:     76
+        DUR:     89
+        TEC:     70
+        SPD:     70
+        CHA:     83
+        HRD:     94
+        STA:     70
+        -----------
+        OVERALL: 86
+        -----------
+
+++++++
+- Shad
+++++++
+        STR:     87
+        SUB:     70
+        DUR:     80
+        TEC:     74
+        SPD:     67
+        CHA:     83
+        HRD:     77
+        STA:     72
+        -----------
+        OVERALL: 83
+        -----------
+
++++++++++++++++
+- Shane McMahon
++++++++++++++++
+        STR:     70
+        SUB:     61
+        DUR:     85
+        TEC:     74
+        SPD:     74
+        CHA:     83
+        HRD:     85
+        STA:     67
+        -----------
+        OVERALL: 82
+        -----------
+
+++++++++++++++++
+- Shawn Michaels
+++++++++++++++++
+        STR:     75
+        SUB:     83
+        DUR:     80
+        TEC:     95
+        SPD:     90
+        CHA:     95
+        HRD:     84
+        STA:     90
+        -----------
+        OVERALL: 94
+        -----------
+
++++++++++
+- Snitsky
++++++++++
+        STR:     88
+        SUB:     76
+        DUR:     86
+        TEC:     71
+        SPD:     62
+        CHA:     70
+        HRD:     77
+        STA:     72
+        -----------
+        OVERALL: 82
+        -----------
+
+++++++++++++++
+- Steve Austin
+++++++++++++++
+        STR:     82
+        SUB:     89
+        DUR:     90
+        TEC:     90
+        SPD:     80
+        CHA:     96
+        HRD:     88
+        STA:     84
+        -----------
+        OVERALL: 95
+        -----------
+
+++++++++++++
+- Terry Funk
+++++++++++++
+        STR:     74
+        SUB:     85
+        DUR:     80
+        TEC:     83
+        SPD:     75
+        CHA:     91
+        HRD:     96
+        STA:     70
+        -----------
+        OVERALL: 89
+        -----------
+
++++++++++++++++
+- Tommy Dreamer
++++++++++++++++
+        STR:     84
+        SUB:     77
+        DUR:     86
+        TEC:     74
+        SPD:     69
+        CHA:     77
+        HRD:     93
+        STA:     71
+        -----------
+        OVERALL: 86
+        -----------
+
++++++++++++++++
+- Torrie Wilson
++++++++++++++++
+        STR:     44
+        SUB:     48
+        DUR:     52
+        TEC:     60
+        SPD:     68
+        CHA:     79
+        HRD:     48
+        STA:     70
+        -----------
+        OVERALL: 64
+        -----------
+
+++++++++++
+- Triple H
+++++++++++
+        STR:     89
+        SUB:     80
+        DUR:     90
+        TEC:     88
+        SPD:     78
+        CHA:     91
+        HRD:     87
+        STA:     85
+        -----------
+        OVERALL: 94
+        -----------
+
++++++++
+- Umaga
++++++++
+        STR:     91
+        SUB:     84
+        DUR:     89
+        TEC:     76
+        SPD:     66
+        CHA:     80
+        HRD:     83
+        STA:     78
+        -----------
+        OVERALL: 88
+        -----------
+
+++++++++++++
+- Undertaker
+++++++++++++
+        STR:     94
+        SUB:     85
+        DUR:     97
+        TEC:     85
+        SPD:     74
+        CHA:     92
+        HRD:     86
+        STA:     85
+        -----------
+        OVERALL: 95
+        -----------
+
++++++++++++++++
+- Vince McMahon
++++++++++++++++
+        STR:     80
+        SUB:     75
+        DUR:     86
+        TEC:     77
+        SPD:     70
+        CHA:     90
+        HRD:     85
+        STA:     80
+        -----------
+        OVERALL: 88
+        -----------
+
++++++++++++++++
+- William Regal
++++++++++++++++
+        STR:     83
+        SUB:     80
+        DUR:     84
+        TEC:     85
+        SPD:     68
+        CHA:     70
+        HRD:     80
+        STA:     74
+        -----------
+        OVERALL: 85
+        -----------
+
+-------------------------------------------------------------------------------
+C. Unlockable superstars from the WWE Shop [UNL]
+-------------------------------------------------------------------------------
+
+Certain superstars still need to be bought from the WWE Shop in order for them
+to be playable. Here is a table that shows the name of the superstar, its price
+and how to unlock it.
+
+ _________________________________________________________________________
+| UNLOCKABLE SUPERSTAR |    PRICE    |            HOW TO UNLOCK           |
+|----------------------|-------------|------------------------------------|
+|  Bret Hart           |   $210,000  | Beat him using HBK in a 30-minute  |
+|                      |             | Ironman Match in Hall of Fame Mode.|
+|----------------------|-------------|------------------------------------|
+|  JBL                 |   $110,000  | NO REQUIREMENTS REQUIRED           |
+|----------------------|-------------|------------------------------------|
+|  Mick Foley          |   $210,000  | Beat him using Undertaker in a Hell|
+|                      |             | in a Cell in Hall of Fame Mode.    |
+|----------------------|-------------|------------------------------------|
+|  Rick Rude           |   $210,000  | NO REQUIREMENTS REQUIRED           |
+|----------------------|-------------|------------------------------------|
+|  The Rock            |   $210,000  | Beat him using Stone Cold in a     |
+|                      |             | Single Match in Hall of Fame Mode. |
+|----------------------|-------------|------------------------------------|
+|  Roddy Piper         |   $210,000  | NO REQUIREMENTS REQUIRED           |
+|----------------------|-------------|------------------------------------|
+|  Shane McMahon       |   $110,000  | NO REQUIREMENTS REQUIRED           |
+|----------------------|-------------|------------------------------------|
+|  Sabu                |   $210,000  | NO REQUIREMENTS REQUIRED           |
+|----------------------|-------------|------------------------------------|
+|  Steve Austin        |   $210,000  | Beat him using Bret Hart in a      |
+|                      |             | Submission Match in Hall of Fame.  |
+|----------------------|-------------|------------------------------------|
+|  Terry Funk          |   $210,000  | Beat the 3 ECW Originals in a Fatal|
+|                      |             | 4-Way in Exhibition on Hard Mode.  |
+|----------------------|-------------|------------------------------------|
+|  Vince McMahon       |   $110,000  | In GM Mode, win or defend a title  |
+|                      |             | in WrestleMania.                   |
+ -------------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++
+- PSP-exclusive superstars [PSP]
+++++++++++++++++++++++++++++++++
+
+If you have the PSP version of the game, you get these unlockables exclusive
+for the PSP only.
+
+ _________________________________________________________________________
+| UNLOCKABLE SUPERSTAR |    PRICE    |            HOW TO UNLOCK           |
+|----------------------|-------------|------------------------------------|
+|  Eddie Guerrero      |   $160,000  | NO REQUIREMENTS REQUIRED           |
+|----------------------|-------------|------------------------------------|
+|  Jim Neidhart        |   $160,000  | NO REQUIREMENTS REQUIRED           |
+|----------------------|-------------|------------------------------------|
+|  Sgt.Slaughter       |   $160,000  | NO REQUIREMENTS REQUIRED           |
+ -------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+D. Increasing superstar attributes [INC]
+-------------------------------------------------------------------------------
+
+In this section, I will explain certain ways on how to increase a superstar's
+attributes. That is, by training your superstar in 24/7 GM Mode. This is
+possible either before or after the week. For example, if you're show is RAW,
+your day-offs are Tuesdays, Wednesdays, Thursdays, Fridays and Non-RAW PPV
+events. Select "Training Exercise" once you click any of the said weekdays. It
+will look something like this:
+
+ ____________________________
+|       Daily Activity       |
+|                            |
+|     ____________________   |
+|    / Training Exercises \  |
+|   /______________________\ |
+|                            |
+|     ___________________    |
+|    / Skill Improvement \   |
+|   /_____________________\  |
+|                            |
+|     __________________     |
+|    / Event Activities \    |
+|   /____________________\   |
+|                            |
+ ----------------------------
+
+There is a difference between Training Exercises and Skill Improvement. Let's
+take a look at both.
+
+Training Exercises only adds up to your stats (like TEC, CHA etc.) while Skill
+Improvement will only enhance your skills on the ring like Fan Favorite
+Training, Fan Heat Training and others. I recommend doing the practice so if
+you succeeded, it adds 1% stat on that particular stat. So if you pick Strength
+Training, you will have to perform a number of Ultimate Control Moves within 1
+minute. If you succeeded, it adds 1% to STR stat.
+
+Don't just increase your stats, also check out if the overall increased. This
+only affects the superstars' attributes from GM Mode only. Their default
+attributes will be used on Exhibition.
+
+++++++++++++++++++++++++++++++
+- Starter / Premium Kits [KIT]
+++++++++++++++++++++++++++++++
+
+These items in the WWE Shop are the only items that can be bought multiple
+times not unlike other items which are buyable one-time only. All the items'
+description:
+
+"Increase a created Superstar's attributes."
+
+--------------------
+- Starter Kits [STK]
+--------------------
+
+BRAWLER
+        STR:     65
+        SUB:     50
+        DUR:     60
+        TEC:     50
+        SPD:     50
+        CHA:     50
+        HRD:     60
+        STA:     50
+        -----------
+        OVERALL: 59
+
+DIRTY
+        STR:     60
+        SUB:     50
+        DUR:     60
+        TEC:     50
+        SPD:     50
+        CHA:     50
+        HRD:     60
+        STA:     60
+        -----------
+        OVERALL: 60
+
+HARDCORE
+        STR:     60
+        SUB:     40
+        DUR:     60
+        TEC:     50
+        SPD:     50
+        CHA:     50
+        HRD:     70
+        STA:     60
+        -----------
+        OVERALL: 60
+
+HIGH-FLYER
+        STR:     50
+        SUB:     50
+        DUR:     50
+        TEC:     50
+        SPD:     70
+        CHA:     50
+        HRD:     50
+        STA:     70
+        -----------
+        OVERALL: 60
+
+POWERHOUSE
+        STR:     75
+        SUB:     40
+        DUR:     75
+        TEC:     40
+        SPD:     50
+        CHA:     50
+        HRD:     60
+        STA:     50
+        -----------
+        OVERALL: 60
+
+SHOWMAN
+        STR:     60
+        SUB:     50
+        DUR:     60
+        TEC:     50
+        SPD:     60
+        CHA:     50
+        HRD:     50
+        STA:     60
+        -----------
+        OVERALL: 60
+
+SUBMISSION
+        STR:     50
+        SUB:     70
+        DUR:     50
+        TEC:     60
+        SPD:     50
+        CHA:     50
+        HRD:     50
+        STA:     60
+        -----------
+        OVERALL: 60
+
+TECHNICAL
+        STR:     50
+        SUB:     50
+        DUR:     50
+        TEC:     70
+        SPD:     60
+        CHA:     50
+        HRD:     50
+        STA:     60
+        -----------
+        OVERALL: 60
+
+--------------------
+- Premium Kits [PMK]
+--------------------
+
+BRAWLER
+        STR:     75
+        SUB:     70
+        DUR:     80
+        TEC:     70
+        SPD:     70
+        CHA:     60
+        HRD:     80
+        STA:     70
+        -----------
+        OVERALL: 78
+
+DIRTY
+        STR:     75
+        SUB:     70
+        DUR:     75
+        TEC:     70
+        SPD:     70
+        CHA:     60
+        HRD:     80
+        STA:     80
+        -----------
+        OVERALL: 79
+
+HARDCORE
+        STR:     75
+        SUB:     60
+        DUR:     80
+        TEC:     65
+        SPD:     70
+        CHA:     60
+        HRD:     90
+        STA:     80
+        -----------
+        OVERALL: 80
+
+HIGH-FLYER
+        STR:     70
+        SUB:     70
+        DUR:     70
+        TEC:     70
+        SPD:     90
+        CHA:     60
+        HRD:     65
+        STA:     90
+        -----------
+        OVERALL: 80
+
+POWERHOUSE
+        STR:     90
+        SUB:     60
+        DUR:     95
+        TEC:     60
+        SPD:     70
+        CHA:     60
+        HRD:     80
+        STA:     70
+        -----------
+        OVERALL: 80
+
+SHOWMAN
+        STR:     75
+        SUB:     70
+        DUR:     80
+        TEC:     70
+        SPD:     80
+        CHA:     60
+        HRD:     70
+        STA:     80
+        -----------
+        OVERALL: 80
+
+SUBMISSION
+        STR:     70
+        SUB:     90
+        DUR:     70
+        TEC:     80
+        SPD:     70
+        CHA:     60
+        HRD:     65
+        STA:     80
+        -----------
+        OVERALL: 80
+
+TECHNICAL
+        STR:     70
+        SUB:     70
+        DUR:     70
+        TEC:     90
+        SPD:     80
+        CHA:     60
+        HRD:     65
+        STA:     80
+        -----------
+        OVERALL: 80
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks).  Please
+put the subject as "WWE SVR 2008: Attributes FAQ" to remind me that you are not
+spam. If not, the subject should be at least close to the previous one and I
+will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+
+To THQ for making the game.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

@@ -1,0 +1,447 @@
+Create-A-Wrestler FAQ:
+
+Name of Game: WWE WrestleMania 21
+
+Platform: XBox
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. Create-A-Wrestler
+                - Brock Lesnar............................................[BRO]
+                - Carlito.................................................[CAR]
+                - Gene Snitsky............................................[SNI]
+                - Goldberg................................................[GOL]
+                - Hulk Hogan..............................................[HUL]
+                - Jeff Hardy..............................................[JEF]
+                - Muhammad Hassan.........................................[MUH]
+                - Orlando Jordan..........................................[ORL]
+                - Rosey...................................................[ROS]
+                - Stone Cold Steve Austin.................................[STO]
+                - Tyson Tomko.............................................[TOM]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hi and welcome to my WWE WrestleMania 21 FAQ or yet called "Create-A-Wrestler
+FAQ". This is are some of the wrestlers that you can create as they are not
+included on the roster of the game itself. The other sections of this FAQ will
+explain it.
+
+WWE Wrestlemania 21 is owned by THQ. All trademarks are subjected to THQ.
+
+Copyright (c) THQ.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - July 12, 2008
+= Submitted the FAQ.
+
+Version 1.1 - Jan 23, 2009
+= Added a few updates and add-ons.
+
+Version 1.2 - Aug 19, 2016
+= Revival. Re-structured the document. Corrected some grammar errors.
+= Changed all section codes so that search is easier.
+= Re-arranged the custom wrestler sections so that they are alphabetically 
+arranged.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. Create-A-Wrestler
+-------------------------------------------------------------------------------
+
+This is the list of wrestlers that aren't on the main roster that you can make 
+through Create-A-Wrestler. The resemblance of the created wrestler might not 
+look like the actual superstar though.
+
+++++++++++++++++++++
+- Brock Lesnar [BRO]
+++++++++++++++++++++
+
+It's a bit tricky to make Brock, because pushing up his weight just makes him 
+too fat.
+
+ ______________________
+| WEIGHT | Super-Heavy |
+|--------|-------------|
+| STYLE  | Powerful    |
+|--------|-------------|
+| EYES   | Fallen Up   |
+|--------|---------------|
+| TATTOO | Mason (bicep) |
+|--------|---------------|
+| TRUNKS | Short (black) |
+|--------|-------------------|
+| WRISTBANDS | Sport (black) |
+|------------|--------------------------------|
+| SHOES      | Wrestling Boots Medium (black) |
+|------------|-------------------------------------------------------|
+| FAVOURITE MOVES | Backbreaker, Shoulderbreaker, Gorilla Press Slam |
+|-----------------|--------------------------------------------------|
+| FINISHERS       | Death Valley Driver, Falling Rock Bottom         |
+ --------------------------------------------------------------------
+
++++++++++++++++
+- Carlito [CAR]
++++++++++++++++
+
+There's no shirt that works for Carribean Cool. So stick with his basic in-ring
+costume.
+
+ ______________________
+| WEIGHT | Light-Heavy |
+|--------|-------------|
+| STYLE  | Technical   |
+|--------|----------------|
+| HEAD   | Fallen-Up Eyes |
+|--------|----------------|
+| HAIR   | Afro Big       |
+|--------|----------------|
+| TRUNKS | Purple         |
+|----------------|--------|-----------------------|
+| FAVORITE MOVES | FigureFour, Suplex, Scoop Slam |
+|----------------|--------------------------------|----------------|
+| FINISHERS      | DDT, Tajiri's Mist (pretend its the apple spit) |
+ ------------------------------------------------------------------
+
+++++++++++++++++++++
+- Gene Snitsky [SNI]
+++++++++++++++++++++
+
+This monster's all about getting his hair right. Remember to make him as tall 
+as possible.
+
+ ______________________
+| WEIGHT | Super-Heavy |
+|--------|-------------|
+| STYLE  | Powerful    |
+|----------------------|
+| EYEBROWS | J-Hook    |
+|----------------------|
+| EYES | Fallen Up     |
+|------|-----------------|
+| FACIAL HAIR | Goatee 3 |
+|-------------|-------------|
+| HAIR        | Tajiri Hair |
+|-------------|---------------|
+| WRISTBANDS  | Sport (black) |
+|-------------|---------------|
+| KNEEPADS    | Sport (black) |
+|-------------|----------------------------------------------|
+| FAVOURITE MOVES | Pumphandle Slam, Head Pound, Atomic Drop |
+|-----------------|------------------------------------------|
+| FINISHER        | Piledriver                               |
+ ------------------------------------------------------------
+
+++++++++++++++++
+- Goldberg [GOL]
+++++++++++++++++
+
+If only there was an "excessive cheat hair" option for an added realism.
+
+ ______________________
+| WEIGHT | Super-Heavy |
+|--------|-------------|
+| STYLE  | Powerful    |
+|---------------------------|
+| FACIAL HAIR | Goatee 2    |
+|-------------|-------------|
+| NOSE        | Wide        |
+|-------------|---------------------------|
+| GLOVES      | Padded Black (both hands) |
+|-------------|---------------------------|
+| ELBOW PAD   | Sports (black)            |
+|-------------|------------------------------|
+| SHOES       | Wrestling Boots Long (black) |
+|-------------|------------------------------|
+| KNEEPADS    | Sports (black)               |
+|-------------|------------------------------|
+| TATTOO      | Left Arm Bicep Tribal Vines  |
+|-------------|-----------------------------------------|
+| FAVOURITE MOVES | Vertical Suplex, Gorilla Press Slam |
+|-----------------|-------------------------------------|
+| FINISHER        | Backbreaker                         |
+ -------------------------------------------------------
+
+++++++++++++++++++
+- Hulk Hogan [HUL]
+++++++++++++++++++
+
+It's all about getting the jaw right with the Hulkster. Everything else 
+follows.
+
+ ______________________
+| WEIGHT | Heavyweight |
+|--------|-------------|
+| STYLE  | Traditional |
+|--------|--------------|
+| HAIR   | Long Balding |
+|--------|---------------|
+| FACIAL HAIR | Hogan    |
+|-------------|-------------|
+| KNEEPADS    | Sport (red) |
+|-----------------------------------|
+| WRESTLING BOOTS | Medium (yellow) |
+|-----------------|-----------------|
+| WRISTBANDS      | White           |
+|-----------------|------------------------------------|
+| FAVOURITE MOVES | Piledriver, Big Boot, Wild Punches |
+|-----------------|------------------------------------|
+| FINISHER        | Leg Bomb                           |
+ ------------------------------------------------------
+
+++++++++++++++++++
+- Jeff Hardy [JEF]
+++++++++++++++++++
+
+Obviously, Jeff gets exactly the same entrance moves as his brother, Matt.
+
+ ________________________
+| WEIGHT | Cruiserweight |
+|--------|---------------|
+| STYLE  | Aerialist     |
+|--------|-----------------------|
+| HAIR   | Long Wet Look (green) |
+|--------|-----------------------|
+| SHIRT  | Tank Top              |
+|--------|-------------------------------|
+| ACCESSORIES | Gold Necklace with cross |
+|-------------|-----------------------------------|
+| TATTOOS | Asian Lattice (bicep, left),          |
+|         | Wise Warrior (forearm, left),         |
+|         | Randy Orton Wristband (purple, right) |
+|---------|---------------------------------------|
+| PANTS   | Cargo Pants (black)                   |
+|---------|---------------------------------------|
+| SHOES   | Hi Tops                               |
+|---------|---------------------------------------|
+| TAUNTS  | Matt Hardy 1, 2                       |
+|---------|--------------------------------------------------|
+| FAVOURITE MOVES | Corkscrew, Moonsault, Senton Somersault, |
+|                 | Super Dropkick                           |
+|-----------------|------------------------------------------|
+| FINISHERS       | Twist Of Fate, Lita Twist Of Fate        |
+ ------------------------------------------------------------
+
++++++++++++++++++++++++
+- Muhammad Hassan [MUH]
++++++++++++++++++++++++
+
+It's about getting his beard nice and clean.
+
+ ______________________
+| WEIGHT | Heavyweight |
+|--------|-------------|
+| STYLE  | Technical   |
+|--------|-------------|
+| EYES   | Almond      |
+|--------|-------------|
+| LIPS   | Thin        |
+|--------|-------------|
+| BEARD  | Full        |
+|--------|---------------|
+| HATS   | Arab Kaffview |
+|--------|-------------------|
+| WRISTBANDS | Sport (black) |
+|------------|-------------------|
+| LEFT ARM TATTOO | Tribal Vines |
+|-----------------|-----------------------------------|
+| TRUNKS          | Skintight long, polyester (black) |
+|-----------------|-----------------------------------|
+| WRESTLING BOOTS | Medium (black)    |
+|-----------------|-------------------|
+| FAVOURITE MOVES | Camel Clutch, DDT |
+ -------------------------------------
+
+++++++++++++++++++++++
+- Orlando Jordan [ORL]
+++++++++++++++++++++++
+
+When you're done Orlando, why not make him a custom U.S. Championship belt to 
+suit it?
+
+ ______________________
+| WEIGHT | Heavyweight |
+|--------|-------------|
+| STYLE  | Original    |
+|--------|--------------------------|
+| HAIR   | Jheri Curl short (black) |
+|--------|--------------------------|
+| TRUNKS | Short (yellow)           |
+|--------|--------------------------|
+| EYES   | Bigger                   |
+|--------|--------------------------|
+| MOUTH  | Wide                     |
+|--------|--------------------------|
+| WRESTLING BOOTS | Medium (yellow) |
+|-----------------|-----------------|
+| TAUNTS          | JBL 1, 2        |
+|-----------------|---------------------------------------------|
+| FAVOURITE MOVES | Neckbreaker, Clothesline, Flying Cross Body |
+|-----------------|---------------------------------------------|
+| FINISHER        | Flying Neckbreaker                          |
+ ---------------------------------------------------------------
+
++++++++++++++
+- Rosey [ROS]
++++++++++++++
+
+Rosey shares a lot of moves with the Hurricane, but he's also a bit heavier 
+than The Hurricane though.
+
+ ______________________
+| WEIGHT | Super-Heavy |
+|--------|-------------|
+| STYLE  | Powerful    |
+|--------|-------------|
+| MASK   | Bandit      |
+|--------|-------------|
+| HAIR   | RVD Hair    |
+|--------|------------------|
+| SHIRT  | T-Shirt (orange) |
+|--------|----------------------|
+| PANTS  | Trunks medium (blue) |
+|--------|--------------------------------|
+| SHOES  | Wrestling Boots (medium, blue) |
+|--------|----------------------------------------------|
+| FAVOURITE MOVES | Bearhug, Splash, Corkscrew Leg Drop |
+|-----------------|-------------------------------------|
+| TAUNTS          | Hurricane 1, 2                      |
+|-----------------|-------------------------------------|
+| FINISHER        | Eye of the Hurricane                |
+ -------------------------------------------------------
+
++++++++++++++++++++++++++++++++
+- Stone Cold Steve Austin [STO]
++++++++++++++++++++++++++++++++
+
+Stone Cold in all his glory. Sadly, there's no "What?" sign in the crowd rows.
+
+ ______________________
+| WEIGHT | Heavyweight |
+|--------|-------------|
+| STYLE  | Traditional |
+|--------|---------------|
+| FACIAL HAIR | Goatee 2 |
+|-------------|--------------|
+| JACKET      | Leather Vest |
+|-------------|------------------------|
+| KNEEPADS    | Medical Braces (black) |
+|-------------|-------------------------|
+| SHOES       | Wrestling Boots (black) |
+|-------------|-------------------------|
+| LOGO        | WWE (black)             |
+|-------------|------------------------------------------------|
+| FAVOURITE MOVES | Head Pound, Alabama Slam, Mudhole Stomping |
+|-----------------|--------------------------------------------|
+| FINISHER        | Stunner                                    |
+ --------------------------------------------------------------
+
++++++++++++++++++++
+- Tyson Tomko [TOM]
++++++++++++++++++++
+
+Tomko is pretty similar to Christian. So give him the same entrance movie and 
+music similar to Christian.
+
+ ______________________
+| WEIGHT | Heavyweight |
+|--------|-------------|
+| STYLE  | Powerful    |
+|--------|------------------|
+| BEARD  | Fu Manchu Bottom |
+|--------|------------------|
+| SHIRT  | Tank Top (black) |
+|--------|--------------------|
+| PANTS  | Long Pants (black) |
+|--------|--------------------|------------------|
+| TATTOOS | Tribal Vines (left & right biceps),  |
+|         | Wise Warrior (left & right forearms) |
+|---------|--------------------------------------|
+| TAUNT   | Christian 1, 2                       |
+|---------|--------------------------------------|
+| FAVOURITE MOVES | Big Boot, Low Blow           |
+|-----------------|------------------------------|
+| FINISHERS       | Neckbreaker, Unprettier      |
+ ------------------------------------------------
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "WWE WrestleMania 21 FAQ" to remind me that you are not
+spam. If not, the subject should be at least close to the previous one and I
+will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+
+To THQ for making the game.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

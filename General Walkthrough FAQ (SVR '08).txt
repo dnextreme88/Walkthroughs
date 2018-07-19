@@ -1,0 +1,1788 @@
+FAQ / Walkthrough:
+
+Name of Game: WWE SmackDown vs. Raw 2008
+
+Platform: PS2 / PSP
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. About WWE SmackDown vs Raw 2008................................[ABT]
+        B. Controls.......................................................[CON]
+                - In-game controls......................................[CON-1]
+                - Controls if you're not yet starting a match...........[CON-2]
+                - Controls when selecting a superstar...................[CON-3]
+        C. Options........................................................[OPT]
+                - Match Rules.............................................[RUL]
+                - In-Game Options.........................................[IGO]
+                - Custom A.I. Settings....................................[AIS]
+                - Sound Settings..........................................[SND]
+                - Save Options............................................[SAV]
+                - Cheat Codes.............................................[CHT]
+        D. Exhibition.....................................................[EXH]
+                - One on One matches......................................[ONE]
+                - Two on Two matches......................................[TWO]
+                - Triple Threat matches...................................[TRI]
+                - Fatal-4-Way matches.....................................[FAT]
+                - 6-Man matches...........................................[SIX]
+                - Handicap matches........................................[HAN]
+                - Royal Rumble matches....................................[ROY]
+        E. 24/7 Mode......................................................[SEA]
+                - Superstar Mode..........................................[STM]
+                - General Manager Mode....................................[GMM]
+                        - Rosters.........................................[ROS]
+                        - Reports.........................................[REP]
+                        - Mail Folder.....................................[MAI]
+                        - Schedules.......................................[SCH]
+        F. Tournament Modes...............................................[TOU]
+        G. Hall of Fame...................................................[HOF]
+                - Ranks...................................................[RNK]
+                - Unlockable Arenas.......................................[ARE]
+                - Hall of Fame challenges.................................[CHL]
+                        - January 22, 1995..............................[CHL-1]
+                        - March 31, 1996................................[CHL-2]
+                        - March 23, 1997................................[CHL-3]
+                        - April 13, 1997................................[CHL-4]
+                        - June 28, 1998.................................[CHL-5]
+                        - August 27, 2000...............................[CHL-6]
+                        - March 26, 2001................................[CHL-7]
+                        - April 1, 2001.................................[CHL-8]
+                        - April 3, 2005.................................[CHL-9]
+                        - April 3, 2005................................[CHL-10]
+                        - May 25, 2006.................................[CHL-11]
+                        - June 12, 2006................................[CHL-12]
+        H. WWE Shop.......................................................[SHO]
+                - Legend Superstars.......................................[LEG]
+                        - PSP-exclusive superstars........................[PSP]
+                - Another Superstar.......................................[SUP]
+                - Another Costume.........................................[COS]
+                - Legend Championships....................................[CHA]
+                - Miscellaneous...........................................[MSC]
+                - Starter / Premium Kits..................................[KIT]
+                        - Starter Kits....................................[STK]
+                        - Premium Kits....................................[PMK]
+        I. Create Modes...................................................[CRT]
+                - Create A Move-set.....................................[CRT-1]
+                - Create A Stable.......................................[CRT-2]
+                - Create A WWE Superstar................................[CRT-3]
+                - Create An Entrance....................................[CRT-4]
+                - Create A WWE Championship.............................[CRT-5]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hi and welcome to my FAQ/Walkthrough for the game WWE SmackDown vs Raw 2008.
+This is my second FAQ for the game. My third FAQ for the WWE series. And also
+my first FAQ for the PSP platform. I hope you find this guide useful.
+
+The guide covers about most of the aspects of the game. The only aspect that I
+haven't really touched well is the GM Mode.
+
+WWE SmackDown vs Raw 2008 is owned by THQ. All trademarks are subjected to THQ.
+
+Copyright (c) THQ.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Mar 18, 2009
+= Submitted the FAQ.
+
+Version 1.1 - Mar 20, 2009
+= Changed submission date for "Version 1.0" as I put Mar 10 2009 by mistake.
+= Added the description for "Delete" in "Save Options".
+= Words enclosed with single quotation marks (") are now replaced with (“”).
+
+Version 1.2 - Aug 22, 2016
+= Revival. Re-structured the document. Corrected some grammar errors.
+= Changed all section codes so that search is easier.
+= Renamed the "Basics" section to "Options".
+= The sub-sub section for showing controls during superstar selection and the
+PSP exclusive superstars are now sub-sections.
+= Fixed the graph settings in "Custom A.I. Settings" sub section so that they
+are all properly aligned.
+= Added section codes for "Starter Kits" and "Premium Kits" sub-sub sections.
+= Added a description in the "Unlockable Arenas" section. In addition, the
+unlockable arenas are presented into tables instead of lists.
+= Added the "Miscellaneous" sub-section under "WWE Shop" section.
+= Corrected the price of "Shane McMahon" unlockable to be $110,000 instead of
+$210,000. In addition, the price of each unlockable championships in "Legendary
+Championships" sub-section have been added.
+= Interchanged the section places of "Options" and "Controls".
+
+Version 1.3 - Aug 28, 2016
+= Added control for picking random superstar.
+= Added "Ranks" sub-section.
+= Superstars in "Legend Superstars" sub-section have their proper unlockable
+requirements set.
+= Added strategies for each challenge in "Hall of Fame challenges" sub-section.
+= Added the missing price of "Bret Hart" unlockable.
+= Added descriptions for each option in "In-Game Options" sub-section.
+
+Version 1.4 - Sep 12, 2016
+= Added missing ranks in "Ranks" sub-section (from Midcarder to Hall of Famer).
+= Changed the descriptions of "Rope Break", "DQ", "Interference" and "Escape
+from Cage Door" options in "Match Rules" sub-section.
+= Renamed "Cellphones" to "Mail Folder" in General Manager Mode section.
+= Roster, Reports, Mail Folder and Schedules under "General Manager Mode"
+section are now sub-sections. Descriptions for each of the items found under
+the sub-sections have now been filled up.
+= Added "Cheat Codes" and "Superstar Mode" sub-sections.
+= Added "24/7 Mode" section. "General Manager Mode" (and all its sub-sections)
+is now a sub-section under this section.
+= Added "Create Modes" section.
+= Corrected the typo in "WWE Shop" section that mentioned Season Mode instead
+of 24/7 Mode.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. About WWE SmackDown vs Raw 2008 [ABT]
+-------------------------------------------------------------------------------
+
+WWE SmackDown vs. Raw 2008 (often shortened to WWE SvR 2008 or SvR '08), is a
+professional wrestling video game developed by YUKE's Future Media Creators and
+released on the PlayStation 2, PlayStation 3, Xbox 360, Wii, PlayStation
+Portable and Nintendo DS video game consoles by THQ in November 2007.
+
+The game is the ninth edition of the long-running WWE SmackDown vs. Raw video
+game series based on the professional wrestling promotion World Wrestling
+Entertainment (WWE). It is the sequel to 2006's WWE SmackDown vs. Raw 2007,
+succeeded by WWE SmackDown vs. Raw 2009, and is the first SmackDown game to
+include the promotion's ECW brand. It is also the first WWE game to be
+available for all seventh generation game consoles.
+
+ _______________________________________________
+| SOURCE: http://en.wikipedia.org/wiki/SVR_2008 |
+ -----------------------------------------------
+
+-------------------------------------------------------------------------------
+B. Controls [CON]
+-------------------------------------------------------------------------------
+
+These are the controls for the game. I have divided the controls into groups.
+
+++++++++++++++++++++++++++
+- In-game controls [CON-1]
+++++++++++++++++++++++++++
+
+- Move - Any directional button
+- Strike Attack - [] button
+- Quick Grapple - O button + any directional buttons
+- Strong Grapple - Hold [R] button + UP/DOWN d-pad + O button
+- Ultimate Control Grapple - Hold [R] button + LEFT/RIGHT d-pad + O button
+- Run (uses your stamina) - Hold [L] button + any directional buttons
+- Counter strike attack of your opponent - [L] button
+- Counter grapple attack of your opponent - [R] button
+- Store signature move - L2 button + R2 button
+- Signature move (must be stored) - /\ button
+- Finisher (must have full momentum) - /\ button
+- Irish Whip - [R] button + X button
+- Pick/Drop weapon - X button
+- Strike with weapon in hand - [] button
+- Pin opponent - DOWN + O (approach a downed opponent)
+- Taunt (increases momentum for SHOWMAN wrestlers) - Any directional buttons
+using the analog stick
+- Ring-in/Ring-out (should be closed to the ropes or to the ring) - Any
+directional buttons + X button
+- Pick up a downed opponent - O button
+- Climb up the cage/cell - Any directional buttons + X button
+- Pause the game - START button
+- See status of wrestler (should be in a match) - SELECT button
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+- Controls if your not yet starting a match [CON-2]
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+- Select - X button
+- Back/Cancel - O button
+- Goes back to home menu - HOME button
+- Scroll down - DOWN d-pad
+- Scroll up - UP d-pad
+- Toggle options - LEFT/RIGHT d-pad
+
++++++++++++++++++++++++++++++++++++++++++++++
+- Controls when selecting a superstar [CON-3]
++++++++++++++++++++++++++++++++++++++++++++++
+
+- Select - X button
+- Back/Cancel - O button
+- Pick superstar at random - [] button
+- Show help menu - SELECT button
+- Switch fighting styles - LEFT/RIGHT directional buttons
+*- Show attributes of selected wrestler/diva - [R] button
+*- Show finishers of selected wrestler/diva - [L] button
+
+* - pressing the same button again will alternate and show the opposite
+attributes or finishers. So for instance, if you press the [R] button that lets
+you show the attributes of "Undertaker", you pressed [R] button again. This
+will now display the finishers of "Undertaker". The same pattern goes for
+showing the finisher then to attributes.
+
+-------------------------------------------------------------------------------
+C. Options [OPT]
+-------------------------------------------------------------------------------
+
+In this section, I will explain the match rules, AI settings and other things
+found in "Options".
+
++++++++++++++++++++
+- Match Rules [RUL]
++++++++++++++++++++
+
+All match rules are set to default. These match rules are the official rules
+just like in real life WWE. All options (except for Ring Out Count) are toggled
+using the ON and OFF options.
+
+Entrance: ON
+> Enables superstars' entrances before the match starts.
+
+K.O: OFF
+> Allow winning matches through knockouts. Certain moves has an ability to
+knockout an opponent.
+
+Give Up: ON
+> Allow winning matches through tap outs. Struggle Submission (SS) moves has an
+ability to tap out an opponent.
+
+Rope Break: ON
+> When enabled, pins and submission moves to an opponent near the ropes are
+disabled.
+
+DQ: ON
+> When enabled, use of weapons to an opponent or to a referee will not result
+to a loss in the match. DQs don't apply to Hardcore matches, as weapons will be
+allowed to use.
+
+Ring Out Count: 10
+> Allow winning matches through count outs. This is when the referee starts to
+count on you when you are outside the ring for the first 5 seconds. The
+wrestler who is in the ring before the 10 count wins. This applies for single
+matches. For tag team matches, at least one of the tag team members who are
+outside the ring after the 10 count will have an automatic win against the
+opposing team.
+
+Ring Out: ON
+> Enables superstars from going in and out of the ring.
+
+Interference: OFF
+> Enables a run-in from a stablemate during a match. This only applies to
+normal matches (not a TLC, ladders etc.) and if the wrestler has at least 1
+stable member formed in "Create a Stable".
+
+Escape from Cage Door (Steel Cage): ON
+> Allow winning matches by escaping from the steel cage door. This only applies
+to Steel Cage matches. You can still climb up the cage to win though.
+
+Over the Top Rope: OFF
+> Enables elimination of opponents over the top rope.
+
+Pin and Give Up (Steel Cage): OFF
+> Allow winning matches by pins and submissions in a Steel Cage match.
+
++++++++++++++++++++++++
+- In-Game Options [IGO]
++++++++++++++++++++++++
+
+Difficulty: NORMAL
+> Sets how hard the opponents are. Values ranged from Easy, Normal, Hard and
+Legend.
+
+Momentum Bar Charge Speed: NORMAL
+> Sets how fast the momentum bar fills up when performing moves. Values ranged
+from:
+
+        NORMAL: Momentum bar fills up at a moderate speed.
+        FAST  : Momentum bar fills up at a faster speed.
+
+HUD: ON
+> Toggles whether to always show display information during a match.
+
+Targeting Indicators: AUTO
+> Toggles the superstar's targeting HUD to show on screen or not. This option
+refers to a small visual for selecting a target that appears above the
+superstar during a match. Values ranged from:
+
+        ON  : Always shows the targeting indicator.
+        OFF : Doesn't show the targeting indicator.
+        AUTO: Only shows the targeting indicator when the superstar changes 
+              target.
+
+Camera Cuts: ON
+> Toggles whether to show a short scene when performing a superstar's signature
+move or finisher.
+
+Stamina System: ON
+> Toggles whether to show a stamina bar below each superstar's HUD during a
+match.
+
+Reversal Help Indicator: ON
+> Toggles whether to show a reversal indicator below each superstar's HUD
+during a match. This option appears when a move can be reversed.
+
+++++++++++++++++++++++++++++
+- Custom A.I. Settings [AIS]
+++++++++++++++++++++++++++++
+
+This is the settings where you can edit how the CPU acts, moves and its
+difficulty. The graph (- <|=====     |> +) is where you will set the parameters
+to your liking. Decrease the rate using the - sign and increase the rate using
+the + sign.
+
+------------------------
+Frequency of COM's usage
+------------------------
+
+Standing Strike Reversal Rate:        - <|=====     |> +
+Standing Grapple Reversal Rate:       - <|=====     |> +
+Ground Strike Reversal Rate:          - <|=====     |> +
+Ground Grapple Reversal Rate:         - <|=====     |> +
+Finisher Reversal Rate:               - <|=====     |> +
+Object Attack Reversal Rate:          - <|=====     |> +
+
+--------------
+Damage Balance
+--------------
+
+Finisher Attack Power:                - <|=====     |> +
+Object Attack Power:                  - <|=====     |> +
+
+------------
+Game Balance
+------------
+
+Standing Strike Reversal:             - <|=====     |> +
+Standing Grapple Reversal:            - <|=====     |> +
+Ground Strike Reversal:               - <|=====     |> +
+Ground Grapple Reversal:              - <|=====     |> +
+Finisher Reversal:                    - <|=====     |> +
+Object Attack Reversal:               - <|=====     |> +
+Momentum Rate Fighting Style Actions: - <|=====     |> +
+Momentum Rate Attacks:                - <|=====     |> +
+Momentum Rate Taunts:                 - <|=====     |> +
+Stamina Rate:                         - <|=====     |> +
+
+++++++++++++++++++++++
+- Sound Settings [SND]
+++++++++++++++++++++++
+
+Music Volume:                        - <|==========|> +
+Entrance Music Volume:               - <|==========|> +
+SFX Volume:                          - <|==========|> +
+
+++++++++++++++++++++
+- Save Options [SAV]
+++++++++++++++++++++
+
+> Save - saves the game to your memory stick. Remember, this overwrites the
+previous save not unless you have a different memory stick.
+
+> Load - loads previous saved game from the memory stick.
+
+> Delete - deletes your WWE SmackDown vs. Raw 2008 saved game in your current 
+memory stick.
+
+Autosave: OFF
+> Autosaves the game. Toggle whether the game saves automatically or not.
+
++++++++++++++++++++
+- Cheat Codes [CHT]
++++++++++++++++++++
+
+The following codes are unlockable attires. The codes are case-sensitive.
+
+ ______________________________________________________________
+|      CODE      |                    UNLOCKS                  |
+|----------------|---------------------------------------------|
+| KellyKG12R     | Kelly Kelly's alternate costume.            |
+|----------------|---------------------------------------------|
+| DXCostume69K2  | Triple H's & Shawn Michaels's D-X costumes. |
+ --------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+D. Exhibition [EXH]
+-------------------------------------------------------------------------------
+
+This section will list all of the matches in the game (which are found in
+Exhibition). For matches with an asterix, here is a rundown of what they mean:
+
+*   - Appears on Exhibition but is hidden/not playable in GM Mode.
+**  - Matches that appear on both Exhibition and GM Mode.
+*** - Appears on GM Mode but is hidden/not playable in Exhibition.
+
+Other matches without an asterix means that they appear on both GM Mode and
+Exhibition and they are playable.
+
+++++++++++++++++++++++++++
+- One on One matches [ONE]
+++++++++++++++++++++++++++
+
+> Normal Match
+*Buried Alive Match
+> First Blood
+> Hardcore
+**Hell in a Cell
+**Ironman
+> Ladder
+**Last Man Standing
+> Normal Submission
+> Ultimate Submission
+> Table
+> TLC
+> Steel Cage
+> Parking Lot Brawl
+*ECW Extreme Rules Match
+
+++++++++++++++++++++++++++
+- Two on Two matches [TWO]
+++++++++++++++++++++++++++
+
+> ***Normal Match w/Manager vs. w/Manager
+> Tag Team
+***Hardcore Single w/Manager vs. w/Manager
+> Hardcore Tornado Tag
+> Hell in a Cell Tornado Tag
+> Ladder Tornado Tag
+> Steel Cage Tornado Tag
+> Table Tornado Tag
+> TLC Tornado Tag
+> Tornado Tag
+> Elimination Normal Tag
+> Elimination Tornado Tag
+*Elimination Table Tornado Tag
+*ECW Extreme Tornado Tag
+
++++++++++++++++++++++++++++++
+- Triple Threat matches [TRI]
++++++++++++++++++++++++++++++
+
+> Normal Triple Threat
+> Hardcore Triple Threat
+**Hell in a Cell Triple Threat
+> Ladder Triple Threat
+> Steel Cage Triple Threat
+> Table Triple Threat
+> TLC Triple Threat
+*ECW Extreme Triple Threat
+
++++++++++++++++++++++++++++
+- Fatal-4-Way matches [FAT]
++++++++++++++++++++++++++++
+
+> Normal Fatal-4-Way
+> Hardcore Fatal-4-Way
+**4-Man Battle Royal
+**Hell in a Cell Fatal-4-Way
+> Ladder Fatal-4-Way
+> Steel Cage Fatal-4-Way
+> Table Fatal-4-Way
+> TLC Fatal-4-Way
+*ECW Extreme Rules Match Fatal-4-Way
+
++++++++++++++++++++++
+- 6-Man matches [SIX]
++++++++++++++++++++++
+
+> 6-Man Battle Royal
+***Tag Team No Manager vs. w/Manager
+***Tag Team w/Manager vs. w/Manager
+> 6-Man Normal Tag
+> Elimination Tag
+***Elimination Chamber Normal 6-Man
+***Elimination Chamber Tornado 6-Man Tag
+**Armageddon Hell in a Cell
+***Money in the Bank
+> 6-Man Tornado Tag
+> 6-Man Elimination Tornado Tag
+> Hardcore Triple Threat Tornado Tag
+
+++++++++++++++++++++++++
+- Handicap matches [HAN]
+++++++++++++++++++++++++
+
+> ***Normal Match No Manager vs. w/Manager
+> One on Two
+> One on Tag
+> One on Three
+> One on Trio
+*Tag on Trio
+***Hardcore Single No Manager vs. w/Manager
+
+++++++++++++++++++++++++++++
+- Royal Rumble matches [ROY]
+++++++++++++++++++++++++++++
+
+> *10-Man Royal Rumble
+*20-Man Royal Rumble
+*30-Man Royal Rumble
+
+-------------------------------------------------------------------------------
+E. 24/7 Mode [SEA]
+-------------------------------------------------------------------------------
+
+This mode comprises two sections: superstar mode and GM mode. The 24/7 mode is
+accessible under Game Modes then WWE 24/7. You're actually given a choice
+whether to play as a WWE superstar, a created superstar or as a general
+manager. I've broken down the first two into "Superstar Mode" and the last as
+"General Manager Mode" below.
+
+++++++++++++++++++++++
+- Superstar Mode [STM]
+++++++++++++++++++++++
+
+This is actually career mode of the previous games in the series. In this mode,
+you can play as either a WWE superstar or as a created superstar that you
+created in Create a Superstar mode. You can set the difficulty to either Easy,
+Normal, Hard or Legend. The mode is played with only a handful of superstars
+from SmackDown and Raw only. ECW superstars aren't playable here. No divas
+though. There are a total of 19 superstars that can be played. Here is a list
+of them:
+
+> Batista
+> Carlito
+> Chavo Guerrero
+> Chris Masters
+> Edge
+> Jeff Hardy
+> John Cena
+> Johnny Nitro
+> Kane
+> King Booker
+> Matt Hardy
+> Mr. Kennedy
+> Randy Orton
+> Rey Mysterio
+> Ric Flair
+> Shawn Michaels
+> Triple H
+> Undertaker
+> William Regal
+
+Once you picked your superstar, you may use his original attribute settings
+or start from scratch, usually with an overall of 36. The idea of the game is
+to get your superstar to legendary status. There is a legend progress bar at
+the top right of the screen and you will work your way up to make it to 100%.
+Just keep winning matches and you'll eventually get to 100% in no time.
+
+The mode is packed with cutscenes. You'll get cutscenes backstage but you won't
+be able to roam them freely. You'll cut your own promos, backstage or in the
+ring. You'll be faced with decisions along the way and it will affect the
+story. Superstars will react differently with each response and you'll soon
+build camaraderie or foes along the way.
+
+----------
+- Magazine
+----------
+
+Your current storyline can be checked by selecting the magazine stack. You can
+read it by pressing the X button. Check this area often should you be unsure
+on your storyline.
+
+--------
+- Laptop
+--------
+
+The laptop has WWE shop, Power 25 rankings and health report. If your superstar
+got an injury, you can still wrestle your matches (when you shouldn't). If you
+do, you start the match handicapped. Depending on your injury, certain body
+parts will be damaged. For example, concussions gets you a yellow health on
+your head part.
+
+-------------
+- Mail Folder
+-------------
+
+One tip though, check your messages regularly by selecting the cellphone. Your
+rivalries will send you messages from time-to-time and it's worth checking out
+and see the current status of your storyline too. Messages will either be
+voiced or just plain text. You will receive messages from:
+
+> The general manager. Jonathan Coachman (if your superstar is on RAW) or Teddy
+Long (if your superstar is on SmackDown) sends you updates and help should you
+require one.
+> Other superstars. Usually, these are your rivals on the current storyline.
+> Vince McMahon. Occasional, yet important.
+
+----------
+- Calendar
+----------
+
+The calendar is where you spend most of your time. You manage your daily
+schedule here, from training, improving skills etc. Your rest days will be the
+days your show doesn't fall at. Weekends are day offs. During your opposing
+show's day, you can invade the brand and get a popularity boost. This strategy,
+though, will get you fatigued but it's worth it if you wanna throw dirt to the
+other show, right?
+
+> Training exercises - mini-matches that improves your superstar's stats by
+completing a task such as performing a number of taunts within the time limit
+etc. Training can be done 3 times in a day: morning, afternoon and evening. You
+may manually finish them or simulate it. 
+
+> Skill improvement trainings - cost money but these are helpful for gaining
+bonuses done in events and activities. Skills include mic work, improving as a
+clean/dirty superstar, training fatigue so that lesser fatigue is used during
+matches etc.
+
+> Events and activites - miscellaneous activities your superstar can partake
+in. They can boost your popularity, have photo shoots, recover fatigue by
+taking rests, do hero/villain movies etc. Not all activities give positive
+results. For example, taking a rest to recover fatigue loses 30 popularity,
+invading the other show can backfire.
+
+++++++++++++++++++++++++++++
+- General Manager Mode [GMM]
+++++++++++++++++++++++++++++
+
+As you start the game, you get to select which GM you'd like to play as. Take
+note that each show has their own championships. Here's the list:
+
+ECW
+        GM:            Tommy Dreamer
+        Championships: ECW Title.
+
+SmackDown
+        GM:            Theodore "Teddy" Long
+        Championships: World Heavyweight Title, WWE Tag Team Titles, United
+                       States Title and Cruiserweight Title.
+
+Raw
+        GM:            Jonathan Coachman
+        Championships: WWE Title, World Tag Team Titles, Intercontinental
+                       Title and Women's Title.
+
+After selecting your GM, you get these options:
+
+Draft New Rosters - select your own superstars and divas. First draft selection
+will be chosen at random and will alternate between the brands. Cruiserweights
+will be in blue while the divas will be in red. You start out with $10,000,000
+cash.
+
+Each superstar and diva will have a corresponding contract to hire. They range
+from 5 weeks, 3 months, 6 months, 9 months and 1 year. After selecting your
+roster, you set them as clean/dirty (faces and heels) as well as selecting the
+champions of your show. Major championships (ECW title, World Heavyweight title
+and WWE title) gives +5 to popularity and all the rest gives +3 to popularity.
+You need to have a good number of clean and dirty superstars because this is
+the basis of your rivalries (which is used to garner higher ratings).
+
+Use WWE Roster - use the default roster of the game. The default roster is:
+
+ECW:
+> CM Punk
+> Elijah Burke
+> Johnny Nitro
+> Kelly Kelly
+> Marcus Cor Von
+
+SmackDown:
+> Ashley
+> Batista
+> Chavo Guerrero
+> Chris Masters
+> Edge
+> Finlay
+> Gregory Helms
+> Kane
+> Kenny Dykstra
+> Mark Henry
+> Matt Hardy
+> Michelle McCool
+> MVP
+> Rey Mysterio
+> Ric Flair
+> The Great Khali
+> Torrie Wilson
+> Undertaker
+
+Raw:
+> Bobby Lashley 
+> Candice Michelle 
+> Carlito 
+> Jeff Hardy 
+> John Cena 
+> JTG 
+> King Booker
+> Mr. Kennedy 
+> Melina 
+> Mickie James 
+> Randy Orton
+> Sandman
+> Shad
+> Shawn Michaels
+> Snitsky
+> Triple H
+> Umaga
+> William Regal
+
+Edit Available Roster - toggle whether superstars/divas are available for hire.
+Created superstars and legends (once you purchased them) are seen here.
+
+Import Stables - import stables found in "Create A Stable" for use in GM Mode.
+
++++++++++++++++
+- Rosters [ROS]
++++++++++++++++
+
+Accessed by selecting the stacks of magazines.
+
+-------------
+- View Roster
+-------------
+
+Check your current roster of superstars along with their popularity, overall,
+fatigue bar and mood. You can also re-negotiate their contracts so that they
+can stay longer at your show. You can also check their profile, which would
+include their bio, weight class, morale comments, match records and skills.
+
+Morale of each superstar will change as weeks go by. Eventually, they'll ask
+you for title shots, among others. Morale is also important in keeping them
+from your show. Morales include:
+
+Happy
+> no problems. The superstar is very satisfied and is happy working with you.
+
+Content
+> The superstar wants a title shot. This is usually the case when the superstar
+is in Top 10 of the Power 25.
+> When the superstar has been losing for at least 3 matches straight. You need
+to let him win.
+> You may also get messages for recent pushes and that he wants a new contract.
+
+Unsatisfied
+> The superstar wants a contract re-negotiation immediately.
+> The superstar wants a title shot immediately.
+
+Furious
+> The superstar threatens you that he will leave the show.
+
+---------------
+- Health Report
+---------------
+
+Check which of your superstars/divas are currently injured, fatigue level,
+injury frequency, injury name, injury severity and length of recovery. If a
+superstar has been injured before, an entry in its Injury History will be
+filled up along with the time it was injured and when it ended. Injured
+superstars can still be assigned to matches, but you'll risk your superstar
+from having worst injuries, sidelining them for a couple of months.
+
+-------------------
+- Current Champions
+-------------------
+
+View the current champions of your show. If you trade your champion to a rival
+GM, the title will be vacated and you can assign another superstar to be
+champion. You can only assign superstars who doesn't have a title yet. If you
+want a superstar to hold two titles, you have to assign it to a title match
+against the champion in your match card.
+
+-----------
+- Rivalries
+-----------
+
+See superstars/divas involved in rivalries, storyline used, rivalry length and
+fan reactions. You can also end rivalries here.
+
+---------------
+- Propose Trade
+---------------
+
+Propose a trade with a rival GM. You have up to 3 slots to trade at a single
+time. For some reason, rival GMs only accept the trade if you're trading your
+superstar who has a higher popularity than the superstar you want from the
+other show or if you offer more superstars.
+
+-------------
+- Free Agency
+-------------
+
+See which superstars and divas can be assigned to the shows. Expired contracts
+of each superstar from the brands can be hired again as long as you pay the
+required cash to hire them. This option is not selectable if there are no
+superstars to hire.
+
+-------------------
+- Storyline Writers
+-------------------
+
+Purchase your rivalries here. You can see the description of each storyline,
+star rating and the number of superstars/divas that will be involved. You have
+to purchase the storyline from the writer before you can use them. When you buy
+a storyline, all other storylines from the same writer are bought as well. The
+first 3 writers are already available for use.
+
+David Fifield (costs: $10,000)
+        Jealous Friend          : 1 star
+        Stalker                 : 3 stars
+        Ungrateful Rookie       : 2 stars
+
+Wesley Bunn (costs: $20,000)
+        Rookie Partners         : 1 star
+        Legend Killer           : 5 stars
+        Outnumbered             : 3 stars
+
+Jaime Jensen (costs: $110,000)
+        Faction                 : 4 stars
+        Patriotism              : 4 stars
+        Patriotism Tag Team     : 4 stars
+
+Tracy Williams (costs: $120,000)
+        Kidnapping              : 4 stars
+        Returning Legend        : 5 stars
+        Battle of the Titans    : 4 stars
+
+Kristina Kirk (costs: $80,000)
+        David vs. Goliath       : 4 stars
+        Cheating Girlfriend     : 5 stars
+        Freak Show              : 1 star
+
+William Schmitt (costs: $30,000)
+        Betrayal                : 1 star
+        No Respect              : 2 stars
+        Winning a Diva's Heart  : 3 stars
+
+Steve Dauterman (costs: $50,000)
+        Humiliation             : 1 star
+        Loser Leaves the Brand  : 5 stars
+        Trashed Locker Room     : 1 star
+
+Jessica Peters (costs: $70,000)
+        Greatest of All Time    : 5 stars
+        Injury Revenge          : 3 stars
+        Cruiserweights Collide  : 2 stars
+
+Jon Rowe (costs: $40,000)
+        Against All Odds        : 3 stars
+        Student Turns on Teacher: 3 stars
+        GM Kiss Up              : 2 stars
+
+Bert Farache (costs: $90,000)
+        Diva Faction            : 3 stars
+        Classy vs. Trashy       : 3 stars
+        Diva Jealousy           : 3 stars
+
+David Daniels (costs: $100,000)
+        Divas Team Up           : 2 stars
+        Number One Contender    : 4 stars
+        Hungry Challenger       : 4 stars
+
+Mitchell Cameron (costs: $60,000)
+        Undisputed Champion     : 5 stars
+        Wealthy vs. Poor        : 1 star
+        Team Canada             : 3 stars
+
+-----------------------
+- Edit Available Roster
+-----------------------
+
+Toggle whether superstars/divas are available for hire. Created superstars and
+legends (once you purchased them) are seen here. Toggle their status to ON so
+that they'll appear at the Free Agency area. Created superstars' popularity
+starts at 20.
+
++++++++++++++++
+- Reports [REP]
++++++++++++++++
+
+Accessed by selecting the laptop.
+
+---------
+- WWE.com
+---------
+
+Check the highlights from the last PPV, if there is a new champion, fan change
+updates, show ratings for the week etc. You can read each article by pressing
+the X button.
+
+-------------
+- Fan Support
+-------------
+
+See the graph of fan support from each brand. Fan support changes every Monday
+of the week and it depends on how each brand fared well. An increase in fan
+support means that your show did well on that week and you beat your rival GMs.
+The minimum fan support increase or decrease is 10,000 viewers.
+
+---------------
+- JBL's Reports
+---------------
+
+See a list of how PPVs went and some other things.
+
+------------
+- Financials
+------------
+
+See the list of things you have spent, revenues earned etc.
+
+----------
+- Power 25
+----------
+
+See the superstar rankings from superstars and divas of all brands.
+
+------------------
+- Progress Support
+------------------
+
+This is where you check your progress for the GM of the Year award. By
+achieving the GM of the Year award, you unlock the alternate attire for Vince
+McMahon.
+
+----------
+- WWE Shop
+----------
+
+Access the WWE shop to purchase extra content for the game. See the WWE Shop
+section for the list of unlockables.
+
+---------
+- Options
+---------
+
+Toggle superstar injuries, superstar morale, set the difficulty etc. If you
+select Re-run under Play Options, your match card from last week will be
+carried over to the next week.
+
+------
+- Save
+------
+
+Save your game to the memory stick.
+
++++++++++++++++++++
+- Mail Folder [MAI]
++++++++++++++++++++
+
+Accessed by selecting the cellphone.
+
+This is where you received mails from different kinds of people. You get mails
+when:
+        > you proposed a trade with a rival GM.
+        > your superstar is unhappy or wants a title shot.
+        > a superstar sustains injuries or recovers.
+        > the chairman, Vince McMahon e-mails you.
+        > your brand's color commentator (Jim Ross for RAW, JBL for SmackDown!
+        and Tazz for ECW) e-mails you on tips.
+
+Don't delete tips. These are helpful when you're losing fan support.
+
++++++++++++++++++
+- Schedules [SCH]
++++++++++++++++++
+
+Accessed by selecting the calendar.
+
+This is where you will setup your weekly shows. Along with that, you can see
+your show's previous ratings in your past shows. You can also view the show
+rating of your rival GM's as long as there is a match setup for that week.
+
+On days before your show starts, you can do a number of activities:
+
+> Training Exercises - improve a superstar's attributes. There are 3
+activities: morning, afternoon and evening. You can start each training or
+simulate them. Changes in attributes here will only be applied to GM Mode.
+
+> Skill Improvement - improve your mic skills, promos and interviews etc.
+
+> Events & Activities - anything not covered above. You can increase your
+superstar's popularity, earn cash, remove superstar's fatigue etc.
+
+Each week, you set up your match card that you will put up to compete with
+other brands. At the end of your show, you get to see individual match ratings
+as well as the show's rating for the week.
+
+In order to win the GM of the Year Award, you have to push its progress to 100%
+before the END OF THE YEAR (on WrestleMania 23). To do that, there will be a
+list of things that you need to accomplish. Refer to pmattingly's 24/7 GM Mode
+FAQ on GameFAQs for the list of those challenges along with the percent that
+you get for completing it:
+
+ _______________________________________________________________
+| SOURCE: http://www.gamefaqs.com/console/ps2/file/938802/51163 |
+ ---------------------------------------------------------------
+
+You can also find more info, how to setup your matches weekly, how to win show
+ratings weekly and many more on his FAQ.
+
+-------------------------------------------------------------------------------
+F. Tournament Modes [TOU]
+-------------------------------------------------------------------------------
+
+This is another feature added by THQ for this game. The Tournament mode is
+accessible under Game Modes then Tournament Modes. Make up tournaments for
+non-title matches, championships or simply for fun.
+
+> King of the Ring - select a superstar and go defeat other superstars to
+become the "King of the Ring". Matches here are all Single matches (Normal
+Match). This doesn't feature a championship tournament. It's just a normal
+non-title singles tournament.
+
+> Beat the Clock Sprint - this is similar to King of the Ring except that you
+have to beat your opponents to a quicker and faster time. This feature has a
+time limit and you can set which championship is up for grabs.
+
+> Quick Play Tournament - automatically sets a tournament. Here, matches are
+preset. However, you can change the match types at will. But you cannot change
+your wrestler here. You can also change your opponents.
+
+> Create Tournament - this is where you can set your own tournament. You have
+free control of what you want to put on your tournament. You can hold a
+tournament for championships, the tournament type (King of the Ring, SmackDown
+vs Raw, Road to WrestleMania, Money in the Bank and Custom Tournament), number
+of participants (4, 6, 8, 12, 16, being 8 as the default) and Iron Man Mode.
+
+> Load Tournament - load a previously saved tournament. It can be a King of the
+Ring, Beat the Clock Sprint or your own Custom Tournament. There are 3 slots to
+choose from.
+
+-------------------------------------------------------------------------------
+G. Hall of Fame [HOF]
+-------------------------------------------------------------------------------
+
+This is where you will unlock arenas that are locked in the game. This is a
+collection of some greatest matches in WWE history that you can relive by
+playing the actual match with the superstar(s) involved.
+
++++++++++++++
+- Ranks [RNK]
++++++++++++++
+
+As you complete a certain number of challenges, your rank will change. Here is
+a list of the required challenges to complete along with the name.
+
+ _________________________________________
+|    RANK NAME   | CHALLENGES TO COMPLETE |
+|----------------|------------------------|
+| Jobber         | 0 challenges           |
+|----------------|------------------------|
+| Curtain Jerker | 1 challenges           |
+|----------------|------------------------|
+| Rising Star    | 3 challenges           |
+|----------------|------------------------|
+| Midcarder      | 5 challenges           |
+|----------------|------------------------|
+| Main Eventer   | 6 challenges           |
+|----------------|------------------------|
+| Veteran        | 7 challenges           |
+|----------------|------------------------|
+| Hall of Famer  | 8 challenges           |
+ -----------------------------------------
+
++++++++++++++++++++++++++
+- Unlockable Arenas [ARE]
++++++++++++++++++++++++++
+
+This is where you unlock additional arenas for use in Exhibition and GM Mode.
+Complete a certain number of challenges in Hall of Fame mode and they will be
+unlocked immediately.
+
+ _______________________________________________________
+|       UNLOCKABLE ARENA       | CHALLENGES TO COMPLETE |
+|------------------------------|------------------------|
+| No Way Out arena             | 5 challenges           |
+|------------------------------|------------------------|
+| Vengeance arena              | 6 challenges           |
+|------------------------------|------------------------|
+| ECW One Night Stand arena    | 7 challenges           |
+|------------------------------|------------------------|
+| December to Dismember arena  | 8 challenges           |
+|------------------------------|------------------------|
+| New Year's Revolution arena  | 9 challenges           |
+|------------------------------|------------------------|
+| SummerSlam arena             | 10 challenges          |
+|------------------------------|------------------------|
+| WrestleMania 23 arena        | 12 challenges          |
+ -------------------------------------------------------
+
++++++++++++++++++++++++++++++++
+- Hall of Fame challenges [CHL]
++++++++++++++++++++++++++++++++
+
+Challenges can be done in any order. The Hall of Fame mode is accessible under
+Game Modes then Hall of Fame.
+
+--------------------------
+- January 22, 1995 [CHL-1]
+--------------------------
+
+> Arena: Royal Rumble
+> Date: January 22, 1995
+> Goal: Using any superstar in Exhibition: 30-Man Royal Rumble mode, arrive 1st
+in the ring and then win on Legend Difficulty.
+
+> Introduction: In 1995, Shawn Michaels made sports entertainment history by
+entering the Royal Rumble match as the 1st participant, and outlasting 29 other
+Superstars to stand victorious in the end. The Showstopper was the first
+first Superstar to ever achieve this feat, and in doing so, gave a new
+definition to the term intestinal fortitude. Now its your turn to follow his
+footsteps.
+
+Strategy: I suggest using any Super Heavyweight superstar to ease out this
+challenge. After picking that Super Heavyweight Superstar, select all the Light
+Heavyweight superstars from the Royal Rumble superstar selection screen. Pick
+Rey Mysterio, as he is the only Cruiserweight superstar in the game. After all
+Light Heavyweight Superstars are all selected, go with the Heavyweights.
+
+In the match, try to let other superstars beat each other up before eliminating
+them. Outlasting 29 other superstars is hard so stay in the corner as much as
+possible so you could take a break. Eliminate the last superstar to win.
+
+------------------------
+- March 31, 1996 [CHL-2]
+------------------------
+
+> Arena: WrestleMania
+> Date: March 31, 1996
+> Goal: Using Shawn Michaels in Direct Challenge Mode, defeat Bret Hart in a
+One on One 30-Minute Iron Man Match on Legend Difficulty.
+
+> Introduction: In WrestleMania XII, The Heartbreak Kid and The Excellence of
+Execution delivered what would come to be known as the greatest WrestleMania
+match in history. Test your Endurance and recreate this legendary battle by
+fighting your way through to the very end.
+
+Strategy: For me, this is the first challenge I took. This is simple. The Match
+Rules that you set in the Options Menu will affect this challenge so I suggest
+you use weapons. I usually forgot to set the DQ off so I have to fight Bret
+Hart without the use of weapons. The strategy here is to punch him when Bret
+Hart is about to grapple you. Make good use of Shawn Michaels' speed, as he's
+one of the fastest wrestlers in the game.
+
+------------------------
+- March 23, 1997 [CHL-3]
+------------------------
+
+> Arena: WrestleMania
+> Date: March 23, 1997
+> Goal: Using Bret Hart in Direct Challenge Mode, defeat Stone Cold in a
+Submission match on Legend Difficulty.
+
+> Introduction: At WrestleMania 13, Bret Hitman Hart and Stone Cold Steve
+Austin squared off in a brutal submission match that helped user in the
+Attitude era of World Wrestling Entertainment. Experience this confrontation
+again as somebody is going to tap... will it be you?
+
+Strategy: This one is also easy because Bret Hart is a Submission superstar so
+you can't get off the ring just like there in SvR 2007. Stone Cold won't be a
+nuisance superstar so try your best to beat him. Use diving moves as much as
+possible. Target his legs so that he could easily tap out to your Sharpshooter.
+
+------------------------
+- April 13, 1997 [CHL-4]
+------------------------
+
+> Arena: ECW
+> Date: April 13, 1997
+> Goal: Using any Superstar, defeat Tommy Dreamer, Sabu and Sandman in ECW
+Extreme Rules match of Fatal 4-Way at ECW arena on Legend Difficulty.
+
+> Introduction: On April 13, 1997, ECW kicked the door open and burst onto the
+national wrestling scene by putting on their 1st PPV event. Now it's time for
+you to step into the ring with three ECW Originals and enter the House Of
+Extreme!
+
+Strategy: This is maybe a bit hard because all of the superstars that you will
+be facing are all Hardcore experts! Pick out any superstar that has high
+overall like John Cena (has the highest overall in the game). I picked Edge
+here and put the title on the line because he is a hardcore expert too. Use
+Edge's Hardcore Resurrection to heal part of your limbs whenever necessary.
+
+-----------------------
+- June 28, 1998 [CHL-5]
+-----------------------
+
+> Arena: Vengeance
+> Date: June 28, 1998
+> Goal: Using Undertaker in Direct Challenge Mode, defeat Mick Foley in a Hell
+in a Cell match on Legend Difficulty.
+
+> Introduction: There is no introduction needed for one of the most famous
+matches in WWE History. Dare to climb into the sadistic Hell in a Cell
+structure and experience this legendary bout for yourself, but be forewarned...
+you may not walk out the same man.
+
+Strategy: At the start of the match, get out quickly of the ring. Push the door
+so that you will be outside the cell. Quickly go up and wait for Mick Foley to
+go up also. When you're both there, quickly put him down the cell by doing any
+slam or some lift up attacks on the middle of the cell. There are two of them
+so after the first cell is done, you should arrive at the ring because you fell
+down. Now you can do your Rampage and do it to Mick Foley. The Rampage lets you
+endure the attacks without falling to the ground. Use it when you get the
+chance and win.
+
+-------------------------
+- August 28, 2000 [CHL-6]
+-------------------------
+
+> Arena: SummerSlam
+> Date: August 28, 2000
+> Goal: Using any two Superstars, defeat The Hardys in a Two on Two TLC Match
+in SummerSlam on Legend Difficulty.
+
+> Introduction: Matt & Jeff Hardy made a name for themselves by constantly
+putting their bodies on the line, paving the way for a new daredevil style of
+in-ring performance. Do you have what it takes to go up against Team Extreme in
+one of their trademark TLC matches?
+
+Strategy: I don't have a good strategy here. Pick on Matt Hardy because his
+overall is lower than his brother Jeff. Basically, diving moves works better on
+Jeff as well but be forewarned, he will counter almost every diving move you
+make. Use weapons at your advantage to deal massive damage to the brothers.
+
+------------------------
+- March 26, 2001 [CHL-7]
+------------------------
+
+> Arena: None
+> Date: March 26, 2001
+> Goal: Play in GM of WWE 24/7 Mode and obtain GM of the Year award.
+
+> Introduction: On March 26, 2001, Vincent Kennedy McMahon shocked the sports
+entertainment world by purchasing World Championship Wrestling and ending the
+Monday Night Wars. Make Mr. McMahon proud by demonstrating once again that he
+who laughs last, truly laughs best.
+
+Strategy: Achievable in GM Mode. You can put your second player controller to
+either RAW or SmackDown!. The first controller should choose either the three
+brands before the second controller does or Vice-versa. The Match Card will
+only be filled with 5 slots this time unlike there in SvR 2007, which has a
+total of 6 slots. Now just go up until you reach WrestleMania and get that
+championship belt or defend it to that same brand Superstar to complete this
+challenge.
+
+-----------------------
+- April 1, 2001 [CHL-8]
+-----------------------
+
+> Arena: WrestleMania
+> Date: April 1, 2001
+> Goal: Using Stone Cold in Direct Challenge Mode, defeat The Rock on Legend
+Difficulty.
+
+> Introduction: The Texas Rattlesnake and The Great One added another chapter
+to their long running feud, this time in front of 67,925 fans. Relive this epic
+encounter from WrestleMania 17.
+
+Strategy: This is a bit of a challenge. The Rock will always counter the
+attacks your attacking him with. Stone Cold has a lesser Overall than The Rock
+so just pick him up with submissions or weapons. It doesn't matter. The Rock
+will always do his The People's Elbow when your down.
+
+-----------------------
+- April 3, 2005 [CHL-9]
+-----------------------
+
+> Arena: WrestleMania
+> Date: April 3, 2005
+> Goal: On Legend Difficulty, create a Money in the Bank match with Mr.
+Kennedy, Edge, Matt Hardy, Finlay, Jeff Hardy and defeat them with any
+remaining Superstar.
+
+> Introduction: WrestleMania 21 showcased the first ever Money in the Bank
+Ladder Match, that quickly became a staple at the The Granddaddy of Them All.
+Now, battle it out with all three past winners and grab that briefcase!
+
+Strategy: It's a tough battle so I suggest leaving this for awhile. Pick out
+any superstar who has an excellent Overall and use him to brawl one superstar
+at a time. I picked Undertaker and tried to pick Jeff Hardy out. He is easy to
+defeat. So I picked Finlay as second, then Matt Hardy, Edge and Mr. Kennedy as
+the last. Usually, it doesn't have to be in this order though. When in doubt,
+take a rest outside the ring and let the opponents brawl each other. It took me
+only 20 minutes to finish up this hard challenge.
+
+------------------------
+- April 3, 2005 [CHL-10]
+------------------------
+
+> Arena: None
+> Date: April 3, 2005
+> Goal: Create a WWE Championship title and raise its prestige to the highest
+possible value.
+
+> Introduction: When John Cena won the WWE Championship title at WrestleMania
+21, he wasted no time putting his own spin on sports entertainment's richest
+prize by creating his very own custom Championship title. Now its up to you to
+do the same.
+
+Strategy: This challenge is pretty simple. Earn at least $50,000 cash or more
+then go to Create a WWE Championship belt under Create Mode. Just purchase the
+most expensive items you can afford on. Then go back to Hall of Fame to get a
+message "April 3, 2005 was cleared".
+
+-----------------------
+- May 25, 2006 [CHL-11]
+-----------------------
+
+> Arena: None
+> Date: May 25, 2006
+> Goal: Using any Superstar, win the King of the Ring Tournament of Tournament
+Mode on Legend Difficulty.
+
+> Introduction: The King of the Ring Tournament has launched the careers of WWE
+greats Bret Hart, Steve Austin, Triple H and Edge. The contest returned in 2006
+where Booker T was victorious. Can you become The King of the World?
+
+Strategy: Any Superstar will do here. Just win the match. I used King Booker.
+Pick out Light Heavyweights first so that when you face them, you can just win
+the match quickly.
+
+------------------------
+- June 12, 2006 [CHL-12]
+------------------------
+
+> Arena: RAW
+> Date: June 12, 2006
+> Goal: Create a Stable and max-out its Teamwork Attributes. Then use this
+Stable to defeat D-Generation X in a Two on Two Tag Team Match on Legend
+Difficulty.
+
+> Introduction: The June 12, 2006 edition of Monday Night RAW featured the
+return of arguably the most popular stable of all-time, D-Generation X. Now,
+build up a Tag Team Stable of your own and show Triple H and Shawn Michaels
+that D-Generation X is a thing of the past.
+
+Strategy: You can just spam them both with some weapons and put one of them in
+the announcers table to damage all of the limbs. Toe Kick usually works here
+because it damages all of the enemy's limbs. Pick weapons and bash them with
+it. Win the match by pinfall or submission.
+
+-------------------------------------------------------------------------------
+H. WWE Shop [SHO]
+-------------------------------------------------------------------------------
+
+Here is where you can use your WWE cash obtained in WWE 24/7 Mode to purchase
+unlocked items like superstars, costumes, championships, move-sets and kits for
+CAWs. The WWE Shop is accessible under Game Modes then WWE Shop.
+
++++++++++++++++++++++++++
+- Legend Superstars [LEG]
++++++++++++++++++++++++++
+
+> The Rock - In Hall of Fame mode, defeat him as Stone Cold on Legend
+difficulty. Then purchase for $210,000.
+
+> "Stone Cold" Steve Austin - In Hall of Fame mode, defeat him as Bret Hart on
+Legend difficulty. Then purchase for $210,000.
+
+> Mick Foley - In Hall of Fame mode, defeat him as Undertaker on Legend
+difficulty. Then purchase for $210,000.
+
+> "Ravishing" Rick Rude - Purchase him in WWE Shop for $210,000.
+
+> "Rowdy" Roddy Piper - Purchase him in WWE Shop for $210,000.
+
+> Terry Funk - Using any superstar, defeat Tommy Dreamer, Sabu and Sandman in
+an ECW Extreme Rules Fatal-4-Way match on Legend difficulty. Then purchase for
+$210,000.
+
+> Sabu - Purchase him in WWE Shop for $210,000.
+
+> Bret "Hitman" Hart - In Hall of Fame mode, defeat him as Shawn Michaels on
+Legend difficulty. Then purchase for $210,000.
+
+--------------------------------
+- PSP-exclusive superstars [PSP]
+--------------------------------
+
+If you have the PSP version of the game, you get these unlockables exclusive
+for the PSP only.
+
+> Sgt. Slaughter - Purchase for $160,000.
+> Eddie Guerrero - Purchase for $160,000.
+> "The Anvil" Jim Neidhart - Purchase for $160,000.
+
+ _______________________________________________________________
+| SOURCE: http://www.gamefaqs.com/portable/psp/code/938804.html |
+ ---------------------------------------------------------------
+
++++++++++++++++++++++++++
+- Another Superstar [SUP]
++++++++++++++++++++++++++
+
+> JBL - Purchase for $110,000.
+> Shane McMahon - Purchase for $110,000.
+> Vince McMahon - Defend or win a championship in 24/7 GM Mode. Then purchase
+for $110,000.
+
++++++++++++++++++++++++
+- Another Costume [COS]
++++++++++++++++++++++++
+
+> Triple H (D-X) - In Hall of Fame mode, defeat Triple H and Shawn Michaels on
+Legend Difficulty. Then purchase for $60,000.
+
+> Shawn Michaels (D-X) - In Hall of Fame mode, defeat Triple H and Shawn
+Michaels on Legend Difficulty. Then purchase for $60,000.
+
+> Vince McMahon (Bald) - Obtain the GM of the Year award in 24/7 GM Mode. Then
+purchase for $60,000.
+
+++++++++++++++++++++++++++++
+- Legend Championships [CHA]
+++++++++++++++++++++++++++++
+
+To purchase each of the legend championships, obtain the rank "Hall of Famer"
+in Hall of Fame Mode then purchase for $20,000.
+
+> The Million Dollar Championship
+DEFAULT CHAMPION: Shane McMahon
+
+> Hardcore Championship
+DEFAULT CHAMPION: Tommy Dreamer
+
+> WWE Attitude Heavyweight Championship
+DEFAULT CHAMPION: "Stone Cold" Steve Austin
+
+> WCW Classic World Championship
+DEFAULT CHAMPION: Ric Flair
+
++++++++++++++++++++++
+- Miscellaneous [MSC]
++++++++++++++++++++++
+
+Items that doesn't fit anywhere else.
+
+> Moves set 1 - Purchase for $15,000.
+> Moves set 2 - Purchase for $15,000.
+> Moves set 3 - Purchase for $15,000.
+> Preset move-sets - Purchase for $15,000.
+> Triple H's D-X entrance animation - Purchase for $15,000.
+> Shawn Michael's D-X entrance animation - Purchase for $15,000.
+
+++++++++++++++++++++++++++++++
+- Starter / Premium Kits [KIT]
+++++++++++++++++++++++++++++++
+
+These items in the WWE Shop are the only items that can be bought multiple
+times not unlike other items which are buyable one-time only. All the items'
+description:
+
+"Increase a created Superstar's attributes."
+
+--------------------
+- Starter Kits [STK]
+--------------------
+
+BRAWLER
+        STR:     65
+        SUB:     50
+        DUR:     60
+        TEC:     50
+        SPD:     50
+        CHA:     50
+        HRD:     60
+        STA:     50
+        -----------
+        OVERALL: 59
+
+DIRTY
+        STR:     60
+        SUB:     50
+        DUR:     60
+        TEC:     50
+        SPD:     50
+        CHA:     50
+        HRD:     60
+        STA:     60
+        -----------
+        OVERALL: 60
+
+HARDCORE
+        STR:     60
+        SUB:     40
+        DUR:     60
+        TEC:     50
+        SPD:     50
+        CHA:     50
+        HRD:     70
+        STA:     60
+        -----------
+        OVERALL: 60
+
+HIGH-FLYER
+        STR:     50
+        SUB:     50
+        DUR:     50
+        TEC:     50
+        SPD:     70
+        CHA:     50
+        HRD:     50
+        STA:     70
+        -----------
+        OVERALL: 60
+
+POWERHOUSE
+        STR:     75
+        SUB:     40
+        DUR:     75
+        TEC:     40
+        SPD:     50
+        CHA:     50
+        HRD:     60
+        STA:     50
+        -----------
+        OVERALL: 60
+
+SHOWMAN
+        STR:     60
+        SUB:     50
+        DUR:     60
+        TEC:     50
+        SPD:     60
+        CHA:     50
+        HRD:     50
+        STA:     60
+        -----------
+        OVERALL: 60
+
+SUBMISSION
+        STR:     50
+        SUB:     70
+        DUR:     50
+        TEC:     60
+        SPD:     50
+        CHA:     50
+        HRD:     50
+        STA:     60
+        -----------
+        OVERALL: 60
+
+TECHNICAL
+        STR:     50
+        SUB:     50
+        DUR:     50
+        TEC:     70
+        SPD:     60
+        CHA:     50
+        HRD:     50
+        STA:     60
+        -----------
+        OVERALL: 60
+
+--------------------
+- Premium Kits [PMK]
+--------------------
+
+BRAWLER
+        STR:     75
+        SUB:     70
+        DUR:     80
+        TEC:     70
+        SPD:     70
+        CHA:     60
+        HRD:     80
+        STA:     70
+        -----------
+        OVERALL: 78
+
+DIRTY
+        STR:     75
+        SUB:     70
+        DUR:     75
+        TEC:     70
+        SPD:     70
+        CHA:     60
+        HRD:     80
+        STA:     80
+        -----------
+        OVERALL: 79
+
+HARDCORE
+        STR:     75
+        SUB:     60
+        DUR:     80
+        TEC:     65
+        SPD:     70
+        CHA:     60
+        HRD:     90
+        STA:     80
+        -----------
+        OVERALL: 80
+
+HIGH-FLYER
+        STR:     70
+        SUB:     70
+        DUR:     70
+        TEC:     70
+        SPD:     90
+        CHA:     60
+        HRD:     65
+        STA:     90
+        -----------
+        OVERALL: 80
+
+POWERHOUSE
+        STR:     90
+        SUB:     60
+        DUR:     95
+        TEC:     60
+        SPD:     70
+        CHA:     60
+        HRD:     80
+        STA:     70
+        -----------
+        OVERALL: 80
+
+SHOWMAN
+        STR:     75
+        SUB:     70
+        DUR:     80
+        TEC:     70
+        SPD:     80
+        CHA:     60
+        HRD:     70
+        STA:     80
+        -----------
+        OVERALL: 80
+
+SUBMISSION
+        STR:     70
+        SUB:     90
+        DUR:     70
+        TEC:     80
+        SPD:     70
+        CHA:     60
+        HRD:     65
+        STA:     80
+        -----------
+        OVERALL: 80
+
+TECHNICAL
+        STR:     70
+        SUB:     70
+        DUR:     70
+        TEC:     90
+        SPD:     80
+        CHA:     60
+        HRD:     65
+        STA:     80
+        -----------
+        OVERALL: 80
+-------------------------------------------------------------------------------
+I. Create Modes [CRT]
+-------------------------------------------------------------------------------
+
+Customize your WWE experience in this mode.
+
++++++++++++++++++++++++++++
+- Create A Move-set [CRT-1]
++++++++++++++++++++++++++++
+
+Modify a superstar's movesets. This ranges from strike attacks, grapples,
+ultimate control grapples, corner moves, diving attacks, signature moves,
+finishers etc.
+
++++++++++++++++++++++++++
+- Create A Stable [CRT-2]
++++++++++++++++++++++++++
+
+View your teams here. Teams formed here can interfere in Single matches. You
+must turn the Interference to ON in the Options menu for this to work.
+
+++++++++++++++++++++++++++++++++
+- Create A WWE Superstar [CRT-3]
+++++++++++++++++++++++++++++++++
+
+Manage your created superstars here. You can create a new superstar or diva
+from scratch or you can use a template as well. Modify a created superstar
+using the Edit option. Replicate the same created superstar using the Copy
+option. Remove a created superstar using the Delete option.
+
+++++++++++++++++++++++++++++
+- Create An Entrance [CRT-4]
+++++++++++++++++++++++++++++
+
+Modify a superstar's entrance. Fireworks, lightning 
+
++++++++++++++++++++++++++++++++++++
+- Create A WWE Championship [CRT-5]
++++++++++++++++++++++++++++++++++++
+
+Make your own WWE title in this mode. You can create a single title or a tag
+team title. You can also view the list of championships you've created.
+
+When creating a title, you'll have to name your championship first. Next,
+you'll create the look of your title. From the center plate, to the side plate,
+to the name plate. Different designs and patterns can be used here. You'll be
+using your WWE cash for the creation of your belt (which is gained from 24/7
+Mode, played as a superstar).
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "WWE SVR 2008: General Walkthrough FAQ" to remind me that
+you are not spam. If not, the subject should be at least close to the previous
+one and I will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+
+To THQ for making the game.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

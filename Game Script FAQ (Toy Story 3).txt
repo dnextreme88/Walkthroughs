@@ -1,0 +1,691 @@
+Game Script FAQ:
+
+Name of Game: Toy Story 3
+
+Platform: PS2
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. Game Intro.....................................................[INT]
+        B. Adventure Book.................................................[ADV]
+                - Western Playtime......................................[ADV-1]
+                - Operation Phone Call..................................[ADV-2]
+                - Keep Cool!............................................[ADV-3]
+                - Family-minded.........................................[ADV-4]
+                - Trouble in the Caterpillar Room.......................[ADV-5]
+                - Goodbye Woody.........................................[ADV-6]
+                - Strawberry smells.....................................[ADV-7]
+                - Find the computer.....................................[ADV-8]
+                - Eye in the Sky........................................[ADV-9]
+                - Rodeo Rescue!........................................[ADV-10]
+                - City Dump............................................[ADV-11]
+                - The Claw!!!..........................................[ADV-12]
+                - Back Home............................................[ADV-13]
+        C. Woody's Roundup................................................[WOO]
+                - Hold-up!..............................................[WOO-1]
+                - Switchman.............................................[WOO-2]
+                - Save the Lady.........................................[WOO-3]
+                - Lost in Ghost Town....................................[WOO-4]
+                - The Blazing Inferno!..................................[WOO-5]
+        D. Buzz Adventures................................................[BUZ]
+                - The Big Shake!........................................[BUZ-1]
+                - Space Rocket Threat...................................[BUZ-2]
+                - Secret Base of Zurg...................................[BUZ-3]
+                - Zurgbots Factory......................................[BUZ-4]
+                - Aliens................................................[BUZ-5]
+        E. Aliens Escapades...............................................[ALI]
+                - Rescue Buzz Lightyear!................................[ALI-1]
+                - Escape!...............................................[ALI-2]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hi and welcome to my Game Script FAQ for Toy Story 3. The guide covers the
+dialogues found in the game, including hidden dialogues.
+
+Toy Story 3 is owned by Disney Interactive Studio. All trademarks are subjected
+to Disney Interactive Studio.
+
+Copyright (c) Disney Interactive Studio.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Dec 17, 2016
+= Submitted the FAQ.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. Game Intro [INT]
+-------------------------------------------------------------------------------
+
+Jessie: Hurry, guys! Bonnie's back from daycare!
+Woody: OK, places, everyone!
+*Rex screaming*
+Woody: Buzz!!!
+
+-------------------------------------------------------------------------------
+B. Adventure Mode [ADV]
+-------------------------------------------------------------------------------
+
+++++++++++++++++++++++++++
+- Western Playtime [ADV-1]
+++++++++++++++++++++++++++
+
+There's no narration from Rex on the first level. I wonder why though?
+
+--level start--
+Jessie: Quick, Woody! You've gotta stop that train!
+
+--level end--
+Rex: Playtime with Andy was always so exciting.
+Rex: Now that we live here with Bonnie, I can look at my drawings to help me
+remember everything that's happened.
+
+++++++++++++++++++++++++++++++
+- Operation Phone Call [ADV-2]
+++++++++++++++++++++++++++++++
+
+--level narration--
+Rex: Oh, this is a great picture! It's when Woody told Sarge and the Army Men
+to find Andy's cell phone.
+
+--level start--
+Rex: Andy was about to leave for college and he hadn't played with us for
+years! If the Army Men got his cell phone, we could call it and get his
+attention.
+Sarge (hidden dialogue): Let's get to the air vent, men!
+
+--approaching Andy's mom in the first area--
+Sarge (hidden dialogue): Red alert! Humans around! Take cover.
+
+--on Andy's mom's room--
+Sarge (hidden dialogue): Our objective is to aim for the door, men!
+
+--last area--
+Sarge: Telephone located. Prepare for jump!
+Sarge: Get the parachute ready, men!
+
+--level end--
+Rex: The Army Men's part of the mission was a complete success.
+Rex: Andy came to get his cell phone, just as we hoped.
+Rex: For a moment, he actually held me! But then he took the phone, closed the
+toy box and left the room. 
+Rex: A little later, Andy's mom told him to sort through everything in his
+room before he left for college. He decided to take Woody with him and put the
+rest of us in a garbage bag!
+Rex: We didn't know it, but Andy was going to bring the garbage bag we were in
+up to the attic. Before he could, his Mom put us out on the curb by mistake!
+
+++++++++++++++++++++
+- Keep Cool! [ADV-3]
+++++++++++++++++++++
+
+--level narration--
+Rex: Thanks to my pointy tail, we got out of the garabe bag, ran into the
+garage, and hid.
+
+--level start--
+Rex: Then, Buzz saw a box going to Sunnyside Daycare and decided to find us all
+so we could hide in the box and get donated.
+Buzz (hidden dialogue): I wonder where they could be hiding?
+
+--rescuing Jessie--
+Buzz (hidden dialogue): The most important thing is, we stay together.
+
+--rescuing Slinky Dog, Rex--
+Buzz (hidden dialogue): Get to the car. I know where we are going.
+
+--rescuing Bullseye--
+Buzz (hidden dialogue): Don't worry. We're a family.
+
+--rescuing Hamm--
+Buzz (hidden dialogue): It's alright, everything will be fine.
+
+--going to the kitchen area--
+Buzz (hidden dialogue): I better check the kitchen.
+
+--rescuing Little Green Men--
+Buzz (hidden dialogue): Don't panic. We'll get through this.
+
+--level end--
+Rex: We were all together, thanks to Buzz.
+Rex: We were about to go to Sunnyside - where there'd be lots of children eager
+to play with us.
+
++++++++++++++++++++++++
+- Family-minded [ADV-4]
++++++++++++++++++++++++
+
+--level narration--
+Rex: Since he was going to college with Andy, Woody was still up in the bedroom
+while we were down in the garage.
+
+--level start--
+Rex: When Woody saw what a big mistake Andy's Mom made, he rushed down to tell
+us!
+Woody (hidden dialogue): Thank you, thank you! I just need to get out of this
+room so I can find my friends.
+
+--after reaching the staircase--
+Woody (hidden dialogue): Andy's mom's right outside. If I just turn on the TV,
+she'll have to open the door!
+
+--when Andy's Mom checks the living room--
+Woody (hidden dialogue): Okay, Woody. Just don't get spotted.
+
+--level end--
+Rex: Woody finally made it to the garage.
+Rex: Woody tried to tell us that Andy didn't mean to throw us away but there
+wasn't time!
+Rex: Andy's Mom closed the trunk and drove to Sunnyside.
+Rex: When we got there, a bear named Lotso welcomed us and he showed us around.
+He smelled like strawberries.
+Rex: Woody tried to convince everyone to go back to Andy, but we wanted to stay
+at Sunnyside and get played with again.
+Rex: No one could believe it, but Woody decided to leave without us.
+
++++++++++++++++++++++++++++++++++++++++++
+- Trouble in the Caterpillar Room [ADV-5]
++++++++++++++++++++++++++++++++++++++++++
+
+--level narration--
+Rex: This is a picture of our first playtime at Sunnyside. Lotso put us in the
+Caterpillar Room. It didn't go as well as we'd hoped....
+
+--level start--
+Rex: The children in the Caterpillar Room were too young. They didn't know how
+to play with us.
+Rex: Buzz had to distract them before we really got hurt.
+Buzz (hidden dialogue): We need to get to that mobo quickly! I'm sure I can
+reach the mobo if I go this way.
+
+--before saving Little Green Man--
+Buzz (hidden dialogue): Great! The mobo!
+
+--after saving Little Green Man--
+Buzz (hidden dialogue): Great, now I have to find a way to get that cassette.
+Buzz (hidden dialogue): Can't be spotted by those children. I've gotta be
+careful.
+
+--opening the vents--
+Buzz (hidden dialogue): Very impressive.
+Buzz (hidden dialogue): Perfect. If I go this way, I can get that cassette
+without anyone seeing me.
+
+--after exiting the vents--
+Buzz (hidden dialogue): Proceed with caution.
+
+--before saving Hamm--
+Buzz (hidden dialogue): Batteries. I need to find batteries.
+
+--acquiring all 4 batteries--
+Buzz (hidden dialogue): Battery acquired!
+
+--level end--
+Rex: Thanks to Buzz, we were all safe.
+Rex: After Buzz saved us, he found out that Lotso and his friends were having a
+great time with the older children in the Butterfly Room.
+Rex: Jessie and I helped Buzz get out of the Caterpillar Room so he could ask
+Lotso to transfer us to the Butterfly Room.
+
++++++++++++++++++++++++
+- Goodbye Woody [ADV-6]
++++++++++++++++++++++++
+
+--level narration--
+Rex: This drawing shows what happened to Woody while we were in the Caterpillar
+Room.
+
+--level start--
+Rex: Woody was trying to leave Sunnyside and go back to Andy.
+Rex: Luckily, he spotted an open window...
+Woody: I've gotta keep a low profile.
+--level end--
+Rex: Woody finally found a way out.
+Rex: As Woody was leaving the Sunnyside yard...
+Rex: ... He got stuck in a tree! That's when Bonnie found him and brought him
+here.
+
+++++++++++++++++++++++++++++++
+- Strawberry smells... [ADV-7]
+++++++++++++++++++++++++++++++
+
+--level narration--
+Rex: This picture shows Buzz following Lotso so he can talk to him about moving
+us to the Butterfly Room.
+
+--level start--
+Rex: Something about Lotso seemed suspicious. So, Buzz decided to find out what
+was going on.
+Rex: And since Lotso smelled like strawberries, he just followed the fruity
+scent.
+Buzz (hidden dialogue): Luckily for me, Lotso smelled like strawberry. I should
+be able to follow him by his scent.
+
+--area with crane--
+Buzz (hidden dialogue): I need to get this crane working if I'm going to move
+forward.
+
+--hole--
+Buzz (hidden dialogue): I need to stay clear from the hot steam coming out from
+those pipes.
+
+--level end--
+Rex: Lotso's strawberry scent led Buzz to the inside of a vending machine.
+Rex: Things didn't go exactly like Buzz had hoped in the Vending Machine.
+Rex: They captured him and took him to the library.
+Rex: He soon figured out that Lotso put us with the little kids on purpose.
+Rex: And when Buzz wouldn't cooperate, Lotso had him switched to Demo Mode!
+Rex: It was horrible! Buzz thought he was a real Space Ranger again and didn't
+know we were his friends!
+Rex: Buzz started working for Lotso, and he even locked us up for being minions
+of the evil Emperor Zurg.
+
++++++++++++++++++++++++++++
+- Find the computer [ADV-8]
++++++++++++++++++++++++++++
+
+--level narration--
+Rex: Woody didn't know we were in trouble at Sunnyside. He was looking for a
+way to get back to Andy's from Bonnie's house.
+
+--level start--
+Rex: Bonnie's toys told Woody where the computer was so he could look at a map.
+Rex: First, he had to find a way out of the bedroom. So, he decided to look for
+some batteries and turn on the radio.
+Woody (hidden dialogue): I'll have to find some batteries for the radio.
+
+--in the vents--
+Woody (hidden dialogue): Okay now, I go straight ahead.
+
+--after exiting the vents--
+Woody (hidden dialogue): If I follow Trixie's instructions to get to the
+computer, I need to sneak by here without being spotted.
+
+--level end--
+Rex: When Woody found the computer, he figured out that Andy's house was only a
+few blocks away.
+Rex: Just when Woody was about to leave, Chuckles told him the truth about
+Sunnyside and how horrible Lotso was.
+Rex: Chuckles said Lotso was probably keeping us prisoner and that the only way
+to save us was to, disable the security cameras.
+Rex: So, Woody decided to go back to Sunnyside.
+
+++++++++++++++++++++++++
+- Eye in the Sky [ADV-9]
+++++++++++++++++++++++++
+
+--level narration--
+Rex: There's Woody, coming back to Sunnyside to rescue us.
+
+--level start--
+Rex: Woody had hidden in Bonnie's backpack.
+Rex: He quickly came up with an escape plan. He'd climb into the ceiling and
+make his way to the Control Room, where the controls were for the security
+cameras.
+Rex: Slinky went with Woody to help.
+
+--when approaching the fan--
+Woody (hidden dialogue): I'll never get past there if I don't stop the blade.
+
+--when approaching the fan where Slinky Dog was--
+Slinky Dog (hidden dialogue): Hurry up, Woody!
+Woody (hidden dialogue): Hmm, better find a way to turn off the ventilation
+system.
+
+--at the Control Room--
+Slinky Dog (hidden dialogue): Woody, over here! My camera!
+
+--level end--
+Rex: Woody made it to the Control Room.
+Rex: When he got to the Control Room, Woody turned off the security cameras.
+Rex: Jessie saw the camera go off and escaped from her prison cell.
+
+++++++++++++++++++++++++
+- Rodeo Rescue! [ADV-10]
+++++++++++++++++++++++++
+
+--level narration--
+Rex: After she escaped from her prison cell, the next part of the plan was for
+Jessie to let us out of ours.
+
+--level start--
+Rex: Jessie made sure Buzz wouldn't be a problem, then she went to find the
+keys to open each of our cells.
+
+--rescuing Little Green Man (cyan padlock)--
+Little Green Man (hidden dialogue): I'm going to a better place.
+
+--rescuing Little Green Man (yellow padlock)--
+Little Green Man (hidden dialogue): I am eternally grateful!
+
+--rescuing Little Green Man (red padlock)--
+Little Green Man (hidden dialogue): You have saved my life!
+
+--rescuing Rex (green padlock)--
+Rex (hidden dialogue): Oh! Thank you, thank you, thank you!
+
+--rescuing Hamm (maroon padlock)--
+Hamm (hidden dialogue): Thanks a lot there, Jessie!
+
+--1 friend rescued--
+Jessie (hidden dialogue): That's one! But there's still 5 more friends to go.
+
+--2 friends rescued--
+Jessie (hidden dialogue): There's another! That leaves 4 more.
+
+--3 friends rescued--
+Jessie (hidden dialogue): One more! 3 friends left to go.
+
+--4 friends rescued--
+Jessie (hidden dialogue): Alright! That just leaves 2 more friends.
+
+--5 friends rescued--
+Jessie (hidden dialogue): Only 1 more to go!
+
+--at the staircase--
+Jessie (hidden dialogue): I'm sure I could use these!
+
+--level end--
+Rex: Once we were all free, we tried to fix Buzz.
+Rex: By complete mistake, we accidentally switched Buzz to Spanish Mode!
+Rex: On the bright side, he didn't think we were his enemies anymore, and he
+was a much better dancer.
+Rex: Then we snuck across the yard to escape through the garbage chute.
+Rex: We didn't mean to end up in a dumpster that got emptied into a garbage
+truck and taken to the city dump...but we did.
+Rex: The good thing about all that garbage was that Buzz got hit in the head
+with a television set and remembered he was our friend.
+
+++++++++++++++++++++
+- City Dump [ADV-11]
+++++++++++++++++++++
+
+--level narration--
+Rex: This picture is at the dump when most of us ended up on the conveyor belt
+heading directly for the trash shredder.
+
+--level start--
+Rex: I thought we were going to be shredded for sure. But thanks to Slinky, we
+figured out that the belt on the ceiling was a magnet.
+Rex: So Buzz started looking for pieces of metal so we could all be saved.
+Buzz (hidden dialogue): There has to be pieces of metal in here somewhere.
+
+--rescuing Hamm--
+Hamm (hidden dialogue): Thanks, Buzz!
+
+--approaching Rex--
+Rex (hidden dialogue): We're doomed!
+
+--saving Rex--
+Rex (hidden dialogue): Thanks, Buzz! Feel a lot better.
+
+--approaching Woody--
+Woody (hidden dialogue): Buzz! I need your help!
+
+--saving Woody--
+Woody (hidden dialogue): Thanks for the save, Buzz!
+
+--approaching Jessie--
+Jessie (hidden dialogue): Hurry up!
+
+--level end--
+Rex: Once again, Buzz Lightyear saved the day.
+Jessie (hidden dialogue): You sure know one to be a hero, Buzz.
+Rex: We weren't safe for long, though. Right after that, we fell onto another
+belt headed toward the incinerator!
+Rex: Lucky for us, the Aliens had gone to another part of the dump!
+
+++++++++++++++++++++++
+- The Claw!!! [ADV-12]
+++++++++++++++++++++++
+
+--level narration--
+Rex: This picture shows the Aliens and the claw.
+
+--level start--
+Rex: The claw is the machine the Aliens went to find when we first got to the
+dump.
+Rex: So, when we were headed to the incinerator, they were our last hope.
+
+--level end--
+Rex: And that's how the Aliens saved us all from a fiery destruction.
+Rex: After that, we saw the garbage truck that picks up the trash at Andy's.
+Rex: So, we decided to use it to catch a ride home...
+Rex: Well, most of us did...
+
++++++++++++++++++++++++
+- Back Home... [ADV-13]
++++++++++++++++++++++++
+
+--level narration--
+Rex: Here's Buzz trying to catch up with us on the way back to Andy's.
+
+--level start--
+Rex: We were all in the garbage truck on our way home, but Buzz fell out and
+had to jump from car to car to keep up with us.
+
+--level end--
+Rex: Luckily, Buzz is very talented. He made it to the garbage truck and we all
+got home together.
+Rex: Back in Andy's room, everyone was getting ready to go to the attic, when
+Woody got a brilliant idea!
+Rex: He wrote Bonnie's address on our box! So, on his way to college, Andy
+brought us here.
+Rex: Andy was sad to say goodbye, but he knew Bonnie would take very good care
+of us.
+Rex: And he was right!
+Jessie: Places, everybody! Bonnie's back from daycare.
+Rex: Oh boy! Playtime!
+
+-------------------------------------------------------------------------------
+C. Woody's Roundup [WOO]
+-------------------------------------------------------------------------------
+
+++++++++++++++++++
+- Hold-up! [WOO-1]
+++++++++++++++++++
+
+Woody: What's that? Bandits stole the sacks of gold? Oh no!"
+Woody: "C'mon, Bullseye. We gotta get that gold back!"
+
++++++++++++++++++++
+- Switchman [WOO-2]
++++++++++++++++++++
+
+Woody: What's that? Bandits put up a roadblock to stop the train?
+Woody: Get ready, Bullseye? Let's ride like the wind!
+
++++++++++++++++++++++++
+- Save the Lady [WOO-3]
++++++++++++++++++++++++
+
+Woody: What's that? Jessie's in a cave filled with dynamite that's about to
+explode?
+Woody: Hurry, Bullseye! We don't have a minute to lose!
+
+++++++++++++++++++++++++++++
+- Lost in Ghost Town [WOO-4]
+++++++++++++++++++++++++++++
+
+Woody: What's that? Jessie's lost in the ghost town and she's all alone and
+scared?
+Woody: We've gotta save her, Bullseye!
+
+++++++++++++++++++++++++++++++
+- The Blazing Inferno! [WOO-5]
+++++++++++++++++++++++++++++++
+
+Woody: What's that? There's a bunch of critters trapped inside a blazing 
+inferno?
+Woody: Ya hear that, Bullseye? Let's ride!
+
+-------------------------------------------------------------------------------
+D. Buzz Adventures [BUZ]
+-------------------------------------------------------------------------------
+
+++++++++++++++++++++++++
+- The Big Shake! [BUZ-1]
+++++++++++++++++++++++++
+
+Buzz: Buzz Lightyear mission log. I've located Zurg's terra-drill.
+Buzz: I'm going to switch off this infernal machine before it's too late.
+
+--while transcending to Zurg's base--
+Buzz (hidden dialogue): To infinity and beyond!
+
++++++++++++++++++++++++++++++
+- Space Rocket Threat [BUZ-2]
++++++++++++++++++++++++++++++
+
+Buzz: Buzz Lightyear mission log. The threat is real.
+Buzz: I've found Zurg's crystallic rocket and it's about to launch.
+Buzz: I've got to get closer and find a way to stop it.
+
+--while transcending to Zurg's base--
+Buzz (hidden dialogue): To infinity and beyond!
+
++++++++++++++++++++++++++++++
+- Secret Base of Zurg [BUZ-3]
++++++++++++++++++++++++++++++
+
+Buzz: Buzz Lightyear mission log. All signs point to this planet as the
+location of Zurg's fortress.
+Buzz: I'll find him and neutralize him once and for all.
+
+--while transcending to Zurg's base--
+Buzz (hidden dialogue): To infinity and beyond!
+
+--approaching Zurg's dome--
+Buzz: Zurg!
+Emperor Zurg: So, we meet again, Buzz Lightyear... For the last time.
+Emperor Zurg: Prepare for defeat, Space Ranger!
+
+--after defeating Zurg's minions--
+Emperor Zurg: You'll never defeat me, Buzz Lightyear!
+
+++++++++++++++++++++++++++
+- Zurgbots Factory [BUZ-4]
+++++++++++++++++++++++++++
+
+Buzz: Buzz Lightyear mission log. At last, I've found the Zurgbot factory on an
+unchartered planet.
+Buzz: I must get to the center of the factory if I'm going to ruin Zurg's evil
+plans.
+
+--while transcending to Zurg's base--
+Buzz (hidden dialogue): To infinity and beyond!
+
+++++++++++++++++
+- Aliens [BUZ-5]
+++++++++++++++++
+
+Buzz: Buzz Lightyear mission log. I received an SOS signal from a group of
+Alien civilians.
+Buzz: I'm going to investigate, find out what's wrong and save the day.
+
+--while transcending to Zurg's base--
+Buzz (hidden dialogue): To infinity and beyond!
+
+-------------------------------------------------------------------------------
+E. Aliens Escapades [ALI]
+-------------------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++
+- Rescue Buzz Lightyear! [ALI-1]
+++++++++++++++++++++++++++++++++
+
+Little Green Man: Alert!
+Little Green Man: My friends, we have received a message. A space ranger
+requires our assistance.
+Little Green Man: Let us proceed to rescue him quickly.
+
++++++++++++++++++
+- Escape! [ALI-2]
++++++++++++++++++
+
+Little Green Man (all 3 of them): The Claw!!!
+Little Green Man: The claw has brought us here.
+Little Green Man: We must follow the claw.
+Little Green Man: Let us proceed, my friends.
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "Toy Story 3: Game Script FAQ" to remind me that you are not
+spam. If not, the subject should be at least close to the previous one and I
+will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs and SuperCheats for hosting the FAQ.
+
+To Disney Interactive Studio for making the game.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

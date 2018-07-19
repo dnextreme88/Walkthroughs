@@ -1,0 +1,2892 @@
+FAQ / Walkthrough:
+
+Name of Game: Toy Story Racer
+
+Platform: PS1
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. Controls.......................................................[CON]
+        B. Tips...........................................................[TIP]
+        C. Story..........................................................[STO]
+                - Woody...................................................[WOO]
+                - Buzz Lightyear..........................................[BUZ]
+                - RC......................................................[RMC]
+                - Bo Peep.................................................[BOP]
+                - Rex.....................................................[REX]
+                - Hamm....................................................[HAM]
+                - Slinky Dog..............................................[DOG]
+                - Mr. Potato Head.........................................[POT]
+                - Little Green Man........................................[LGM]
+                - Rocky Gibraltar.........................................[ROC]
+                - Lenny...................................................[LEN]
+                - Babyface................................................[BAB]
+        D. Miscellaneous..................................................[MSC]
+                - Unlockable characters / toys............................[UNL]
+                - Level types.............................................[LVL]
+                - Racing types............................................[RAC]
+                        - Regular challenges............................[RAC-1]
+                        - Time-based challenges.........................[RAC-2]
+                        - Tournament challenges.........................[RAC-3]
+                - Power-ups...............................................[PWR]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hi and welcome to my general walkthrough for Toy Story Racer. I noticed that no
+one has made a guide for this despite its 15-year age so I thought I'd make
+one. This guide contains spoilers.
+
+Toy Story Racer is owned by Traveller's Tales. All trademarks are subjected to
+Traveller's Tales.
+
+Copyright (c) Traveller's Tales.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Aug 22, 2016
+= Submitted the FAQ.
+
+Version 1.1 - Sep 11, 2016
+= Re-arranged each tips in "Tips" sub-section. Added 2 more tips.
+= Added "Regular challenges", "Tournament challenges" and "Time-based
+challenges" sub-subsections.
+= Changed the number of challenges for each toy to an individual breakdown of
+challenges.
+= Renamed the following items:
+        > "Countdown Challenges" to "Countdown Race"
+        > "Endurance Race" to "Endurance Challenges"
+        > "Lap Trial Race" to "Lap Trial Challenges"
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. Controls [CON]
+-------------------------------------------------------------------------------
+
+> Directional pads (D-pads) - to move.
+> Up arrow - accelerate forward.
+> Down arrow - decelerate backward.
+> Left arrow - turns the toy to the left.
+> Right arrow - turns the toy to the right.
+
+> X button - for accelerating.
+> [] button - for decelerating.
+> L1, L2, R1, R2 buttons - use the power-up (in case you obtained one).
+> Start button - pause game (while in-game).
+
+-------------------------------------------------------------------------------
+B. Tips [TIP]
+-------------------------------------------------------------------------------
+
+Most of the challenges for each toy are repetitive. To reduce the clutter and
+make the guide cleaner, I'll list all the tips from this section. These tips
+work on either race track stages or smash arenas.
+
+> Certain areas of each level have narrow spaces. One example is in the vents
+in Andy's house before entering the next room. This is a good chance to use
+your Bo Peep's sheep power-up (found in pink boxes) to halt your opponents'
+momentum (should they be catching up the race).
+
+> Don't move through puddles of water. One instance is in kitchen area of the
+Andy's house stage. This will make your toy slid and lose a little bit of
+control.
+
+> Use speed boosts when you get the chance. Challenges such as lap trial race,
+endurance race requires you to beat the levels in the given amount of time.
+
+> Use the electric shock power-up for close-quarter combat with an opponent.
+This is the most accurate weapon to use in smash challenges, smash tournament
+challenges etc.
+
+> In knockout race challenges and knockout race tournament challenges, make
+sure that you are not in last position for each lap. Your opponents tend to get
+better after each lap. Make sure you use the speed boosts when necessary (they
+don't often use these).
+
+> In tag challenges and smash tag challenges, plan your strategy properly. Some
+toys take the reverse route of the level if you happen to be close to your
+opponent. This could be a lot harder to catch them. Use speed boosts when
+necessary.
+
+> In target challenges, you always get 1 weapon for each box. You get an 8-
+ball (yellow box), rocket (blue box), whipping top (pink box) or electric shock
+(red box). It's recommended you take the yellow box as this will give you a
+precise shot. The rocket sometimes glitches and doesn't hit the target properly
+even if you aimed it correctly.
+
+> In target challenges, each target doesn't have their own color (unlike the
+clowns in collection challenges, they are denoted by white arrows). You have to
+to manually find them on the map. Should you get stucked, use the strategy I
+have for each of the target challenges.
+
+> In smash challenges, smash tournament challenges, survival race challenges
+and super survival race challenges, always have a weapon handy when you
+encounter an opponent. When you get hit by your opponent's weapon, you lose the
+weapon you have. This saves you from getting eliminated.
+
+> In Mall, if you acquired a dynamite speed boost (found in red boxes), save it
+until you reach the pool area. Climb up a bit to the ramp and use the power-up
+to zoom your way to the finish line. This saves about 5 seconds rather than
+going around the pool (although there is a speed boost at the end).
+
+> In Pizza Planet (external), before the finish line (not playing on the
+reverse track), it's recommended to take the right path during the last
+intersection. The path contains 2 speed boosts and can drastically speed you
+up.
+
+> In Sid's yard, before the finish line (not playing on the reverse track), you
+can take two intersections with different possibilities. Taking the left path
+is easier yet slower. There's a speed boost near the trash can. Taking the
+right path is harder yet faster. There's a speed boost on top of the table. If
+you picked the right path, you must be precise when accelerating up the plank
+going to the table because if you fall off the mud, your speed drastically
+decreases. Plan your route wisely.
+
+-------------------------------------------------------------------------------
+C. Story [STO]
+-------------------------------------------------------------------------------
+
+When you start the game, you get 1 challenge available each for the 4 main
+playable characters (Woody, Buzz Lightyear, RC and Bo Peep). You may choose
+either one, but I'll start with Woody first.
+
+As you progress through each challenge, you'll notice the color of each block.
+These blocks represent the challenge and its color represents how far you made
+it. These are as follows:
+
+> Blue - available challenge
+> Green - completed challenge
+> Red - unavailable challenge (needs more soldiers to unlock)
+
+There are a total of 200 soldiers to collect. Each challenge completed gives 1
+soldier.
+
++++++++++++++
+- Woody [WOO]
++++++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : 1
+                - reverse        : 1
+        Smash Race               : 1
+        Knockout Race            : 1
+                - reverse        : 1
+        Tag Race                 : 2
+        Smash Tag Race           : 1
+
+---------------------
+Time-based challenges
+        Collection Challenges    : 2
+        Countdown Race           : -
+        Endurance Challenges     : 1
+        Lap Trial Challenges     : 1
+                - reverse        : 1
+        Super Survival Race      : 1
+        Survival Race            : 2
+        Target Challenges        : 1
+
+---------------------
+Tournament challenges
+        Knockout Race Tournament : 1
+        Race Tournament          : 1
+        Smash Race Tournament    : 1
+        -----------------------------
+        TOTAL CHALLENGES         : 20
+
+Unlockables: Hamm, Mr. Potato Head
+
+----------------------------
+Shootout at the attic corral
+----------------------------
+> Required soldiers: 0
+> Racing type: Knockout race
+> Level: Sid's attic
+> Laps: 5
+> Enemies: 5
+
+-----------------------
+Buzzing arcade machines
+-----------------------
+> Required soldiers: 1
+> Racing type: Smash challenge
+> Level: Pizza Planet's arcade
+> Enemies: 4 - Buzz Lightyear, 3 Little Green Man
+
+--------------
+Western trophy
+--------------
+> Required soldiers: 3
+> Racing type: Race tournament challenge
+> Levels: Mall, Andy's house, Sid's attic
+> Laps: 3
+> Enemies: 5
+
+-----------------------
+Something in the attic!
+-----------------------
+> Required soldiers: 9
+> Racing type: Survival race challenge
+> Level: Sid's attic
+> Time to beat: 1:55:00
+> Laps: 4
+> Enemies: 7
+
+---------------------
+Show them who is boss
+---------------------
+> Required soldiers: 10
+> Racing type: Smash tag challenge
+> Level: Sid's yard
+> Enemies: 3
+
+------------------
+Sheriff on skates?
+------------------
+> Required soldiers: 15
+> Racing type: Race challenge
+> Level: Skate park
+> Laps: 5
+> Enemies: 7
+
+--------------
+Speedy sheriff
+--------------
+> Required soldiers: 21
+> Racing type: Lap trial challenge
+> Level: Sid's yard
+> Time to beat: 0:32:00
+
+----------------------
+Sheriff arcade roundup
+----------------------
+> Required soldiers: 24
+> Racing type: Collection challenge
+> Level: Pizza Planet's arcade
+> Time to beat: 0:44:00
+> Clowns to collect: 5
+
+Strategy: Turn back and collect the 1st clown behind you. Move forward on the 
+right side of the arcade. Collect the 2nd clown near one of the arcades. 
+Collect the 3rd clown on top of the crater. Collect the 4th clown on the middle
+of the stairs. Finally, move up the stairs and through your left. Collect the 
+5th clown on top of one of the arcade machines.
+
+---------------
+Seaside sheriff
+---------------
+> Required soldiers: 25
+> Racing type: Endurance challenge
+> Level: Pier
+> Time to beat: 0:43:00
+> Laps: 3
+
+----------------
+Trial by the sea
+----------------
+> Required soldiers: 30
+> Racing type: Lap trial challenge (reverse)
+> Level: Pier
+> Time to beat: 0:36:00
+
+----------------
+Shopping sheriff
+----------------
+> Required soldiers: 45
+> Racing type: Tag challenge
+> Level: Mall
+> Enemies: 2 - Hamm
+> Unlocks: Hamm
+
+-----------------------------
+Not shopping speed backwards?
+-----------------------------
+> Required soldiers: 50
+> Racing type: Target challenge
+> Level: Sid's yard
+> Time to beat: 0:59:00
+> Targets to hit: 5
+
+Strategy: Move forward and in the intersection, take the grassy area and hit 
+the 1st target near the speed boost. Before the chicken coop, hit the 2nd 
+target in front of the blue box. Move inside the chicken coop and hit the 3rd 
+target at the left corner. Move outside and at the intersection, take the 
+upper path. Hit the 4th target near the dog. Finally, circle the brown table 
+and hit the 5th target below the edge of the table (this target is in the mud,
+so measure your shot precisely).
+
+-------------------------
+Rounding up the neighbors
+-------------------------
+> Required soldiers: 55
+> Racing type: Collection challenge
+> Level: Andy's neighborhood
+> Time to beat: 1:29:00
+> Clowns to collect: 5
+
+Strategy: Move forward and collect the 1st clown near the tree.  Move forward
+into the small road. Collect the 2nd clown near the street sign on the left.
+Take the other side and keep moving forward. Collect the 3rd clown just in
+front of the dog. At the intersection ahead, take the upper path and collect 
+the 4th clown on the right corner. Finally, go back to the intersection and 
+take the other path. Move below the gray fence and move past the tree. Collect
+the 5th clown in front of the white fence.
+
+----------------------
+Andy's super speed off
+----------------------
+> Required soldiers: 60
+> Racing type: Survival race challenge
+> Level: Andy's house
+> Time to beat: 3:11:00
+> Laps: 4
+> Enemies: 7
+
+---------------
+Wild wild Woody
+---------------
+> Required soldiers: 75
+> Racing type: Smash tournament challenge
+> Levels: Bowling alley, Pizza Planet's arcade, Ice rink, Cinema, Pizza 
+Planet's diner
+> Enemies: 6
+
+------------------------
+Knockout pizzeria Woody!
+------------------------
+> Required soldiers: 75
+> Racing type: Knockout race challenge (reverse)
+> Level: Pizza Planet (external)
+> Laps: 4
+> Enemies: 4
+
+----------
+Skate tags
+----------
+> Required soldiers: 95
+> Racing type: Tag challenge
+> Level: Skate park
+> Enemies: 7 - Mr. Potato Head
+> Unlocks: Mr. Potato Head
+
+----------------------
+Backward neighborhood?
+----------------------
+> Required soldiers: 103
+> Racing type: Race challenge (reverse)
+> Level: Andy's neighborhood
+> Laps: 3
+> Enemies: 7
+
+---------------
+Knockout trophy
+---------------
+> Required soldiers: 105
+> Racing type: Knockout race tournament challenge
+> Levels: Pizza Planet (external), Skate park, Sid's house, Pier, Mall
+> Laps: 3
+> Enemies: 5
+
+--------------------
+Sweetheart survivor?
+--------------------
+> Required soldiers: 190
+> Racing type: Super survival race challenge
+> Level: Andy's house
+> Time to beat: 1:35:00
+> Laps: 2
+> Enemies: 7 - Bo Peep
+
+- Congratulations on beating Woody's challenges! You get a Sheriff badge for 
+finishing the last challenge. You can take a secret challenge by selecting the 
+Sheriff badge. You can complete the Jigsaw puzzle of one of Woody's picture 
+from the Toy Story movie. Match the puzzle from the right to its picture on the
+left.
+
+++++++++++++++++++++++
+- Buzz Lightyear [BUZ]
+++++++++++++++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : 1
+        Smash Race               : 1
+        Knockout Race            : 1
+                - reverse        : 1
+        Tag Race                 : 1
+        Smash Tag Race           : 2
+
+---------------------
+Time-based challenges
+        Collection Challenges    : 2
+        Countdown Race           : 1
+        Endurance Challenges     : 1
+        Lap Trial Challenges     : 1
+                - reverse        : 1
+        Super Survival Race      : -
+                - reverse        : 1
+        Survival Race            : 2
+        Target Challenges        : 1
+
+---------------------
+Tournament challenges
+        Knockout Race Tournament : 1
+        Race Tournament          : 2
+        Smash Race Tournament    : 2
+        -----------------------------
+        TOTAL CHALLENGES         : 22
+
+Unlockables: Rex, Little Green Man
+
+-----------------
+Space race trophy
+-----------------
+> Required soldiers: 0
+> Racing type: Race tournament challenge
+> Levels: Andy's new house, Sid's attic, Mall, Sid's yard
+> Laps: 3
+> Enemies: 7
+
+-----------------------
+To infinity and beyond!
+-----------------------
+> Required soldiers: 1
+> Racing type: Race challenge
+> Level: Andy's house
+> Laps: 3
+> Enemies: 5
+
+-------------------------
+Knock 'em out spaceranger
+-------------------------
+> Required soldiers: 3
+> Racing type: Knockout race challenge
+> Level: Sid's house
+> Laps: 5
+> Enemies: 5
+
+-------------------------
+Get a move on spaceranger
+-------------------------
+> Required soldiers: 9
+> Racing type: Lap trial challenge
+> Level: Andy's house
+> Time to beat: 0:42:00
+
+---------------------
+There can be only one
+---------------------
+> Required soldiers: 10
+> Racing type: Smash challenge
+> Level: Gas station
+> Time to beat: 1:54:00
+> Enemies: 5
+
+---------------------
+Collect them all Buzz
+---------------------
+> Required soldiers: 15
+> Racing type: Collection challenge
+> Level: Sid's house
+> Time to beat: 0:59:00
+> Clowns to collect: 5
+
+Strategy: Keep moving forward. Collect the 1st clown in front of the TV (the TV
+is actually showing once of the scenes from the Toy Story movie). Move through 
+the vents and collect the 2nd clown near the bed. Move forward into the next 
+room and collect the 3rd clown below the drawer. Move through the vents and at 
+the intersection, go forward. Collect the 4th clown at the pool table. Finally,
+move forward past the dog (don't go up the stairs again). Collect the 5th clown
+below the silver chair.
+
+---------------------------
+Prehistoric yard adventures
+---------------------------
+> Required soldiers: 20
+> Racing type: Survival race challenge
+> Level: Sid's yard
+> Time to beat: 1:44:00
+> Laps: 3
+> Enemies: 7 - Rex
+> Unlocks: Rex
+
+-----------------------
+Endure this spaceranger
+-----------------------
+> Required soldiers: 22
+> Racing type: Endurance challenge
+> Level: Sid's attic
+> Time to beat: 0:31:00
+> Laps: 4
+
+-----------------------------
+You need speed to catch these
+-----------------------------
+> Required soldiers: 22
+> Racing type: Tag challenge
+> Level: Underground parking lot
+> Enemies: 2
+
+--------------------------
+Hurricane seaside survivor
+--------------------------
+> Required soldiers: 26
+> Racing type: Survival race challenge
+> Level: Pier
+> Time to beat: 2:39:00
+> Laps: 4
+> Enemies: 7
+
+-------------------
+Battling with style
+-------------------
+> Required soldiers: 30
+> Racing type: Smash tournament challenge
+> Levels: Pizza Planet's arcade, Gas station, Skate park
+> Enemies: 5
+
+----------------------------
+Too slow and its K.O. ranger
+----------------------------
+> Required soldiers: 45
+> Racing type: Knockout race challenge (reverse)
+> Level: Sid's yard
+> Laps: 6
+> Enemies: 6
+
+--------------------------
+Buzz's attic rally attack?
+--------------------------
+> Required soldiers: 52
+> Racing type: Target challenge
+> Level: Sid's attic
+> Time to beat: 0:59:00
+> Targets to hit: 5
+
+Strategy: Move forward and hit the 1st target on the right corner. Move past 
+the dog and hit the 2nd target below the right arrow sign. At the intersection,
+take the left path and hit the 3rd target inside the vent. Move out of the
+vent and hit the 4rd target attached to the wall (use a blue box). Position 
+Buzz in front of the target but before the edge and fire the rocket. Finally, 
+drop down the ledge on the right of the target you hit. Hit the 5th target 
+beside the big yellow box.
+
+---------------------------
+Weapon training spaceranger
+---------------------------
+> Required soldiers: 53
+> Racing type: Smash tag challenge
+> Level: Andy's new house
+> Enemies: 2
+
+--------------------------------
+Warp speed is needed spaceranger
+--------------------------------
+> Required soldiers: 58
+> Racing type: Lap trial challenge (reverse)
+> Level: Andy's new house
+> Time to beat: 0:31:00
+
+----------------------------
+Keep going if you can ranger
+----------------------------
+> Required soldiers: 75
+> Racing type: Knockout race tournament challenge
+> Levels: Andy's house, Sid's house, Sid's attic, Sid's yard
+> Laps: 2
+> Enemies: 4
+
+------------------------------
+Gotta catch 'em up spaceranger
+------------------------------
+> Required soldiers: 75
+> Racing type: Collection challenge
+> Level: Andy's house
+> Time to beat: 0:54:00
+> Clowns to collect: 5
+
+Strategy: Move down the stairs. At the intersection, take the right path to 
+collect the 1st clown behind the brown box. Keep moving forward. In the 
+kitchen, collect the 2nd clown just in front of the refrigerator. Move forward
+into the vents to arrive at the next room. Collect the 3rd clown below the 
+drawer. Exit the room by going through the doors. Move up the stairs and 
+collect the 4th clown standing in between the doorway. Finally, move forward 
+into the open box and collect the 5th clown in between the set of big wooden
+boxes.
+
+------------------------------
+Get your skates on spaceranger
+------------------------------
+> Required soldiers: 103
+> Racing type: Smash tag challenge
+> Level: Skate park
+> Enemies: 7 - Little Green Man
+> Unlocks: Little Green Man
+
+-----------------------
+Shop till you drop Buzz
+-----------------------
+> Required soldiers: 109
+> Racing type: Super survival race challenge (reverse)
+> Level: Mall
+> Time to beat: 1:19:00
+> Laps: 2
+> Enemies: 7
+
+------------------
+Go go K.O. ranger!
+------------------
+> Required soldiers: 120
+> Racing type: Smash tournament challenge
+> Levels: Pizza Planet's diner, Pizza Planet's arcade, Ice rink, Cinema, Gas 
+station, Basketball court, Bowling alley, Skate park
+> Enemies: 7
+
+---------------------
+It's your race ranger
+---------------------
+> Required soldiers: 150
+> Racing type: Race tournament challenge
+> Levels: Andy's house, Underground parking lot, Sid's attic, Skate park, Mall,
+Andy's new house, Sid's yard, Sid's house
+> Laps: 2
+> Enemies: 7
+
+-----------------
+Knock door ginger
+-----------------
+> Required soldiers: 190
+> Racing type: Countdown race challenge
+> Levels: Andy's neighborhood, Andy's new house, Sid's yard
+> Time to beat: 1:59:00
+> Laps: 1
+
+- Congratulations on beating Buzz Lightyear's challenges! You get a Sheriff 
+badge for finishing the last challenge. You can take a secret challenge by 
+selecting the Sheriff badge. You can complete the Jigsaw puzzle of one of Buzz 
+Lightyear's picture from the Toy Story movie. Match the puzzle from the right 
+to its picture on the left.
+
+++++++++++
+- RC [RMC]
+++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : 3
+                - reverse        : 1
+        Smash Race               : 1
+        Knockout Race            : 1
+                - reverse        : 1
+        Tag Race                 : 1
+        Smash Tag Race           : 1
+
+---------------------
+Time-based challenges
+        Collection Challenges    : 2
+        Countdown Race           : 1
+        Endurance Challenges     : 1
+                - reverse        : 1
+        Lap Trial Challenges     : 2
+                - reverse        : 1
+        Super Survival Race      : -
+        Survival Race            : 2
+        Target Challenges        : -
+
+---------------------
+Tournament challenges
+        Knockout Race Tournament : -
+        Race Tournament          : 1
+        Smash Race Tournament    : 1
+        -----------------------------
+        TOTAL CHALLENGES         : 21
+
+Unlockables: Rocky Gibraltar
+
+-----------------------
+Radio controlled trophy
+-----------------------
+> Required soldiers: 0
+> Racing type: Smash tournament challenge
+> Levels: Pizza Planet's arcade, Bowling alley, Pizza Planet's diner
+> Enemies: 5
+
+-------------------
+Neighborhood watch!
+-------------------
+> Required soldiers: 1
+> Racing type: Race challenge
+> Level: Andy's neighborhood
+> Laps: 3
+> Enemies: 7
+
+-----------------------------
+On your marks, get set, snow!
+-----------------------------
+> Required soldiers: 3
+> Racing type: Race challenge
+> Level: Andy's new house
+> Laps: 3
+> Enemies: 7
+
+--------
+Snow go!
+--------
+> Required soldiers: 9
+> Racing type: Race challenge (reverse)
+> Level: Andy's new house
+> Laps: 3
+> Enemies: 7
+
+-----------
+Shopaholic!
+-----------
+> Required soldiers: 10
+> Racing type: Race challenge
+> Level: Mall
+> Laps: 5
+> Enemies: 7
+
+---------------------
+Pizza for Mr R.C. car
+---------------------
+> Required soldiers: 15
+> Racing type: Collection challenge
+> Level: Pizza Planet (external)
+> Time to beat: 0:59:00
+> Clowns to collect: 5
+
+Strategy: Move forward. Collect the 1st clown by the door. Keep moving forward.
+At the intersection, take the left path and collect the 2nd clown on top of the
+crater. At the second intersection, take the left path again and collect the 
+3rd clown at the bottom. Now go back to the second intersection and take the 
+right path this time. Move forward and collect the 4th clown on the rocket. Be
+careful, both sides of the rocket are glitched and can drop you on the spot 
+where you collected the 4th clown. Finally, move down the stairs and turn 
+right. Collect the 5th clown at the bottom.
+
+------------------------
+Closing time at the mall
+------------------------
+> Required soldiers: 22
+> Racing type: Lap trial challenge
+> Level: Mall
+> Time to beat: 0:36:00
+
+----------------------
+Clearing out the attic
+----------------------
+> Required soldiers: 25
+> Racing type: Knockout race challenge
+> Level: Sid's attic
+> Laps: 3
+> Enemies: 3
+
+------------------------------
+Everybody needs good neighbors
+------------------------------
+> Required soldiers: 27
+> Racing type: Survival race challenge
+> Level: Andy's neighborhood
+> Time to beat: 2:59:00
+> Laps: 3
+> Enemies: 7
+
+------------
+Dinner time!
+------------
+> Required soldiers: 30
+> Racing type: Endurance challenge (reverse)
+> Level: Pizza Planet (external)
+> Time to beat: 0:34:00
+> Laps: 4
+
+-------------------
+Trouble at the pier
+-------------------
+> Required soldiers: 45
+> Racing type: Knockout race challenge (reverse)
+> Level: Pier
+> Laps: 4
+> Enemies: 4
+
+-------------------------
+Super super go wow racer!
+-------------------------
+> Required soldiers: 50
+> Racing type: Race tournament challenge
+> Levels: Andy's house, Sid's attic, Skate park, Mall
+> Laps: 3
+> Enemies: 7
+
+-------------------
+Yard sale clearance
+-------------------
+> Required soldiers: 56
+> Racing type: Endurance challenge
+> Level: Sid's yard
+> Time to beat: 0:33:00
+> Laps: 4
+
+-------------
+Mind the mud!
+-------------
+> Required soldiers: 60
+> Racing type: Lap trial challenge (reverse)
+> Level: Sid's yard
+> Time to beat: 0:31:00
+
+------------------------
+You will be bowled over!
+------------------------
+> Required soldiers: 75
+> Racing type: Smash challenge
+> Level: Bowling alley
+> Enemies: 7
+
+--------
+Big air!
+--------
+> Required soldiers: 80
+> Racing type: Tag challenge
+> Level: Skate park
+> Enemies: 7
+
+-----
+Sale!
+-----
+> Required soldiers: 110
+> Racing ype: Collection challenge
+> Level: Mall
+> Time to beat: 0:44:00
+> Clowns to collect: 5
+
+Strategy: Move forward and collect the 1st clown on the right corner. Move up
+the escalator and keep moving forward. Collect the 2nd clown beside the speed 
+boost. Move forward and collect the 3rd clown in front of a Toy Story poster up
+ahead. Move down the escalator and collect the 4th clown near the pool. Be 
+careful though, as this is very tricky because of how slippery the surfaces are
+in the game. Finally, go back to the main track and follow it. Collect the 5th 
+clown below the "Central" shop sign.
+
+-------------
+Skid kid Sid!
+-------------
+> Required soldiers: 120
+> Racing type: Lap trial challenge
+> Level: Sid's house
+> Time to beat: 0:34:00
+
+-------------------------
+Parking lot parting shot!
+-------------------------
+> Required soldiers: 130
+> Racing type: Smash tag challenge
+> Level: Underground parking lot
+> Enemies: 5 - Rocky Gibraltar
+> Unlocks: Rocky Gibraltar
+
+-----------------------
+Something in the attic!
+-----------------------
+> Required soldiers: 135
+> Racing type: Survival race challenge
+> Level: Sid's attic
+> Time to beat: 1:55:00
+> Laps: 4
+> Enemies: 7
+
+--------------------
+Countdown conundrum!
+--------------------
+> Required soldiers: 148
+> Racing type: Countdown race challenge
+> Levels: Mall, Skate park, Underground parking lot, Pizza Planet (external), 
+Sid's yard
+> Time to beat: 2:24:00
+> Laps: 1
+
+- Congratulations on beating RC's challenges! You get a Sheriff badge for 
+finishing the last challenge. You can take a secret challenge by selecting the
+Sheriff badge. You can complete the Jigsaw puzzle of one of RC's picture from 
+the Toy Story movie. Match the puzzle from the right to its picture on the 
+left.
+
++++++++++++++++
+- Bo Peep [BOP]
++++++++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : 1
+        Smash Race               : 2
+        Knockout Race            : 1
+        Tag Race                 : 1
+        Smash Tag Race           : 1
+
+---------------------
+Time-based challenges
+        Collection Challenges    : 2
+        Countdown Race           : -
+        Endurance Challenges     : 1
+        Lap Trial Challenges     : 1
+        Super Survival Race      : 1
+        Survival Race            : 1
+                - reverse        : 1
+        Target Challenges        : -
+
+---------------------
+Tournament challenges
+        Knockout Race Tournament : -
+        Race Tournament          : 1
+                - reverse        : 1
+        Smash Race Tournament    : 1
+        -----------------------------
+        TOTAL CHALLENGES         : 16
+
+Unlockables: Slinky Dog
+
+--------------
+Sheep race cup
+--------------
+> Required soldiers: 0
+> Racing type: Race tournament challenge
+> Levels: Andy's house, Sid's attic, Sid's house, Andy's new house
+> Laps: 2
+> Enemies: 7
+
+----------------------------
+Flirting around the skirting
+----------------------------
+> Required soldiers: 1
+> Racing type: Race challenge
+> Level: Andy's house
+> Laps: 4
+> Enemies: 7
+
+--------------------
+Demolition car smash
+--------------------
+> Required soldiers: 3
+> Racing type: Smash tag challenge
+> Level: Underground parking lot
+> Enemies: 4
+
+------------------
+Knockout neighbors
+------------------
+> Required soldiers: 9
+> Racing type: Knockout race challenge
+> Level: Andy's neighborhood
+> Laps: 6
+> Enemies: 6
+
+--------------------
+Sid's sheep survival
+--------------------
+> Required soldiers: 10
+> Racing type: Survival race challenge
+> Level: Sid's house
+> Time to beat: 2:30:00
+> Laps: 4
+> Enemies: 7
+
+------------------
+Bowling pin pickup
+------------------
+> Required soldiers: 15
+> Racing type: Collection challenge
+> Level: Bowling alley
+> Time to beat: 0:29:00
+> Clowns to collect: 5
+
+Strategy: Move forward through the other side of the stairs. Collect the 1st 
+clown at the door. Move down to the third alley and collect the 2nd clown at 
+the bowling lane. Move to the second alley and collect the 3rd clown at the 
+back of the wall. Move to the first alley and collect the 4th clown at the end 
+of the bowling lane. Finally, backtrack to the second alley and collect the 5th
+clown near the bowling balls.
+
+----------------------------
+Bowling down the competition
+----------------------------
+> Required soldiers: 22
+> Racing type: Smash challenge
+> Level: Bowling alley
+> Enemies: 7
+
+-----------
+Icicle race
+-----------
+> Required soldiers: 25
+> Racing type: Lap trial challenge
+> Level: Andy's new house
+> Time to beat: 0:31:00
+
+-------------------------------
+Hanging around the neighborhood
+-------------------------------
+> Required soldiers: 27
+> Racing type: Endurance challenge
+> Level: Andy's neighborhood
+> Time to beat: 1:00:00
+> Laps: 3
+
+---------------
+Off ground tag?
+---------------
+> Required soldiers: 30
+> Racing type: Tag challenge
+> Level: Sid's yard
+> Enemies: 4
+
+-----------------
+Put up your dukes
+-----------------
+> Required soldiers: 45
+> Racing type: Smash tournament challenge
+> Levels: Bowling alley, Pizza Planet's arcade, Cinema
+> Enemies: 7
+
+----------------
+Dinner is served
+----------------
+> Required soldiers: 50
+> Racing type: Collection challenge
+> Level: Pizza Planet's diner
+> Time to beat: 0:35:00
+> Clowns to collect: 5
+
+Strategy: Immediately turn back and collect the 1st clown on the second table.
+Drop down to the main dining area and collect the 2nd clown in front of a 
+rocket-shaped litter box. Turn back and move up the stairs with a blue 
+background. Collect the 3rd clown near the wall. Then go and move through the
+rails and collect the 4th clown you encounter here. Move carefully to avoid 
+falling down. Finally, keep moving forward and collect the 5th clown at the 
+very end. Be careful as this path is very narrow and it's easy to fall down.
+
+----------------------
+A battle to be served!
+----------------------
+> Required soldiers: 60
+> Racing type: Smash challenge
+> Level: Pizza Planet's diner
+> Enemies: 5
+
+----------
+Skate date
+----------
+> Required soldiers: 70
+> Racing type: Survival race challenge (reverse)
+> Level: Skate park
+> Time to beat: 1:59:00
+> Laps: 4
+> Enemies: 7 - Slinky Dog
+> Unlocks: Slinky Dog
+
+------------------
+Back to the trophy
+------------------
+> Required soldiers: 80
+> Racing type: Race tournament challenge (reverse)
+> Levels: Pizza Planet (external), Underground parking lot, Mall, Sid's 
+neighborhood
+> Laps: 3
+> Enemies: 7
+
+---------------------
+Baby sitting at Sid's
+---------------------
+> Required soldiers: 100
+> Racing type: Super survival race challenge
+> Level: Sid's house
+> Time to beat: 1:47:00
+> Laps: 3
+> Enemies: 5 - Babyface
+
+- Congratulations on beating Bo Peep's challenges! You get a Sheriff badge for
+finishing the last challenge. You can take a secret challenge by selecting the
+Sheriff badge. You can complete the Jigsaw puzzle of one of Bo Peep's picture
+from the Toy Story movie. Match the puzzle from the right to its picture on the
+left.
+
++++++++++++
+- Rex [REX]
++++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : 3
+                - reverse        : 1
+        Smash Race               : 2
+        Knockout Race            : 1
+                - reverse        : 1
+        Tag Race                 : -
+        Smash Tag Race           : 1
+
+---------------------
+Time-based challenges
+        Collection Challenges    : 1
+        Countdown Race           : 1
+        Endurance Challenges     : -
+                - reverse        : 1
+        Lap Trial Challenges     : 1
+                - reverse        : 1
+        Super Survival Race      : 1
+        Survival Race            : 1
+        Target Challenges        : 1
+
+---------------------
+Tournament challenges
+        Knockout Race Tournament : -
+        Race Tournament          : 1
+                - reverse        : 1
+        Smash Race Tournament    : 1
+        -----------------------------
+        TOTAL CHALLENGES         : 20
+
+Unlockables: -
+
+--------------------
+Tyrannosaurus trophy
+--------------------
+> Required soldiers: 21
+> Racing type: Race tournament challenge
+> Levels: Sid's yard, Sid's house, Sid's attic
+> Laps: 3
+> Enemies: 7
+
+-------------------------
+Reverse parking test Rex!
+-------------------------
+> Required soldiers: 21
+> Racing type: Endurance challenge (reverse)
+> Level: Underground parking lot
+> Time to beat: 0:31:00
+> Laps: 3
+
+---------------------------
+Knockout offers at the mall
+---------------------------
+> Required soldiers: 25
+> Racing type: Knockout race challenge (reverse)
+> Level: Mall
+> Laps: 4
+> Enemies: 4
+
+--------------
+Game over Rex?
+--------------
+> Required soldiers: 27
+> Racing type: Smash challenge
+> Level: Pizza Planet's arcade
+> Enemies: 7 - Little Green Man
+
+-------------------
+Skate a saurus Rex!
+-------------------
+> Required soldiers: 30
+> Racing type: Race challenge (reverse)
+> Level: Skate park
+> Laps: 3
+> Enemies: 7
+
+----------------------
+New territory for Rex!
+----------------------
+> Required soldiers: 30
+> Racing type: Race challenge
+> Level: Andy's new house
+> Laps: 1
+> Enemies: 7
+
+---------------------
+Reverse a saurus Rex!
+---------------------
+> Required soldiers: 45
+> Racing type: Race tournament challenge (reverse)
+> Levels: Sid's neighborhood, Sid's yard, Mall, Pizza Planet (external)
+> Laps: 2
+> Enemies: 7
+
+---------------------
+Sid's yard clearance!
+---------------------
+> Required soldiers: 45
+> Racing type: Collection challenge
+> Level: Sid's yard
+> Time to beat: 0:39:00
+> Clowns to collect: 5
+
+Strategy: Move forward and collect the 1st clown on the left corner near the 
+fence. Past through the sandbox and collect the 2nd clown hiding behind a 
+hallow block. Move inside the chicken coop and collect the 3rd clown before the
+exit. At the intersection ahead, take the right path and collect the 4th clown
+near the mud (don't go in the mud, as this will greatly impede your progress
+since you only have a short time to complete the challenge). Finally, go up 
+the plank and collect the 5th clown in the table.
+
+---------------------
+Survive the move Rex!
+---------------------
+> Required soldiers: 55
+> Racing type: Survival race challenge
+> Level: Andy's new house
+> Time to beat: 1:59:00
+> Laps: 3
+> Enemies: 7
+
+-----------------
+Crazy attic rally
+-----------------
+> Required soldiers: 65
+> Racing type: Lap trial challenge
+> Level: Sid's attic
+> Time to beat: 0:24:00
+
+--------------------
+Air and sea Rex cue!
+--------------------
+> Required soldiers: 65
+> Racing type: Lap trial challenge (reverse)
+> Level: Pier
+> Time to beat: 0:35:00
+
+-------------------
+Parking or darting?
+-------------------
+> Required soldiers: 80
+> Racing type: Target challenge
+> Level: Underground parking lot
+> Time to beat: 1:04:00
+> Targets to hit: 5
+
+Strategy: Turn back and hit the 1st target on the left corner. Back in the 
+track, turn again and move forward. Hit the 2nd target on the graffiti wall.
+Move forward and hit the 3rd target below the "Level 1" sign. Keep moving down
+the parking lot until you see the "Level 3" sign. Hit the 4th target on the 
+rightmost corner. Turn back and hit the 5th target just below the ramp you
+came into.
+
+----------------
+Battlesaurus Rex
+----------------
+> Required soldiers: 80
+> Racing type: Smash challenge
+> Level: Bowling alley
+> Enemies: 7
+
+----------------
+Racersaurus Rex!
+----------------
+> Required soldiers: 85
+> Racing type: Race challenge
+> Level: Sid's house
+> Laps: 1
+> Enemies: 7
+
+---------------------
+Avoid extinction Rex!
+---------------------
+> Required soldiers: 90
+> Racing type: Smash tournament challenge
+> Levels: Pizza Planet's arcade, Bowling alley, Cinema, Ice rink
+> Enemies: 7
+
+---------------------------
+Keep up or you are out Rex!
+---------------------------
+> Required soldiers: 100
+> Racing type: Knockout race challenge
+> Level: Sid's house
+> Laps: 3
+> Enemies: 3
+
+--------------------------------------
+Parking sure is tricky round here Rex!
+--------------------------------------
+> Required soldiers: 105
+> Racing type: Smash tag challenge
+> Level: Underground parking lot
+> Enemies: 7
+
+-------------
+Yard boy Rex?
+-------------
+> Required soldiers: 110
+> Racing type: Race challenge
+> Level: Sid's yard
+> Laps: 3
+> Enemies: 7
+
+-----------------
+Easy as 3 2 1 Rex
+-----------------
+> Required soldiers: 110
+> Racing type: Countdown race challenge
+> Levels: Andy's new house, Mall, Underground parking lot
+> Time to beat: 1:34:00
+> Laps: 1
+
+-----------
+Crazy pizza
+-----------
+> Required soldiers: 154
+> Racing type: Super survival race challenge
+> Level: Pizza Planet (external)
+> Time to beat: 1:15:00
+> Laps: 2
+> Enemies: 7
+
+- Congratulations on beating Rex's challenges! You get a Sheriff badge for
+finishing the last challenge. You can take a secret challenge by selecting the
+Sheriff badge. You can complete the Jigsaw puzzle of one of Rex's picture from 
+the Toy Story movie. Match the puzzle from the right to its picture on the
+left.
+
+++++++++++++
+- Hamm [HAM]
+++++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : 1
+        Smash Race               : 1
+        Knockout Race            : 1
+                - reverse        : 1
+        Tag Race                 : -
+        Smash Tag Race           : -
+
+---------------------
+Time-based challenges
+        Collection Challenges    : 1
+        Countdown Race           : -
+        Endurance Challenges     : 2
+        Lap Trial Challenges     : -
+                - reverse        : 2
+        Super Survival Race      : 1
+        Survival Race            : 2
+        Target Challenges        : -
+
+---------------------
+Tournament challenges
+        Knockout Race Tournament : -
+        Race Tournament          : 4
+        Smash Race Tournament    : 1
+        -----------------------------
+        TOTAL CHALLENGES         : 17
+
+Unlockables: -
+
+------------------
+Adventures in pork
+------------------
+> Required soldiers: 46
+> Racing type: Race tournament challenge
+> Levels: Andy's new house, Pier, Underground parking lot, Pizza Planet 
+(external), Skate park, Mall, Andy's house, Sid's attic, Sid's yard, Sid's 
+house, Andy's neighborhood
+> Laps: 1
+> Enemies: 7
+
+-----------------------------
+Keeping up with the neighbors
+-----------------------------
+> Required soldiers: 50
+> Racing type: Knockout race challenge (reverse)
+> Level: Andy's neighborhood
+> Laps: 3
+> Enemies: 3
+
+---------------
+Parking ticket
+---------------
+> Required soldiers: 52
+> Racing type: Endurance challenge
+> Level: Underground parking lot
+> Time to beat: 0:30:00
+> Laps: 3
+
+--------------------
+Tiny pork's skateoff
+--------------------
+> Required soldiers: 58
+> Racing type: Race tournament challenge
+> Levels: Skate park, Sid's house, Skate park
+> Laps: 3
+> Enemies: 7
+
+-------------------------
+Super fast pizza delivery
+-------------------------
+> Required soldiers: 58
+> Racing type: Lap trial challenge (reverse)
+> Level: Pizza Planet (external)
+> Time to beat: 0:29:00
+
+--------------
+Skating bacon!
+--------------
+> Required soldiers: 63
+> Racing type: Smash challenge
+> Level: Skate park
+> Enemies: 7
+
+--------------
+Cash and carry
+--------------
+> Required soldiers: 65
+> Racing type: Race tournament challenge
+> Levels: Andy's new house, Andy's neighborhood, Sid's yard, Sid's house, 
+Andy's house
+> Laps: 2
+> Enemies: 7
+
+-------------------
+Ancient pork action
+-------------------
+> Required soldiers: 68
+> Racing type: Survival race challenge
+> Level: Skate park
+> Time to beat: 1:23:00
+> Laps: 3
+> Enemies: 7 - Rex
+
+---------------------
+Knockout parking Hamm
+---------------------
+> Required soldiers: 68
+> Racing type: Knockout race challenge
+> Level: Underground parking lot
+> Laps: 4
+> Enemies: 4
+
+-----------------
+Moving money bank
+-----------------
+> Required soldiers: 80
+> Racing type: Endurance challenge
+> Level: Andy's new house
+> Time to beat: 0:36:00
+> Laps: 3
+
+-------------------------
+Neighborhood speed watch!
+-------------------------
+> Required soldiers: 80
+> Racing type: Lap trial challenge (reverse)
+> Level: Andy's neighborhood
+> Time to beat: 0:59:00
+
+--------------------------------
+A collection of parking tickets?
+--------------------------------
+> Required soldiers: 92
+> Racing type: Collection challenge
+> Level: Underground parking lot
+> Time to beat: 0:29:00
+> Clowns to collect: 5
+
+Strategy: Move forward and collect the 1st clown near the graffiti wall. Move 
+forward and collect the 2nd clown on the edge to the right. Move down the ramp
+until you see a "Level 2" sign. Collect the 3rd clown behind the traffic cone.
+Move down the ramp until you see a "Level 3" sign. Collect the 4th clown beside
+the truck. Finally, go up the ramp and back to the race start. Collect the 5th
+clown in front of the "Level 2" sign.
+
+---------------------------------
+Can you survive Sid's house Hamm?
+---------------------------------
+> Required soldiers: 94
+> Racing type: Super survival race challenge
+> Level: Sid's house
+> Time to beat: 1:59:00
+> Laps: 3
+> Enemies: 7
+
+--------------------
+What do points make?
+--------------------
+> Required soldiers: 100
+> Racing type: Race tournament challenge
+> Levels: Pier, Mall, Skate park, Pizza Planet (external)
+> Laps: 1
+> Enemies: 7
+
+--------------
+Battling bacon
+--------------
+> Required soldiers: 140
+> Racing type: Smash tournament challenge
+> Levels: Pizza Planet's arcade, Pizza Planet's diner, Bowling alley, Cinema
+> Enemies: 7
+
+-----------------------
+Fastest pig in the west
+-----------------------
+> Required soldiers: 140
+> Racing type: Race challenge
+> Level: Underground parking lot
+> Laps: 5
+> Enemies: 7
+
+-------------
+Sale survival
+-------------
+> Required soldiers: 150
+> Racing type: Survival race challenge
+> Level: Mall
+> Time to beat: 2:05:00
+> Laps: 3
+> Enemies: 7
+
+- Congratulations on beating Hamm's challenges! You get a Sheriff badge for
+finishing the last challenge. You can take a secret challenge by selecting the
+Sheriff badge. You can complete the Jigsaw puzzle of one of Hamm's picture from
+the Toy Story movie. Match the puzzle from the right to its picture on the 
+left.
+
+++++++++++++++++++
+- Slinky Dog [DOG]
+++++++++++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : 1
+                - reverse        : 2
+        Smash Race               : 1
+        Knockout Race            : 1
+                - reverse        : 1
+        Tag Race                 : 1
+        Smash Tag Race           : 1
+
+---------------------
+Time-based challenges
+        Collection Challenges    : 1
+        Countdown Race           : 1
+        Endurance Challenges     : 1
+        Lap Trial Challenges     : 1
+                - reverse        : 1
+        Super Survival Race      : -
+                - reverse        : 1
+        Survival Race            : 2
+        Target Challenges        : 1
+
+---------------------
+Tournament challenges
+        Knockout Race Tournament : 1
+        Race Tournament          : 2
+        Smash Race Tournament    : -
+        -----------------------------
+        TOTAL CHALLENGES         : 20
+
+Unlockables: -
+
+----------------
+Prolonged pizza!
+----------------
+> Required soldiers: 71
+> Racing type: Super survival race challenge (reverse)
+> Level: Pizza Planet (external)
+> Time to beat: 1:40:00
+> Laps: 3
+> Enemies: 7
+
+--------------
+Springy trophy
+--------------
+> Required soldiers: 71
+> Racing type: Race tournament challenge
+> Levels: Skate park, Mall, Pier
+> Laps: 3
+> Enemies: 7
+
+------------------------
+Racing in a lofty place!
+------------------------
+> Required soldiers: 75
+> Racing type: Race challenge
+> Level: Sid's attic
+> Laps: 3
+> Enemies: 7
+
+--------
+Yard dog
+--------
+> Required soldiers: 80
+> Racing type: Lap trial challenge (reverse)
+> Level: Sid's yard
+> Time to beat: 0:31:00
+
+--------------------
+Snow good Slinky Dog
+--------------------
+> Required soldiers: 80
+> Racing type: Knockout race challenge (reverse)
+> Level: Andy's new house
+> Laps: 5
+> Enemies: 5
+
+----------
+Snow saver
+----------
+> Required soldiers: 90
+> Racing type: Collection challenge
+> Level: Andy's new house
+> Time to beat: 0:59:00
+> Clowns to collect: 5
+
+Strategy: Move forward. At the intersection, take the right path. Collect the 
+1st clown hiding behind the door. Exit the garage and keep moving forward. 
+Collect the 2nd clown below the window on the right. Move forward and collect 
+the 3rd clown hiding behind the wall (opposite of the speed booster ahead). 
+Move forward and collect the 4th clown in between the icy pool and the huge 
+tree. Finally, move forward and collect the 5th clown on the leftmost corner
+(the icy statue is actually facing the clown).
+
+----------------------------
+Sid's spring clean survivor!
+----------------------------
+> Required soldiers: 90
+> Racing type: Survival race challenge
+> Level: Sid's house
+> Time to beat: 2:39:00
+> Laps: 4
+> Enemies: 7
+
+------------------------
+Speed skating Slinky Dog
+------------------------
+> Required soldiers: 91
+> Racing type: Endurance challenge
+> Level: Skate park
+> Time to beat: 0:27:00
+> Laps: 3
+
+------------------
+Fetch those skates
+------------------
+> Required soldiers: 120
+> Racing type: Knockout race challenge
+> Level: Skate park
+> Laps: 5
+> Enemies: 5
+
+--------------
+Hot dog trophy
+--------------
+> Required soldiers: 125
+> Racing type: Race tournament challenge
+> Levels: Mall, Pier, Andy's house, Underground parking lot
+> Laps: 3
+> Enemies: 7
+
+--------------
+No dog allowed
+--------------
+> Required soldiers: 129
+> Racing type: Smash tag challenge
+> Level: Pizza Planet (external)
+> Enemies: 2
+
+--------------------
+Dinner is in the dog
+--------------------
+> Required soldiers: 130
+> Racing type: Smash challenge
+> Level: Pizza Planet's diner
+> Enemies: 7
+
+------------------
+Chasing your tail?
+------------------
+> Required soldiers: 132
+> Racing type: Race challenge (reverse)
+> Level: Mall
+> Laps: 4
+> Enemies: 7
+
+-----------
+Old sea dog
+-----------
+> Required soldiers: 140
+> Racing type: Lap trial challenge
+> Level: Pier
+> Time to beat: 0:36:00
+
+-----------------
+Seaside dog chase
+-----------------
+> Required soldiers: 150
+> Racing type: Tag challenge
+> Level: Pier
+> Enemies: 3
+
+-------------------
+A walk in the park?
+-------------------
+> Required soldiers: 168
+> Racing type: Target challenge
+> Level: Skate park
+> Time to beat: 0:59:00
+> Targets to hit: 5
+
+Strategy: Move forward then turn right. Hit the 1st target by the corner. Turn 
+back and move to the leftmost slope. Hit the 2nd target on the corner before 
+the stairs. Move down the stairs then turn right. Hit the 3rd target by the 
+wall. Move forward and find the 4th target by the corner before the slope. 
+Finally, move up the nearby slope and hit the 5th target in between the slopes.
+
+--------
+Dog gone
+--------
+> Required soldiers: 169
+> Racing type: Countdown race challenge
+> Levels: Andy's house, Sid's attic, Mall
+> Time to beat: 1:39:00
+> Laps: 1
+
+----------------
+Andy's speed off
+----------------
+> Required soldiers: 170
+> Racing type: Survival race challenge
+> Level: Andy's house
+> Time to beat: 2:23:00
+> Laps: 3
+> Enemies: 7
+
+-------
+Top dog
+-------
+> Required soldiers: 170
+> Racing type: Knockout race tournament challenge
+> Levels: Sid's house, Skate park, Andy's neighborhood, Sid's yard
+> Laps: 2
+> Enemies: 4
+
+---------------------
+Neighborhood watchdog
+---------------------
+> Required soldiers: 185
+> Racing type: Race challenge (reverse)
+> Level: Andy's neighborhood
+> Laps: 2
+> Enemies: 7
+
+- Congratulations on beating Slinky Dog's challenges! You get a Sheriff badge 
+for finishing the last challenge. You can take a secret challenge by selecting 
+the Sheriff badge. You can complete the Jigsaw puzzle of one of Slinky Dog's 
+picture from the Toy Story movie. Match the puzzle from the right to its 
+picture on the left.
+
++++++++++++++++++++++++
+- Mr. Potato Head [POT]
++++++++++++++++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : 1
+                - reverse        : 1
+        Smash Race               : 1
+        Knockout Race            : 2
+                - reverse        : 1
+        Tag Race                 : 2
+        Smash Tag Race           : 1
+
+---------------------
+Time-based challenges
+        Collection Challenges    : 1
+        Countdown Race           : -
+        Endurance Challenges     : 1
+                - reverse        : 1
+        Lap Trial Challenges     : 1
+        Super Survival Race      : -
+                - reverse        : 1
+        Survival Race            : 1
+        Target Challenges        : 1
+
+---------------------
+Tournament challenges
+        Knockout Race Tournament : -
+        Race Tournament          : 2
+        Smash Race Tournament    : 1
+        -----------------------------
+        TOTAL CHALLENGES         : 19
+
+Unlockables: Lenny
+
+----------
+Potato cup
+----------
+> Required soldiers: 95
+> Racing type: Race tournament challenge
+> Levels: Sid's neighborhood, Andy's house, Sid's house
+> Laps: 2
+> Enemies: 7
+
+----------------------------
+Don't become a baked potato!
+----------------------------
+> Required soldiers: 95
+> Racing type: Smash tournament challenge
+> Levels: Cinema, Bowling alley, Pizza Planet's arcade
+> Enemies: 4
+
+-----------------
+Fry like the wind
+-----------------
+> Required soldiers: 96
+> Racing type: Lap trial challenge
+> Level: Underground parking lot
+> Time to beat: 0:26:00
+
+-------------
+Knockout spud
+-------------
+> Required soldiers: 110
+> Racing type: Knockout race challenge (reverse)
+> Level: Underground parking lot
+> Laps: 4
+> Enemies: 4
+
+--------------
+Community spud
+--------------
+> Required soldiers: 115
+> Racing type: Endurance challenge
+> Level: Sid's attic
+> Time to beat: 0:30:00
+> Laps: 3
+
+--------------
+New house mash
+--------------
+> Required soldiers: 118
+> Racing type: Super survival race challenge (reverse)
+> Level: Andy's new house
+> Time to beat: 2:30:00
+> Laps: 4
+> Enemies: 7
+
+--------------
+K.O.'d potato?
+--------------
+> Required soldiers: 125
+> Racing type: Knockout race challenge
+> Level: Andy's house
+> Laps: 5
+> Enemies: 5
+
+----------------------------------
+Funny what you find in your attic!
+----------------------------------
+> Required soldiers: 125
+> Racing type: Collection challenge
+> Level: Sid's attic
+> Time to beat: 0:31:00
+> Clowns to collect: 5
+
+Strategy: Move forward and go to the ledge on the left. Collect the 1st clown
+at the end of the ledge. Move forward and at the intersection, take the right
+path. Collect the 2nd clown beside the yellow box with the left arrow sign. 
+Back at the intersection, take the other path and collect the 3rd clown beside
+the yellow box with the left arrow sign. Drop down the ledge on the right and 
+collect the 4th clown below. Finally, backtrack the attic and collect the 5th
+clown in front of the box that says "FRAGILE".
+
+------------
+Seaside spud
+------------
+> Required soldiers: 126
+> Racing type: Endurance challenge (reverse)
+> Level: Pier
+> Time to beat: 0:38:00
+> Laps: 3
+
+----------------
+Seaside spud tag
+----------------
+> Required soldiers: 140
+> Racing type: Smash tag challenge
+> Level: Pier
+> Enemies: 4
+
+--------------------
+Pole position potato
+--------------------
+> Required soldiers: 140
+> Racing type: Race challenge
+> Level: Sid's house
+> Laps: 3
+> Enemies: 7
+
+---------------------
+Nacho's for the film?
+---------------------
+> Required soldiers: 144
+> Racing type: Smash challenge
+> Level: Cinema
+> Enemies: 
+
+----------------
+K.O. snow potato
+----------------
+> Required soldiers: 146
+> Racing type: Knockout race challenge
+> Level: Andy's new house
+> Laps: 7
+> Enemies: 7
+
+----------------
+Pizza and chips?
+----------------
+> Required soldiers: 150
+> Racing type: Tag challenge
+> Level: Pizza Planet (external)
+> Enemies: 4
+
+-------------
+Target skater
+-------------
+> Required soldiers: 159
+> Racing type: Target challenge
+> Level: Skate park
+> Time to beat: 0:59:00
+> Targets to hit: 5
+
+Strategy: Move forward then turn right. Hit the 1st target by the corner. Turn 
+back and move to the leftmost slope. Hit the 2nd target on the corner before 
+the stairs. Move down the stairs then turn right. Hit the 3rd target by the 
+wall. Move forward and find the 4th target by the corner before the slope. 
+Finally, move up the nearby slope and hit the 5th target in between the slopes.
+
+----------------
+Spud meets scud?
+----------------
+> Required soldiers: 170
+> Racing type: Race challenge (reverse)
+> Level: Sid's yard
+> Laps: 3
+> Enemies: 7
+
+---------------
+Fast hash brown
+---------------
+> Required soldiers: 170
+> Racing type: Race tournament challenge
+> Levels: Andy's house, Sid's house, Sid's attic, Andy's new house
+
+---------------------------------
+Spud they like? Don't think snow!
+---------------------------------
+> Required soldiers: 175
+> Racing type: Tag challenge
+> Level: Andy's new house
+> Enemies: 7 - Lenny
+> Unlocks: Lenny
+
+---------------------
+Surviving Sid's smash
+---------------------
+> Required soldiers: 180
+> Racing type: Survival race challenge
+> Level: Sid's house
+> Time to beat: 1:09:00
+> Laps: 2
+> Enemies: 7
+
+- Congratulations on beating Mr. Potato Head's challenges! You get a Sheriff 
+badge for finishing the last challenge. You can take a secret challenge by 
+selecting the Sheriff badge. You can complete the Jigsaw puzzle of one of Mr. 
+Potato Head's picture from the Toy Story movie. Match the puzzle from the right
+to its picture on the left.
+
+++++++++++++++++++++++++
+- Little Green Man [LGM]
+++++++++++++++++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : 1
+        Smash Race               : -
+        Knockout Race            : 1
+        Tag Race                 : 1
+        Smash Tag Race           : 1
+
+---------------------
+Time-based challenges
+        Collection Challenges    : 2
+        Countdown Race           : -
+        Endurance Challenges     : 1
+        Lap Trial Challenges     : 1
+        Super Survival Race      : 1
+        Survival Race            : 1
+        Target Challenges        : -
+
+---------------------
+Tournament challenges
+        Knockout Race Tournament : -
+        Race Tournament          : 2
+        Smash Race Tournament    : 1
+        -----------------------------
+        TOTAL CHALLENGES         : 13
+
+Unlockables: -
+
+-------------------
+Little green trophy
+-------------------
+> Required soldiers: 103
+> Racing type: Race tournament challenge
+> Levels: Pizza Planet (external), Underground parking lot, Sid's house, Pier
+> Laps: 3
+> Enemies: 6
+
+-----------------------
+Claw through to victory
+-----------------------
+> Required soldiers: 103
+> Racing type: Smash tournament challenge
+> Levels: Pizza Planet's arcade, Pizza Planet's diner, Bowling alley, Cinema
+> Enemies: 7
+
+----------------------
+Hoarding the billboard
+----------------------
+> Required soldiers: 105
+> Racing type: Collection challenge
+> Level: Cinema
+> Time to beat: 0:44:00
+> Clowns to collect: 5
+
+Strategy: Turn back and collect the 1st clown behind you. Move up into the next
+set of seats and collect the 2nd clown in the middle. Move up to the entrance.
+Collect the 3rd clown in front of a Toy Story poster by the double doors. Move 
+down the stairs and go to the middle. Collect the 4th clown on the dark corner
+at the back. Finally, go to the first set of chairs in the cinema and collect 
+the 5th clown in the middle.
+
+---------------------
+The crazy parking lot
+---------------------
+> Required soldiers: 110
+> Racing type: Super survival race challenge
+> Level: Underground parking lot
+> Time to beat: 1:35:00
+> Laps: 3
+> Enemies: 7
+
+-----------------
+A test of stamina
+-----------------
+> Required soldiers: 110
+> Racing type: Endurance challenge
+> Level: Andy's house
+> Time to beat: 0:47:00
+> Laps: 4
+
+--------------
+Food on the go
+--------------
+> Required soldiers: 110
+> Racing type: Race challenge
+> Level: Pizza Planet (external)
+> Laps: 5
+> Enemies: 7
+
+---------------------
+Pronto pizza delivery
+---------------------
+> Required soldiers: 129
+> Racing type: Lap trial challenge
+> Level: Pizza Planet (external)
+> Time to beat: 0:30:00
+
+----------------------
+Water logged wild race
+----------------------
+> Required soldiers: 133
+> Racing type: Knockout race challenge
+> Level: Pier
+> Laps: 5
+> Enemies: 5
+
+--------------------------
+Catch those bargain L.G.M.
+--------------------------
+> Required soldiers: 138
+> Racing type: Smash tag challenge
+> Level: Mall
+> Enemies: 3
+
+-------------------
+Holiday present run
+-------------------
+> Required soldiers: 150
+> Racing type: Collection challenge
+> Level: Pier
+> Time to beat: 0:44:00
+> Clowns to collect: 5
+
+Strategy: Move to the left side of the beach and collect the 1st clown on the
+sands. Backtrack the pier and collect the 2nd clown beside the stairs. Move up
+the stairs (better use the speed boost) and collect the 3rd clown on your way
+up. Keep moving forward. At the intersection, turn left and collect the 4th 
+clown at the corner of the stairs. Finally, move down the stairs and use the 
+two upcoming speed boost ahead. Move up the stairs and collect the 5th clown in
+front of the sun symbol.
+
+---------
+Snow joke
+---------
+> Required soldiers: 155
+> Racing type: Tag challenge
+> Level: Andy's new house
+> Enemies: 4
+
+---------------------------
+A stranger from the outside
+---------------------------
+> Required soldiers: 160
+> Racing type: Race tournament challenge
+> Levels: Pizza Planet (external), Andy's new house, Skate park, Mall, 
+Underground parking lot
+> Laps: 3
+> Enemies: 7
+
+-------------------
+Lots of crazy pizza
+-------------------
+> Required soldiers: 160
+> Racing type: Survival race challenge
+> Level: Pizza Planet (external)
+> Time to beat: 2:31:00
+> Laps: 4
+> Enemies: 7
+
+- Congratulations on beating Little Green Man's challenges! You get a Sheriff 
+badge for finishing the last challenge. You can take a secret challenge by 
+selecting the Sheriff badge. You can complete the Jigsaw puzzle of one of 
+Little Green Man's picture from the Toy Story movie. Match the puzzle from the 
+right to its picture on the left.
+
++++++++++++++++++++++++
+- Rocky Gibraltar [ROC]
++++++++++++++++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : 1
+                - reverse        : 1
+        Smash Race               : 1
+        Knockout Race            : 1
+        Tag Race                 : -
+        Smash Tag Race           : 1
+
+---------------------
+Time-based challenges
+        Collection Challenges    : 2
+        Countdown Race           : -
+        Endurance Challenges     : 1
+        Lap Trial Challenges     : 1
+        Super Survival Race      : 1
+        Survival Race            : 2
+        Target Challenges        : -
+
+---------------------
+Tournament challenges
+        Knockout Race Tournament : 1
+        Race Tournament          : 2
+        Smash Race Tournament    : 1
+        -----------------------------
+        TOTAL CHALLENGES         : 16
+
+Unlockables: Babyface
+
+----------
+Muscle cup
+----------
+> Required soldiers: 131
+> Racing type: Race tournament challenge
+> Levels: Andy's house, Mall, Andy's new house, Sid's yard
+> Laps: 2
+> Enemies: 7
+
+------------------------------
+Let's see who is the strongest
+------------------------------
+> Required soldiers: 131
+> Racing type: Survival race challenge
+> Level: Sid's yard
+> Time to beat: 2:11:00
+> Laps: 4
+> Enemies: 7
+
+--------------------------
+Andy's house monster mash!
+--------------------------
+> Required soldiers: 133
+> Racing type: Super survival race challenge
+> Level: Andy's house
+> Time to beat: 2:17:00
+> Laps: 3
+> Enemies: 7
+
+-----------------------
+Rocky's rally challenge
+-----------------------
+> Required soldiers: 136
+> Racing type: Race tournament challenge
+> Levels: Andy's house, Sid's house, Sid's attic, Mall, Underground parking 
+lot, Sid's yard, Andy's neighborhood, Skate park, Pizza Planet (external)
+> Laps: 2
+> Enemies: 7
+
+-----------------------
+Lights, camera, action!
+-----------------------
+> Required soldiers: 138
+> Racing type: Smash challenge
+> Level: Cinema
+> Enemies: 7
+
+---------------------
+Skate fast strongman!
+---------------------
+> Required soldiers: 145
+> Racing type: Lap trial challenge
+> Level: Skate park
+> Time to beat: 0:27:00
+
+----------------
+Keep on running!
+----------------
+> Required soldiers: 150
+> Racing type: Endurance challenge
+> Level: Sid's house
+> Time to beat: 0:43:00
+> Laps: 3
+
+-------------------------
+A knockout shopping trip!
+-------------------------
+> Required soldiers: 150
+> Racing type: Knockout race challenge
+> Level: Mall
+> Laps: 5
+> Enemies: 5
+
+------------------
+Fill her up Rocky!
+------------------
+> Required soldiers: 155
+> Racing type: Collection challenge
+> Level: Gas station
+> Time to beat: 0:53:00
+> Clowns to collect: 5
+
+Strategy: Turn left and collect the 1st clown just after the puddle. Move 
+forward to where the traffic cones are and collect the 2nd clown near the 
+corner. Turn left and collect the 3rd clown between the two gas refilling 
+machines. Move forward and drop down to the open vent ahead. Collect the 4th
+clown inside. Exit the vent by moving forward. Back at the surface, turn right
+and go through the small ramp. Collect the 5th clown at the edge of the ledge.
+
+-----------------------------------
+It will be tough to win this Rocky!
+-----------------------------------
+> Required soldiers: 159
+> Racing type: Smash tournament challenge
+> Levels: Pizza Planet's arcade, Gas station, Pizza Planet's diner, Bowling 
+alley
+> Enemies: 7
+
+------------------------
+Flip the pizza Gibraltar
+------------------------
+> Required soldiers: 160
+> Racing type: Race challenge (reverse)
+> Level: Pizza Planet (external)
+> Laps: 3
+> Enemies: 7 - Little Green Man
+
+----------------------------
+Don't be a stick in the mud!
+----------------------------
+> Required soldiers: 168
+> Racing type: Smash tag challenge
+> Level: Sid's yard
+> Enemies: 7
+
+--------------------
+Skate on Rocky dude!
+--------------------
+> Required soldiers: 169
+> Racing type: Collection challenge
+> Level: Skate park
+> Time to beat: 0:44:00
+> Clowns to collect: 5
+
+Strategy: Move forward. Collect the 1st clown on the edge. Go to the left-most 
+slope and collect the 2nd clown by the rails (note that this is the hardest 
+clown to get due to the limited space on the rail. You have to position Rocky 
+correctly in order to get it. Then move down the stairs and go to the small 
+pool by the park to collect the 3rd clown. Go to the middle of the park and 
+collect the 4th clown. Finally, move forward in between 2 slopes to collect the
+5th clown. 
+
+------------------
+Party at the pier?
+------------------
+> Required soldiers: 179
+> Racing type: Race challenge
+> Level: Pier
+> Laps: 5
+> Enemies: 5
+> Unlocks: Babyface
+
+-----------------------
+Strongman contest Rocky
+-----------------------
+> Required soldiers: 181
+> Racing type: Knockout race tournament challenge
+> Levels: Andy's house, Sid's house, Sid's attic, Mall, Andy's house
+> Laps: 3
+> Enemies: 5
+
+---------------
+Eating contest!
+---------------
+> Required soldiers: 185
+> Racing type: Survival race challenge
+> Level: Pizza Planet (external)
+> Time to beat: 1:35:00
+> Laps: 3
+> Enemies: 7
+
+- Congratulations on beating Rocky Gibraltar's challenges! You get a Sheriff 
+badge for finishing the last challenge. You can take a secret challenge by 
+selecting the Sheriff badge. You can complete the Jigsaw puzzle of one of Rocky
+Gibraltar's picture from the Toy Story movie. Match the puzzle from the right 
+to its picture on the left.
+
++++++++++++++
+- Lenny [LEN]
++++++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : 1
+        Smash Race               : -
+        Knockout Race            : 2
+        Tag Race                 : -
+        Smash Tag Race           : -
+
+---------------------
+Time-based challenges
+        Collection Challenges    : -
+        Countdown Race           : -
+        Endurance Challenges     : -
+        Lap Trial Challenges     : -
+        Super Survival Race      : -
+        Survival Race            : 1
+        Target Challenges        : 1
+
+---------------------
+Tournament challenges
+        Knockout Race Tournament : -
+        Race Tournament          : 2
+        Smash Race Tournament    : 1
+        -----------------------------
+        TOTAL CHALLENGES         : 8
+
+Unlockables: -
+
+-------------
+10 pin target
+-------------
+> Required soldiers: 176
+> Racing type: Target challenge
+> Level: Bowling alley
+> Time to beat: 0:49:00
+> Targets to hit: 5
+
+Strategy: Move forward and hit the 1st target on the door. Move down the stairs
+and into the alley. Hit the 2nd target on the middle wall. Turn left and hit 
+the 3rd target on the corner. Move forward to the first bowling lane and hit 
+4th target pinned in the wall between the first and second bowling lanes. 
+Finally, move inside the dark lane and go to the very last bowling lane. Hit 
+the 5th target on the corner.
+
+-----------
+Wind up cup
+-----------
+> Required soldiers: 176
+> Racing type: Race tournament challenge
+> Levels: Andy's new house, Mall, Andy's house, Sid's attic, Sid's yard, Pier, 
+Skate park
+> Laps: 2
+> Enemies: 7
+
+---------------
+Lenny one lens?
+---------------
+> Required soldiers: 180
+> Racing type: Race tournament challenge
+> Levels: Andy's new house, Pier, Underground parking lot, Pizza Planet 
+(external), Skate park, Mall, Andy's house, Sid's attic, Sid's yard, Sid's 
+house, Andy's neighborhood
+> Laps: 1
+> Enemies: 7
+
+------------------
+Yard hide and seek
+------------------
+> Required soldiers: 180
+> Racing type: Knockout race challenge
+> Level: Sid's attic
+> Laps: 7
+> Enemies: 7 - Babyface
+
+----------------
+Binocular battle
+----------------
+> Required soldiers: 185
+> Racing type: Smash tournament challenge
+> Levels: Pizza Planet's arcade, Cinema, Bowling alley, Ice rink, Basketball 
+court
+> Enemies: 7
+
+---------------------------
+They come from out of space
+---------------------------
+> Required soldiers: 187
+> Racing type: Knockout race challenge
+> Level: Pizza Planet (external)
+> Laps: 7
+> Enemies: 7 - Little Green Man
+
+---------------
+Bo-peeping tom?
+---------------
+> Required soldiers: 190
+> Racing type: Race challenge
+> Level: Andy's house
+> Laps: 3
+> Enemies: 7 - Bo Peep
+
+--------------
+Short survival
+--------------
+> Required soldiers: 195
+> Racing type: Survival race challenge
+> Level: Andy's neighborhood
+> Time to beat: 1:01:00
+> Laps: 1
+> Enemies: 7
+
+- Congratulations on beating Lenny's challenges! You get a Sheriff badge for 
+finishing the last challenge. You can take a secret challenge by selecting the 
+Sheriff badge. You can complete the Jigsaw puzzle of one of Lenny's picture 
+from the Toy Story movie. Match the puzzle from the right to its picture on the
+left.
+
+++++++++++++++++
+- Babyface [BAB]
+++++++++++++++++
+
+---------------------
+CHALLENGES BREAKDOWN:
+
+Regular challenges
+        Single Race              : -
+        Smash Race               : -
+        Knockout Race            : 1
+        Tag Race                 : -
+        Smash Tag Race           : -
+---------------------
+Time-based challenges
+        Collection Challenges    : -
+        Countdown Race           : -
+                - reverse        : 1
+        Endurance Challenges     : -
+        Lap Trial Challenges     : -
+        Super Survival Race      : 1
+                - reverse        : 1
+        Survival Race            : 1
+        Target Challenges        : 1
+---------------------
+Tournament challenges
+        Knockout Race Tournament : -
+        Race Tournament          : 1
+        Smash Race Tournament    : 1
+        -----------------------------
+        TOTAL CHALLENGES         : 8
+
+Unlockables: -
+
+-----------------
+Surviving at home
+-----------------
+> Required soldiers: 180
+> Racing type: Super survival race challenge (reverse)
+> Level: Sid's yard
+> Time to beat: 1:38:00
+> Laps: 3
+> Enemies: 7
+
+-------------
+Target dolly!
+-------------
+> Required soldiers: 180
+> Racing type: Target challenge
+> Level: Underground parking lot
+> Time to beat: 0:59:00
+> Targets to hit: 5
+
+Strategy: Turn back and hit the 1st target on the corner. Back on the main 
+track, go to the stairs and hit the 2nd target on the leftmost corner. Move up 
+the stairs and hit the 3rd target by the dark corner on the left. Move down the
+parking lot until you reach a sign "Level 3". Hit the 4th target as you come 
+across to it. Finally, go near the parked truck on the same level and hit the 
+5th target on the dark corner.
+
+----------------
+Sid's toy trophy
+----------------
+> Required soldiers: 180
+> Racing type: Countdown race challenge (reverse)
+> Levels: Andy's new house, Sid's yard, Pizza Planet (external), Skate park
+> Time to beat: 1:49:00
+> Laps: 1
+
+-------------------
+Put a brave face on
+-------------------
+> Required soldiers: 180
+> Racing type: Smash tournament challenge
+> Levels: Basketball court, Cinema, Pizza Planet's arcade, Bowling alley, Ice 
+rink
+> Enemies: 7
+
+-----------------------
+Babyface, one more lap?
+-----------------------
+> Required soldiers: 180
+> Racing type: Race tournament challenge
+> Levels: Andy's new house, Pier, Underground parking lot, Pizza Planet 
+(external), Skate park, Mall, Andy's house, Sid's attic, Sid's yard, Sid's 
+house, Andy's neighborhood
+> Laps: 1
+> Enemies: 7
+
+----------------------
+Babyface survivor race
+----------------------
+> Required soldiers: 185
+> Racing type: Survival race challenge
+> Level: Andy's house
+> Time to beat: 1:45:00
+> Laps: 2
+> Enemies: 7
+
+--------------
+Pier? Oh dear!
+--------------
+> Required soldiers: 195
+> Racing type: Super survival race challenge
+> Level: Pier
+> Time to beat: 1:19:00
+> Laps: 2
+> Enemies: 7
+
+-------------
+House warming
+-------------
+> Required soldiers: 195
+> Racing type: Knockout race challenge
+> Level: Sid's house
+> Laps: 4
+> Enemies: 4
+
+- Congratulations on beating Babyface's challenges! You get a Sheriff badge for
+finishing the last challenge. You can take a secret challenge by selecting the 
+Sheriff badge. You can complete the Jigsaw puzzle of one of Babyface's picture
+from the Toy Story movie. Match the puzzle from the right to its picture on the
+left.
+
+-------------------------------------------------------------------------------
+D. Miscellaneous [MSC]
+-------------------------------------------------------------------------------
+
+Anything that doesn't fall in other categories.
+
+++++++++++++++++++++++++++++++++++++
+- Unlockable characters / toys [UNL]
+++++++++++++++++++++++++++++++++++++
+
+The idea of the game is to collect a total of 200 soldiers. You start out with
+0 and you collect a soldier by winning a vast range of different tasks for each
+of the 4 main playable characters (Woody, Buzz Lightyear, RC and Bo Peep). As
+you unlock more characters, you're able to do more challenges. The last 2
+characters are unlocked by the previously unlocked characters before them. In
+total, the game features 12 playable characters.
+
+ ____________________________________________________________
+| UNLOCKABLE CHARACTER |   UNLOCKED BY   | REQUIRED SOLDIERS |
+|----------------------|-----------------|-------------------|
+| Rex                  | Buzz Lightyear  | 20 soldiers       |
+|----------------------|-----------------|-------------------|
+| Hamm                 | Woody           | 45 soldiers       |
+|----------------------|-----------------|-------------------|
+| Slinky Dog           | Bo Peep         | 70 soldiers       |
+|----------------------|-----------------|-------------------|
+| Mr. Potato Head      | Woody           | 95 soldiers       |
+|----------------------|-----------------|-------------------|
+| Little Green Man     | Buzz Lightyear  | 103 soldiers      |
+|----------------------|-----------------|-------------------|
+| Rocky Gibraltar      | RC              | 130 soldiers      |
+|----------------------|-----------------|-------------------|
+| Lenny                | Mr. Potato Head | 175 soldiers      |
+|----------------------|-----------------|-------------------|
+| Babyface             | Rocky Gibraltar | 179 soldiers      |
+ ------------------------------------------------------------
+
++++++++++++++++++++
+- Level types [LVL]
++++++++++++++++++++
+
+The game features a total of 18 stages. 11 are race track stages and 7 are
+smash arenas. The skate park is a special kind of stage, as this is both a race
+track stage and a smash arena at the same time. Some stages have a reference to
+the movie franchise itself.
+
+-------------------------------------------------------------------------------
+- Race track stages
+-------------------------------------------------------------------------------
+
+> Andy's house (from Toy Story 2)
+> Andy's new house (snowy yard)
+> Andy's neighborhood (from Toy Story)
+> Mall
+> Pier
+> Pizza Planet (external)
+> Sid's attic
+> Sid's house
+> Sid's yard
+> Skate park (also a smash arena)
+> Underground parking lot
+
+-------------------------------------------------------------------------------
+- Smash arenas
+-------------------------------------------------------------------------------
+
+> Basketball court
+> Bowling alley
+> Cinema (showing some scenes from Toy Story)
+> Gas station
+> Ice rink
+> Pizza Planet's arcade
+> Pizza Planet's diner
+> Skate park (also a race track)
+
+++++++++++++++++++++
+- Racing types [RAC]
+++++++++++++++++++++
+
+The game features a total of 16 race types. Most of which are of the same race
+but with a twist.
+
+-------------------------------------------------------------------------------
+- Regular challenges [RAC-1]
+-------------------------------------------------------------------------------
+
+These challenges are regularly played throughout the game. Smash tag challenges
+are often used in unlocking the characters of the game.
+
+> Single Race - regular race played in laps. The player must finish in 1st
+place. Some races range in the number of laps and number of opponents.
+
+> Reverse Race - same as a single race but you must complete the track
+backwards. This challenge can be played on other types of races such as
+countdowns, knockouts and survival races.
+
+> Smash Race - 4-8 toys are placed in this free-for-all style challenge, where
+the only way to win is to eliminate each other by using the weapons on the
+track. The idea is to be the last toy remaining (by far, this is where the game
+delivers).
+
+> Knockout Race - same as single race but whoever is in last position after
+each lap will be eliminated until only 1 toy remains.
+
+> Tag Race - you must catch the other toys by bumping them with your toy.
+
+> Smash Tag Race - same as tag race but you eliminate them with weapons instead
+of bumping them.
+
+-------------------------------------------------------------------------------
+- Time-based challenges [RAC-2]
+-------------------------------------------------------------------------------
+
+These challenges must be completed within the specified time limit.
+
+> Collection Challenges - collect the items scattered (clown toys) throughout
+the track before you're timed out.
+
+> Countdown Race - you must complete a number of races in the specified time
+limit.
+
+> Endurance Challenges - same as lap trial race but played over a number of
+laps.
+
+> Lap Trial Challenges - same as single race but you must complete the lap
+within the time limit to win.
+
+> Super Survival Race - same as survival race, but you must eliminate all
+other toys and you must beat the time. Don't get a single toy remaining in the
+race or you'll lose.
+
+> Survival Race - same as regular race but players must avoid being hit by
+weapons. To win, you must avoid getting hit by the opponent's weapons and you
+must finish the race in 1st place before you're timed out.
+
+> Target Challenges - hit the target boards with weapons scattered throughout
+the tracks before you're timed out.
+
+-------------------------------------------------------------------------------
+- Tournament challenges [RAC-3]
+-------------------------------------------------------------------------------
+
+These challenges consists of many tracks. You must be in 1st place after the
+last track to win.
+
+> Knockout Race Tournament - same as knockout race but toys are eliminated at
+the end of every race instead of every lap.
+
+> Race Tournament - same as single race but players are given points for the
+position they place for that particular track. If there are 8 of you in the
+tournament, 8 points is awarded to the 1st place, 7 points for the 2nd place
+and so on. The toy with the most points after the last track wins the
+tournament.
+
+> Smash Race Tournament - same as smash challenge but toys are given points for
+the number of "smashes" they earn during each of the tracks. To win, have the
+most points after the last track.
+
++++++++++++++++++
+- Power-ups [PWR]
++++++++++++++++++
+
+The game features 8 items contained in 4 colored boxes. 7 are weapons that you
+can use against other toys and 1 is a special item. Each colored box contains 2
+items.
+
+> Yellow boxes - the 8-ball (black) and the pixar ball (yellow).
+> Blue boxes - rocket (red) and a whipping top (big).
+> Pink boxes - whipping top (small) and Bo Peep's sheep.
+> Red boxes - electric shock and a dynamite speed boost (special item that is
+not available in smash arenas - except for the Skate park level).
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "Toy Story Racer: General Walkthrough FAQ" to remind me that
+you are not spam. If not, the subject should be at least close to the previous
+one and I will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+
+To Traveller's Tales for making the game.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

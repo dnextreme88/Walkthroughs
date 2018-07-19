@@ -1,0 +1,2605 @@
+Game Script:
+
+Name of Game: Dying Light
+
+Platform: PC / PS4 / XBox 360
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. Story Quests...................................................[STO]
+                - Awakening.............................................[STO-1]
+                - First Assignment......................................[STO-2]
+                - Airdrop...............................................[STO-3]
+                - Pact with Rais........................................[STO-4]
+                - Siblings..............................................[STO-5]
+                - The Pit...............................................[STO-6]
+                - The Saviours..........................................[STO-7]
+                - Find the Embers.......................................[STO-8]
+                - Higher Education......................................[STO-9]
+                - Public Face..........................................[STO-10]
+                - Rendezvous...........................................[STO-11]
+                - The Museum...........................................[STO-12]
+                - Broadcast............................................[STO-13]
+                - The Clinic...........................................[STO-14]
+                - Extraction...........................................[STO-15]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+This guide contains the script of the game. Some dialogues contain profanity.
+The guide assumes that you have finished the game. If you haven't finished the
+game, please read the guide with caution as the script contains spoilers.
+
+Dying Light is owned by Techland. All trademarks are subjected to Techland.
+
+Copyright (c) Techland.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Oct 4, 2017
+= Submitted the FAQ.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. Story Quests [STO]
+-------------------------------------------------------------------------------
+
+These dialogues are from the main story quests. Dialogues in parenthesis are
+mentioned by the characters but don't appear on the screen. Some words contain
+profanity.
+
++++++++++++++++++++
+- Awakening [STO-1]
++++++++++++++++++++
+
+GRE: Hud activated. Commence briefing.
+Pilot: Approaching Harran.
+GRE: Data on the subject. Kadir Suleiman. A local political figure hired to
+maintain order after the outbreak. His brother Hassan died in a disease-related
+incident before we were able to evacuate him.
+GRE: Suleiman blamed the GRE for Hassan's death. He stole a highly sensitive
+file which became his bargaining chip against the GRE.
+GRE: With instructions to publicize it if anything happened to him.
+GRE: Data on the subject. The stolen file. It details the incomplete process of
+synthesizing a cure for the virus. If implemented in its current state, the
+produced substance may be extremely toxic.
+Pilot: Jump in ten seconds.
+Pilot: Now!
+GRE: Also, the file contains a full description of the virion structure. Any
+attempt to use it would result in countless lives lost. It must be recovered.
+GRE: Further information. Current status.
+GRE: Suleiman sent the file to an associate unknown to us, with instructions to
+publicize it at his command at any time.
+GRE: To counter that, we instituted a city-wide communication jam, preventing
+him from publicizing the file.
+GRE: Your GRE-issued radio can overcome that jamming. It is your lifeline. Do
+not lose it.
+GRE: Suleiman has since gone underground and begun using a different name. We
+have reason to believe he now leads one of the two main factions operating
+within the city.
+GRE: You are to find Suleiman and locate the stolen file in order to save
+mankind from a disaster of unprecedented proportions.
+
+------------------------------
+After Crane lands on the Slums
+------------------------------
+Rais' soldier: I told you that wasn't a normal drop chute.
+Tahir: Break his legs. Then take him to Rais.
+Crane: Back up. All of you.
+Tahir: Stop! Loud noises draw them!
+Tahir: Fall back! FALL BACK!
+Amir: Come on. We have to move.
+Jade: Let's get him off the street.
+Amir: GET THE DOOR OPEN!
+Jade: Amir! NO!
+Amir: Go! RUN!!
+Jade: Tower, this is Jade. Get Sickbay ready. Got a guy with a bad head
+wound... and a bite on one arm.
+Rahim: Oh, sh*t! Amir's hurt?
+Jade: No. Amir is gone... But I'm bringing in someone who might still survive.
+Rahim: One of us?
+Jade: We'll see.
+
+----------------------
+Waking up on The Tower
+----------------------
+Girl: You pinch him.
+Boy: You're scared.
+Girl: I'm not scared.
+Boy: Then pinch him.
+Girl: He blinked!
+Boy: What?
+Girl: He blinked again!
+Boy: What if he's a zombie?!
+Girl: Aaaaaaa!
+Boy: Zombie! Run!
+Crane: Sh*t... my head...
+
+Guard: You sleep for three days like a dead man, then scare children? Off to a
+great start, 31.
+Crane: Where am I?
+Guard: In paradise, can't you see?
+Guard: Okay, enough joking around. Head to room 190. The boss'll brief you.
+Crane: What do you mean, "31"?
+Guard: Ask the boss!
+
+Aman: And you are...?
+Crane: Crane. Uh... 31.
+Aman: Oh. Right. How's your head?
+Crane: My head?
+Aman: Got it. Listen up: until the boss says so, you are not on the list. So go
+talk to him ASAP, and let's get things moving. Now, if you'll excuse me.
+
+Crane: Hey, I'm looking for... are you the boss?
+Rahim: What, am I too young? You got a problem with my age?
+Crane: No, I... you wanted to talk to me.
+Rahim: That's better. Do you remember anything? Know where you are?
+Crane: (Yeah, yeah.) I can see this is... some kind of shelter?
+Rahim: We call it "The Tower". Brecken and his runners put it all together a
+couple of months ago, and we've been here ever since.
+Rahim: Hunting air drops, scavenging... and rescuing people.
+Crane: Yeah... I wanted to thank that girl...
+Rahim: Good. Because if not for her, you'd already be chewing somebody's knee
+bone. Your Antizin was totally crushed, by the way.
+Rahim: Only thing Jade could salvage was your radio.
+Crane: Great... so can I get that back, please?
+Rahim: Actually, I think I need it more than you do.
+Crane: Believe me, pal, that's not the case.
+Rahim: Fine. Take it.
+Rahim: You know why runners put their lives in danger? For guys like you.
+Rahim: So now you take the Antizin meant for someone else, and you won't even
+share your gear with us?
+Rahim: I don't have time to deal with your bullsh*t.
+Rahim: I've lost contact with one of our guys, thanks to the f*ck*d-up radios
+we're stuck with.
+Rahim: Do something for me, would you? I don't want to see you or your precious
+radio anymore, so go be useful somewhere else.
+Rahim: We don't tolerate lazy *ssholes here in the Tower.
+Crane: Hey. Be fair. I'm not lazy, I'm just...
+Crane: Hey, Boss...
+Rahim: Save it. That lost guy I mentioned? He's only on the 13th floor, but he
+might as well be trapped in a mine cave-in. Come back later.
+Rahim: And I'm not the boss. Too young, remember? I'm Rahim. Brecken's in
+charge here.
+Timur: Where do you think you're going?
+Rahim: The 13th floor. I'm getting some stuff for Rahim.
+Timur: 13... ? Sh*t. That's gonna be some dirty work. But we all gotta pull our
+weight around here, huh?
+
+----------
+13th floor
+----------
+Crane: Jesus... how many people died here... ?
+Crane: Crane here.
+GRE: Where were you? We've been waiting for your report. It's been over 70
+hours.
+Crane: Lost my radio for a while. Don't worry, my cover's intact. No contact
+with the Tower's leader yet. Unable to confirm identity. I'm taking steps to
+blend in.
+GRE: Acknowledged. Time is of the essence, Crane. Remember that.
+Crane: There's one more thing. I... got bitten. I've shown no symptoms, but the
+people here say I'm infected.
+GRE: ...Then you'd better get your hands on some Antizin ASAP, hadn't you?
+Survivor: Help! HELP! Somebody!
+Crane: What the hell?
+
+------------------
+Helping a survivor
+------------------
+Crane: Jesus... You all right, man?
+Mark: I cut my arm... getting away from him... Oh, God... you had to kill him,
+didn't you? God damn it...
+Mark: That was... that was my brother... I came down to see him and...
+Crane: Easy. Easy. It's all right now... I'll get help.
+Crane: Rahim, this is Crane. I'm down here on 13. Listen, this guy of yours got
+f*ck*d up pretty bad getting away from a zombie.
+Rahim: Oh sh*t... 31?! You went after Mark? Is it... is it safe down there?
+Crane: It's safe enough now.
+Rahim: Okay, don't move! I'm sending Lena downstairs.
+Crane: Hold still. Lena will be here any minute.
+Mark: Gauze... You gotta find some gauze... And alcohol.
+Mark: Combine them... That'll stop the bleeding... Please... hurry!
+Crane: Try to stay calm, OK? I'll be right back.
+
+Crane: Okay, I think that's everything I'm going to find. Let's give this a
+shot.
+Lena: Okay, who's hurt?
+Crane: He's bleeding pretty bad.
+Lena: Let me see him... Gauze and alcohol, huh? Pretty primitive, but it'll
+work.
+Lena: Thanks for the help, I'll take care of him from here.
+Timur: Well done, 31.
+Rahim: Hey, 31! Not bad for a new guy. Perhaps I misjudged you.
+Crane: Hey, I just want to help out and repay you guys for what you did for me.
+Rahim: Well, good. Come find me and we'll talk about how you can do that.
+
+-------------------
+At Brecken's office
+-------------------
+Crane: All right-taken care of. Piece of cake. What else you got for me?
+Rahim: Well... Let me think.
+Jade: Rahim, you are just smart enough to be dangerous, you know that? Omar
+told me about your plans for the nest. Explosive charges? REALLY?
+Rahim: What? Explosives? I never said that!
+Jade: Oh, please. You can't tell a convincing lie to save your life.
+Rahim: I know what I'm doing!
+Jade: Yeah? You think you can't die?
+Rahim: You're not my mom!
+Jade: No. I'm not. Our mom's dead. So you might want to be a little nicer to me
+since I'm the only family you have left... especially now that Amir's gone.
+Crane: You're Jade, right?
+Jade: Right...
+Crane: I just wanted to thank you for what you did for me... and tell you how
+sorry I am for your loss. I owe you and Amir my life.
+Jade: Yeah, you do. You want to return the favor? Keep my dipsh*t brother from
+killing himself!
+Jade: NO EXPLOSIVES, Rahim.
+Rahim: So...
+Crane: So. Was that enough? Do I get to talk to Brecken now?
+Rahim: First, go change your clothes. I left some new ones in your room. You're
+in 194.
+Crane: Something wrong with what I'm wearing?
+Rahim: You need something that fits the job Brecken wants you to do. Call me
+when you've changed.
+
+--------------------
+After changing gears
+--------------------
+Crane: Okay, Rahim, I'm ready. Where do I find Brecken?
+Rahim: Not so fast, 31. If you're gonna earn your keep, we have to find out if
+you've got the skills. So get your ass up to the gym.
+Crane: Gym? What're you talking about?
+Rahim: It's on the top floor... just a couple flights up.
+
+--------------
+At the rooftop
+--------------
+Crane: Rahim? I don't see you. Where are you?
+Rahim: Close.
+Rahim: You ought to feel right at home - a Crane on a crane!
+Crane: Jesus, Mary and Joseph... I should be wearing a parachute for this...
+
+Rahim: Welcome to our gym. First things first: you've got to learn how to run.
+Crane: What do you mean, "learn how to run"?
+Rahim: Just do what I say, all right? Now. Jump down to the very bottom.
+Crane: Are you nuts? I'd kill myself!
+Rahim: Don't be a wimp.
+Crane: Come on! You can't be serious!
+Rahim: Watch this.
+(Rahim: Woohoo! Hoo!)
+Rahim: Aaagh! AAAHH! My LEG!
+Crane: Rahim! Jesus! Don't move, I'll get help!
+Rahim: (Haha!) I was just f*ck*ng with you.
+Crane: Son of a B*TCH.
+Rahim: What, you can't take a joke? Come on! Get your ass down here!
+Crane: Christ on a crutch...
+Crane: Holy sh*t. Holy SH*T!
+Rahim: It's a rush, isn't it? But don't blow your load just yet. There's more.
+Rahim: To survive outside you gotta take advantage of the terrain. Most eaters
+suck at climbing, so the harder the terrain is, the better for you.
+Rahim: I've got some typical situation set up for you. Let's see how you handle
+them.
+Rahim: Sometimes it's better to crawl through the low, narrow passages.
+Eaters'll have a tough time following you.
+Rahim: Try not to slow down once you start running. Outside, if you stop -
+you're probably dead.
+Rahim: Not bad... for a noob!
+Rahim: All right, get up on that scaffold. And don't fall, 'cause there sure as
+hell ain't no net.
+Rahim: That's my favorite: cat grab and muscle-up. You won't survive outside
+for ten minutes if you can't do that.
+Rahim: Good job!
+Rahim: OK, time for the real test! Get back to the crane - make use of anything
+and everything while you run!
+Rahim: Ok, that's enough. You've got some serious natural talent, man. Either
+that, or you've done this before. You done this before?
+Crane: Hardly. Closest I ever came to this was running track in high school.
+Rahim: Well then you're a f*ck*ng prodigy. Never seen anything like it.
+
+(Crane: What's happening to me!? Sh*t! Sh*t!)
+Rahim: Crane?
+Rahim: Crane! Talk to me! What's going on?
+Crane: Something... went wrong... Rahim, what just happened to me?
+Rahim: Oh, sh*t... I bet you're having your first seizure, Just get back over
+here.
+Crane: Rahim, what the f*ck was that?! Does this mean I'm... turning?
+Rahim: Most likely no. At least not yet. Seizures remind you that you're
+infected. You better go see Dr. Zere, though. He'll check you out, probably
+give you a shot of Antizin.
+Rahim: Before you head out to see Zere, talk to the quartermaster. He'll gear
+you up so you can go outside without getting your head bitten off.
+
+-------------
+Quartermaster
+-------------
+Quartermaster: Ohhh, you're the new scout? Rahim radioed me about you.
+Crane: (Yeah.) That's me. Name's Crane.
+Quartermaster: I'm not gonna bother learning your name till you've survived a
+few days. But here, this is for you.
+Quartermaster: By the way... Word around the Tower is you're just another
+deadbeat in line for food or Antizin.
+Quartermaster: By which I mean, the people here don't much like you. But don't
+blame them. It's easy to get paranoid when you're isolated...
+Quartermaster: ...and since somebody's jamming communications to the outside,
+there's plenty of paranoia to go around.
+Quartermaster: Whole d*mn city with nobody to call for help but ourselves.
+Quartermaster: You bring me some supplies from the air drops though, and you'll
+see people change their tunes in a hurry. That sh*t's a game-changer.
+Crane: Thanks. I'll bear that in mind. Is there anything else? I'm in a bit of
+a rush...
+Quartermaster: Also, if you're looking to get more popular, you can try helping
+folks. Do a few favors, they might like you more.
+Quartermaster: Might even find a woman, keep you warm at night. Hahahaha!
+Guard: Going outside, huh?
+Guard: Okay, new guy. Be careful out there. We've lost too many already.
+Rahim: Okay, newb, we've got Dr. Zere set up in a semi trailer on a fenced-in
+playing court.
+Rahim: When you leave the Tower, hang a left and head due south. You can't miss
+it.
+Rahim: It's Crane, kid.
+Rahim: All right, all right, CRANE, just keep moving. There's no time to take
+in the sights.
+Rahim: And try not to make too much noise. Sound attracts those f*ck*rs.
+
+--------
+Dr. Zere
+--------
+Crane: Doctor? Hello? Anybody there?
+Zere: Camden? Are you there? Camden! ... Dammit.
+Crane: Uh... so, I'm supposed to get a vaccine...
+Zere: What? No, no. Suppressant. It's called Antizin. Suppresses the symptoms.
+Here, sit.
+Zere: Antizin postpones the inevitable. Best the GRE could do.
+Crane: Inevitable? So... there's no cure?
+Zere: It's a variation of rabies. There's no cure right now, but you see, I've
+been running tests on both Antizin and infected tissue.
+Zere: A cure is... possible. Definitely possible.
+Crane: No sh*t? You really think you can figure it out?
+Zere: With Dr. Camden's help, yes, I think so. Uh. Now where did I put that
+injector... ?
+Crane: Who's Dr. Camden?
+Zere: A colleague. Trapped in Sector 0 - where the outbreak first... well,
+broke out. We've been collaborating via radio.
+Zere: Though we would have made more progress if the connection were better.
+Zere: Also if my earlier experiments had borne fruit. I tried injecting
+recombined versions of the virus into chunks of meat and leaving them around
+the city.
+Zere: Hoping some of the infected would eat them, so I could observe and
+document the results...
+Crane: But they didn't?
+Zere: It bore no fruit. I'm ashamed that I wasted so much time on it. No reason
+to hold any Antizin in reserve now, in any case...
+Zere: All right! I'm quite busy1 So on your way, now!
+Zere: What was I doing?
+Crane: Rahim - Zere checked me out, and gave me another shot.
+Rahim: Okay, great. That ought to hold you for a while. Which is good, 'cause
+I'm starting to get used to the idea of bossing you around.
+Rahim: So! Time for a real trial! Go talk to Spike. You'll find him near Zere's
+truck. He's got your first real job for you.
+
+++++++++++++++++++++++++++
+- First Assignment [STO-2]
+++++++++++++++++++++++++++
+
+Crane: Spike? I'm Crane.
+Spike: Just what I need. More unskilled labor. All right, shut up and pay
+attention: there are two types of airdrops. One has food, first aid supplies,
+survival gear and such.
+Spike: The other kind is filled with Antizin. The GRE sends in a one-way video
+feed that lets us know when they're on the way.
+Spike: Look, the trouble is, the airdrops with Antizin keeps getting raided by
+Rais's thugs. And without Antizin we are basically screwed.
+Spike: Rais and his boys only operate during the day, because going out after
+dark is a dandy way to get killed.
+Spike: But the next two Antizin drops are coming down right at sunset tonight,
+and Brecken means to go after them. This may be our only chance to reach the
+airdrop.
+Crane: What's my part here?
+Spike: Well, as I said, going out at night is basically suicide... or it would
+be, if I hadn't been setting up safe zones and traps out there for weeks now.
+Which I have.
+Spike: Brecken and his team will be okay tonight-so long as you get out there
+now and arm those traps. THAT'S your part.
+Crane: All right, what are these traps, and how do I arm them?
+Spike: You'll see. I'll be talking you through it. Just remember... without
+these traps, Brecken won't survive the night. And if he doesn't come back with
+Antizin, we are lost.
+Spike: Before you head out there, grab some firecrackers. Made them myself.
+They make a fine distraction if you get in trouble.
+
+Spike: OK, first - the car. Open the hood and connect the battery. That'll arm
+the trap.
+Jade: Jade here. Is anyone outside right now? Urgent help needed.
+Crane: Uhm... I'm outside. Working for Spike...
+Jade: You're Crane, right? Listen... Our runners's trying to secure one of our
+safe houses for Brecken's mission.
+Jade: He's in a courtyard by Vefa and Mirmar, surrounded by zombies. We gotta
+help him!
+Crane: All right, I'm on it...
+
+------
+Virals
+------
+Crane: Okay Jade, I'm here... along with some Infected.
+Jade: Watch yourself, Crane!
+Crane: Oh, man... I think it's too late for this guy.
+Jade: Sh*t. All right. Finish it. Just... don't let him suffer.
+Crane: Okay. It's done. F*CK.
+Jade: You had no choice. He wasn't human anymore. Now, hurry.
+Jade: You still need to turn on the lights. That's the only way to make the
+place safe at night.
+Crane: Ah, sh*t.
+Jade: How's it coming? Got the lights on?
+Crane: Um. Almost. Just give me a second.
+Crane: Crane here.
+GRE: Report.
+Crane: Okay, I met this doctor. A scientist type. They've got him set up in a
+sort of research trailer, and he's working on a cure for the virus. His name is
+Zere.
+Crane: Hello? Do you copy?
+GRE: Affirmative. Secondary objective added. Maintain your cover, and secure
+all of his research. Acknowledge.
+Crane: Your stolen file still takes top priority, though, right?
+GRE: Affirmative. We find it unlikely that a single researcher working out of a
+"trailer" could produce any significant results. But if he does, we want to see
+it.
+Crane: Jade? It's done.
+Jade: Good. We'll need to prepare more places like that one.
+Jade: We've got more spots picked out for future safe zones. Spike will mark
+them on your map later.
+Jade: And... Crane? Thank you... Back to you, Spike!
+Spike: Right now you need to get back to our main task and arm the next trap.
+There's another car close by.
+Crane: Got it.
+
+Crane: The infected're all over the street.
+Spike: So what does that tell you? Keep off the street! Try to stay on the
+rooftops where they can't reach you.
+Crane: They're all around the car, Spike.
+Spike: You still have some firecrackers, don't you? Just throw some into the
+crowd. Those dead b*st*rds are easily distracted.
+Crane: All done with the car, Spike.
+Spike: Keep on like that and you might just make it. The next trap's close by.
+Spike: And I shouldn't have to tell you, but: don't get caught out in the open!
+Crane: Spike, these freaks are everywhere. If I need to use a trap, how do I
+activate it?
+Spike: You can't. I told you, they're only for the night mission.
+Crane: Sh*t. Okay.
+
+Crane: Quite a contraption you got here.
+Spike: Three times brighter than an ordinary street lamp. Gives the infected
+quite the sunburn.
+Crane: Okay, lights are all set.
+Spike: You're ready for the next one, then. Better hurry.
+Rahim: Hey, Crane, guess what? I'm up on a balcony, and I got eyes on you from
+here. Looks like you're doing okay. For a newbie.
+Crane: Gee, thanks.
+Rahim: Just try and get back here in one piece, all right? I don't wanna have
+to train somebody to replace you.
+
+------------------------------
+Turning on the last light trap
+------------------------------
+Crane: F*ck. Spike, the whole godd*mn district went down. What the hell's going
+on?!
+Spike: Ugh... not again... All right, listen. There's a power substation near
+you. Go check it out.
+Spike: Hey-this blackout has really put us in a tight spot.
+Spike: We're defenseless here, plus the safe zones and some of my traps are
+down, too.
+Spike: We need to get the power up and running ASAP.
+Crane: I'm going as fast as I can, Spike.
+
+Crane: F*ck! What is this... ?!
+Crane: All right, I've got the substation reset. But if the grid shorted out
+once, you know it could happen again, right?
+Spike: You leave the electrical engineering to me, okay? Just get your ass to a
+safe zone. You're gonna have to spend the night there.
+
+--------------
+At a safe zone
+--------------
+Crane: Oh sh*t-
+Crane: What the f*ck is that?
+Crane: Hey-Doc? This is Kyle Crane.
+Zere: Crane? What can I do for you?
+Crane: I just saw this freaking weird zombie covered in big green blisters. It
+hauled ass as soon as it spotted me. Do you know anything about it?
+Zere: Hmm. Not enough information, I'm afraid. But if you see another one, do
+let me know, will you?
+
+Spike: Crane, you awake?
+Crane: Spike? What's going on?
+Spike: Something bad happened. We need to talk.
+Crane: Okay, give me a sec.
+
+-----
+Spike
+-----
+Crane: Spike - what's up?
+Spike: Crane, first of all... you did great out there!
+Spike: From now on, if you need something, come see me. And to start with...
+Spike: Here's a UV flashlight and a remote control. You run up on a volatile,
+give him a face full of UV-or lead him into a trap, which you (can) trigger
+with the remote. Got it?
+Crane: Got it.
+Spike: Perfect. Now for the bad news: despite your efforts, Brecken's mission
+failed.
+Crane: Sh*t... is he okay?
+Spike: He's alive. But you need to get back to the Tower. Jade called all the
+Scouts in, and that means you.
+Crane: Okay. Wonder if I'll finally get to meet Brecken in person?
+
+Crane: Crane here.
+GRE: Report.
+Crane: I'm about to have a meeting with the Tower's leader.
+GRE: Acknowledged. Confirm his identity and contact us immediately.
+
+-------
+Brecken
+-------
+Jade: Crane.
+Jade: Listen: Brecken and a team of runners went after an air drop last night.
+Jade: He lost the rest of the team to biters, and then Rais's men ambushed him,
+beat him to a pulp, and stole the drop.
+Jade: Now Brecken wants to go after the next drop himself, but we can't let
+him. And you've got to back me up. Ok?
+Lena: For God's sake, you can't even walk straight! We need you alive, you
+idiot!
+Jade: Okay, we're going in. Act confident.
+Jade: Brecken. Lena.
+Lena: Maybe you can get through to him!
+Jade: Jade. Who's your friend?
+Crane: Kyle Crane.
+Jade: Look, Brecken, the last thing we need is for you to go back out there. We
+can figure out another way. Without jeopardizing you. Right, Crane?
+Crane: I'll go. I'll do it.
+Jade: Right! Yes! Crane will go. He'll be happy to.
+Brecken: Jesus. No offense, friend, but you're as green as grass. You can't
+just-
+Jade: Crane will manage. He'll start in the right spot. And Lena's right: you
+need to be here, taking care of the Tower.
+Jade: Convincing them the world's not over yet.
+Brecken: Ah, hell. Maybe... one more try before we go to Rais. Yeah... okay.
+Fine.
+Brecken: Good luck... Crane.
+Brecken: Jade. A moment?
+(Jade: Sure.)
+Jade: Head for the Cauldron. I'll be in touch shortly.
+Lena: Look, there's something else we need to discuss. Brecken was hurt pretty
+badly out there. Worse than he wants people to know.
+Lena: He took a blow to the head. Now he's starting to have seizures, and I
+don't have any Loratrax.
+Crane: I doubt anyone does. Anti-seizure drugs were being passed out like candy
+when the infection first started. The stores ran out weeks ago.
+Lena: Yes, that's right. How'd you know that?
+Crane: What do you need me to do, Lena?
+Lena: There's a man in town named Gazi. He's not all together there, if you
+know what I mean.
+Lena: His mother had epilepsy, so he used to pick up medicine for her each
+month.
+Lena: She died two years ago, but Gazi kept going to the store to pick up her
+prescription.
+Lena: He likes his routine, and Gazi can be very... Insistent. So they kept
+giving it to him.
+Crane: You think he's been stockpiling it all this time?
+Lena: If he hasn't I don't know where else we're going to get it from.
+Lena: Gazi lives under the overpass.
+Lena: And don't mention his mother's death. He won't understand.
+
++++++++++++++++++
+- Airdrop [STO-3]
++++++++++++++++++
+
+*NOTE: This is a side quest. I felt the need to put it since Lena mentioned
+about Gazi on the previous story quest.
+
+Crane: Gazi? Are you there?
+Gazi: If Mama ain't happy, nobody happy! So you'd better make Mama happy!
+Crane: Gazi?
+Gazi: Me too. We have the same name. Are you from the video store?
+Crane: No, my name's Crane.
+Gazi: Crane? Crane rhymes with train, and brain, and sane, and grain, and rain,
+and plain, and the other kind of plane, and-
+Crane: (Look.) Can I come in?
+Gazi: No! It's impossible! Impossible! This is my special day with Mom.
+Gazi: It's Mother's Day, and it's the most important day in the whole world.
+Are you from the video store?
+Crane: Why do you keep asking me that?
+Gazi: Because you're supposed to bring my movie about me. It's called "Charly",
+and it's all about me, and how smart I am.
+Crane: Look, Gazi, if I bring you your movie, will you let me come in?
+Gazi: Sure. You could watch with us. It's Mother's Day, and if Mama ain't
+happy, nobody happy.
+Gazi: Oh! And she also wants chocolate! Mama wants chocolate!
+Crane: (No, no no.) Wait a minute. That's too much.
+Gazi: Don't argue with Gazi. It doesn't work. That's what the drug store people
+say.
+
+Crane: Son of a b*tch, not now!
+Crane: Charly, Charly... C for Charly...
+Crane: Gotcha.
+
+Gazi: Yes?
+Crane: Here's your movie and your chocolates.
+Gazi: Wait 'till mom see this! Gazi wins again! Hurray for Gazi!
+Crane: Right.
+Crane: Okay then, I'll just let myself in through the roof.
+Crane: Hello, Gazi.
+Gazi: Shhh! The movie is on. Mama's watching.
+
+---------
+The Tower
+---------
+Crane: I've got your anti-seizure medicine.
+Lena: Thanks. How'd things go with Gazi?
+Crane: He may be challenged, but he's very good at getting what he wants.
+Lena: Did you meet his Mom?
+Crane: Yeah, she seemed happy.
+Lena: If Mama ain't happy, ain't nobody happy.
+Lena: Speaking of which, Brecken asked me to pass this on to you, with his
+thanks.
+
+Crane: Crane here.
+GRE: Report.
+Crane: The Tower boss is named Brecken, and he's definitely not your man.
+Crane: The other likely suspect is this... warlord, basically. Local guy, calls
+himself Rais.
+Crane: He's hoarding Antizin and then gouging the hell out of anybody who wants
+to buy some.
+Crane: I'm on a mission to get Antizin from the air drop. If I don't succeed,
+they'll have to come up with something else.
+GRE: Acknowledged. Good job, Crane. You're doing well. Stay on task and we'll
+be in touch.
+GRE: Be sure to call us immediately if and when you get that Antizin.
+
+Jade: Crane. Three-quarters of all airdrops fall in the Cauldron.
+Jade: So if you start from there, you'll have the best chance of getting to
+that drop before Rais's men do.
+Crane: On my way.
+Crane: Jade, I'm getting close to the drop zone.
+Jade: Good. Find some shelter and wait. Most of the drops seem to fall exactly
+in that area.
+Crane: And there's a crate. It looks intact. I'll check out what's inside...
+Crane: Dammit. Nothing here.
+Jade: Did you see that?
+Crane: Yeah, two drops.
+Jade: They landed elsewhere unfortunately, but you're not that far away. Get to
+those crates before anyone else does!
+
+Crane: Sh*t... too late.
+Crane: Jade, Rais's men got here first.
+Jade: F*ck! Okay, don't try to fight them. Just find the second one. Look for
+the smoke from the flare! The crate should be close by.
+Jade: Crane, it's too close to sunset. You need to turn back. (Now!)
+Crane: Jade, I'm almost there. I can do this.
+
+Crane: Crane here. I'm about to recover an Antizin drop.
+GRE: Good, Crane. This offers us a new strategy. Time to turn your attention to
+Rais. Listen closely.
+GRE: It's very possible that Rais is our man. So if you find an airdrop
+containing Antizin, destroy it.
+Crane: What?? Why?
+GRE: It will force interaction with Rais. You can go under Brecken's auspices.
+As an ambassador, if you will.
+Crane: But-there are civilians depending on this stuff...
+GRE: Our plan is focused on the greater good. Remember that.
+Crane: Jade, I'm at the airdrop. There's no Antizin here.
+Jade: NONE? F*ck... F*CK. All right, get back here. And be careful... the
+nightmares are awake. Don't let them see you.
+Crane: Oh Sh*t, must've heard me...
+
+---------
+The Tower
+---------
+Runner: Brecken, come on... I mean, we need Antizin, I know, but buying from
+Rais? You can't be serious...
+Jade: For God's sake, I'll go. I'm not scared.
+Brecken: Absolutely not. We've discussed that already.
+Jade: We didn't discuss it. You just decided that I-
+Crane: I'll go.
+Jade: Are you serious?
+Crane: Well... this Rais guy has never seen my face before. Clean slate. Right?
+Brecken: Could you guys give Crane and me the room, please?
+Brecken: You sure you're up for this?
+Crane: Has to be done, doesn't it?
+Brecken: Well, I'm not gonna argue. Rais's place is over here. Just... find out
+what this'll cost us, and come back in one piece.
+
+++++++++++++++++++++++++
+- Pact with Rais [STO-4]
+++++++++++++++++++++++++
+
+Jade: Crane. Can you hear me?
+Crane: Jade? Yeah, I copy. Something wrong?
+Jade: No, no... it's... Listen, Crane... We all appreciate what you're doing.
+Jade: And I know you're doing it to redeem yourself... because Amir died saving
+your life...
+Crane: Look I'm doing it because if we don't get Antizin from Rais, people will
+start to die...
+Jade: (You know) I met Amir right after the outbreak. I didn't know him for
+long, but... he was the best, most decent man I've ever known.
+Jade: But I just want you to know that I don't blame you. Amir knew the risk.
+Jade: And Crane... We know that you too are taking a risk to do this for us.
+Crane: I... Look, Jade... we'll talk when I get back with the Antizin, okay?
+Jade: Okay. Just... just come back in one piece, alright?
+
+--------------
+Rais' Garrison
+--------------
+Crane: Okay, Rahim, I'm here.
+Rahim: Make sure they see you and know who you are. You don't want to sneak up
+on them. That's a good way to catch a bullet.
+Crane: Wish me luck, kid.
+Rahim: Good luck, brother. You're going to need it.
+Crane: Don't shoot! (Don't shoot!)
+Guard: Hands up! What do you want, motherf*ck*r?
+Crane: I'm here to see Rais. Brecken sent me.
+Guard: Brecken? That *sshole in the Tower? All right, what does HE want?
+Crane: I've come to make a deal.
+Guard: What kinda deal?
+Crane: The kind I make with Rais. Not with his flunkies.
+Guard: ... All right. Let him through. This oughta be entertaining.
+
+Rais: How long have we been friends, Osman?
+Rais: We have been friends for a very long time. That is why I am so surprised
+that you would steal from me.
+Tahir: Haven't I seen you somewhere before?
+Rais: Now I give you a choice. Very simple. Your right hand? Or your left?
+Osman: L-L-L-Left! ...
+Rais: Hmmm... was that MY left, or YOUR left?
+Rais: You have the look of the Tower about you. What do you want?
+Crane: I'm here to make a deal.
+Rais: A deal... for Antizin, no doubt. Desperate times.
+Rais: And what do you offer in return? Your services? Your loyalty? ... Perhaps
+I shall take both.
+Tahir: Talk to Karim. He's one of ours. Do what he asks of you, and Rais will
+consider giving your people some Antizin. Understood?
+Crane: I don't seem to have a choice.
+Rais: Perceptive.
+
+Karim: There you are. Rais said you'd be coming by. I'm Karim.
+Crane: Crane.
+Karim: An American. I have an uncle there. Lives in Texas. You from Texas? You
+a cowboy?
+Crane: I'm from Chicago.
+Karim: Okay, Al Capone, we'll be in constant contact over the radio. That way I
+can make sure you get where you need to go.
+Crane: And where's that exactly?
+Karim: You're going to be climbing antenna towers and switching on shortwave
+radio modulators.
+Karim: Most of my men are too slow, too fat, or too drunk to climb a tower like
+that without killing themselves.
+Crane: And if I do this, I'll get the Antizin?
+Karim: That's between you and Rais. I know better than to speak for him. Just
+don't fail. He doesn't handle disappointment very well.
+
+Crane: Crane.
+GRE: Report.
+Crane: Just met Rais. There's no question: that's Suleiman. Guy's a psychopath.
+He's gone from ruthless politician to f*ck*ng warlord.
+GRE: Is he aware of your affliation with us?
+Crane: No. He think I'm just a guy from the Tower. In fact he's making me jump
+through hoops before he'll give me any Antizin.
+GRE: Acknowledged. Continue to do as he asks. Remember, we need that file.
+Crane: Great. Crane out.
+
+-----------
+1st antenna
+-----------
+Karim: Hey, Al Capone, you ready to do this?
+Crane: What exactly am I doing?
+Karim: Radio communication has been pretty spotty in the quarantine.
+Karim: These modulators will help boost the signal so Rais can communicate with
+outposts at the far reaches of town.
+Crane: That's a benefit for everyone-not just Rais.
+Karim: Perhaps. But the emperor must monitor his empire.
+Crane: Karim? I'm at the first antenna.
+Karim: If the power's not on, you'll have to turn it on. There will be a switch
+in the small building at the antenna's base.
+
+Crane: What the WHAT THE HELL-!
+Karim: Crane! Why are you shouting?
+Crane: I'm shouting because this f*ck*d-up infected motherf*ck*r with guts
+hanging out his mouth just spit a bunch of toxic snot at me!
+Karim: ... Not a bad reason.
+
+Crane: Oh, sh*t, Karim, someone already scavenged this thing for parts. There's
+nothing up here to switch on.
+Karim: F*ck... I was afraid of that. All right, head to the next antenna tower.
+It's not too far from there.
+Karim: Just use the zipline and head east. You'll see it.
+
+-----------
+2nd antenna
+-----------
+Crane: (Hey,) Karim, what do I do if the second transmitter is trashed?
+Karim: The better question is, what will you do if you disappoint Rais? And the
+answer is probably, "Die horribly".
+
+Crane: Karim, I'm at the second antenna tower, and the fence is electrified. I
+think someone's inside.
+Karim: That will be Alexei. And perhaps his son, Kristov. I find them tiresome.
+Karim: Don't let them stand in your way. You've got to get inside and turn on
+that transmitter.
+Alexei: What the f*ck do you want?
+Crane: I need to climb the tower.
+Alexei: Why the hell would you want to do that?
+Crane: For Rais. He asked me to.
+Alexei: Rais? (Hah!) You don't look like one of his crew.
+Crane: Fine, I'll just radio back and tell Rais that you wouldn't let me
+through.
+Alexei: What? F*ck! No, I didn't say that! You want to climb? Fine. Go. Go.
+(Kristov: I won't do this anymore!)
+(Alexei: You better keep your voice down!)
+(Kristov: I don't care who hears me!)
+(Alexei: Kristov, what's wrong with you? We're trying to stay alive here.)
+(Kristov: These guys are killers!)
+(Alexei: Yes, they're murderers. That's why we stay safe.)
+
+Crane: I sure hope this f*ck*ng climb was worth it.
+Crane: And this thing's still intact. Let's see if it was worth the hassle...
+Crane: Hey Karim, the second transmitter is up and running. Is it working?
+Karim, do you hear me?
+Karim: Loud and clear. Nice job. You know the way back, right?
+Crane: Right.
+
+Rahim: It was you, wasn't it?!
+Crane: Rahim?
+Rahim: The antennas! Brecken told me. Communication is crystal clear now!
+Crane: Yeah, that was me. And now I'm on my way to see Rais again.
+Rahim: And get the Antizin?
+Crane: That's the deal.
+Rahim: Good job, man. This helps everybody, but especially Dr. Zere and Dr.
+Camden.
+Rahim: They can hear each other without static for the first time since...
+well, ever.
+Rahim: See you back at the Tower!
+Crane: I'll be there as soon as I can.
+Spike: Hey! Crane! If you've got a second, I want to patch you through to
+somebody who really wants to talk to you.
+Crane: Huh? Who?
+Troy: Is this Kyle Crane?
+Crane: ... Who wants to know?
+Troy: My name is Troy. I lead a small group of survivors over in Sector 0. We
+call ourselves the Embers.
+Troy: Sector 0 is completely sealed off, Mr. Crane, until you restored radio
+communication, we didn't know if anyone else in the city was still alive.
+Troy: I just wanted to let you know how grateful we are. You've given us a
+small measure of hope.
+Crane: Uh... well... I'm happy to help.
+Troy: If there's ever any way we can help YOU, Mr. Crane, please don't hesitate
+to ask.
+
+--------------
+Rais' Garrison
+--------------
+Rais: Well! You not only did the job Karim asked of you, but you made it back
+in one piece. Bravo.
+Crane: Can I get some Antizin now?
+Rais: Did you think I would be satisfied so easily? You still have plenty to
+prove.
+Crane: Look... we really need the drugs. Let me have them now, and then I'll
+come back and do whatever.
+Rais: You'll get Antizin when I SAY you get it. Not one second before.
+Rais: But as I have established, I am not unreasonable. Do all that I ask of
+you, and I will give you not one... but two crates of Antizin.
+Crane: All right. Fine. What do you want me to do?
+Rais: This will be a bit different from your exploits on the antennas. It will
+require a bit more... persuasion.
+Rais: The imposing of one's will. The creation of one's own rules. That is what
+makes a man.
+Rais: Do you live by your own rules, Crane? Or are you merely someone else's
+puppet? I believe I know the answer.
+Rais: Talk to Karim, before I decide you are no longer worth the trouble.
+
+Karim: Ah, my friend. Rais likes you, I can tell...
+Crane: (Yeah?) How?
+Karim: Because you are still among the living. The task at hand is as easy as
+can be. You simply have to make a few pickups from some nearby settlements.
+Crane: Which ones?
+Karim: The first is Jaffar's Wheelstation. It's just east of here.
+Karim: But bear in mind, not everyone you talk to today will be in a...
+cooperative state of mind. I'm sure you can be convincing, though, no?
+Crane: I guess I'll have to be.
+
+Crane: Crane here.
+GRE: Report.
+Crane: Another job for Rais. This one's pretty dirty. He's forcing me to
+collect the money he's extorting from a nearby village.
+GRE: Just do what he asks and stay close to him. Remember what's at stake.
+Crane: Yeah... Crane out.
+
+---------------------
+Jaffar's Wheelstation
+---------------------
+Crane: Karim? I'm by the Wheelstation.
+Karim: Took you long enough. Get the job done, and make it fast. This is just
+the first stop.
+Crane: You Jaffar?
+Jaffar: Who wants to know?
+Crane: My name isn't important. What's important is that Rais sent me. And that
+you owe him some money.
+Jaffar: I've never seen you before. For all I know you're just some random
+*sshole. F*ck off.
+Crane: Tell you what. How about I break both your legs and drag you through the
+streets back to Rais's place, huh? Then he can explain to you that you
+should've cooperated.
+Jaffar: Okay, okay, Jesus! You ARE one of Rais's thugs. You guys are the only
+ones who'd act this sh*tty.
+Jaffar: Here, here's your money, take it.
+Crane: And if I have to come back here...
+Jaffar: You won't get any more attitude! Mi casa, su casa. Just don't hurt me,
+all right?
+Crane: Karim, it's me. (So) I just threatened to break an old man's legs.
+Karim: And it worked, didn't it? Next you collect the tribute from the
+Fishermen's Village.
+Karim: Head east, to the tunnel entrance. Their messenger always meets us
+there.
+
+Brecken: Crane. How you doing, mate?
+Crane: I'm... running errands for Rais. He wields a lot of power. Scares a lot
+of people.
+Brecken: D*mn right, he does.
+Brecken: Listen, mate, time's getting short. We're almost out of Antizin, and
+much as I hate to admit it, I'm getting worried.
+Crane: I'm doing the best I can out here, Brecken.
+Brecken: I know. I know. I understand. I just want you to be aware of the
+stakes.
+Crane: I'm infected too, remember? Believe me, I'm motivated.
+Brecken: All right... all right. Here's hoping you can make it back to the
+Tower soon.
+
+Crane: What the f*ck was that?!
+Crane: (Hey!) Karim, I just saw something I've never seen before. This huge,
+bloated Infected just f*ck*ng exploded!
+Karim: Yeah, we call them bombers. Some of our guys use them to kill other
+Infected.
+Karim: Shoot them and they take out everything in a three-meter radius.
+Crane: Are you kidding me?
+Karim: Keep your distance and you'll be fine. But what about the courier? Was
+he there?
+Crane: No, I didn't see anybody, just f*ck*ng zombies.
+Karim: All right. You'll have to go to the village directly, I suppose. Look
+for a man named Gursel.
+
+-------------------
+Fishermen's Village
+-------------------
+Crane: Okay, Karim, I'm outside the village, but there's a whole horde of
+Infected in there.
+Karim: So clear them out. We get paid for protection. Do some protecting.
+Crane: I don't know if I can take out that many by myself.
+Karim: Sure you can. Because if you don't, you'll have to deal with Rais.
+Karim: And you remember what I said about Rais when he's disappointed.
+
+Crane: I gotta get that gate closed before more of those f*ck*rs get inside...
+Fisherman: Ye... Yes? Who-who goes there?
+Crane: I'm here on Rais's behalf. I'm supposed to pick something up.
+Fisherman: Oh my God, that's one of Rais's men! What do I do?!
+Woman: Just tell him to go away. Do it nice and maybe he'll leave us alone.
+Better yet, send him to Gursel - he'll know what to do.
+Fisherman: Please, we don't know anything. Go talk to Gursel, he lives above
+the store.
+
+Fisherman: Yeah?
+Crane: Hey... Rais sent me here to pick something up for him.
+Fisherman: You won't find it here... not here, not in this house.
+Fisherman: Not anywhere around this house! Gursel! Gursel is the one you're
+looking for!
+
+Fisherman: Who is it?
+Crane: Hey, I'm looking for someone in charge here. Rais sent me...
+Fisherman: You want Gursel. Check the big house in the center of the village.
+Fisherman: He lives upstairs. Just be careful around his woman. She's hell on
+wheels.
+Crane: Um... thanks...
+
+Crane: Hey! Anybody in there?!
+Gursel: (Sshh!) Not so loud. You'll draw the monsters.
+Crane: (Look.) I got rid of them. But you better reinforce that gate before
+more show up.
+Gursel: You got rid of them? All of them?
+Crane: Rais sent me. Are you Gursel?
+Gursel: Oh - you work for Rais. Should've known this was too good to be true.
+Ayla: You've taken enough! You can't have any more! Firkin, tell him!
+Gursel: Ayla, please. Just let me talk to the man.
+Ayla: You can't just push us around like this! Firkin's gonna kick your ass! Do
+it, Firkin! Kick his ass!
+Gursel: For God's sake, Ayla!
+Gursel: Look, I don't want any trouble. But we already paid up this month.
+You're gonna bleed us dry.
+Crane: That is ENITRELY not my problem. Rais wants his payment. So you make the
+payment, or things get bad for you... AND your woman.
+Ayla: You can't threaten us! Kick his ass, Firkin!
+Gursel: GIVE ME A BREAK, Ayla! (Alright.) Fine. Here. This is all of it.
+Ayla: Pfffft. A real man would've kicked his ass.
+Crane: I'll leave you to it. Sounds like you have bigger problems than money.
+Crane: Okay, Karim, I got Gursel's money. I f*ck*ng hate myself now, but I
+got the money.
+Karim: The self-hatred fades eventually. Just one pick-up to go, at the ferry
+station on the old pier.
+Crane: There's a ferry?
+Karim: There was until the navy sent it to the bottom of the bay.
+Karim: Dozens of people were stranded there, waiting for another one that never
+came...
+Crane: So there's a settlement there.
+Karim: Head east and you'll find it.
+Crane: Are there any boats left?
+Karim: Yes, but any boat that tries to leave the bay gets blown right out of
+the water.
+
+-----
+Ferry
+-----
+Crane: I'm here to make a pick up for Rais.
+Morgan: Back already? We just paid off you blood suckers...
+Crane: Don't shoot the messenger. I'm just trying to get by like everybody
+else.
+Morgan: Yeah? So are we. Rais said he'd protect us if we paid him, but so far
+all he's done is take our money. There's no "protection". Just threats. You
+any different?
+Crane: Look, all I want to do is get this over with. What's it going to take?
+Do I need to point out how easy it would be to set this entire place on fire?
+Morgan: Jesus Christ. You people are f*ck*ng monsters.
+Morgan: All my money's in that satchel. Take it, and get the f*ck out.
+Crane: For what it's worth... this isn't something I want to do. I'd rather be
+helping you guys.
+Morgan: And yet you're still doing it, aren't you?
+Crane: Okay, Karim, I made the collection at the Ferry Station. And I'm pretty
+sure I'm going to Hell.
+Karim: Join the club. Now, come back ad claim your prize. Good job today.
+
+Brecken: Crane! Crane, do you copy?
+Crane: I copy. What's wrong?
+Brecken: Someone's turned on the 18th floor! We're doing our best to contain
+the situation, but...
+Brecken: I can't sugar-coat this, Crane. We need Antizin right F*CK*NG now.
+Crane: Rais has promised me two crates, Brecken. Two crates. I'm doing this
+sh*t as fast as I can, I swear.
+Brecken: Just... God. Just hurry. Please.
+Karim: Crane. How close are you?
+Crane: I don't know - about halfway back, I guess.
+Karim: Good. I need you to make a quick detour.
+Crane: Why?
+Karim: One of our patrols went off the grid somewhere near the market.
+Crane: How is that my problem?
+Karim: I'm making it your problem. See if you can find them or don't bother
+coming back.
+
+Crane: Karim, I think I found your lost patrol. Something ripped them limb from
+limb.
+Karim: Search the bodies. Look for some blueprints in a small envelope.
+Karim: And don't damage them! They're worth more than all those dead *ssholes
+put together.
+Karim: Did you find the envelope?
+Crane: Not yet. Wait a sec.
+Crane: Holy sh*t!
+Crane: Okay. Got it.
+Karim: Good. Bring it back to me right away. You're going to be a hero around
+here.
+Crane: So, I think it's safe to say Rais isn't the most popular person in town,
+huh?
+Karim: No, but he is the most feared. And you know the old saying? "It is
+better to be feared than loved if one cannot be both".
+Crane: Machiavelli.
+Karim: Correct. Smart fellow, that one.
+
+--------------
+Rais' Garrison
+--------------
+Crane: All right, here are the blueprints.
+Karim: Excellent. You're a lot more dependable than most of these drunks. Rais
+is waiting for you. Maybe we can work together again sometime.
+Crane: God, I hope not.
+
+Rais: If you show them compassion, they will see it as weakness.
+Rais: Give them a hand and they will take your whole arm. Understand? I give
+you shelter, I give you bread, women, bullets... and you cannot even complete a
+simple task.
+Rais: I should send every one of you to the pit.
+Rais: Ah. The Tower lackey returns. Do you have something for me, "friend"?
+Crane: Yes I do.
+Crane: Now it's time for you to give me what you promised. Two crates of
+Antizin.
+Rais: I think not...
+Rais: Your loyalty to the Tower is nothing but blind obedience, Crane. A
+coward's submission to false hierarchies.
+Rais: You follow their rules as thoughtlessly as you follow mine. Like a good
+little dog.
+Crane: Look, we had a deal!
+Rais: Your people need that Antizin. Now more than ever, I would surmise.
+Rais: But any man who follows someone else's rules is no man at all. Here... I
+will allow you this much.
+Crane: You promised me two crates of it. This is only five vials!
+Rais: If you want more... I present you with an opportunity.
+Rais: The athlete. "The Scorpion". Jade Aldemir. She is one of your number...
+Bring her to me.
+Rais: I have an arena, where men fight for our amusement. I would have the
+Scorpion fight for us. I am curious how long it will take for someone of her
+caliber to... break.
+Crane: What? ... no. No! Forget it. I'm not doing it.
+Rais: I hear no true conviction in your voice, Crane. You have not yet made
+your choice, I can tell.
+Rais: Will you be a dog and save the dwellers of the Tower? Or will you be a
+man, and save the maiden?
+Rais: Go. And think about it.
+
+Crane: Crane here.
+GRE: Report.
+Crane: I'm no longer cooperating with Rais. He wanted me to kidnap Jade Aldemir
+and dump her with him, so he can make her fight in his pit.
+GRE: Yes? And? Was that it?
+Crane: What do you mean, "Was that it?" I'm not a f*ck*ng human trafficker!
+GRE: You seem to have forgotten how much is riding on this file, Crane.
+GRE: If Rais wants one girl, then give her to him. You'll be there to keep an
+eye on her, won't you?
+Crane: What the-how can you-what the F*CK kind of humanitarian outfit are you
+guys? And for that matter, if this project file can "save the world", why keep
+it a f*ck*ng secret?
+GRE: We're not paying you to be insubordinate, Crane. GET THIS DONE.
+Crane: Oh, f*ck you, *sshole.
+
+---------
+The Tower
+---------
+Jade: Do you have the Antizin? Give it to me.
+Crane: So what happened?
+Jade: One person turned, and had a couple of other people trapped. We could've
+sealed off that one apartment, but Brecken... wanted to save as many lives as
+possible...
+Jade: It went bad. Somebody had to make the call... Now we've lost the entire
+floor. Including... including a couple of kids.
+Jade: You'd better talk to Brecken. I have to get these meds to Lena.
+
+Brecken: This is where we get the announcements about the Antizin drops. And
+they've just... stopped.
+Brecken: There were KIDS in there. I... I froze. Lena had to step up... Maybe
+she should be in charge.
+Brecken: What the f*ck, Crane, I'm no leader! I'm a g*dd*mn parkour instructor!
+Crane: So-all the free running. That was you? Brecken, you showed these people
+how to survive.
+Brecken: You know what my pockets were full of when I showed up in Harran?
+F*ck*ng business cards.
+Brecken: I was hoping to drum up some more students. Maybe get enough so I
+could save up and buy a house, instead of that poxy little flat I've been
+renting.
+Brecken: Listen... I'm going to go talk to Rais myself.
+Crane: Whoa, whoa, whoa, hang on a minute. Brecken, these people still need
+you. Just give me some time, all right? There's got to be another way. A better
+way.
+Brecken: ... Fine. I'll wait. But not for long.
+
+Crane: Rahim? Rahim - what're you doing up here?
+Rahim: Hey, Crane.
+Rahim: Can I trust you?
+Crane: How much've you had to drink, kid?
+Rahim: Can I or not?
+Crane: .. Yeah. What's up?
+Rahim: See that skyscraper? The scouts found a volatile nest in there. We take
+that out, and then running missions at night? We could totally do that.
+Rahim: So I'm thinking, if we planted some explosives...
+Crane: Oh, Jesus. (Rahim.) You're not still on that?
+Rahim: Crane, we have to do this! As long as that nest is there, we'll never be
+able to gather up enough Antizin! It would WORK...
+Rahim: We make a good team, raaAHH!
+Rahim: Sh*t - sh*t! (Oh my!) Don't drop me don't drop me!
+Rahim: Oh f*ck! See? Told ya we make a good team!
+Crane: Look, Rahim... we don't have any explosives. None. The closest thing to
+what you're talking about are Spike's firecrackers. That's impossible.
+Rahim: You don't know what it's like!
+Rahim: All I can do is watch. Sit on my ass and watch everything happen and do
+nothing.
+Rahim: I don't want to die here, Crane. Not like this. Not... helpless. If I
+go out, I'd rather go out doing something.
+Crane: What's this?
+Rahim: I was set to fly out on Sunday. They quarantined us on Thursday. I
+already had my bags packed.
+Crane: I'll... look, I'll keep my eyes open, okay? If there's some way we could
+make this happen...
+Rahim: Whatever.
+
+Crane: This is Crane. Do you copy?
+GRE: What do you want, Crane?
+Crane: I want you to start the Antizin drops again! At least near the Tower.
+These people need help.
+GRE: We put you in Harran to find our file, not to play Mother Teresa... Or
+does this mean you've reconsidered Rais's proposal?
+GRE: Perhaps Ms. Aldemir would even be willing to cooperate. Test her skills in
+a new environment.
+Crane: You start giving us some Antizin, and then... then we'll talk about what
+Rais wants.
+GRE: Oh, it's "us" now, is it? Well, I'm afraid your request is out of the
+question in any case.
+GRE: Things have gotten a bit... strained with the Ministry. Resuming the
+airdrops would not be politically advantageous at the moment.
+Crane: You *ssholes take the f*ck*ng cake, you know that? You and your f*ck*ng
+"file".
+Crane: I'll locate the file for you. But I'm gonna take a good long look at it
+before I decide what to do about it.
+
+Jade: Crane. This is Jade. Do you copy?
+Crane: Loud and clear. What can I do for you?
+Jade: I don't know how much time we have, so, the short version: I need your
+help.
+Jade: Rais has turned an abandoned school into a supply dump...
+Jade: ... and I think it may be where he's storing his Antizin.
+Jade: If you and I sneak in there, we could get all the meds the Tower needs.
+Are you with me?
+Crane: Yeah. I'm with you.
+Jade: Great - meet me in one of the box cars on the train trestle near the
+school.
+Crane: Okay. And listen, Jade... If we don't find that Antizin, I need to talk
+to you about something.
+Jade: About what?
+Crane: Another option, but we'll cross that bridge when we come to it. Right
+now let's see what we can find in that school.
+
+++++++++++++++++++
+- Siblings [STO-5]
+++++++++++++++++++
+
+Jade: (Hey.) Come here. You should see this.
+Jade: Something is going on at the school. Tahir's men have been hauling boxes
+out of that place for hours. We need to get a closer look.
+Crane: What's in the boxes?
+Jade: Good question. If it's Antizin, we need it.
+Survivor: We're approaching the front gate.
+Crane: Jade, where... sh*t.
+Crane: F*ck*ng Tahir. That guy should die in a fire. We-
+Crane: F*ck, where did she go?
+Crane: How many bandits are inside?
+Jade: I only saw the ones that went in after Tahir, but I'm sure there's more.
+Jade: We should use different entrances - we'll cover more ground, and we'll
+make less noise moving separately.
+
+------
+School
+------
+Crane: Okay, Jade, I'm inside.
+Jade: Check the classrooms. That's the most likely place for them to store
+supplies.
+Jade: They should be marked somehow. Military jargon is pretty straight
+forward, so it shouldn't be hard to notice.
+
+Loudspeaker: Hurry up! We don't have all day for this sh*t, and this is the
+last place I want to be at night!
+Loudspeaker: Did any of you idiots think to check the basement? Of course not,
+because the key is still up here! Get your sh*t together!
+Bandit: Who the f*ck are you? Guys! There's somebody in here!
+Jade: Turn that d*mn thing off! We're gonna have walkers swarming towards the
+school!
+
+Crane: Jade, no luck with any Antizin. Looks like we'll have to talk about...
+that other option. I still have Classroom C to search, though.
+Jade: The basement's pretty big. Find the key. I'll meet you down there.
+Jade: Give me a hand here, would you?
+Crane: Yeah, sure.
+Jade: GOD, Crane, you're such an OAF! Why don't you just stick your head out
+the door and shout, "Here we are! Come get us!".
+Crane: Hey, sometimes there's nothing wrong with the direct... approach.
+Jade: Holy sh*t.
+Jade: That's... plastic explosives, right?
+Crane: Listen. You take this stuff and get back to the Tower. I'll deal with
+these *ssholes.
+Jade: Don't be ridiculous! We'll fight them together!
+Crane: And risk letting them keep this much ordinance? No, just go. I got this.
+Meet me back at the Tower.
+Jade: Promise me you won't let Rahim near that hive!
+Crane: What? Of course! I promise, I promise, just go!
+
+------------------
+Outside the school
+------------------
+Jade: Crane? You've said we needed to talk about other options if we didn't
+find any Antizin.
+Crane: ... and we will, but right now let's deal with these explosives, ok?
+Jade: Okay, listen. I'll give the explosives to Sa'id, and you talk to Rahim.
+Make sure he stays away from that hive.
+Crane: Will do. Don't worry.
+Jade: Don't worry? Right...
+
+---------
+The Tower
+---------
+Rahim: Crane! Sa'id told me about the explosives you guys found! How perfect is
+that?!
+Rahim: Jade gave them to him - Sa'id used to be on a bomb squad, so he knows
+about that stuff.
+Crane: Yeah, kid, that was a lucky find. Would've been better to turn up some
+Antizin, though.
+Rahim: My buddy Omar's making sure Sa'id's putting good timers on those things.
+We have to be able to get our asses out of there before they blow.
+Crane: Whoa, "we"? There's no "we" in this. I mean, yeah, that nest needs to
+go. And now it's possible. But if it gets done, I'm doing it on my own.
+Rahim: But... it's my plan!
+Crane: And I will execute it perfectly. I promise.
+Rahim: But... ah, sh*t. There's no use arguing with you, is there? Fine. I'll
+contact you as soon as Sa'id's finished with the charges.
+Crane: Rahim, do we have a deal?
+Rahim: I guess...
+Crane: Do we have a deal?
+Rahim: Yes, we have a deal.
+Crane: (Okay.) One more thing... I keep seeing this bizarre kind of Infected.
+Is Dr. Zere out at his trailer? I'ld like to talk to him about it.
+Rahim: Nah, he's down in Sickbay, visiting Dr. Lena.
+Crane: Thanks, kid. I'll see you soon.
+
+Crane: Hey, Doc. You got a minute?
+Zere: Oh-it's... Kane, yes? How can I help you?
+Crane: Crane. Remember when I told you about that weird Infected I saw? You
+know, the one who took one look at me and hauled ass away?
+Crane: Well, I just saw another one, and it did the same thing.
+Zere: Hmmm... I believe I HAVE heard your colleagues talk about those
+creatures. "Bolters", they call them.
+Zere: Apparently they favor certain areas of town over others, but only appear
+at night... I don't suppose you could catch one, and bring me a sample of its
+flesh?
+Zere: You see, a thought occurred to me - a long shot, I realize - but if these
+creatures favor areas where I left my experimental "bait"...
+Zere: Well. Let's not get ahead of ourselves. Please do obtain a sample. But it
+has to be fresh, so you have to get it back to me quickly.
+Crane: OK. And where exactly do I find these things?
+Zere: I'm told that quartermaster chap has been keeping track of them.
+
+Quartermaster: What can I do for you?
+Crane: Doc Zere says you know where I should look for these, uh, "bolters"...
+Crane: Super-fast Infected? Covered in big green blisters?
+Quartermaster: Oh, yeah. Yeah, I can point you in the right direction.
+Quartermaster: Here, here, and here. Though, you ask me, if trouble don't come
+lookin' for you, no reason to go lookin' for trouble.
+Crane: Words to live by. Thanks.
+
+--------------
+Bolter hunting
+--------------
+Spike: Crane, you there?
+Crane: (Hey!) What's up, Spike?
+Spike: Just FYI... if you need me, I'll be at the ferry station, helping Morgan
+prep the barge.
+Spike: Strangest thing, he said he got shaken down by some young man who
+sounded an awful lot like you.
+Spike: You wouldn't know anything about that, would you?
+Crane: Hey, I've gotta run! I'll talk to you later, Spike!
+
+Crane: Okay, Doc... here comes your chunk of zombie guts.
+Zere: Ah, Crane! Come in, come in! Did you get the samples I asked for?
+Zere: Excellent, excellent! I was just telling Dr. Camden about you.
+Camden: Hello, Mr. Crane. Glad to have you working with us. You sound like an
+impressive individual.
+Zere: Interesting stuff, what passes for blood in this creature.
+Photosensitive. Quite deadly if used on a weapon, I'd wager. But I digress!
+Zere: My last bit of reagent here... and a reserve vial of...
+Zere: Oh my word! This tissue! It's testing positive for the recombined virus!
+Camden! DO YOU KNOW WHAT THIS MEANS?
+Camden: The meat experiment worked!
+Zere: When I dosed the meat samples with the altered strain? It's HAD AN
+EFFECT! This could explain all the different mutations!
+Zere: But I can't. Camden could... he has the equipment... but we have no way
+to get the research to him.
+Crane: You can talk to him on the radio. Why not share info that way?
+Camden: There's too much data, Crane. It would take years. We'd both be dead
+and gone before he finished.
+Zere: "Water, water, everywhere, and not a drop to drink."
+Crane: What if I delivered this stuff to you, Dr. Camden? By hand? The data and
+the tissue samples both?
+Camden: Crane... getting from there to here would be insanely dangerous.
+Crane: But it could mean a cure, right?
+Zere: You don't know how much this means, dear boy! To me, to all of us!
+Zere: I'll contact you when everything's ready! You must go now! Much to do!
+Much to do!
+
+--------------
+Rahim and Omar
+--------------
+Rahim: Hey. Crane. You there? Omar and I went to blow up that nest.
+Crane: (Wait.) You what?! F*ck*ng hell, Rahim, that was MY job!
+Rahim: Oh, right, 'cause you're more qualified to handle explosives than I am!
+You're just a godd*mn tourist! But listen - we messed up.
+Rahim: Messed up bad.
+Crane: What happened? Where are you?
+Rahim: On the overpass and it's all going to sh*t...
+Crane: Head to the trainyard! Find a place to hide! I'm on my way!
+Rahim: Omar! Behind you! BEHIND YOU!
+Crane: Rahim? Rahim! Godd*mn it!
+Crane: Brecken! Brecken, do you copy?
+Brecken: Yeah, I copy. What is it?
+Crane: I'm on my way to get Rahim.
+Brecken: Rahim? He's here in the Tower.
+Crane: No, he's not. He and Omar went to blow that nest, and now they're in
+trouble.
+Brecken: THEY WHAT?! F*ck! Where'd they get the explosives?
+Crane: I... look, I stole them from Rais.
+Brecken: Oh, Jesus H. CHRIST.
+Crane: I'm close. I'll get him to safety, Brecken.
+Brecken: You d*mn well better. You save him, you hear me? You save him, so I
+can kick his f*ck*ng ass... Does Jade know about this?
+Crane: No, she doesn't.
+Brecken: Well for God's sake, don't tell her. She'll go out looking for him and
+I don't need her getting herself killed too. GODD*MN IT! -
+
+Crane: Rahim... where the hell are you?
+Crane: Brecken! It's me. I found Omar's body on the overpass. No trace of
+Rahim.
+Brecken: Sh*t... Any idea where he'd go?
+Rahim: I told him to hide in the train yard.
+Brecken: You find him! You hear me? That little b*st*rd better be alive...
+
+Rahim: THAT'S RIGHT! KEEP COMING, YOU MOTHERF*CK*RS! I'LL SEND YOU ALL TO HELL!
+Crane: Rahim!
+Rahim: Crane! I didn't think I'd make it, so I armed the bombs! They'll blow in
+less than five minutes!
+Crane: Sh*t - kid, you're bleeding!
+Rahim: Huh? Oh - I cut myself. It's nothing. F*ck, just plant the bombs!
+Crane: (Alright.) Don't move! Got it? I'll be right back!
+Crane: Rahim, can you hear me? Where the f*ck am I going with these things?
+Rahim: There's a sewer entrance here in the terminal, near the west wall! Use
+that tunnel - it'll take you straight to the hive!
+
+Crane: Okay, I'm back on the surface.
+Rahim: See that big-ass culvert over to your right? Head through it!
+Rahim: Once you get into the building, head up the ramp and get up to the floor
+above! You need to put the bomb on one of the big support columns!
+Crane: Okay, first one's set!
+Rahim: Okay, pay attention! Find some stairs and get to the next floor up!
+Rahim: You're looking for another column like the first one!
+Crane: All right, got it!
+
+Crane: Rahim, it worked man! Your plan worked, kid! ... Rahim? Hey, do you
+copy? ... Sh*t.
+Crane: Rahim, it's me! I did it!
+Crane: Rahim! You should have seen it!
+Crane: The whole d*mn building came down!
+Crane: SH*T!
+Crane: No no no - Rahim, stop!
+Crane: Rahim, it's me! It's me, buddy! It's Crane! Oh Jesus... Rahim, stop!
+Crane: That's a f*ck*ng bite wound...
+Crane: You GODd*mn STUPID f*ck*ng KID!
+Crane: Oh God... Jade...
+Brecken: Crane! Do you copy? What's going on?
+Crane: Brecken... Rahim... Rahim's dead.
+Brecken: F*ck! ... Get back here. And don't say a word to Jade. Not yet.
+
+---------
+The Tower
+---------
+Crane: Brecken?
+Brecken: How did he die?
+Crane: I... I had to kill him.
+Crane: It was too late. He turned. I had no choice, I swear.
+Crane: Look, he was my friend too. He was the best one I had here.
+Brecken: I know. I know... He frustrated the sh*t out of me sometimes, but I
+loved him like he was my own kin.
+Brecken: Another dead friend. Another dead brother...
+Crane: I trusted him. I trusted him with those explosives... God, maybe if I
+didn't leave him there... he would still be alive.
+Crane: Oh, no... Jade-
+Brecken: Jade. Wait!
+Crane: Jade - God D*MN it!
+Brecken: Just - just give her time. She needs to grieve.
+Brecken: Zere! SH*T!
+Brecken: Get down there! We can't let them take him!
+
++++++++++++++++++
+- The Pit [STO-6]
++++++++++++++++++
+
+Survivor: This is an emergency!!! Au secours!
+Survivor: Hey! Anyone?! I could really use some help!
+Survivor: Can anyone hear me!!!??? Help!
+Maalik: There's no one inside. They took Zere and drove away.
+Crane: Sh*t... !
+Crane: Brecken, Zere's been kidnapped. His trailer's on fire.
+Brecken: God d*mn it! You see what happens when you f*ck with Rais? You should
+never have hit that school!
+Brecken: Some of our people spotted a big knot of bandits heading back to
+Rais's Garrison. That's got to be where they took Zere.
+Brecken: You go there and you find him and you bring him back alive. You hear
+me?
+
+Brecken: Crane - look, I know I've been hard on you. But after what happened to
+Rahim... and now Dr. Zere, you have to understand...
+Crane: Brecken, there's no apologies necessary. And don't worry, I'll bring
+Zere back in one piece.
+Brecken: Just be careful, okay? And I'm sorry about Rahim. I know you were
+close. Hell, I loved that stupid kid too.
+
+--------------
+Rais' Garrison
+--------------
+Crane: Brecken? The Garrison's shut down... The doors are sealed off... I don't
+think I can get in.
+Brecken: Find another way in, then. Check the back. But don't take any stupid
+chances.
+Brecken: Those b*st*rds'll rip you apart if they get the opportunity.
+Crane: Okay - found an entrance. Can't say it was easy, though. I'm going in.
+Brecken: Just keep your eyes open. Good luck in there.
+
+Crane: Crane here. I could REALLY use some GRE support right now.
+GRE: That's too bad, Agent Crane. This is the Ministry of Defense.
+Crane: The f*ck- What the hell is going on? What happened to the GRE?
+GRE: The Global Relief Effort's position here has been... diminished.
+GRE: We are in charge now, and we have declared Harran a Code One Target Zone.
+Crane: Wait, wait, wait... just hang on! You can't just carpet-bomb this place!
+There are still hundreds of innocent people in here! Maybe thousands!
+GRE: Irrelevant. We're doing this to protect BILLIONS of lives. Surely you can
+understand that.
+Crane: Okay, okay - just listen! There's this scientist in here named Zere, and
+he's been doing research on a cure! And he's really close! I've seen the
+research! If you bomb the city...
+GRE: ... Acknowledged. The chances of one scientist in a wrecked city coming up
+with useful results are negligible at best, but... you have 48 hours.
+
+Zere: Who is it? Who's there?
+Crane: Relax, Doc. It's me.
+Zere: Crane! Thank God! Listen, this is important! I'm not safe anymore-
+obviously-but my research must not die with me!
+Crane: You're not gonna die, Doc! But right now we have to get out of here, so
+please, lower your voice.
+Zere: Oh! Oh. Yes. All right. But understand-my research. It must reach Dr.
+Camden! That's why I gave the packages to Jade.
+Zere: I know you said you would deliver them, but she was there, and time being
+of the essence-
+Crane: Doc?
+Rais: So. It takes no more than the false hope of rescue to loosen the good
+doctor's lips.
+Rais: Hunt the Scorpion down. Spare no resource.
+Tahir: With pleasure. And these two? What should we do with them?
+Zere: You'll never find her! Never! And I'll never talk! You'll get nothing
+from me!
+Rais: I am less concerned with making you talk now, Doctor, than I am in
+preventing your escape.
+Crane: You sadistic f*ck! He's an old man!
+Rais: Give the doctor some first aid.
+Rais: And take Crane to the pit.
+
+-------
+The Pit
+-------
+Rais: Stand him up.
+Crane: Oh sh*t... Doc!
+Rais: You come to us like a snake in the grass. Here, in a city of lies, you
+are the biggest liar of all.
+Crane: What're you talking about? ... Answer me, motherf*ck*r!
+Rais: Yes, lose control. That is what you Americans are so good at, after all.
+If I-
+Rais: Not bad.
+Rais: Clear out the corpses. Leave Crane.
+Rais' soldier: Yes sir!
+
+Rais: Word of your feats here will spread. Such a shame you'll be a corpse by
+then.
+Rais: Is this your first feeble attempt at controlling your own destiny, Crane?
+Too little, too late, I fear.
+Rais: Impressive. For a walking dead man.
+
+Rais: You have provided some quality entertainment for my men. Too bad it's a
+one-time performance.
+Rais: This will only prolong the inevitable. But try to make the best of it.
+Rais: Let no one say I never gave you anything, Crane.
+Rais: Your skills no longer come as a surprise, Crane. The GRE selects its
+operatives well.
+Crane: Oooohh sh*t.
+Rais: Lower the platform!
+Rais: Drop the weapon.
+Rais: Chaos, Crane. Chaos is the one true order of things. To pretend otherwise
+is the sheerest folly. Allow me to demonstrate.
+Rais: Basaam. Can you hear me?
+Basaam: Loud and clear.
+Rais: Publish the file.
+Basaam: Right away, sir... Annnd... there. It is sent.
+Crane: You maniac! You've just doomed thousands of innocent people! That's what
+you get with your f*ck*ng chaos!
+Rais: You don't know what was in that file, do you, Crane? You only prove my
+point for me. The GRE plans to weaponize the virus, not cure it.
+Rais: They're only interested in profit. Not saving lives... and by following
+their rules, you have become their trained monkey... Pathetic!
+Rais: All right. Kill him.
+Crane: Doc - come on, let's get you out of here.
+Zere: Crane. Save these people... They don't deserve all this.
+(Rais: You! Give me the torch!)
+Rais: ... CRANE!
+Rais: What are you swine waiting for? SHOOT HIM!
+Crane: I'm sorry, Doc!
+Crane: Run...
+Crane: Sh*t! Almost got me...
+Crane: F*ck!
+Crane: D*mn it!
+
+-----
+Slums
+-----
+(Crane: Oh sh*t! No! Not now.)
+(Crane: No. Not again!)
+Crane: Zere... Zere's dead.
+
+Crane: Sh*t!
+Brecken: You alright?
+Crane: Where am I?
+Brecken: I had to hide you at the pier. Half of Rais's men are after you.
+Whatever you've done, it's really put them on the warpath.
+Crane: I have to talk to Jade. Zere gave her his research...
+Brecken: She took it to Camden-or she tried to.
+Brecken: Camden radioed that Rais's thugs had found his lab, so he flooded it
+with biters and barricaded himself in the middle. Now, he's trapped.
+Brecken: Then the connection failed. We haven't been able to raise him since.
+Crane: I'm going after her. How was she getting in? That part of town is sealed
+off.
+Brecken: There's a group called "The Saviors" that smuggles people through.
+Brecken: They have a den at Nico's Bar in the cauldron, near the highway. The
+contact's name is Cenk.
+Crane: Do you have enough runners to cover air drops?
+Brecken: The air drops stopped 36 hours ago. There won't be any more. We're out
+of time, Crane.
+Crane: Sh*t... all right. I don't know if I can fix this, but I'm sure as hell
+going to try.
+Brecken: You know, most men in your situation would crawl in a hole and hide.
+Hats off to you, mate. And good luck.
+Timur: (Hey.) Crane? Here's your gear, take it. Best regards from Karim.
+Crane: (Karim, huh?) Uh... (if you see him,) thank him for me.
+
+++++++++++++++++++++++
+- The Saviours [STO-7]
+++++++++++++++++++++++
+
+Brecken: Crane? One more thing, mate. Do you remember that girl from Sector 0?
+Troy...
+Crane: Yeah... she called me to thank me after I get the antenna towers
+working.
+Brecken: You should contact her when you get there.
+Crane: Yes, that's a good idea. Thanks, Brecken.
+Brecken: Right... you take care!
+
+---------------
+At the cauldron
+---------------
+Cenk: What do you want?
+Crane: I'm looking for the Saviors.
+Cenk: Don't know what you're talking about.
+Crane: I'm one of Brecken's men. From the Tower.
+Cenk: I don't care where you're from. Get your ass outta here, or I will stop
+being so f*ck*ng polite.
+Crane: Listen, I know you're smuggling people out of the Slums. There's a girl
+who came through. Jade?
+Cenk: I think you better get the hell out of here.
+Crane: (No.) Just listen! I cut Rais up, and now his whole godd*mn gang is
+after me. I could use some cooperation here.
+Cenk: You? You're the one who chopped Rais's hand off?
+Crane: Yeah. And now I have to get to Sector 0!
+Cenk: What's your name?
+Crane: Crane.
+Cenk: Well, Crane, you're in for some heartbreak if you think going to Sector 0
+will get you off Rais's sh*t list. But... wait here.
+Cenk: I got a guy here who claims he's the one who took Rais's hand off...
+Crane... ... Yeah, that's what he said... Really? Are you sure? ... huh, ok...
+right.
+Cenk: Come here.
+Cenk: Okay. We'll get you to the other side.
+Crane: All right, when?
+Cenk: Right now.
+Crane: What about payment?
+Cenk: What you did to Rais - that's more than enough payment for us. Go to the
+collapsed tunnel that led to Old Town.
+Cenk: Knock at the door that leads to the sewers. Someone will take good care
+of you.
+Crane: Will do. Thanks.
+Cenk: Nah, man. Thank YOU.
+
+-------
+Tunnels
+-------
+Hazan: Crane?
+Crane: Yeah. That's me.
+Hazan: Good to meet you. I'm Hazan. I'm going to be helping you change your
+scenery.
+Crane: So did you take Jade through, too?
+Hazan: Who?
+Crane: She's from here. Dark hair. Pretty. Tough as nails.
+Hazan: (Uhh.) Maybe. Don't know. We don't always ask names.
+Hazan: Okay, from here on out, you're on your own. The route is marked. I'll
+stay in touch over radio. It's been a pleasure, my friend.
+Smuggler: We need dto do this one by one. And this man needs to go first.
+Survivor: But he just got here. We've been here for hours!
+Smuggler: I don't make the rules. Wait here!
+
+Hazan: We try to keep the route clear, but there may be some Infected here and
+there. Shouldn't be a problem for you, though.
+Hazan: Hey, friend. Sorry, but I had no choice. Rais has me by the balls.
+Crane: What?! Hey! What did you do?!
+Hazan: What I had to... What can I say? The world is an unforgiving place...
+Crane: F*ck*ng sellouts.
+
+Bandit: Sh*t, where are they? How long are we supposed to wait for them?
+(Bandit: There he is!)
+Crane: Brecken, do you copy? Crane here.
+Brecken: What's going on, mate?
+Crane: Tell everyone to stay away from the Saviors. They sold me out to Rais.
+I barely made it out alive.
+Brecken: Sh*t. I hope you're okay. Be sure to contact Troy, when you get to
+Sector 0. She's the only friendly face you have over there.
+Crane: Got it! Will do! Keep your fingers crossed for me.
+
+--------
+Old Town
+--------
+Crane: Here goes nothing... Jade? It's Crane. Do you copy? ... Jade? It's
+Crane! Can you hear me?
+Crane: Dammit... All right. It's time for some local talent.
+Crane: Troy. This is Crane. Do you copy?
+Troy: Crane? It's great to hear from you! What can I help you with?
+Crane: (Yeah.) I'm in your neck of the woods now, and I'd love to put our heads
+together. Where can I find you?
+Troy: You're here? In the Zero? Fantastic! Have you seen a pair of towers, one
+taller than the other, with scaffolding around them?
+Troy: We call that our "loft". Head that way. We'll be waiting.
+
++++++++++++++++++++++++++
+- Find the Embers [STO-8]
++++++++++++++++++++++++++
+
+Crane: Dr. Camden? Do you copy? Crane here...
+Crane: Camden, can you hear me?
+Camden: Crane? Yes, yes, I hear you. What's going on?
+Crane: I'm in Sector 0. Is Jade with you?
+Camden: No, she hasn't been able to reach me yet... and even if she does manage
+to get here, it won't be easy getting in.
+Camden: I had to barricade myself inside because of Rais and his thugs.
+Crane: You okay?
+Camden: I'm trapped inside my lab but safe. Are you coming my way?
+Crane: Not yet, Doctor... first I have to find Jade and recover Zere's
+research.
+Camden: Okay, I'll sit tight then... It's not like there's anywhere for me to
+go. Be careful out there, Crane.
+
+--------
+The Loft
+--------
+Michael: Hey, you're Crane, right?!
+Crane: Yeah... that's me.
+Michael: I'm Michael. Troy's waiting for you in our loft.
+Michael: Good to have you here, Crane!
+Savvy: Crane! It's a pleasure, mate! I'm Savvy... need anything technical, I'm
+your man! I've ALMOST rigged a way to break through the comm jamming!
+Savvy: Come on, say hello to Troy!
+Crane: I'm Kyle Crane. It's good to finally put a face with the voice.
+Troy: You're looking for Jade Aldemir, aren't you?
+Crane: Yeah, yeah... have you seen her? Do you know where she is?
+Troy: Jade? This is Troy. Do you copy?
+Jade: Go ahead, Troy.
+Crane: Jade! It's Crane! Listen, I know you're headed for Dr. Camden, but his
+clinic's surrounded by zombies and Rais's thugs. Let me come and help you.
+Jade: Crane... stay away from me. I hear your voice, and all I can see is my
+brother.
+Crane: Please, just hear me out. The thing is... the GRE hired me. (Alright?)
+Jade: I was supposed to find out where Rais sent this classified file, but that
+doesn't matter anymore, because the Ministry contacted me.
+Crane: (Jade.) They were going to firebomb the city, but I talked them into
+waiting...
+Crane: ...because they want that research that you're carrying. We need to
+figure out some way to let them know that we've got it.
+Jade: You b*st*rd. YOU B*ST*RD.
+Crane: Jade... ? Jade! ... D*MN it.
+Troy: Crane... the last time I spoke to her, she was at the University. It's
+due east from here. If what you just said is even a little bit true, you have
+to find her.
+
+++++++++++++++++++++++++++
+- Higher Education [STO-9]
+++++++++++++++++++++++++++
+
+Troy: Crane? Troy here...
+Crane: Copy. What is it, Troy?
+Troy: Savvy has an idea of how to break through the radio jamming and contact
+the outside world.
+Troy: He'll be working on that while you're busy looking for Jade.
+Crane: That's fantastic! Let's hope he's on to something.
+Troy: I'll be in touch.
+Troy: And, if I may make a suggestion... avoid the Infected if you can, okay?
+They've always been dangerous, but now they're mutating into something even
+more deadly.
+
+--------------
+The University
+--------------
+Crane: Hey, buddy, have you seen a woman named Jade Aldemir? She's got long
+dark hair, she's tough as nails?
+Guard: Yeah, she was walking to what's-his-name over there.
+Crane: Thanks.
+Crane: Jade? JADE! Are you here?
+Fidan: Wh-who are you? What do you want?
+Crane: No sign of Jade... dammit.
+Crane: Hey - can you help me? I'm looking for a young woman. Dark hair, petite,
+takes no sh*t from anyone? Her name's Jade Aldemir.
+Fidan: Yes, she was here. You didn't miss her by too much. She waited around
+for a while with a big scowl on her face, and then took off.
+Crane: God D*MN it. Did she say where she was going?
+Fidan: No. But you're Crane, right? She left this for you.
+Crane: That's Amir. Why would she have left me this... ?
+Fidan: Well, I can't say for certain, but she did ask me to tell you, "Not
+again". Don't know what that's supposed to mean.
+
+Crane: Looks pretty comfortable.
+Spike: Crane! Good to see you again!
+Crane: Spike?! Holy sh*t! How'd you get here?
+Spike: Wasn't easy. Anyway, Brecken sends his best.
+Spike: And listen, from now on you can always find me here, okay? Everything I
+had for you in the Slums, that'll all be here too, so feel free to use it.
+Crane: Yeah. Thanks, Spike.
+Spike: No problem, buddy. See you next time.
+
+Crane: Jade, this is Crane. Do you copy? ... Jade, can you hear me? ...
+Nothing.
+Crane: Troy, this is Crane. Do you copy?
+Troy: Crane! I was just about to contact you! Savvy broke through the jamming
+and... I think you'd better get back here. You have to see this.
+Crane: Why... ? What do I have to see?
+Troy: You have to see it for yourself. Just... get back here, all right? I'm
+serious!
+
+--------
+The Loft
+--------
+Troy: No matter how many times I watch it, I still can't believe it.
+Reporter: An internal Global Relief Effort document surfaced today that, if
+verified, implicates the GRE in a far-reaching criminal conspiracy.
+Reporter: Instead of trying to find a cure for the Harran Virus, according to
+the file, the GRE had plans to weaponize it and sell it to the highest bidder.
+World-wide backlash has-
+Troy: No, no, skip to the important bit.
+Survivor: I was the last survivor left in the quarantine. I can't believe I
+made it out.
+Survivor: I can't believe I'm stil alive...
+Reporter: We mourn all those who didn't survive, but as the President said in a
+speech here earlier today, life is for the living.
+Reporter: Military troops have searched for survivors all over the quarantine,
+but now there's no one left besides the Infected.
+Reporter: According to Colonel Taner, once his decontamination process is
+finished, the infection will be completely obliterated.
+Crane: The Ministry did this. They're making their excuses to the rest of the
+world for destroying a city.
+Troy: Look, Crane, before you go charging out of here-we already had an idea of
+how to send a message.
+Troy: We were going to plant explosives in a building and set off fires in a
+pattern-something the zombies could never do.
+Troy: Trouble is, we got a runner, Michael, over to the right building, but he
+can't get through to the top floors. Too many biters.
+Troy: As much as I hate to admit it, none of the rest of us are strong enough
+to do this job...
+Crane: Well, we've got to do something RIGHT F*CK*NG NOW, or you, me, Jade,
+and everybody else are going to get blown to bits.
+Crane: Tell Michael I'm on my way... and while I'm doing that, can you get in
+touch with Jade? Try to get her to meet me?
+Troy: You have my word.
+
+++++++++++++++++++++++
+- Public Face [STO-10]
+++++++++++++++++++++++
+
+Michael: F*ck! I thought you were a biter!
+Michael: Why you gotta sneak up on a guy like that?!
+Michael: Jesus, you almost gave me a heart attack.
+Crane: I didn't mean to scare you, Michael.
+Michael: Okay, okay... Troy said you were on your way. God, I'm glad she didn't
+see me jump like that. She'd NEVER take me seriously.
+Crane: Got a little crush, huh?
+Michael: How could I not? Have you met her? That's why I volunteered for this!
+Crane: You're... risking your life with a horde of flesh-eating zombies to
+impress a girl?
+Michael: Mate, before the outbreak, the most impressive thing I'd ever done was
+win a spelling bee.
+Michael: Okay? Troy would've never even looked at me. So I'll take my
+opportunities where I can.
+Crane: Fair enough. Tell me what needs to happen here.
+Michael: Well, okay, I tried to finish the job, but I couldn't get past the
+ninth floor.
+Crane: Leave it to me.
+Michael: What needs to happen is, you take these explosives, turn on the gas
+ovens, and plant charges in a few specific apartments.
+Crane: And that'll make a pattern, huh? One nobody outside Harran could mistake
+as random?
+Michael: If they can explain this sh*t away, we're all gonna be really f*ck*n'
+impressed.
+Michael: Now, if you're ready, your first stop is on the tenth floor.
+
+-------------------------
+At the apartment building
+-------------------------
+Crane: What the... dammit!
+Crane: Something must've blocked the shaft.
+Crane: Aahhh SH*T... Dammit.
+Michael: What's wrong? You okay?
+Crane: Yeah... yeah. For now.
+
+Crane: Michael, I'm on the tenth floor.
+Michael: Great! Look for apartments 105, 106, 134 and 137.
+Crane: Okay, I'm done with the first apartment.
+Michael: Good work. Get to the next one.
+Crane: All right, the second apartment's done.
+Michael: D*mn, you're better at this sh*t than I am. Next you need - oh, sh*t.
+Crane: What's wrong? Michael?!
+Michael: I got some company here... Get back, you b*st*rds!
+Crane: Michael, get out of there! Get to safety!
+Michael: No! I can hold them off, and you have to finish the job! I'm not going
+anywhere until this is done!
+
+Crane: Is that... Is that a child crying?
+Crane: F*ck! What is this... ?!
+Crane: Okay, all done!
+Michael: Great! And, uh... if you could get back down here? I wouldn't turn
+down a helping hand at this point...
+Michael: Listen... Hey! You sneaky f*ck*r! Jesus Christ!
+Crane: Michael?
+Michael: Listen, if I don't make it, you have to grab... get off me! ... grab
+the detonator, get the hell out of here and blow this place.
+Crane: Michael! Get the f*ck out of there and head back to Troy! Right now!
+Just leave the detonator.
+Crane: Michael?! Michael! Sh*t!
+Crane: Sh*t... !
+Crane: Okay. I hope you're all right, Michael...
+
+--------
+Old Town
+--------
+Troy: Crane, we see it! Great job!
+Crane: (Thanks.) I hope it's enough... Have you had any contact with Jade?
+Jade: Crane...
+Crane: Jade! Is that you?!
+Jade: Crane... I heard what you did... I SEE what you did.
+Crane: So... do you believe me now, that I'm on your side? -
+Crane: Those sons of B*TCH*S.
+Jade: F*ck. Crane, if you're really on our side, you've got to contact the GRE.
+They must stop the Ministry from bombing the city!
+Crane: I know, but I lost my one and only way to reach them...
+Troy: Guys! Listen... Savvy's figured out a way to break through the jamming!
+He just needs your help to do it!
+Crane: Okay! Jade, you heard that? We have to meet.
+Jade: Yeah... all right. Meet me in that red building on Emerald Canal. We'll
+go from there.
+Jade: ...and Crane... be careful. The Infected here are even more ferocious
+than the ones in the slums.
+
++++++++++++++++++++++
+- Rendezvous [STO-11]
++++++++++++++++++++++
+
+Crane: Oh God! Jade! JADE!
+Troy: Troy! This is Crane! Rais has taken Jade - he has her in some museum
+somewhere. Do you know what he's talking about?
+Troy: Museum? Yes... Rais is using it as his headquarters. Crane... you can't
+go there. That place was built as a fortress... you'd be walking into a massive
+trap!
+Crane: (No, no, no.) It's not subtle enough to be a trap. But there's got to be
+a way to sneak in, right? (I mean.) Some way to surprise them?
+Troy: Let me think... uh... Tariq maybe?
+Troy: He's the museum's curator. He should know something about the dungeons
+hidden beneath the fortress.
+Crane: Good, I'll talk to him.
+Troy: All right. There's a building with a rooftop garden. You'll find Tariq
+there.
+Troy: And listen-if you get the chance, find yourself some new weapons. You'll
+need them.
+
++++++++++++++++++++++
+- The Museum [STO-12]
++++++++++++++++++++++
+
+Crane: Tariq?
+Tariq: What do you want? We don't have anything here but a few scraps of food.
+Crane: Relax. Troy sent me.
+Tariq: Troy? Thank God. I've been a nervous wreck since I found this kid. He's
+got nobody to look out for him, but I'm not so good with kids, y'know?
+Crane: That's not why I'm here.
+Tariq: But... Troy promised she'd send someone.
+Crane: I need to get into the museum.
+Tariq: The museum? ... But Troy told me someone would come to help. She
+promised...
+Crane: Okay, Tariq. You tell me how to get into the museum, and maybe I can
+sort out your problem here, okay?
+Tariq: Rais controls the museum. He would kill you on sight.
+Crane: Well, then I can't have him see me. Now, Troy said you used to be the
+curator, and that if anybody would know a way in, it would be you. So, how do
+I do it?
+Tariq: Do you have a scuba gear, perhaps?
+Crane: No.
+Tariq: Too bad. There's an entrance under the surface of Emerald Pond, but it
+would be a long swim under the water. You would most likely drown.
+Crane: Well, most likely isn't definitely, so I guess I'll give it a try.
+
+---------------------------------
+Underwater entrance to the museum
+---------------------------------
+Crane: Oh, God, my lungs...
+Crane: Troy?
+Troy: I hear you.
+Crane: I'm in.
+Troy: That was the easiest part of this. You realize that, right?
+Crane: You really suck at pep talks, Troy.
+Troy: Not my job... But good luck.
+
+------
+Museum
+------
+(Rais' soldier: Sshh! Quiet! I've heard something.)
+Crane: Oh, sh*t...
+
+Rais: We meet again. The last time we met you took something of mine, now I
+took something of yours.
+Crane: I don't negotiate with *ssholes, Rais. I get out of here with Jade or I
+take your other hand too. Your choice.
+Rais: You cannot simply DEMAND to have her, Crane. You must make a showing of
+EFFORT first.
+Tahir: ATTACK!
+(Rais' soldier: Move it, boys! Move it!)
+Crane: Is that the best you've got, Rais!? I could this all f*ck*ng day!
+Rais: Poor Jade... she's so lonely without you...
+Rais: She's waiting for you... Come and get her...
+
+(Crane: No! Not this again!)
+Rais: Find her, Crane. Come on... She won't wait for you forever...
+Rais: Crane, Crane, Crane... Jade's dying to see you.
+Rais: She's running out of time. Hurry up, Crane.
+Rais: Come on, Crane... Try harder! You get her too late, and there won't be
+much left of her...
+
+-------------
+Jade's demise
+-------------
+Crane: JADE! Oh sh*t... oh sh*t, what have they done to you...
+Jade: I'm... fine, Crane. Tahir knocked me over the head before he dumped me in
+here. Just... give me a minute, I'll be right as rain.
+Rais: You do not have the luxury of a minute, "Scorpion".
+Rais: In fact, what little time you have, you owe to me. Thanks to your repair
+of my antennas, Crane, I have listened to every word any of you have said.
+Rais: How do you suppose I found you, Ms. Aldemir? Or the good Dr. Camden? How
+do you think I broke the connection between the sectors?
+Rais: I am the director of this film. And now that I have Zere's research...
+the GRE will do as I COMMAND them.
+Rais: Which renders the two of you useless. Tahir!
+Rais: You took offense, Crane, as I recall, at being referred to as a trained
+monkey.
+Rais: But look at you now. Dancing. For our amusement.
+Rais: You are strong enough to have joined me. But you lack the proper...
+character.
+Rais: Consider this a character-strengthening exercise.
+Crane: Come on, Jade! Let's get out of here!
+
+Crane: Oh, Jade, are... Jade! Are you hurt? They didn't bite you, did they?
+Jade: I'm fine! I'm fine. Just... give me a second.
+Rais: Sweet little Jade is far from "fine", Crane. She was bitten and infected
+hours ago. How noble of her to try and hide it from you.
+Jade: Biter got me on the leg. You didn't need to know.
+Rais: Once again you find yourself with a choice, Crane.
+Rais: Your precious Scorpion is about to turn... but so are you.
+Rais: Who will receive the Antizin? Who has a hope of living through this
+encounter? It's up to you now.
+Crane: Jade... here, you take this.
+Jade: No.
+Crane: No, come on! Listen! I've still got some in my system - you need this
+worse than I do!
+Jade: Crane... I just want you to promise me one thing.
+Jade: When the time comes, you're the one who takes me out.
+Crane: What?! No... I...
+Jade: PROMISE ME!
+Crane: (What?) Jade. I can't-
+
+Jade: Crane! Crane, can you hear me?
+Crane: Jade, where are you?
+Crane: Jade!
+Jade: I need you to hear me, Crane!
+Jade: I know you wanted to try and save me. Not everybody would've offered that
+vial the way you did.
+Jade: But it's too late for that now. It's too late for me.
+Jade: For a while I blamed you for Amir's death, I wanted to kill you.
+Jade: But I realized... it was time for Amir. It was time for him to go.
+(Boy: Zombie! Run!)
+Jade: Everybody's life is finite, Crane. You can't deny it. It's pointless.
+Jade: We get here, and eventually we die, and there's nothing we can do to
+change that.
+(Crane: Sh*t! My hand!)
+(Brecken: There were kids in there!)
+(Crane: No! Not again!)
+Jade: The only thing we can do is make what happens in between COUNT.
+(Zere: Crane. Save these people...)
+Jade: Amir's life counted. And now he's gone. Rahim's life counted. And now
+HE'S gone.
+Jade: If sacrificing my life means saving everyone in Harran... then that's
+what I want to do.
+(Crane: Sh*t! My hand!)
+Jade: Don't take that away from me, Crane.
+Jade: I was born premature. The doctors didn't think I was going to live.
+Jade: But I fought. I struggled, and I fought, and I worked, and worked, and
+worked.
+Jade: I became a champion. I became the Scorpion. I left my mark on the world.
+Jade: It's my time now, Crane. You can't save me. You've got to let me save
+you. Let me save you.
+(Amir: GET THE DOOR OPEN!)
+Crane: No... God d*mn it, NO... don't make me do this!
+Crane: Oh no-oh God, Jade, what was I... I'm so sorry, I-I didn't mean to...
+Jade: One of us has to live, Kyle... You just remember what you promised me.
+Rais: All of this, and still you had your choice made for you. Disappointing,
+Crane.
+Rais: You, you, you and you. Get in there and kill them.
+Rais: THAT is the natural order of things, Crane. Kill or be killed. Eat or be
+eaten.
+Crane: Goodbye, Jade.
+
+-----
+Tahir
+-----
+Rais: Tahir! Kill that son of a b*tch!
+Tahir: You Americans don't know when to quit, do you?
+Tahir: Nothing you do will make a bit of difference!
+Tahir: It's too late!
+Tahir: Your whole world's about to turn to sh*t!
+Tahir: And there's nothing you can do to stop it!
+Tahir: You can't win! Why can't you understand that?!
+Crane: Where is Rais?!
+Tahir: You will never know, boy.
+Crane: Tell me where he's going!!
+Tahir: It is not for you to seek out Rais!
+Tahir: When he wants you, he will find you himself!
+Tahir: I can see this kind of talk pains you. Don't worry! The pain will soon
+be over!
+Tahir: Time to die, boy!
+
+Crane: Look at that. Jade lost her life for this thing, it's just lying on the
+floor.
+Crane: I guess Rais must've dropped it when he was trying not to get shot, huh?
+Crane: Sh*t... this is just the tissue samples. Where's the other package?
+Tahir: Go to... hell... Crane.
+Crane: Wow, Tahir. You're looking pretty f*ck*d up, huh? Yeah, those don't look
+like the kinds of wounds you recover from.
+Tahir: So? Then... kill me.
+Crane: No, no... I shouldn't. I should just leave you here to suffer. That's
+what you deserve.
+Tahir: Yes? ... Then why don't you?
+Crane: Because you're not the kind of loose end you leave untied.
+
+Crane: Troy, it's Crane.
+Troy: Crane? You're alive!
+Crane: Troy... Jade's dead.
+Troy: Oh... I'm sorry. I'm really sorry, Crane, I mean it. What happened?
+Crane: Rais... he... he forced us to...
+Crane: Jade saved my life, Troy. Again. She died... saving me.
+Troy: Crane... you've still got to call off the Ministry. That's why Jade
+sacrificed herself. So you could do this.
+Troy: So you could save the rest of us.
+Crane: Is Savvy there? Has he figured out how to get a message through?
+Troy: Yes, but to do it you need to meet me.
+Troy: I have to give you an amplifier, that Savvy says can help us break
+through the signal jamming.
+Troy: I'll wait for you in the safe zone, halfway to the antenna, where you'll
+need to mount the amp.
+Crane: Okay, Troy. On my way.
+
+--------
+Old Town
+--------
+Crane: Dr. Camden? It's Crane. Do you copy?
+Camden: Crane, good to hear you're still alive. Did you find Jade?
+Crane: Yeah... yeah. I found her.
+Crane: Listen, I also found Dr. Zere's tissue samples. And I'll bring them to
+you, but first there's something else I need to do.
+Camden: Okay, Crane, but remember we don't have a lot of time.
+Crane: I know, Doc. I'm about to BUY us time. I'll be in touch.
+
+----
+Troy
+----
+Troy: Crane! Here is the amp.
+Crane: So. What do I have to do?
+Troy: You need to install it at the highest place possible. That way we'll have
+the best chance to break through.
+Crane: Okay. So let me guess - I need to head out to that giant antenna tower
+at the edge of town?
+Troy: The fastest way is through the sewers. Savvy'll guide you over the radio,
+so contact him when you get to the other side.
+Troy: And Crane... When you install the amp, make sure to set the correct
+frequency on your radio. Pull this off and the entire world will hear you.
+Crane: Let's hope so. See you, Troy.
+
+++++++++++++++++++++
+- Broadcast [STO-13]
+++++++++++++++++++++
+
+Crane: F*ck... is that a kid? No way...
+Crane: Okay... how to get from here... to up there...
+Crane: Gotta find a ledge or something.
+
+Crane: Beautiful weather...
+Crane: This must be the place.
+Crane: One day I'm gonna do this and end up landing on a bag of rusty knives, I
+just know it.
+Crane: Savvy? You there?
+Savvy: Yeah, man! You okay?
+Crane: I'm above ground and still in one piece.
+Savvy: Oh, good. Now listen... you'll need the key card to the substation.
+Otherwise there'll be no power to the antenna.
+Crane: Okay. Where do I get this card?
+Savvy: You'll have to search the containers. It'll be in one of them.
+Crane: I'll have to SEARCH the place? You mean the card might not even be here?
+Savvy: No, no, it's there, mate! It's just - the last guy who tried to do
+something like this made it to one of the containers before we, uh... lost
+contact with him...
+
+Crane: Great. Nothing.
+Crane: Holy sh*t.
+Crane: Worst. Bridge. Ever.
+Crane: Sh*t... These f*ck*rs again...
+Crane: YES! F*ck*ng FINALLY!
+
+Crane: Got it! Savvy, I got the key card!
+Savvy: Great1 Now go to the substation. It's close to the antenna mast, inside
+the fence. Use the card to get inside.
+Crane: Eucchh... the exploding ones. F*ck*ng perfect.
+Crane: Savvy! I'm in!
+Savvy: Okay, good! Turn on the transformer!
+Crane: Holy sh*t!
+Crane: Done.
+Savvy: Awesome. Now find the control panel at the base of the mast and turn it
+on.
+Savvy: Just get to the top of the mast and install the amplifier! It'll turn
+every radio within a hundred meters into a powerhouse!
+Crane: Yeah. Just get to the top. No sweat.
+Crane: Oh sh*t, the cable snapped!
+Crane: YOU'VE GOT TO BE F*CK*NG KIDDING ME!
+Savvy: Crane, remember to set the frequency on your radio, when you mount the
+amp.
+Crane: (Yeah, yeah.) Yeah... got it.
+
+Crane: Of course it waits till I'm all the way up here to stop raining.
+Crane: Anyone who can hear me, please listen! My name is Kyle Crane, and I'm
+sending this message from inside the Harran quarantine!
+Crane: Colonel Taner and the Ministry of Defense have lied to you! There are
+still survivors inside the walls!
+Crane: They plan to firebomb Harran, but if those bombs drop, you will know
+Taner and the Ministry are cold-blooded murderers!
+Radio Voice: Holy sh*t... there's someone alive in the quarantine zone...
+Radio Voice: Hey, do you copy? ... copy? It's...
+Radio Voice: I knew it... I knew it!
+Crane: Oh, that was too close...
+GRE: Crane? Is that you? Do you copy?
+Crane: The hell do you want?
+GRE: We want to offer you a chance to get out of that horrible place.
+Crane: Oh yeah? And why would you do that? I never found out who had your
+precious file. You don't even have to pay the rest of my fee.
+GRE: Water under the bridge, Kyle! We're best off just to move past that.
+GRE: All you need to do is bring Dr. Zere's research with you, and we'll send a
+nice, safe helicopter to extract you.
+Crane: ... You realize, I know what was in the file. I know you were going to
+exploit the virus.
+GRE: Crane-
+Crane: Oh my GOD. You need the cure now for SPIN, don't you?
+Crane: That's the only way you could get out of this - try to convince everyone
+you were working toward a cure the whole time!
+GRE: Don't be ridiculous, Crane. Bring us the research and everything will be
+fine.
+Crane: You want the research? Then just f*ck*ng wait for my signal.
+Crane: Savvy, you there? The amplifier's installed!
+Savvy: Brilliant, Crane! Now just zipline down - that tunnel I mentioned is
+near where you'll land.
+Crane: F*ck! No no NO!
+Crane: Yeah, nothing can go wrong with this plan...
+
+--------
+Old Town
+--------
+Crane: Dr. Camden? This is Kyle Crane. Can you hear me?
+Camden: I can hear you. Are you on your way? I'm ready to work, just bring me
+the samples.
+Crane: That's exactly what I intend to do, Doc.
+Camden: Just remember... I'm surrounded by an army of infected.
+Crane: Affirmative. Expect me soon.
+Camden: Good. Not like I'm going anywhere.
+
++++++++++++++++++++++
+- The Clinic [STO-14]
++++++++++++++++++++++
+
+Camden: You must be Crane. I can see you through the security cameras.
+Crane: That's me. Name's Crane.
+Camden: Use the elevator. Push the button for the bottom floor.
+Crane: Got it.
+
+------------
+Camden's lab
+------------
+Camden: I was sad to hear about Dr. Zere. He and I were thrilled to get the
+chance to study the Harran Virus...
+Camden: Not to mention, the GRE paid us quite handsomely.
+Camden: (Oh.) By the way, we're on backup power now, so we have minimal
+functionality.
+Camden: I needed extra power for my last experiment and the generators
+overheated and shut down.
+Camden: I hope you don't mind me reminiscing out loud like this.
+Camden: It's been quite a number of weeks since I've had the prospect of
+talking to an actual live human, in person.
+Camden: Oh - and the door leading to the main corridor can only be opened
+manually.
+Camden: You'll have to get to the security room and throw the switch.
+Crane: On my way.
+Camden: All right, now go down the main corridor. The lab is on the left.
+Camden: When the outbreak happened, Zere and I stayed in the quarantine to work
+on the cure.
+Camden: You know who was supposed to protect us? Kadir Suleiman! Rais himself!
+Camden: THAT worked out just perfectly.
+Camden: Okay. The only way into the lab is through the decontamination room.
+The entrance is to the right.
+Camden: Everything went straight to hell after Rais's brother died, you know.
+Camden: Rais went from a guy with monstrous tendencies to a full-blown monster.
+Camden: You'll have to run the decontamination protocol to unlock the doors.
+Camden: It won't work without full power, though. That's where the generators
+come in.
+Camden: Head to the offices. Once you're there, I'll point you in the right
+direction.
+Crane: All right, I'm on it...
+Camden: Zere and I got to safety with the help of a GRE operative - a man very
+similar to you...
+Camden: The operative who helped us was supposed to evacuate alongside us...
+but you can guess how well that worked out, since Zere and I both got stuck
+here.
+Camden: Be extra careful, now - I never cleared the Infected from that part of
+the facility, as I've never had a reason to go in there.
+Camden: I got separated from the two of them, but I made it here, to this
+clinic. I really had no other option than to work on finding a cure.
+Camden: Watch it - I'm opening the door.
+Camden: Zere and the operative fell in with Brecken's crowd. I guess I would
+have as well, if I'd been able to get to them.
+Camden: Hmm... I'm sorry about this, but the only way to get to the generator
+room is through the ventilation shafts.
+Camden: The shafts lead to the stockroom. From there you can reach the hallway
+and then the generators.
+Crane: Man, I hope two is enough...
+Camden: Good job. Now head back to the decontamination room.
+Camden: You know, I suspect, even if Zere had been able to leave the
+quarantine, he wouldn't have.
+Camden: He and the operative both felt the need to stay and help people.
+Camden: Push the button by the door to begin the process.
+Camden: All right. Now you can come in.
+
+Camden: Crane, glad to be finally shaking hands with you. Now, let's have those
+tissue samples, shall we?
+Crane: Doc... mind if I show you a photo?
+Camden: No, no, no... just, just, just... one minute.
+Camden: All right. We'll just let that run. That's gonna take quite a while.
+Now, what was it you wanted to say?
+Camden: Hey! That's him! That's the GRE operative I was telling you about!
+What's his name?
+Crane: Amir.
+Camden: Yes! YES! Amir Ghoreyshi! ... What are you doing with a picture of him?
+Crane: We, uh... had a mutual friend.
+Camden: The samples are still viable. That's good. With some luck, your trip
+here won't have been for nothing.
+Camden: Where is the rest of the data, by the way? I know Zere prepared two
+packages.
+Crane: I'll have to get back to you on that, Doc. Right now I have some GRE
+sh*theads to confront.
+Camden: GRE? ... Crane, you watch yourself around them. Their public face is a
+lie of epic proportions. Those people are all heartless, lying b*st*rds.
+Crane: I hear you, Doc. And thanks, I'll be in touch.
+
+--------
+Old Town
+--------
+Camden: Listen, Crane, I've got to reiterate: you'd better watch your back,
+your front, and both sides with those GRE b*st*rds. They'll screw you if they
+get the chance.
+Crane: I know, Doc. I'll be careful. I just need to figure out where things
+stand.
+
+Crane: Troy? I gave the samples to Dr. Camden. Now I'm gonna have a little talk
+with the GRE.
+Troy: And what are you going to tell them?
+Crane: Everything... I'll meet you later, Troy.
+Crane: This is Crane. Do you copy?
+Rais: Kyle Crane. You can hear me, can you not?
+Crane: Rais! Where are you?
+Rais: Exactly where I should be - atop my own Tower. Of course, mine is not
+quite complete...
+Rais: ...but it still stands as a monument to chaos... to entropy. To what it
+means to be ruled only by oneself.
+Crane: I'll kill you. For what you did to Jade... for EVERYTHING. I'll f*ck*ng
+KILL YOU.
+Rais: I had hoped that would be your attitude. You see, we are at war, you and
+I.
+Rais: A war of opposing philosophies. A war to see whose vision of the world
+proves true.
+Rais: Come, Crane. Come and challenge me. What is it you Americans are so fond
+of saying... ? "I dare you."
+Crane: You know what? ... Forget it. There's no "war". There's only your
+f*ck*d-up outlook. Go to hell.
+Rais: Oh, no, I won't be going to hell. I will be leaving Harran, though.
+Rais: You see, I have made a deal with our GRE brothers. Using your very own
+communicator, no less.
+Rais: They know I have all of Dr. Zere's research data.
+Rais: They called it "the keys to the kingdom". Very shortly a helicopter will
+come and take me away.
+Rais: Imagine the damage I shall be able to do, outside the confines of these
+walls! Of course, if you think you can stop me...
+Crane: You crazy son of a B*TCH.
+Rais: THAT is what I had hoped to hear. Come and find me, Crane. Let us finish
+what we began.
+
++++++++++++++++++++++
+- Extraction [STO-15]
++++++++++++++++++++++
+
+Crane: Oh sh*t... what the hell... ?
+Rais: I knew you could not resist, Crane.
+Crane: Would you just shut up? You're the last thing I want to hear.
+Rais: What? HEAR me? What a brilliant idea!
+Rais: There... much better. It is fitting than an orchestra plays when kings
+clash.
+Rais: THERE... the agents of my will!
+Rais: Run, Crane, run. It's what you slaves are good at, right? Run or die!
+Rais: Quite an entrance. Perhaps you ARE a king... a king of MUD.
+Rais: Here, Crane...
+Rais: ... accept an offering to the king!
+Rais: You cannot kill me. You cannot defeat me.
+Rais: You cannot even REACH me.
+Rais: And yet you try and try. Let me offer you a bit of accompaniment.
+Rais: The music of SUFFERING. Played by slaves... perfect for a slave!
+Rais: Come on, come on... faster, goddammit...
+Karim: Crane. Rais said you would come...
+Crane: You've been shot! What the f*ck is going on?
+Karim: This is... what we get for... trying to make a living.
+Karim: Rais... betrayed us all.
+Crane: Yeah, I'm on my way up there, Karim. I'm going to kill that motherf*ck*r
+with my bare hands.
+Karim: Not... this way. We've laid mines on the... two floors above us... Go
+through the second block... As high as you can... Then... you can come back...
+Crane: Goodbye, Karim.
+Crane: AAAAAAAAAAAAAAAA!!!
+Rais: Hmmm. Karim managed to warn you, did he not? I was right to shoot him.
+Rais: Some might think it unsporting of me, taking aim at you like this.
+Crane: I liked you better when you didn't talk so d*mn much...
+Rais: But I consider it a matter of... let us call it "leveling the playing
+field". That is a term you can understand, yes?
+Rais: You sound as if that hurt, Crane.
+Rais: Allow me to add to your suffering!
+Rais: I cast the deciding vote, Crane.
+Rais: Consider yourself expelled!
+Rais: Do you know how many men have bested me in a fight before, Crane?
+Rais: None. No one. NEVER.
+Rais: Consider yourself a member of an exclusive club.
+Crane: Where are you hiding, you f*ck*r!?
+Rais: Sad for you, it is a club I mean to disband.
+Rais: Poor Crane! So consumed with emotion.
+Rais: Burning with the need for revenge...
+Rais: Eaten alive by hatred.
+Rais: Such feelings make you WEAK.
+
+------------
+Rais' demise
+------------
+Rais: So... face to face again. I guess that means I don't need this anymore...
+Crane: With or without it, Suleiman, you're dead.
+Rais: Come now, Crane. Do not pretend you don't care. How many lives depend on
+this disc? Hundreds? Thousands? ... Perhaps BILLIONS?
+Rais: You are right about one thing, Crane...
+Rais: ... Suleiman is dead!
+Rais: He died with his brother. In this city.
+Rais: You don't even belong here. You don't know what suffering is.
+Rais: I will teach you, Crane... you will suffer alongside me!
+Rais: Yes... Go on... You cannot resist... Do it. I won't fight you. Just as
+you killed Tahir - DO IT.
+Crane: F*ck you, *sshole. You want me to make my own rules? Here's rule #1:
+you're gonna spend the rest of your godd*mn life in f*ck*ng agony.
+Rais: Do not... leave me like this, Crane.
+Rais: Prove you are a man. Take your vengeance!
+Crane: God, will you just SHUT THE F*CK UP!
+(Rais: Crane!)
+Rais: How the tables have turned... in the blink of an eye. If I were trapped
+in Harran, this wound would have killed me.
+Rais: But now YOU dangle on the edge of life and death, while the GRE wait to
+take ME to a hospital.
+Rais: I give you... the HONOR... of deciding your own fate. Hand me the disc...
+so that there is at least a CHANCE that Harran might live... and I will make
+your death painless.
+Rais: Or resist, and doom the city along with you. You have until the count of
+five.
+Rais: One... two... 
+Crane: All right! All right! Here!
+Crane: How's THAT for a decision? *sshole.
+
+Crane: What do you want?
+GRE: Rais already told us he had that dead scientist's data. All we're
+interested in is the cure. We're offering you a chance, here!
+GRE: Get the rest of the research and come with us!
+Crane: I can think of a lot of reasons to tell you to go f*ck yourself, but why
+don't we pretend for a minute that you DON'T think I'm stupid?
+Crane: You need the cure. It's here, in the city... somewhere. And as long as
+it is, you won't try to pull any Ministry-style b*llsh*t.
+GRE: Crane, why do you even GIVE a f*ck what happens to these people? You don't
+belong here! This is just a job for you!
+Crane: (No.) Not anymore, it's not... I'll be in touch when I've decided what
+to do next.
+Camden: Crane? Can you hear me? It's Camden!
+Crane: Yeah, I hear you. What's going on, Doc?
+Camden: The analysis just finished on the tissue samples! The results are...
+well, I don't think the word "phenomenal" is too strong!
+Camden: Crane, if you can recover Zere's data, I'm CERTAIN a cure is within
+reach!
+Crane: All right.
+Crane: We'll talk about it next time I see you.
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "Dying Light: Game Script FAQ" to remind me that you are not
+spam. If not, the subject should be at least close to the previous one and I
+will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs and SuperCheats for hosting the FAQ.
+
+To Techland for making the game.
+
+To you, as the reader.
+
+END OF DOCUMENT--------------------------------------------------------------  

@@ -1,0 +1,539 @@
+Hall of Fame FAQ:
+
+Name of Game: WWE SmackDown vs. Raw 2008
+
+Platform: PS2 / PSP
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. Unlockables
+                - Alternate Attire........................................[ATT]
+                - Arenas..................................................[ARE]
+                - Legend Championships....................................[CHA]
+                - Legend Superstars.......................................[SUP]
+        B. Ranks..........................................................[RNK]
+        C. Challenges.....................................................[CHL]
+                - January 22, 1995......................................[CHL-1]
+                - March 31, 1996........................................[CHL-2]
+                - March 23, 1997........................................[CHL-3]
+                - April 13, 1997........................................[CHL-4]
+                - June 28, 1998.........................................[CHL-5]
+                - August 27, 2000.......................................[CHL-6]
+                - March 26, 2001........................................[CHL-7]
+                - April 1, 2001.........................................[CHL-8]
+                - April 3, 2005.........................................[CHL-9]
+                - April 3, 2005........................................[CHL-10]
+                - May 25, 2006.........................................[CHL-11]
+                - June 12, 2006........................................[CHL-12]
+        D. Frequently Asked Questions.....................................[FAQ]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hello, this FAQ covers the Hall of Fame mode found under Game Mode. It also
+covers the Introduction of each challenge and strategies to beat them. I also
+included a Frequently Asked Questions section for those who may have trouble
+beating the challenge.
+
+WWE SmackDown vs. Raw 2008 is owned by THQ. All trademarks are subjected to
+THQ.
+
+Copyright (c) THQ.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Feb 17, 2008
+= Submitted the FAQ.
+
+Version 1.1 - Mar 4, 2008
+= Added a new Question and Answer in Frequently Asked Questions of this FAQ.
+
+Version 1.2 - June 21, 2008
+= Added Ranks section.
+
+Version 1.3 - Mar 9, 2009
+= Big revision. Margin of this file was now changed to 80. 
+= Corrected so many errors along with some bits of additions.
+
+Version 1.4 - Apr 5, 2009
+= Completed on editing the strategies section. 
+= Minor errors fixed.
+
+Version 1.5 - Aug 27, 2016
+= Revival. Re-structured the document. Corrected some grammar errors.
+= Changed all section codes so that search is easier.
+= Renamed "What you get" section to "Unlockables".
+= Strategies from each challenge are now placed in "Challenges" section rather
+than having a separate section for it.
+= Interchanged sections "Ranks" and "Challenges".
+= Added description for "Ranks" section.
+= Added "Arenas" and "Legend superstars" sub-sections.
+
+Version 1.6 - Sep 11, 2016
+= Re-arranged the unlockables in "Legend Superstars" sub-section.
+= Added "Alternate Attire" and "Legend Championships" sub-sections.
+= Changed the section code of "Legend Superstars" sub-section from [LGD] to
+[SUP].
+= Added missing ranks in "Ranks" sub-section (from Midcarder to Hall of Famer).
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. Unlockables
+-------------------------------------------------------------------------------
+
+++++++++++++++++++++++++
+- Alternate Attire [ATT]
+++++++++++++++++++++++++
+
+All alternate attires cost $60,000. By purchasing them, you also get to unlock
+their respective DX entrances.
+
+> Shawn Michaels (D-X) - In Hall of Fame mode, defeat Triple H and Shawn
+Michaels on Legend Difficulty.
+
+> Triple H (D-X) - In Hall of Fame mode, defeat Triple H and Shawn Michaels on
+Legend Difficulty.
+
+++++++++++++++
+- Arenas [ARE]
+++++++++++++++
+
+When you finish a number of challenges, you unlock an arena. Below are the list
+of the rewards you will get when you finish a number of challenges.
+
+ _______________________________________________________
+|       UNLOCKABLE ARENA       | CHALLENGES TO COMPLETE |
+|------------------------------|------------------------|
+| No Way Out arena             | 5 challenges           |
+|------------------------------|------------------------|
+| Vengeance arena              | 6 challenges           |
+|------------------------------|------------------------|
+| ECW One Night Stand arena    | 7 challenges           |
+|------------------------------|------------------------|
+| December to Dismember arena  | 8 challenges           |
+|------------------------------|------------------------|
+| New Year's Revolution arena  | 9 challenges           |
+|------------------------------|------------------------|
+| SummerSlam arena             | 10 challenges          |
+|------------------------------|------------------------|
+| WrestleMania 23 arena        | 12 challenges          |
+ -------------------------------------------------------
+
+++++++++++++++++++++++++++++
+- Legend Championships [CHA]
+++++++++++++++++++++++++++++
+
+To purchase each of the legend championships, obtain the rank "Hall of Famer"
+in Hall of Fame mode. All championships cost $20,000.
+
+> Hardcore Championship
+DEFAULT CHAMPION: Tommy Dreamer
+
+> The Million Dollar Championship
+DEFAULT CHAMPION: Shane McMahon
+
+> WCW Classic World Championship
+DEFAULT CHAMPION: Ric Flair
+
+> WWE Attitude Heavyweight Championship
+DEFAULT CHAMPION: "Stone Cold" Steve Austin
+
++++++++++++++++++++++++++
+- Legend Superstars [SUP]
++++++++++++++++++++++++++
+
+By completing certain challenges, you unlock a Legend corresponding to that
+challenge. All superstars cost $210,000.
+
+> Bret "Hitman" Hart - In Hall of Fame mode, defeat him as Shawn Michaels on
+Legend difficulty.
+
+> Mick Foley - In Hall of Fame mode, defeat him using Undertaker on Legend
+difficulty.
+
+> Terry Funk - Using any superstar, defeat Tommy Dreamer, Sabu and Sandman in
+an ECW Extreme Rules Fatal-4-Way match on Legend difficulty.
+
+> The Rock - In Hall of Fame mode, defeat him as Stone Cold on Legend
+difficulty.
+
+> "Stone Cold" Steve Austin - In Hall of Fame mode, defeat him as Bret Hart on
+Legend difficulty.
+
+-------------------------------------------------------------------------------
+B. Ranks [RNK]
+-------------------------------------------------------------------------------
+
+As you complete a certain number of challenges, your rank will change. Here is
+a list of the required challenges to complete along with the name.
+
+ _________________________________________
+|    RANK NAME   | CHALLENGES TO COMPLETE |
+|----------------|------------------------|
+| Jobber         | 0 challenges           |
+|----------------|------------------------|
+| Curtain Jerker | 1 challenges           |
+|----------------|------------------------|
+| Rising Star    | 3 challenges           |
+|----------------|------------------------|
+| Midcarder      | 5 challenges           |
+|----------------|------------------------|
+| Main Eventer   | 6 challenges           |
+|----------------|------------------------|
+| Veteran        | 7 challenges           |
+|----------------|------------------------|
+| Hall of Famer  | 8 challenges           |
+ -----------------------------------------
+
+-------------------------------------------------------------------------------
+C. Challenges [CHL]
+-------------------------------------------------------------------------------
+
+Challenges can be done in any order. The Hall of Fame mode is accessible under
+Game Modes then Hall of Fame.
+
+++++++++++++++++++++++++++
+- January 22, 1995 [CHL-1]
+++++++++++++++++++++++++++
+
+> Arena: Royal Rumble
+> Date: January 22, 1995
+> Goal: Using any superstar in Exhibition: 30-Man Royal Rumble mode, arrive 1st
+in the ring and then win on Legend Difficulty.
+
+> Introduction: In 1995, Shawn Michaels made sports entertainment history by
+entering the Royal Rumble match as the 1st participant, and outlasting 29 other
+Superstars to stand victorious in the end. The Showstopper was the first
+first Superstar to ever achieve this feat, and in doing so, gave a new
+definition to the term intestinal fortitude. Now its your turn to follow his
+footsteps.
+
+Strategy: I suggest using any Super Heavyweight superstar to ease out this
+challenge. After picking that Super Heavyweight Superstar, select all the Light
+Heavyweight superstars from the Royal Rumble superstar selection screen. Pick
+Rey Mysterio, as he is the only Cruiserweight superstar in the game. After all
+Light Heavyweight Superstars are all selected, go with the Heavyweights.
+
+In the match, try to let other superstars beat each other up before eliminating
+them. Outlasting 29 other superstars is hard so stay in the corner as much as
+possible so you could take a break. Eliminate the last superstar to win.
+
+++++++++++++++++++++++++
+- March 31, 1996 [CHL-2]
+++++++++++++++++++++++++
+
+> Arena: WrestleMania
+> Date: March 31, 1996
+> Goal: Using Shawn Michaels in Direct Challenge Mode, defeat Bret Hart in a
+One on One 30-Minute Iron Man Match on Legend Difficulty.
+
+> Introduction: In WrestleMania XII, The Heartbreak Kid and The Excellence of
+Execution delivered what would come to be known as the greatest WrestleMania
+match in history. Test your Endurance and recreate this legendary battle by
+fighting your way through to the very end.
+
+Strategy: For me, this is the first challenge I took. This is simple. The Match
+Rules that you set in the Options Menu will affect this challenge so I suggest
+you use weapons. I usually forgot to set the DQ off so I have to fight Bret
+Hart without the use of weapons. The strategy here is to punch him when Bret
+Hart is about to grapple you. Make good use of Shawn Michaels' speed, as he's
+one of the fastest wrestlers in the game.
+
+++++++++++++++++++++++++
+- March 23, 1997 [CHL-3]
+++++++++++++++++++++++++
+
+> Arena: WrestleMania
+> Date: March 23, 1997
+> Goal: Using Bret Hart in Direct Challenge Mode, defeat Stone Cold in a
+Submission match on Legend Difficulty.
+
+> Introduction: At WrestleMania 13, Bret Hitman Hart and Stone Cold Steve
+Austin squared off in a brutal submission match that helped user in the
+Attitude era of World Wrestling Entertainment. Experience this confrontation
+again as somebody is going to tap... will it be you?
+
+Strategy: This one is also easy because Bret Hart is a Submission superstar so
+you can't get off the ring just like there in SvR 2007. Stone Cold won't be a
+nuisance superstar so try your best to beat him. Use diving moves as much as
+possible. Target his legs so that he could easily tap out to your Sharpshooter.
+
+++++++++++++++++++++++++
+- April 13, 1997 [CHL-4]
+++++++++++++++++++++++++
+
+> Arena: ECW
+> Date: April 13, 1997
+> Goal: Using any Superstar, defeat Tommy Dreamer, Sabu and Sandman in ECW
+Extreme Rules match of Fatal 4-Way at ECW arena on Legend Difficulty.
+
+> Introduction: On April 13, 1997, ECW kicked the door open and burst onto the
+national wrestling scene by putting on their 1st PPV event. Now it's time for
+you to step into the ring with three ECW Originals and enter the House Of
+Extreme!
+
+Strategy: This is maybe a bit hard because all of the superstars that you will
+be facing are all Hardcore experts! Pick out any superstar that has high
+overall like John Cena (has the highest overall in the game). I picked Edge
+here and put the title on the line because he is a hardcore expert too. Use
+Edge's Hardcore Resurrection to heal part of your limbs whenever necessary.
+
++++++++++++++++++++++++
+- June 28, 1998 [CHL-5]
++++++++++++++++++++++++
+
+> Arena: Vengeance
+> Date: June 28, 1998
+> Goal: Using Undertaker in Direct Challenge Mode, defeat Mick Foley in a Hell
+in a Cell match on Legend Difficulty.
+
+> Introduction: There is no introduction needed for one of the most famous
+matches in WWE History. Dare to climb into the sadistic Hell in a Cell
+structure and experience this legendary bout for yourself, but be forewarned...
+you may not walk out the same man.
+
+Strategy: At the start of the match, get out quickly of the ring. Push the door
+so that you will be outside the cell. Quickly go up and wait for Mick Foley to
+go up also. When you're both there, quickly put him down the cell by doing any
+slam or some lift up attacks on the middle of the cell. There are two of them
+so after the first cell is done, you should arrive at the ring because you fell
+down. Now you can do your Rampage and do it to Mick Foley. The Rampage lets you
+endure the attacks without falling to the ground. Use it when you get the
+chance and win.
+
++++++++++++++++++++++++++
+- August 28, 2000 [CHL-6]
++++++++++++++++++++++++++
+
+> Arena: SummerSlam
+> Date: August 28, 2000
+> Goal: Using any two Superstars, defeat The Hardys in a Two on Two TLC Match
+in SummerSlam on Legend Difficulty.
+
+> Introduction: Matt & Jeff Hardy made a name for themselves by constantly
+putting their bodies on the line, paving the way for a new daredevil style of
+in-ring performance. Do you have what it takes to go up against Team Extreme in
+one of their trademark TLC matches?
+
+Strategy: I don't have a good strategy here. Pick on Matt Hardy because his
+overall is lower than his brother Jeff. Basically, diving moves works better on
+Jeff as well but be forewarned, he will counter almost every diving move you
+make. Use weapons at your advantage to deal massive damage to the brothers.
+
+++++++++++++++++++++++++
+- March 26, 2001 [CHL-7]
+++++++++++++++++++++++++
+
+> Arena: None
+> Date: March 26, 2001
+> Goal: Play in GM of WWE 24/7 Mode and obtain GM of the Year award.
+
+> Introduction: On March 26, 2001, Vincent Kennedy McMahon shocked the sports
+entertainment world by purchasing World Championship Wrestling and ending the
+Monday Night Wars. Make Mr. McMahon proud by demonstrating once again that he
+who laughs last, truly laughs best.
+
+Strategy: Achievable in GM Mode. You can put your second player controller to
+either RAW or SmackDown!. The first controller should choose either the three
+brands before the second controller does or Vice-versa. The Match Card will
+only be filled with 5 slots this time unlike there in SvR 2007, which has a
+total of 6 slots. Now just go up until you reach WrestleMania and get that
+championship belt or defend it to that same brand Superstar to complete this
+challenge.
+
++++++++++++++++++++++++
+- April 1, 2001 [CHL-8]
++++++++++++++++++++++++
+
+> Arena: WrestleMania
+> Date: April 1, 2001
+> Goal: Using Stone Cold in Direct Challenge Mode, defeat The Rock on Legend
+Difficulty.
+
+> Introduction: The Texas Rattlesnake and The Great One added another chapter
+to their long running feud, this time in front of 67,925 fans. Relive this epic
+encounter from WrestleMania 17.
+
+Strategy: This is a bit of a challenge. The Rock will always counter the
+attacks your attacking him with. Stone Cold has a lesser Overall than The Rock
+so just pick him up with submissions or weapons. It doesn't matter. The Rock
+will always do his The People's Elbow when your down.
+
++++++++++++++++++++++++
+- April 3, 2005 [CHL-9]
++++++++++++++++++++++++
+
+> Arena: WrestleMania
+> Date: April 3, 2005
+> Goal: On Legend Difficulty, create a Money in the Bank match with Mr.
+Kennedy, Edge, Matt Hardy, Finlay, Jeff Hardy and defeat them with any
+remaining Superstar.
+
+> Introduction: WrestleMania 21 showcased the first ever Money in the Bank
+Ladder Match, that quickly became a staple at the The Granddaddy of Them All.
+Now, battle it out with all three past winners and grab that briefcase!
+
+Strategy: It's a tough battle so I suggest leaving this for awhile. Pick out
+any superstar who has an excellent Overall and use him to brawl one superstar
+at a time. I picked Undertaker and tried to pick Jeff Hardy out. He is easy to
+defeat. So I picked Finlay as second, then Matt Hardy, Edge and Mr. Kennedy as
+the last. Usually, it doesn't have to be in this order though. When in doubt,
+take a rest outside the ring and let the opponents brawl each other. It took me
+only 20 minutes to finish up this hard challenge.
+
+++++++++++++++++++++++++
+- April 3, 2005 [CHL-10]
+++++++++++++++++++++++++
+
+> Arena: None
+> Date: April 3, 2005
+> Goal: Create a WWE Championship title and raise its prestige to the highest
+possible value.
+
+> Introduction: When John Cena won the WWE Championship title at WrestleMania
+21, he wasted no time putting his own spin on sports entertainment's richest
+prize by creating his very own custom Championship title. Now its up to you to
+do the same.
+
+Strategy: This challenge is pretty simple. Earn at least $50,000 cash or more
+then go to Create a WWE Championship belt under Create Mode. Just purchase the
+most expensive items you can afford on. Then go back to Hall of Fame to get a
+message "April 3, 2005 was cleared".
+
++++++++++++++++++++++++
+- May 25, 2006 [CHL-11]
++++++++++++++++++++++++
+
+> Arena: None
+> Date: May 25, 2006
+> Goal: Using any Superstar, win the King of the Ring Tournament of Tournament
+Mode on Legend Difficulty.
+
+> Introduction: The King of the Ring Tournament has launched the careers of WWE
+greats Bret Hart, Steve Austin, Triple H and Edge. The contest returned in 2006
+where Booker T was victorious. Can you become The King of the World?
+
+Strategy: Any Superstar will do here. Just win the match. I used King Booker.
+Pick out Light Heavyweights first so that when you face them, you can just win
+the match quickly.
+
+++++++++++++++++++++++++
+- June 12, 2006 [CHL-12]
+++++++++++++++++++++++++
+
+> Arena: RAW
+> Date: June 12, 2006
+> Goal: Create a Stable and max-out its Teamwork Attributes. Then use this
+Stable to defeat D-Generation X in a Two on Two Tag Team Match on Legend
+Difficulty.
+
+> Introduction: The June 12, 2006 edition of Monday Night RAW featured the
+return of arguably the most popular stable of all-time, D-Generation X. Now,
+build up a Tag Team Stable of your own and show Triple H and Shawn Michaels
+that D-Generation X is a thing of the past.
+
+Strategy: You can just spam them both with some weapons and put one of them in
+the announcers table to damage all of the limbs. Toe Kick usually works here
+because it damages all of the enemy's limbs. Pick weapons and bash them with
+it. Win the match by pinfall or submission.
+
+-------------------------------------------------------------------------------
+D. Frequently Asked Questions [FAQ]
+-------------------------------------------------------------------------------
+
+Q - Who is the best superstar to use when I attempt the 30-man Royal Rumble
+    challenge and arriving 1st at the ring?
+A - It's your choice. Pick a Super Heavyweight superstar like Undertaker.
+    Remember that it's easy to win this challenge if you put all light
+    heavyweights first.
+
+Q - How do you clear the challenge wherein you fight in the ECW originals in
+    ECW arena?
+A - I suggest using any superstar that has at least a hardcore fighting style.
+    Use weapons at your disposal.
+
+Q - About how many weeks can I finish the GM of the Year award?
+A - That depends. If you wanna know how much amount you get from clearing that
+    task, refer to the 24/7 GM Mode FAQ of pmattingly. He gives out the correct
+    info and amount you get from clearing the task.
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "WWE SVR 2008: Hall of Fame FAQ" to remind me that you are
+not spam. If not, the subject should be at least close to the previous one and
+I will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+
+To THQ for making the game.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

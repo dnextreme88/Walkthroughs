@@ -1,0 +1,504 @@
+BotProfile FAQ:
+
+Name of Game: Counter-Strike: Condition Zero
+
+Platform: PC
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. What is a "Bot Profile"?.......................................[WHT]
+        B. Accessing "Bot Profile"........................................[ACC]
+        C. Editing the BotProfile.........................................[EDT]
+        D. Weapon Preferences Templates...................................[WPN]
+        E. Skill Templates................................................[SKL]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hi and welcome to my Bot Profile FAQ. This FAQ will guide you on how to edit or
+define your own bots for your Counter-Strike: Condition Zero game. I hope you
+find this guide useful on how you can edit your own bots.
+
+Counter-Strike: Condition Zero is owned by Valve. All trademarks are subjected
+to Valve.
+
+Copyright (c) Valve.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Feb 17, 2008
+= Submitted the FAQ.
+
+Version 1.1 - Sep 11, 2010
+= Re-submitted the FAQ.
+= Corrected minor errors.
+
+Version 1.2 - Sep 12, 2016
+= Revival. Re-structured the document. Corrected some grammar errors.
+= Changed all section codes so that search is easier.
+= Removed "About" section and placed its contents in "Introduction" section.
+= Fixed all indentions not properly showing up.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. What is a "Bot Profile"? [WHT]
+-------------------------------------------------------------------------------
+
+Bot Profile - it's a collection of bot personalites for your Counter-Strike:
+Condition Zero game. To put it simplier, this has a list of bot names set up
+by Valve themselves. You can, however, edit these at your will and change those
+names to your liking. I will explain more of that later.
+
+-------------------------------------------------------------------------------
+B. Accessing "Bot Profile" [ACC]
+-------------------------------------------------------------------------------
+
+You can edit the bot names by accessing the BotProfile.db file. To do that, 
+just go to:
+
+-------------------
+POSSIBLE LOCATIONS:
+[A]- C:\Program Files\Valve\Condition Zero\czero
+
+Or it can also be...
+
+[B]- C:\Program Files\Valve\Steam\SteamApps\"yourname"\condition zero\czero
+-------------------
+
+When you're in that folder, go click "BotProfile.db". It should look like this:
+
+[A]- C:\Program Files\Valve\Condition Zero\czero\BotProfile.db
+
+[B]- C:\Program Files\Valve\Steam\SteamApps\"yourname"\condition zero\czero\
+BotProfile.db
+
+If this is your first time opening a file like this, something like this will
+appear...
+
+ _____________________________________________________________________________
+| "You are attempting to open a file of type 'Data Base File' (.db)           |
+|                                                                             |
+| These files are used by the operating system and by various programs.       |
+| Editing or modifying them could damage your system.                         |
+|                                                                             |
+| If you still want to open the file, click Open With, otherwise, click       |
+| Cancel."                                                                    |
+ -----------------------------------------------------------------------------
+
+- In order to proceed, go click "Open With...". Then among the options, select
+Notepad or Notepad++ (if you have that downloaded).
+
+With that, you now have the freedom to edit the bot names at your own will. The
+first line of the file is just the copyright and the author and a line that is
+saying that you are given the right to edit that file.
+
+-------------------------------------------------------------------------------
+C. Editing the BotProfile [EDT]
+-------------------------------------------------------------------------------
+
+You may have that free will and freedom to edit the bot names, but some ground
+rules should be taken into consideration when editing these bot names:
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+- Bot names should be no longer than 31 characters.
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+If the bot's name is long, it'll cause the excess characters not to be shown in
+the scoreboard. One other tip, if you want bots to not have "one-word names",
+their names should be enclosed in quotes ("). The original BotProfile.db file
+doesn't enclose bot names with quotes (") and if you want bots to have names
+like, say "Bot A", just put something like "Easy Bot A" (including the quotes).
+Otherwise, there'll be an error message when you try to connect to your own
+listen server.
+
++++++++++++++++++++++++++++++++++++++++++++++++
+- Bots should have the correct weapon template.
++++++++++++++++++++++++++++++++++++++++++++++++
+
+This only applies if you want that bot to use specific guns. Giving out a wrong
+template makes the bot have the will to use random guns and not those specific
+guns. Let's take this as an example:
+
+VeryHard+Sniper Quinn
+        Skin = 3
+        VoicePitch = 93
+End
+
+-------
+LEGEND: 
+        VeryHard - the difficulty of the bot.
+        Quinn - name of the bot
+        Skin - force the bot to use the specified skin number. This makes the 
+bot to always use skin "3" whenever in the game. Remove this line if you want
+the bot to use any skin.
+        VoicePitch - the voice of the bot when making a radio command.
+        End - needed to end the template. Should you not have this after the 
+bot, the game won't include that bot while in a game.
+-------
+
+The 'Sniper' refers to the weapon template that bot will be using. In a default
+'Sniper' weapon template, the guns that the bot will be using are:
+
+        awp  : Magnum Sniper Rifle
+        sg550: Krieg 550 Commando
+        g3sg1: D3/AU-1
+        scout: Schmidt Scout
+        famas: Clarion 5.56
+        galil: IDF Defender
+        mp5  : K&M Sub-Machine Gun
+
+In this case, bot "Quinn" can use any of the aforementioned guns but usually,
+the first gun in line which is "awp" will always be used. When the bot runs out
+of funds, alternate guns can be used such as the sg550, g3sg1 and scout.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- Bots can only be fought when you select the difficulty of that bot.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+For instance, bot "Quinn" can only be fought if you select either the
+difficulties "Hard" or "Expert". This is because of the prefix "VeryHard".
+However, you can fight "Quinn" if you change the "Hard" or "Expert" lines to
+"Easy" and/or "Medium".
+
+However, a certain bot can have a chance to appear in more than one difficulty
+if you include a + sign. Example, if you want the bot named "Quinn" to have a
+chance to appear at the Hard and Expert difficulty, you must follow these
+steps:
+
+1) Press Ctrl+F while BotProfile.db is open and place "skill templates".
+2) Find "Template VeryHard" which looks like this:
+
+Template VeryHard
+        Skill = 80
+        Aggression = 80
+        ReactionTime = 0.25
+        Cost = 3
+        Difficulty = HARD
+        VoicePitch = 92
+End
+
+3) On the difficulty, add "+EXPERT" (without the quotes) so it will look like
+"Difficulty = HARD+EXPERT".
+4) Save document and since Quinn is VeryHard (by default), he'll have a chance
+to appear in the EXPERT difficulty also.
+
++++++++++++++++++++++++++++++++++++
+- Bots will use the specified skin.
++++++++++++++++++++++++++++++++++++
+
+This is possible. By adding "Skin = X" (where X is 1-4), you will be able to
+force the bot to use that skin. Here are the corresponding skins the bot will
+be using with the specified skin number:
+
+ ________________________________
+|# 1                             |
+| Terrorist: PHOENIX CONNEXION   |
+| Counter-Terrorist: SEAL-TEAM 6 |
+|--------------------------------|
+|# 2                             |
+| Terrorist: L337 KREW           |
+| Counter-Terrorist: GSG-9       |
+|--------------------------------|
+|# 3                             |
+| Terrorist: ARCTIC AVENGERS     |
+| Counter-Terrorist: SAS         |
+|--------------------------------|
+|# 4                             |
+| Terrorist: GUERILLA WARFARE    |
+| Counter-Terrorist: GIGN        |
+ --------------------------------
+
++++++++++++++++++++++++++++++++++++++++++++++
+- No special UNICODE characters in bot names.
++++++++++++++++++++++++++++++++++++++++++++++
+
+Only plain text, numbers, underscores are allowed. These are special characters
+that you do not normally see on your keyboards. They can be formed by using any
+"alt+zzzz" where zzzz is the number. So that means, it's all plain text with
+some other characters like [,],<,> etc.
+
+-------------------------------------------------------------------------------
+D. Weapon Preferences Templates [WPN]
+-------------------------------------------------------------------------------
+
+Just incase you want the default template for the bots' weapons, here is a list
+of them:
+
+// weapon preference templates
+Template Rifle
+        WeaponPreference = m4a1
+        WeaponPreference = ak47
+        WeaponPreference = famas
+        WeaponPreference = galil
+        WeaponPreference = mp5
+End
+
+Template RifleT
+        WeaponPreference = ak47
+        WeaponPreference = m4a1
+        WeaponPreference = galil
+        WeaponPreference = famas
+        WeaponPreference = mp5
+End
+
+Template Punch
+        WeaponPreference = aug
+        WeaponPreference = sg552
+        WeaponPreference = famas
+        WeaponPreference = galil
+        WeaponPreference = mp5
+End
+
+Template PunchT
+        WeaponPreference = aug
+        WeaponPreference = sg552
+        WeaponPreference = famas
+        WeaponPreference = galil
+        WeaponPreference = mp5
+End
+
+Template Sniper
+        WeaponPreference = awp
+        WeaponPreference = sg550
+        WeaponPreference = g3sg1
+        WeaponPreference = scout
+        WeaponPreference = famas
+        WeaponPreference = galil
+        WeaponPreference = mp5
+End
+
+Template Power
+        WeaponPreference = m249
+        WeaponPreference = xm1014
+        WeaponPreference = m3
+        WeaponPreference = famas
+        WeaponPreference = galil
+        WeaponPreference = mp5
+End
+
+Template Shotgun
+        WeaponPreference = xm1014
+        WeaponPreference = m3
+        WeaponPreference = famas
+        WeaponPreference = galil
+        WeaponPreference = mp5
+End
+
+Template Shield
+        WeaponPreference = shield
+        WeaponPreference = m4a1                 // in case shield is disallowed
+        WeaponPreference = ak47
+        WeaponPreference = famas
+        WeaponPreference = galil
+        WeaponPreference = mp5
+End
+
+Template Spray
+        WeaponPreference = p90
+        WeaponPreference = tmp
+        WeaponPreference = mac10
+        WeaponPreference = mp5
+End
+
+If you have the same template but usually has a different name, you should use
+the weapon template with the exact name on your current list.
+
+For example, instead of having a "Shield" template, you placed "Defensives".
+The bot cannot use the weapons in the "Defensives" template if it isn't listed
+on the weapon template section itself. But "Shield" template is on the list and
+it uses the same weapon template as the one on "Defensives". What do you do?
+
+Change "Defensives" to "Shield" and change any outlying bot templates who uses
+the weapon template "Defensives" and change it to "Shield" again. The bot will
+now be able to use the weapon template "Shield".
+
+-------------------------------------------------------------------------------
+E. Skill Templates [SKL]
+-------------------------------------------------------------------------------
+
+Like the weapon templates, if you ever wanted to revert to the original skill
+templates, a list of them is here. Note that, if you are going to do this, you
+must also replace your current skill templates with the one listed here.
+
+// skill templates
+Template Elite
+        Skill = 100
+        Aggression = 100
+        ReactionTime = 0.2
+        Cost = 4
+        Difficulty = EXPERT
+        VoicePitch = 85
+End
+
+Template Expert
+        Skill = 90
+        Aggression = 90
+        ReactionTime = 0.2
+        Cost = 4
+        Difficulty = EXPERT
+        VoicePitch = 88
+End
+
+Template VeryHard
+        Skill = 80
+        Aggression = 80
+        ReactionTime = 0.25
+        Cost = 3
+        Difficulty = HARD
+        VoicePitch = 92
+End
+
+Template Hard
+        Skill = 75
+        Aggression = 75
+        ReactionTime = 0.25
+        Cost = 3
+        Difficulty = HARD
+        VoicePitch = 94
+End
+
+Template Tough
+        Skill = 60
+        Aggression = 60
+        ReactionTime = 0.3
+        AttackDelay = 0.35
+        Cost = 2
+        Difficulty = NORMAL+HARD
+        VoicePitch = 96
+End
+
+Template Normal
+        Skill = 50
+        Aggression = 50
+        ReactionTime = 0.4
+        AttackDelay = 0.7
+        Cost = 2
+        Difficulty = NORMAL
+End
+
+Template Fair
+        Skill = 25
+        Aggression = 30
+        ReactionTime = 0.4
+        AttackDelay = 1.0
+        Cost = 1
+        Difficulty = EASY+NORMAL
+        VoicePitch = 105
+End
+
+Template Easy
+        Skill = 0
+        Aggression = 20
+        ReactionTime = 0.5
+        AttackDelay = 1.5
+        Cost = 1
+        Difficulty = EASY
+        VoicePitch = 110
+End
+
+Always match the skill template listed the one like above to those bots whom
+you will assign their difficulty with. It is a must that you do - similar to
+the weapon templates. You may have noticed that each template comes with a
+skill set. Let's take a look at that:
+
+> Skill - in percent. The higher the number, the difficult the bot is.
+
+> Aggression - in percent. The rate at which the bot is aggressive. Lesser
+camping. Usually more focused on map objectives such as planting bombs at a
+bombsite or rescuing hostages.
+
+> ReactionTime - in seconds. The rate at which the bot reacts when encountering
+an enemy. The lower the number, the faster it reacts.
+
+> AttackDelay - in seconds. The rate at which the bot attacks upon making
+contact with an enemy. The lower the number, the faster it attacks.
+
+> Cost - I don't really know what this means.
+
+> Difficulty - sets the bot to a particular difficulty. Refer to the previous
+section on how to manipulate bot difficulty.
+
+> VoicePitch - in whole numbers. I believe the numbers range from 80 - 120. The
+voice of the bot when making a radio command. The higher the number, the deeper
+the bot's voice is.
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "CS: CZ FAQ" to remind me that you are not spam. If not, the
+subject should be at least close to the previous one and I will try to answer
+you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+
+To Valve for making the game.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

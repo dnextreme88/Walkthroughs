@@ -1,0 +1,1571 @@
+FAQ / Walkthrough:
+
+Name of Game: Toy Story 3
+
+Platform: PS2
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. Controls.......................................................[CON]
+        B. Main Menu......................................................[MAI]
+                - Adventure Book..........................................[ADV]
+                        - Western Playtime..............................[ADV-1]
+                        - Operation Phone Call..........................[ADV-2]
+                        - Keep Cool!....................................[ADV-3]
+                        - Family-minded.................................[ADV-4]
+                        - Trouble in the Caterpillar Room...............[ADV-5]
+                        - Goodbye Woody.................................[ADV-6]
+                        - Strawberry Smells.............................[ADV-7]
+                        - Find the Computer.............................[ADV-8]
+                        - Eye in the Sky................................[ADV-9]
+                        - Rodeo Rescue!................................[ADV-10]
+                        - City Dump....................................[ADV-11]
+                        - The Claw!!!..................................[ADV-12]
+                        - Back Home....................................[ADV-13]
+                - Buzz Adventures.........................................[BUZ]
+                        - Awards and Controls.............................[BAC]
+                - Bonus...................................................[BON]
+                        - Cheat Codes.....................................[CHT]
+                        - Extra Materials.................................[EXT]
+                - Settings................................................[SET]
+                - Title Screen............................................[TIT]
+                - Aliens Escapades........................................[ALI]
+                        - Awards and Controls.............................[AAC]
+                - Trophies................................................[TRO]
+                - Woody's Roundup.........................................[WOO]
+                        - Awards and Controls.............................[WAC]
+        C. Frequently Asked Questions.....................................[FAQ]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hi and welcome to my FAQ/Walkthrough for Toy Story 3. The guide covers all
+aspects of the game, from the game's Adventure Book to the mini-games of Woody,
+Buzz and the Little Green Men.
+
+Toy Story 3 is owned by Disney Interactive Studio. All trademarks are subjected
+to Disney Interactive Studio.
+
+Copyright (c) Disney Interactive Studio.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Dec 19, 2016
+= Submitted the FAQ.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. Controls [CON]
+-------------------------------------------------------------------------------
+
+----------
+Navigation
+----------
+
+> D-pad buttons - navigate options.
+> X button - confirm selection.
+> /\ button - go to the previous page.
+
+-------
+In-game
+-------
+
+> [] button - attack.
+> X button - jump.
+> X button (tap twice) - double jump.
+> O button - interact to objects such as climbing ladders, opening vents etc.
+> L analog stick - move toy to the desired direction.
+> UP or DOWN D-pad buttons - provide hints on the level.
+> LEFT or RIGHT D-pad buttons - switch to the toy alien on that direction
+(applicable on level 12 of Adventure Book).
+> START button - pauses the game.
+> SELECT button - help on the level.
+> L1 + R1 buttons - displays HUD.
+
+-------------------------------------------------------------------------------
+B. Main Menu [MAI]
+-------------------------------------------------------------------------------
+
+You'll be greeted by a short cut-scene before the main menu shows up. Press the
+START button. You can start a new game or load a previous game here. The Load
+Game option contains up to 4 slots with the name of the profile, time elapsed
+and percentage completed. Since we're starting a new game, let's pick the New
+Game option. You'll create the name of your profile using only 3 characters,
+letters and numbers. Press X to confirm the name.
+
+++++++++++++++++++++++
+- Adventure Book [ADV]
+++++++++++++++++++++++
+
+Start or resume the story here.
+
+--------------------------
+- Western Playtime [ADV-1]
+--------------------------
+> Controls: Woody
+> Rails: 8 (+100 Toy Story 3 points)
+> Barrels: 30 (+100 Toy Story 3 points)
+> Stars: 60 (+200 Toy Story 3 points)
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 200 seconds)
+        > Cube Destruction (+200 Toy Story 3 points, destroy 40 blocks in 70
+          seconds)
+        > Rails decor (Bonnie's bed)
+
+"Quick! Get to the front of the train and stop it before it's too late!"
+
+This is a pretty straight-forward map. Tap the [] button to use Woody's lasso
+and hit barrels. Check all corners since some barrels tend to hide. Climb
+ladders by pressing the O button. Jump by pressing the X button. Watch out for
+flames or you'll be dragged out of the train. Jump over it to avoid them.
+Destroy blocks with [] button. Climb and watch as another explosion hits you.
+Before moving up the next ladder ahead, break the blocks and barrels on the
+compartment ahead. Climb and jump to a series of boxes.
+
+Slide down. Climb the ledges by pressing the D-pad button (direction you're
+going) + X button. In this case, you have to press the left D-pad button + X
+button to grab the ledge. Do the same for the next 2 ledges. Hop over to the
+next big ledge. Watch out for explosions. Press O button to drop off the ledge
+and destroy the barrel in the compartment for 1 star. Carry on. The next area
+has sliding boxes so be careful on treading here.
+
+Once you reached the rubbles, explosions will hit it so hop over the flames to
+avoid it. Keep moving forward, dropping down to hit blocks and barrels. Avoid
+the flames. Another explosion will send you flying. Be sure to check all sides
+as barrels may be hidden from camera view. On the next compartment, wait for
+the sliding door to fully close then proceed as there's are flames in it. Climb
+to the next 2 ledges. Do a double jump to reach the high box. Jump over the
+shiny box to get a huge leap. Use the sliding box to hop over to the high box
+(as you can't reach it with a double jump).
+
+As soon as you land here, another explosion will send you flying again. Use the
+plunger and time yourself before moving to the next plunger. Same controls as
+with the ledge. By this time, you should have the barrel and rails trophies if
+you've been hitting barrels and blocks all the time. Inside the train seats,
+don't forget to move to the right on the first row of seats as there is 1
+hidden star out there. Move forward and wait for a short cutscene. Run up the
+end of the ramp and hop over to Little Green Men's vehicle. He'll transport you
+to the other area.
+
+Jump over the shiny box and hop to the boxes. You'll see a mini crane at the
+middle. Walk all the way to the right and interact with the lever by pressing
+O button. Now go walk on the crane to get to the other side of the lever. Move
+past the 4 sliding boxes with ease. Get over the rubble and by this time, you
+should have collected all 60 stars. Continue on and watch the scene unfold.
+
+------------------------------
+- Operation Phone Call [ADV-2]
+------------------------------
+> Controls: Sarge and the Green Army Men
+> Bulbs: 8 (+100 Toy Story 3 points)
+> Blinds closed: 2 (+100 Toy Story 3 points)
+> Stars: 80 (+200 Toy Story 3 points)
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 210 seconds)
+        > Bulbs decor (Bonnie's bed)
+
+"Find Andy's phone and bring it back to Woody."
+
+Your task is to find Andy's cell phone. Hop to the stack of books on the right
+and collect the 1st bulb (near the hamper). Now jump on the stack of books that
+is near the blue mini-sofa and hop on to the compartment of the red table. This
+will reveal a spring. Use it to close the 1st blind in front of you (credit to
+citricice for pointing a hidden spring). Collect the hidden star below the
+skateboard. Go to the back of the TV and collect the 2nd bulb on top of the
+speakers. Use the skateboard to climb. Hop over to the next box, to the desk
+and to the TV. When you walk over the accordion, you can use it to jump back up
+the chest so you don't have to walk all the way back in the skateboard, should
+you fall down. When you reached Andy's bed, push the green box to reveal the
+3rd bulb (fall down to collect it and jump back again). Hop to the box. 
+
+You'll get a short scene on where you should be going. It'll be a long series
+of climbs and falls so be ready. Get near the 2nd blind and slide it down to
+close it. There are 2 in total and the other one is just above the desk you got
+on (if you haven't got it earlier). Use the plunger to swing to the other side.
+Make your way to 2 more plungers and swing as always. Once you get to the blue
+platform, watch out for the rolling skateboard. Jump as necessary. Make your
+way to the top of the dresser by using the plungers. Interact with the vent
+using the O button.
+
+Move forward and hop over the platforms. Watch out for the red vent on top as
+its smoke will send you below. Hop to the plunger and move to the next side.
+The platforms here will break after a couple of seconds so keep moving and
+interact with the vent at the end. Use the spring to leap you up. Watch out for
+the red vent up ahead. Hop to the 2 plungers. Avoid the mouse trap up ahead and
+interact with the next vents. Avoid the next 2 red vents as always. There will
+be 2 vents that you can interact with. Interact with the bottom vent first to
+collect the 4th bulb then the top vent last.
+
+This area is tricky. You must hide behind objects when the icon turns red or
+else you'll be swept away by Andy's mom. If its green, you can move freely.
+Collect the 5th bulb on the left. Collect the 6th bulb by the slippers. Just
+keep moving to the right, hide when necessary.
+
+Use the parachute to drop down the floor below. Collect the 7th bulb below the
+table (where the cellphone is). Collect the 8th bulb near the stool. Climb up
+the desk. Keep hopping over until you reach the table with the cellphone.
+
+--------------------
+- Keep Cool! [ADV-3]
+--------------------
+> Controls: Buzz Lightyear
+> Bubble makers: 8 (+100 Toy Story 3 points)
+> Turn off car lights: 1 (+100 Toy Story 3 points)
+> Stars: 100 (+200 Toy Story 3 points)
+> Friends to rescue: 6
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 240 seconds)
+        > Cube Destruction (+200 Toy Story 3 points, destroy 30 blocks in 80
+        seconds)
+        > Buzz Adventures mini-game ("Secret Base of Zurg")
+        > Bubble maker decor (Bonnie's bed)
+
+"Find all your friends hiding in the garage and the kitchen."
+
+-------------
+Saving Jessie
+-------------
+Start by destroying the blocks at the floor for stars. Collect the 1st bubble
+maker in the vent to the left of the car. Go find Jessie first by hopping to
+the hose. Get to the first ledge and all the way to the top for 1 star. Don't
+go way too close to the top or the screwdrivers will hit you. Hop to the second
+ledge on the left. Keep moving on the left and do the same with the last ledge.
+Drop down and walk to Jessie at the end to get her.
+
+-----------------
+Saving Slinky Dog
+-----------------
+Next, use the fire extinguisher to rise up the platform above it. Hop through a
+series of ledges and darts to get through the other side of the garage. Push
+the accordion and use the red blower to dust you through a higher platform.
+Follow the path to rescue Slinky Dog. Interact with the rope at the end to get
+down.
+
+---------------
+Saving Bullseye
+---------------
+Next, we'll rescue Bullseye. Jump up the blocks near the mouse trap and hop to
+the second ledge to open it (don't mind the vents yet). Collect the 2nd Bubble
+maker below and interact with the vent now. Use the spring up ahead. Beware of
+falling planks inside this vent. As you reach the next plank, the area turns
+green. Keep going forward and before using the spring at the end, interact with
+the vent near it to collect the 3rd Bubble maker. Now use the spring for a huge
+leap. There are around 9 stars in here and an exit at the end. Rescue Bullseye
+here. Collect the 4th Bubble maker on the left and get 2 stars on the right.
+Finally, slid down the skateboard to fall below.
+
+-----------
+Saving Hamm
+-----------
+Next, let's go to the skateboard area to rescue Hamm. Swing through the 2
+plungers and interact with the key at the left. This will cause the key to drop
+down. Interact with it again to gain the Car Light trophy. Go back again and
+from the same area as awhile ago, swing through the next set of plungers to
+reach the other platform on the end. Climb through the ledges and into the
+next area. You'll notice a bowling ball on top of the next platform, once you
+hit the first blocks below it, it'll start falling and you'll have to run as
+fast as you can to avoid it. Break the second blocks and hop quickly to the
+ledge at the end. Hop through the platform (where the bowling ball was) to
+collect 5 stars. Now use the rope at the middle to reach Hamm. Interact with
+the vent behind him to collect the 5th Bubble maker. Drop down to the same
+object that Hamm used and below the bowling ball that fell earlier, collect the
+6th Bubble maker on the open box.
+
+----------
+Saving Rex
+----------
+Your next destination is the kitchen. Walk through the right and collect the
+7th Bubble maker on the open cabinet. Jump up the chair beside the door you
+came through earlier. Interact with the blender at the edge and use the small
+platform it produced to get in the other side of the sink. Collect the 8th
+Bubble maker near the oranges. The stove will produce fire so proceed when it's
+clear. Use the toaster to skyrocket your way up the cabinet. Get through the
+other cabinet and climb the pipes onto the other side. Interact with the pan
+at the end to dash your way to the refrigerator. Rescue Rex ahead (he will
+ironically hit Buzz with his tail haha).
+
+-----------------------
+Saving Little Green Man
+-----------------------
+Use the pipe to drop down and fall to the chair below. Hop in the trash can
+and to the last table. Interact with the orange so that you can get through the
+last platform above it. Rescue Little Green Man here.
+
+-----------------------
+- Family-minded [ADV-4]
+-----------------------
+> Controls: Woody
+> Windmills: 8 (+100 Toy Story 3 points)
+> Pictures straighten up: 6 (+100 Toy Story 3 points)
+> Stars: 100 (+200 Toy Story 3 points)
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 210 seconds)
+        > Cube Destruction (+200 Toy Story 3 points, destroy 40 blocks in 50
+        seconds)
+        > Woody's Roundup mini-game ("Save the Lady")
+        > Windmills decor (Bonnie's bed)
+
+"Hurry up! Find a way to join your friends in the garage."
+
+Start out by climbing the ledges of the dresser. Straighten up 2 pictures here
+and get to the lone platform to collect the 1st windmill. Move down and use the
+vacuum to transcend down the stairs. Break the blocks and interact with the
+vent to collect the 2nd windmill. Climb up the box (in front of the vent) and
+straighten up the 3rd picture here. Continue on to the next room.
+
+Go behind the couch and collect the 3rd windmill hiding behind it. Interact
+with the vent to collect the 4th windmill. Interact with the mat near the
+jumping rope. This will pull you up the desk. Use the shiny box to get a huge
+leap. Move to the right of the lamp and drop down. Straighten up the 4th
+picture here and interact with the white circle to cross the couch (where the
+windmill toy was earlier). Straighten up the 5th picture and jump to the white
+desk. Push the first accordion on the white desk. Climb the series of ledges
+until the top. A white ball will soon start rolling as you walk toward the
+edge. Follow the path and push the second accordion at the end. Use the rope 3
+times to get close to the TV. Interact with it.
+
+Now you have to move only when the icon turns green, just like how you did with
+the Army Men mission. Go all the way back to the staircase and proceed to the
+opened door. You're now at the dining room. Hop to the stool and reach for the
+ledge of the cabinet in front to open it. Collect the 5th windmill inside.
+Break the blocks for stars before jumping to the chair. Double jump at the end
+of the chopping board to reach the white desk and hop to the next table on the
+right to collect the 6th windmill. Hop back to the white desk and open one of
+the compartments so you can use this to climb up. Once you reach the top, hop
+to the lone platform and interact with it so you can reach the top of the
+library table. Push the accordion here and drop down to collect the 7th
+windmill. Wait for the electric fan to face you and climb the ledge to reach
+the cabinet on the left. Just keep going left and jump over the lamps.
+Straighten the 6th picture before hopping to the next platform on the left.
+Tissue rolls will start falling down as soon as you step on it so be ready to
+dodge them. Jump at the lamps to reach the vent at the end. Interact with it.
+
+Follow this linear path and interact the first vent you see to collect the 8th
+windmill inside. Back in track, interact with the white circle to pull you to
+the other side of the plank. Follow it for another white circle and interact
+as usual. Use the spring to climb the pipes and reach the top. Avoid the valve
+that emits smoke or you'll get carried away. Interact with the white circle to
+get to the last plank. Interact with the vent at the end.
+
+You'll now be at the edge of the roof. Move left as you cling to the hoop. Once
+you step out of the hoop, a basketball will start rolling so run as fast as you
+can. Hop quickly to the planks and use the ledges to climb up in the attic.
+
+-----------------------------------------
+- Trouble in the Caterpillar Room [ADV-5]
+-----------------------------------------
+> Controls: Buzz Lightyear
+> Food toys: 8 (+100 Toy Story 3 points)
+> Jars: 3 (+100 Toy Story 3 points)
+> Stars: 110 (+200 Toy Story 3 points)
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 310 seconds)
+        > Cube Destruction (+200 Toy Story 3 points, destroy 40 blocks in 120
+        seconds)
+        > Food toys decor (Bonnie's bed)
+
+"Quick! Your friends need your help! Find a way to attract the children's
+attention!"
+
+This level is a little tricky. Your objective is to get to Buzz's spaceship.
+You have to travel around the playground without touching the children or it's
+game over for you. Go down the desk and collect the 1st food toy (candle) on
+the small stool. Keep going left and watch out for the young girl here. Collect
+the 2nd food toy (grapes). Now go back to the same desk you started early and
+proceed to the left. Jump over the lamp and into the shiny box for a huge leap.
+Knock over the 1st jar before climbing up the picture as a ledge. Jump at the
+scrapboard at the last platform and interact with the vent.
+
+Destroy the obstacles along the way. Jump twice and do a double jump to reach
+the platform with a spring. There's two of them ahead so just jump on both
+instances. Climb over the pipe to move it to the right. Just like awhile ago,
+jump twice and do a double jump to reach the last platform. Climb over the
+pipes to move them and drop down below. Double jump twice and climb on the
+pipes as always. On the next set of planks, just keep running as they'll be
+falling below if you're slow. Destroy the obstacle on the way and climb over
+the ledges by moving right. Climb up and continue forward. A cement block will
+drop down as you get up the ledge. Use it to climb another set of alternating
+ledges to reach the top. Keep moving right, sliding down and collect the 3rd
+food toy (grapes) at the end. Destroy the obstacle ahead.
+
+Keep moving on the right. Once you get to the orange platform, the objects will
+slide down to the left (though this won't hurt you). Carry on and jump to the
+fluorescent bulb ahead. Climb up the set of ledges and into the second
+fluorescent bulb. Reach for the purple children's decor and interact with it.
+You have saved Little Green Man from the children's clutches!
+
+You have to save Rex next. Fall down the pink table and collect the 4th food
+toy (corn) underneath it. Now go back to the table and jump to the sink in
+front of it. Climb to the green case first to collect the 5th food toy
+(strawberry) inside the microwave. Jump to the end table beside the tray and
+knock over the 2nd jar there. Go back to the sink and push the tray, jump to
+the tissue roll to climb up the vents. Interact with it.
+
+Keep moving forward as you'll be sliding down the vents with ease. Jump over
+the series of ledges. If you fall before reaching the last platform, you'll
+be back to the entrance so be careful. Press X fast when the last pipe breaks,
+because you'll fall if you don't. You'll be ziplining your way next, avoid the
+circuit by moving on to the adjacent zipline. Once done, you'll be sliding
+again before reaching 2 springs that you can leap to. Use any of the springs
+and walk right to collect the 6th food toy (corn) before proceeding. Climb
+up and exit the vents.
+
+Proceed in jumping to the circular decors on the ceilings. You'll eventually
+reach a dead-end so climb to the ledge on the left. Keep moving to the right
+and drop down to the tip of the door. Hop to the picture on the right and drop
+below to the cassette tapes. The cassette player will distract the young girl
+and you'll save Rex in the process.
+
+Next, you'll save Hamm from another girl. You need 4 batteries to power up a
+button. You can go either left or right since each path has 2 batteries each
+but to save time, let's take the right path first. Keep moving right and
+collect the 7th food toy (corn) below the green table. Use the piano toy to
+climb to the yellow table. Use the shiny box and keep moving left. Collect the
+1st battery on the pink table below the light switch. The 2nd battery is on
+the opposite yellow table of the 1st battery you picked on. To get there, you
+need to use the shiny box to where the pink girl is roaming around. Timing is
+key here, so you must hop over the shiny box when the pink girl turns her back
+or else you'll get caught. Collect the 2nd battery here. Go back to where the
+crane was.
+
+This time, move left to knock the 3rd jar at the blue chair. It also contains
+the 3rd battery you need. Run over to the battery that fell through the glass
+to collect it. Keep moving left until you can hop over a red couch. Hop over it
+then move to the purple table and keep moving right to collect 1 star. Jump
+over the green cabinet (below the purple table) to reveal the 8th food toy
+(carrot) and go down to collect it. Back at the purple table, hop over the
+lampshade beside the couch to reach a new destination. Jump through the
+fluorescent bulbs above. At the 3rd bulb, collect the 4th battery. Press the O
+button to go down and operate the crane with all 4 batteries.
+
+-----------------------
+- Goodbye Woody [ADV-6]
+-----------------------
+> Controls: Woody
+> Paper Planes: 8 (+100 Toy Story 3 points)
+> Pigeons scared off: 8 (+100 Toy Story 3 points)
+> Stars: 90 (+200 Toy Story 3 points)
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 280 seconds)
+        > Cube Destruction (+200 Toy Story 3 points, destroy 40 blocks in 80
+        seconds)
+        > Woody's Roundup mini-game ("Lost in Ghost Town")
+        > Paper planes decor (Bonnie's bed)
+
+"Find your way out of the day care."
+
+What a weird place to start in. You'll start at the bathroom. You'll have the
+same icon as in the previous level with Woody. Proceed only when the icon turns
+green. Open the brown cabinet and collect the 1st paper plane inside. Move
+forward into the tissue rolls. Open the next cabinet to collect the 2nd paper
+plane inside. Just be careful not to get caught by the janitor. Interact with
+the white circle to hurl yourself over the pipe above the janitor. Climb
+through it and follow the path until you reach through the open window.
+
+On the next area, just move forward. Scare the 1st pigeon to your left after
+destroying the block ahead. You just have to walk through them to scare them.
+Climb through the broken aircon and scare the 2nd pigeon on top of the dead
+leaf but don't go to the other side yet. Collect the 3rd paper plane that fell
+off then climb back up until you reach the other side of the gap. Watch out for
+the blowing steam on the path ahead. Scare the 3rd pigeon once you land on the
+other side. Interact with the white circle at the edge and open the vents there
+to collect the 4th paper plane. Climb through the ledge beside it. Cross the
+other side of the ledge and drop down. Interact with the box in the middle with
+O button + left D-pad button. The box will fall. The 5th paper plane is in the
+vents up ahead. You need to move the box and align it with the vents to open
+and collect the paper plane inside. Let's use a simple diagram below:
+
+      -------               North
+     | VENTS |              -----
+  ====-------===      West | BOX | East
+ |        [O]   |           -----
+ |        [O]   |           South
+ |[O] [O] [O]   |
+ |              |
+ |X             |
+
+From where you initially dropped the box, move the box to the east 3 times.
+Then move the block north 2 times. Open the vent and collect the 5th paper
+plane inside. X denotes an area that you can't move the box on. After taking
+the paper plane, you can actually just jump to the other side with ease (you
+don't have to move the box again, unless you fail at jumping). Hop on to the
+next platform. Scare the 4th pigeon after the 2 boxes. Now for another diagram:
+
+         _______            North
+        |[BOX 1]|           -----
+        |       |     West | BOX | East
+        |       |           -----
+        |       |           South        _____
+        |[BOX 2]|                       |     |
+  ______|       |_______________________|     |
+ |          X        [BOX 3]    |   X        O|
+  ------|       |---------------|       |-----|
+        |_______|               |_______|
+
+Your objective is for [BOX 1] to reach O. To do the mini-puzzle, move [BOX 2]
+south 2 times so it falls on the first X. Move [BOX 3] east 3 times so it falls
+on the second X. Move [BOX 1] south 8 times, east 14 times. Interact with the
+vent behind [BOX 1] and collect the 6th paper plane inside. Now jump over [BOX
+1] and use it to climb on top. Scare the 5th pigeon here. Watch out for the
+fans ahead. Proceed when the fan is closed. Scare the 6th pigeon after reaching
+the 1st set of fans. Do the same for the 2nd set of fans. You'll just have to
+follow where the stars are. After that, climb the ledges and leap over to the
+next side. Slide down and scare the 7th pigeon at the end. Climb the set of
+ledges again. Scare the 8th pigeon as you reach the last plant. Interact with
+the white circle to get you to the kite.
+
+Destroy the blocks here. Try to collect the stars here as they're quite harder
+to see due to the bright sunlight. Go to the very right of this area to collect
+the 7th paper plane on the bowling pins. Interact with the white circle to hurl
+you on top of the platform. Swing your way to the other side of the bowling
+pins and climb the hanging plants. Swing again and collect the 8th paper plane
+on the last hanging plant you encounter. Use the zipline to go through the
+other side. Use the chains to swing again. Climb up the wall to end the level.
+
+------------------------------
+- Strawberry Smells... [ADV-7]
+------------------------------
+> Controls: Buzz Lightyear
+> Jigsaw puzzles: 8 (+100 Toy Story 3 points)
+> Balls knocked over: 5 (+100 Toy Story 3 points)
+> Stars: 90 (+200 Toy Story 3 points)
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 210 seconds)
+        > Cube Destruction (+200 Toy Story 3 points, destroy 30 blocks in 60
+        seconds)
+        > Buzz Adventures mini-game ("Zurgbots Factory")
+        > Jigsaw puzzle decor (Bonnie's bed)
+
+"No doubt Lotso's smell will allow you to find him. Follow the pink trail
+before it disappears."
+
+Before following the pink trail, knock over the 1st ball by the green chair. Go
+to the right and collect the 1st jigsaw puzzle perched on the pink chair. Keep
+right and collect the 2nd jigsaw puzzle on the tall platform (I just did a
+double jump to collect it. Hop on the pink chair and from there, knock over the
+2nd ball on the second table you hopped on. Climb to the green book and to the
+plunger to move to the other side. Zipline your way through the other side of
+the bookshelf.
+
+Just like the previous level with Buzz, you need 5 batteries to operate the
+crane. Drop down and collect the 1st battery just below the crane. Move down
+and collect the 2nd battery on the green couch on the right (from where you
+landed this area). Interact with the toy car to leap you to the farthest side.
+Collect the 3rd battery from here. Now move to the open green compartments to
+climb it and reach for the 4th battery on the middle. Interact with the pink
+box beside the end table to reveal a platform for you to reach the 5th battery
+in front of the end table. You have to double jump to reach this table. Collect
+the battery from here. Operate the crane. Use the rope to get on top of the
+green shelf (where you collected the 4th battery earlier). Knock over the 3rd
+ball then swing through a series of ropes to reach the fenced area. Once you
+reached the fenced area, collect the 3rd jigsaw puzzle below the green table on
+your left. Proceed to the open hole.
+
+Break the fragile wood as you enter this area. Collect the 4th jigsaw puzzle
+inside. Use the spring up ahead. Swing through the plungers. Avoid the pipe
+that blows off steam. Use the farther spring to get up the platform above you.
+Follow this path until you see a ray of light. Exit from there.
+
+Open the vent in front of you. Climb up to the pink table and knock the 4th
+ball at the end of the chest beside it. Jump off the poles as instructed to
+reach a shiny box that you can leap off. Swing through the other side and use
+the zipline. Push the accordion and jump off to the lower platform below you.
+Leap to the ledge ahead to collect the 5th jigsaw puzzle then knock over the
+5th ball at the end. Jump down and look for a pink end table. Interact with the
+vent below it to collect the 6th jigsaw puzzle. Use the pink chair to get back
+on track. Jump on the tip of the bowling pin to reach the green pink table. Use
+the zipline. Knock over the sailboats here and use it to jump to the pole so
+you can reach the huge doll house.
+
+You'll reach out to the usual hide-and-seek game. As always, move when the icon
+turns green. The baby stares around much faster than the previous people you've
+encountered so you have to hide fast. Collect the 7th jigsaw puzzle behind him
+as you move to the 3rd object. After reaching the last object you can hide
+into, move down the area and collect the 8th jigsaw puzzle at the end. Climb up
+the upside down chair to reach the table. Use the shiny box and follow the
+trail to the open vent.
+
+In this area, you need to avoid the patrolling toy. You shouldn't be spotted
+by their lights so move accordingly. Reach for the vending machine as soon as
+you can. If you're having trouble, move to the right bench and stay there. Wait
+until the patrolling toy stays out of view and quickly climb up the vending
+machine ahead.
+
+---------------------------
+- Find the Computer [ADV-8]
+---------------------------
+> Controls: Woody
+> Plastic butterflies: 8 (+100 Toy Story 3 points)
+> Painting tubes walked on: 8 (+100 Toy Story 3 points)
+> Stars: 80 (+200 Toy Story 3 points)
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 260 seconds)
+        > Cube Destruction (+200 Toy Story 3 points, destroy 20 blocks in 65
+        seconds)
+        > Butterflies decor (Bonnie's bed)
+
+"You need to make your way out of the room to get to Bonnie's computer."
+
+Start this level by heading to your right first. Walk on the 1st painting tube
+before the books (that you can interact later) then interact with the vent on
+the north to collect the 1st plastic butterfly inside. Interact with the pile
+of books to collect the 1st battery on top.
+
+Continue north and walk on the 2nd painting tube just north of the bed. Climb
+the small dresser north of this to make a shiny box drop down below. Use the
+shiny box to leap on the higher platform and collect the 2nd battery here.
+
+Move to the opposite side of the bed and walk on the 3rd painting tube in front
+of the opened briefcase. Walk up north to the compartment, open it and collect
+the 3rd battery inside. Continue climbing up and use the shiny box to get
+across the curtain. Keep moving left until you can drop down and collect the
+4th battery. Once you collect it, the platform will slightly drop. Collect the
+2nd plastic butterfly on the blue case that fell down. Climb all the way back
+and interact with the end to get a huge leap on top of the room's bulb. Slide
+to the right and collect the 5th battery here. Once you have all batteries,
+drop down and proceed to the radio just north of the bed.
+
+After the cutscene, you'll now be inside the usual vents. Just follow this
+linear path. Avoid the pipes that blows off steam. Climb to the small ledge at
+the end. The screen will pan on the opposite side where you'll be able to leap
+across so just leap on the opposite side. Once at the end, interact with the
+switch to turn off the moving fan so you can proceed. Interact with the vent
+you come across to collect the 3rd plastic butterfly. Back on track, just move
+up until you come across another moving fan. You need to go up the platform
+above it to switch it off. Interact with the switch to turn the fan off. The
+ledge ahead is electric. So time it properly then advance. Move to the farthest
+area and interact with the switch ahead. This will cause the 1st fan you come
+across while moving the ledge to be off. Go back all the way through that area
+and interact with the switch inside. This will now turn off the fan that was
+blocking your way. Slide down the platform and move up the pipes. Use the
+springs ahead to jump to the higher platform. Interact with the circle ahead to
+get to another higher platform. Avoid the steamy pipes here and interact again
+with the circle at the end. Double jump twice to reach another circle you can
+interact with. The switch is above you and you can't reach it by normal means.
+Luckily, there's a box at the end that you can move so Woody can climb up to
+turn the switch off. First, push the box 8 times. Climb up and collect the 4th
+plastic butterfly. Now pull the box 16 times then turn on the switch when you
+can already jump at it. Go outside the vents.
+
+Outside, walk on the 4th painting tube on the left. Climb up to the branches to
+get to the top. You'll now have to proceed when the icon turns green. You'll
+have to be quick though because Bonnie seems to react fast. Drop down ahead.
+Walk on the 5th painting tube ahead. Double jump across the waters and collect
+the 5th plastic butterfly here. Keep moving forward and walk on the 6th
+painting tube beside the wooden vase. Get up the vase and walk on the 7th
+painting tube on the left side of the chimney. Continue on the other side.
+Collect the 6th plastic butterfly at the end of the soil. Proceed on the open
+window.
+
+Move to the right and do a double jump to the wooden table at the middle of the
+room. Push the box 3 times to make it fall down. Push the box 4 times. Pull it
+2 times and push it 2 times so that the box lines up with the counter beside
+the door. Collect the 7th plastic butterfly here. Drop down below the counter.
+Collect the 8th plastic butterfly below the table. Walk on the 8th plastic tube
+just below the table with the computer in it. Use the box again so that you can
+climb up the computer. Pull it 3 times. Push it 10 times and push it again 1
+time (so that it aligns with the computer). Now climb it up to reach the
+computer and end the level.
+
+------------------------
+- Eye in the Sky [ADV-9]
+------------------------
+> Controls: Woody
+> Animal blocks: 8 (+100 Toy Story 3 points)
+> Suspended ceiling parts knocked down: 6 (+100 Toy Story 3 points)
+> Stars: 80 (+200 Toy Story 3 points)
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 230 seconds)
+        > Cube Destruction (+200 Toy Story 3 points, destroy 45 blocks in 100
+        seconds)
+        > Woody's Roundup mini-game ("The Blazing Inferno!")
+        > Animal blocks decor (Bonnie's bed)
+
+"Hurry up! Go to the control room to deactivate the security cameras!"
+
+First off, destroy the blocks on the floor to collect 8 stars. Climb up the
+chair and open the cabinet to reveal the 1st animal block and collect it. Climb
+up the table and use the shiny box to leap across a series of ropes and land on
+the wooden shelf. Climb these up and get to Slinky Dog.
+
+You're now on top of the ceiling. From where you started, just stand on the 1st
+ceiling on your left to make it fall. These ceilings are distinguished with a
+gray color. Interact with the vent behind and collect the 2nd animal block. Now
+proceed north of it and use the spring to jump the platform above it. Climb up
+the ledges and use the zipline at the 2nd platform. Jump to the ledge and
+through the valves to get to the last platform. Interact with the switch to
+turn off the fan. You can now proceed to where the fan was rotating. Jump
+over the fans and you'll see Slinky Dog behind another fan. Once you get closer
+to him, the fans will start rotating and you'll find another way to reach him.
+
+Your objective is to turn off the fan. You'll have to turn off 2 switches
+before it turns off though. To start off, climb the ledge on your left. Drop
+down below. Stand on the 2nd gray ceiling nearby. Stand on the 3rd gray ceiling
+north of where you climbed up. At the edge, stand on the 4th gray ceiling above
+the pipes. You need to push the box forward 6 times. Climb up the pipes and
+move left. Watch out for the electric coming out from the pipes. At the end,
+interact with the 1st switch to turn the light to red.
+
+Now go through the opposite side (through the destroyed vent). Jump above the
+fan and push the spring at the end (in case you need to go back up, you can use
+the spring to jump back here). Stand on the 5th gray ceiling. Don't go up yet,
+go to the leftmost edge of this platform and stand on the 6th gray ceiling.
+Use the spring and jump on top of the valve to reach the other platform.
+Interact with the 2nd switch. The fan will now stop. Now you can proceed.
+
+You'll now be into a maze-like area. First off, proceed south of where you slid
+down and collect the 3rd animal box. Avoid the electric by jumping at them or
+waiting for them to go down. Back to where you started, proceed west this time.
+Make your way to the end to collect the 4th animal box. Now back again to the
+starting position, proceed north. Just follow this up and approach Slinky Dog
+at the end.
+
+You're now at the Control Room. Your task is to avoid getting spotted by the
+security cameras. Collect the 5th animal box south of you then proceed north.
+Interact with the vent ahead to collect the 6th animal box inside. The radius
+of the 2 cameras here are wider so if you must, you can hide on the doors to
+avoid getting spotted. Do the same for the next hallway. Climb up the bench
+and drop down. Interact with the switch to turn off the cameras up ahead.
+Collect the 7th animal box below the sinks. Before the last bench, collect the
+8th animal box below it (you need to manuever well as the cameras here are not
+deactivated). Interact with the vent on the end to turn off the camera leading
+up the ceiling. Now just climb all the way up and meet up with Slinky Dog at
+the top.
+
+------------------------
+- Rodeo Rescue! [ADV-10]
+------------------------
+> Controls: Jessie
+> Toy hats: 8 (+100 Toy Story 3 points)
+> Red magnets knocked down: 5 (+100 Toy Story 3 points)
+> Stars: 50 (+200 Toy Story 3 points)
+> Keys to obtain: 6
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 230 seconds)
+        > Cube Destruction (+200 Toy Story 3 points, destroy 50 blocks in 160
+        seconds)
+        > Toy hats decor (Bonnie's bed)
+
+"Quick! Find the keys to release your friends. Pay attention to their color."
+
+You'll play as Jessie here. You can have many approaches to this level but if
+you want to have the most time efficient way of doing it, you can follow the
+order of the toys that Jessie will be saving. There is only one area for this
+level.
+
+--------------------------------
+Saving Little Green Man 1 (cyan)
+--------------------------------
+First off, move to your left and hop onto the poles at the middle. Before
+climbing up, collect the 1st toy hat (orange) on the left. Now climb up and
+reach the middle platform to collect the cyan key. Rescue Little Green Man 1
+with the cyan padlock.
+
+----------------------
+Saving Bullseye (blue)
+----------------------
+Now go up the staircase beside the table you started on. Go up the blue end
+table to collect the 2nd toy hat (purple) at the opened toy cash register.
+Interact with the 2 blue boxes to create 2 platforms that you can jump on. Go
+back to the same end table and jump on the platforms to reach the top of the
+table. Collect the 3rd toy hat (brown) here. Collect the blue key and rescue
+Bullseye with the blue padlock.
+
+------------------
+Saving Rex (green)
+------------------
+Now go back down. Take the green key on the stool at the middle of the room.
+Rescue Rex with the green padlock. 
+
+----------------------------------
+Saving Little Green Man 2 (yellow)
+----------------------------------
+Now move to the corner of the room with shapes on it. Collect the 4th toy hat
+(red) on the couch. All of the 5 red magnets are located on the wall beside the
+couch. Just climb at it to push them down. Use the zipline to cross the
+fluorescent bulbs from the other side. The 2nd fluorescent bulb will sway
+slowly so time it right and hop off to the ledge below. Drop down twice and do
+a double jump to reach the table nearest to the couch. Take the yellow key and
+rescue Little Green Man with the yellow padlock.
+
+--------------------
+Saving Hamm (maroon)
+--------------------
+Take the maroon key in front of the 1st shelf (just be careful of the toy train
+that patrols its light here or you'll get caught). Rescue Hamm with the maroon
+padlock. At the 2nd shelf from the couch, collect the 5th toy hat (yellow) at
+the middle. Collect the 6th toy hat (white) on the toy shape box.
+
+-------------------------------
+Saving Little Green Man 3 (red)
+-------------------------------
+Now enter the small opening near the 2nd stationed train. Move forward and
+collect the 7th toy hat (orange) on your left. Open the cabinet in front of you
+to reveal the 8th toy hat (blue) and collect it. Now climb to the end table
+that was beside the toy hat you collected earlier. Hop on top of the bowling
+pins and zipline twice to reach the end table with the red key and take it.
+Rescue Little Green Man with the red padlock.
+
+--------------------
+- City Dump [ADV-11]
+--------------------
+> Controls: Buzz Lightyear
+> Artificial flowers: 8 (+100 Toy Story 3 points)
+> Don't fall on the conveyor belt before saving Jessie: 1 (+100 Toy Story 3
+points)
+> Stars: 70 (+200 Toy Story 3 points)
+> Metals to collect: 5
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 230 seconds)
+        > Cube Destruction (+200 Toy Story 3 points, destroy 40 blocks in 70
+        seconds)
+        > Buzz Adventures mini-game ("Aliens")
+        > Flowers decor (Bonnie's bed)
+
+"Oh no! Your friends are trapped... Give each a piece of metal, the magnetic
+ceiling on the trash conveyor will do the rest!"
+
+Your task is to save your friends from getting shredded in the trash conveyor.
+The conveyor belt moves so you'll have to be quick on this level. If you
+manage to avoid touching the conveyor belt before making it to Jessie, you'll
+nab the 2nd challenge on your way to Jessie.
+
+-----------
+Saving Hamm
+-----------
+Just grab the 1st metal ahead of you and approach Hamm to save him.
+
+---------------
+Saving Bullseye
+---------------
+Move forward and collect the 1st artificial flower. Double jump on the trash
+ahead and climb up. Do another double jump on the next trash. Follow this path
+and hop on to the left for a ledge. Hop on the middle box and on to your right.
+Land on the middle box and zipline below. Hop on to the left ledge and hop on
+the middle box. Just follow this path. The next set of trash here will start
+getting shredded so jump immediately at the box ahead.  Follow this path and
+collect the 2nd artificial flower on the left corner before grabbing the 2nd
+metal below the box you jumped on. Rescue Bullseye on the right corner.
+
+----------
+Saving Rex
+----------
+Climb up and collect the 3rd artificial flower on the right (hiding between the
+blocks). Jump on the box and climb up on the tower of trash (this will be
+shredded as soon as you climb its ledges). Jump on the box and through the 2nd
+tower of trash ahead. Double jump to reach the platform ahead. On the next
+trash, collect the 4th artificial flower on the right. Jump on the series of
+trash and land on the platform. Swing across the other side and use the spring
+to climb up the next platform. Double jump onto the lower trash and grab the
+3rd metal on the right. Use the 2 springs up ahead to leap across the trash.
+Rescue Rex on the other side of the trash.
+
+------------
+Saving Woody
+------------
+Jump on the platform ahead. Hop on the ledge and land on the trash on your
+left. Collect the 5th artificial flower hiding between the blocks. Be careful
+on the next set of trash, as they'll be shredded so jump quickly then hop on to
+the ledge. Land on the trash on your left and collect the 6th artificial flower
+hiding again between the blocks. Climb up the tower of trash and swing ahead 4
+times to reach another trash. Collect the 7th artificial flower hiding between
+the blocks (as always). Climb up and hop on the ledge ahead. This will fall
+down so you can reach the metal below. Grab the 4th metal on this trash. Hop on
+the tires to reach Woody. Collect the 8th artificial flower on the right then
+rescue Woody on the left.
+
+-------------
+Saving Jessie
+-------------
+There's one more left. You need to rescue Jessie. Hop on the tire ahead and
+jump twice on the small platforms. Swing twice to reach the lower trash. Time
+your jump here, as the poles are too small to land on. Reach for the next box
+and zipline your way onto the other side. Immediately cling to the right
+zipline as you pass through it and slide down to reach Jessie on the last set
+of trash. Climb the platforms on the left and grab the 5th metal by the tires.
+Rescue Jessie below. If you never fell from the conveyor belt throughout the
+level, you should be able to nab the 2nd challenge of this level.
+
+----------------------
+- The Claw!!! [ADV-12]
+----------------------
+> Controls: Little Green Men
+> Space rockets: 8 (+100 Toy Story 3 points)
+> Minimum switches to the aliens to reach the crane: 50 or less (+100 Toy Story
+3 points)
+> Stars: 60 (+200 Toy Story 3 points)
+> Level complete: +400 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 250 seconds)
+        > Space rocket decor (Bonnie's bed)
+        > Aliens Escapades mini-game ("Escape!")
+
+"Use the three aliens to get to the crane and save Andy's toys."
+
+Yipee! You get to use the little alien toys in this level. In this level, you
+only go forward. Every time you use the left d-pad or right d-pad buttons,
+you'll switch to the alien corresponding to that direction. Use it sparingly as
+50 or less uses nets you the 2nd challenge of this level. Let's refer to the
+aliens using Alien 1 starting from left to right. We'll start with Alien 2
+(middle) first. This is a linear level.
+
+--------------
+First blockage
+--------------
+Collect the 1st space rocket behind you. Just move forward and press the red
+button at the end then switch to Alien 1 and Alien 3 and do the same. 
+
+---------------
+Second blockage
+---------------
+Using Alien 3, hop on the spoon ahead to move the box to Alien 2 so he could
+jump. Press the red button then switch to Alien 1. Just go straight forward and
+press the red button then switch to Alien 2. Jump on the first lava with ease
+and the second lava by landing on the box then press the red button.
+
+--------------
+Third blockage
+--------------
+Continue using Alien 2. Press and hold the O button next to the box and push it
+with the UP D-pad button to move it on the grate. Jump over then press the next
+red button at the end. Switch to Alien 1. Walk over the grate then jump over
+the obstacle once you're in air. Collect the 2nd space rocket after landing
+then press the red button at the end. Switch to Alien 3. Simply follow the path
+and collect the 3rd space rocket on the left and press the red button at the
+end.
+
+---------------
+Fourth blockage
+---------------
+Switch to Alien 1. Hop on the spoon to move the box to Alien 2's side. Switch
+to Alien 2 and move the box to cover the grate ahead. Now switch to Alien 3 so
+he could fly into the air and proceed. Hop on the spoon so that the box will
+move to Alien 2's side. Switch to Alien 2 and use the box to jump across the
+lava ahead. Interact with the valve to turn off the steam then switch to Alien
+3 and do the same with the valve on his side. Switch to Alien 1 and before
+interacting with the valve on his side, collect the 4th space rocket on the
+left side. Switch to Alien 2 and collect the 5th space rocket on the right.
+Interact with the valve then press the red button at the end. Using Alien 1,
+just move forward and press the red button at the end. Using Alien 3, collect
+the 6th space rocket on the right before pressing the red button at the end.
+
+--------------
+Fifth blockage
+--------------
+Using Alien 3 again, hop on the spoon on the small hill ahead to move the box
+to Alien 2's side. With Alien 2, use the box to cover up the grate ahead. Now
+switch to Alien 1 and jump over the grate and leap through the other side.
+Switch to Alien 3 and do the same. Now back at Alien 2, move the box again to
+cover the 2nd grate so that Alien 1 and Alien 3 can jump on the next grates.
+Let both aliens jump. Using Alien 1, turn on the red button to make the blades
+rotate. Go to the left blade to collect the 7th space rocket and interact with
+the valve. Hop on the spoon to move the box to Alien 2's side. Using Alien 3,
+move forward and use the blades to cross the lava. Hop on the 2 spoons up (if
+you haven't turned off the steam from Alien 1's side, you have to do so) ahead
+to move the boxes to Alien 2's side. Using Alien 2, keep moving, hopping out of
+the lavas until you reach a valve but don't use the valve yet. Instead, move
+forward and hop on the spoon to move the box to Alien 3's side. Go back and
+interact with the valve to shut off the steam from both sides. Using Alien 3,
+hop on the box to cross the lava and press the red button to make the blades
+rotate. Using Alien 1, cross the lava by standing on the blades and interact
+with the valve. Use Alien 2 and interact with the valve on his side. For Alien
+3, collect the 8th space rocket and interact with the valve on his side as well
+to turn off the steam for the other aliens. Press the red button at the end.
+Now Alien 1 and Alien 2 can just simply press the red buttons at the end.
+
+-----------------------
+- Back Home... [ADV-13]
+-----------------------
+> Controls: Buzz Lightyear
+> Stickers: 8 (+100 Toy Story 3 points)
+> Reach the TV truck without falling: 1 (+100 Toy Story 3 points)
+> Stars: 50 (+200 Toy Story 3 points)
+> Level complete: +600 Toy Story 3 points
+> Unlocks:
+        > Time Attack (+200 Toy Story 3 points, finish within 260 seconds)
+        > Stickers decor (Bonnie's bed)
+
+"Join your friends in the dumpster truck. Jump on the vehicles to find your
+way."
+
+This is the last level of the game. You have a long way of going to your
+friends since you'll have to jump from car to car to reach them. Avoid getting
+near the windshields of the car or you'll fall out of the road. You can only
+jump when the car is near. Jump to the blue car as it gets close. Next up, you
+need to jump over the truck with logs on it. Once you do, collect the 1st
+sticker near the logs. Get on the pile of logs and use the moving boxes ahead
+to get to the golden ladder behind it. 
+
+Jump to the next car and stay on top of it until the yellow car reaches you. Do
+the same for the purple car. Jump to the truck with logs. Use the box to climb
+to the first log and hop to the next. Be careful though, the second set of logs
+will fall through. Jump to the big box north and climb up. Transfer to the next
+truck and collect the 2nd sticker below the ladder. Climb it up until you reach
+the top. Transfer to the white car. Wait for the motorcycle to get up close, as
+it'll be your next destination. When the motorcycle is close to the red car,
+hop to its ledges at the back. Get on top and transfer to the yellow car next.
+Use the long plank to reach the 3rd truck and hop to its ledges. 
+
+Follow the ledge and on the intersection, climb up to collect the 3rd sticker.
+Continue left until you see a ladder. Climb on top and wait for the next purple
+car to get close. After landing, go for the white car and double jump to it.
+Get on the motorcycle and hop to the opened trunk of the next yellow car you
+come across. Follow this up and climb up to collect the 4th sticker on top.
+Next, go for the adjacent yellow car on the left and use the metal to slide
+down to the big truck.
+
+Follow the path and collect the 5th sticker on one of the exhausts. Get to the
+other side. Jump a series of obstacles until you reach the front. Climb to the
+left and to the ladder. Get on top and target the van to your right then jump
+to it. Drop down the ladder to collect the 6th sticker on the edge. Now climb
+up and collect the 7th sticker on the 2nd post you see. Use the purple platform
+to climb to the white platform and zipline to the adjacent platform on the
+right. Drop down the van and jump to the next yellow car. Wait for the next
+motorcycle then jump to it as well. Double jump to the open trunk of the truck
+when the motorcycle gets close to it.
+
+The boxes here will occasionally move so proceed with caution. Climb to the
+gray box and use it to jump to the next boxes on your right. Use the handle
+of the gray object to reach for the 8th ssticker and collect it. Interact with
+the vent to get out of the trunk. Wait for the last car with a boat on it to
+get close then jump to it. Lastly, wait for it to get close to the garbage
+truck and reach to your friends.
+
+Congratulations, you have completed the game! Watch the credits roll.
+
++++++++++++++++++++++++
+- Buzz Adventures [BUZ]
++++++++++++++++++++++++
+
+Play as Buzz in one of his Space Ranger adventures.
+
+---------------------------
+- Awards and Controls [BAC]
+---------------------------
+
+The game is pretty easy. All of Buzz's minigame have the same concept, it only
+differs in the situation of the mini-game. The table below is the points that
+will be awarded depending on the number of deaths you incurred after finishing
+the mini-game. Each mini-game awards a maximum of 200 points. Points are
+cumulative (eg. if you ranked silver on the first try, you'll get 120 but if
+you ranked platinum on the second, you'll get 80 to make up 200 points).
+
+ ____________________________________________
+|   RANK   | LIVES OBTAINED | POINTS AWARDED |
+|----------|----------------|----------------|
+| Wood     | 1 - 3          | +40            |
+| Bronze   | 4 - 8          | +80            |
+| Silver   | 9 - 17         | +120           |
+| Gold     | 18             | +160           |
+| Platinum | 19             | +200           |
+ --------------------------------------------
+
+Similar to the awards, controls are the same across all mini-games. Controls
+are the same as in Adventure Book except for some differences.
+
+> /\ or [] buttons - blast enemies, destroy boxes and eye-shaped mechanisms.
+Some boxes will release life items or bombs.
+> Hold /\ button to fire your laser. You'll use this to destroy the Zurgbots
+and the eye-shaped mechanisms.
+> Hold /\ + LEFT or RIGHT D-pad buttons to switch attack targets.
+
+--------------
+The Big Shake!
+--------------
+> Unlocks: automatically unlocked.
+> Starts with: 6 lives.
+
+"Zurg's drill located. Switch off this infernal machine before it's too late."
+
+-------------------
+Space Rocket Threat
+-------------------
+> Unlocks: automatically unlocked.
+> Starts with: 6 lives.
+
+"You found Zurg's space rocket and it's about to launch! Get to the rocket and
+stop it."
+
+-------------------
+Secret Base of Zurg
+-------------------
+> Unlocks: complete "Keep Cool!" level.
+> Starts with: 6 lives.
+
+"All signs point to this planet as the location of Zurg's secret base. You need
+to find and stop him once and for all."
+
+----------------
+Zurgbots Factory
+----------------
+> Unlocks: complete "Strawberry Smells..." level.
+> Starts with: 6 lives.
+
+"You found the Zurgbots' factory on an unlisted planet. Reach the heart of the
+factory to ruin Evil Emperor Zurg's plans."
+
+------
+Aliens
+------
+> Unlocks: complete "City Dump" level.
+> Starts with: 6 lives.
+
+"You received an SOS signal from the Aliens. Find out what's happening and save
+them."
+
++++++++++++++
+- Bonus [BON]
++++++++++++++
+
+Follow Hamm if you want to unlock cheats and extra features from Disney/Pixar.
+
+-------------------
+- Cheat Codes [CHT]
+-------------------
+
+Here you can enter special codes to unlock cheats. Enter these case-sensitive
+codes to get the desired effect. Go to Pause -> Settings -> Cheats to activate
+them.
+
+ ____________________________________________________________________________
+|  CODE  |       NAME       |                     EFFECT                     |
+|--------|------------------|------------------------------------------------|
+| BLASER | Buzz laser       | Buzz can now use his laser in all the story    |
+|        |                  | levels.                                        |
+|--------|------------------|------------------------------------------------|
+| OLDMOV | Old movie        | Play the game with an old movie effect!        |
+|--------|------------------|------------------------------------------------|
+| 3DGLAS | Alien 3d glasses | Toy aliens wear 3D glasses.                    |
+|--------|------------------|------------------------------------------------|
+| BANDIT | Bandit Woody     | Woody wearing his bandit outfit.               |
+ ----------------------------------------------------------------------------
+
+-----------------------
+- Extra Materials [EXT]
+-----------------------
+
+Exchange coins with Hamm for bonus items. Use Toy Story 3 points that you've
+earned to unlock content.
+
+-----------
+Concept Art
+-----------
+
+25 Concept Arts - 300 each
+#1 - Andy's bedroom
+#2 - Bonnie
+#3 - Pea-in-a-pod
+#4 - Caterpillar Room
+#5 - One of the toys
+#6 - Rex
+#7 - Woody
+#8 - Butterfly Room
+#9 - Buzz, Lotso
+#10 - Bonnie's bedroom
+#11 - Dolly
+#12 - Daycare area
+#13 - Trixie
+#14 - Conveyor belt
+#15 - The Claw
+#16 - The Claw's incinerator
+#17 - Lotso
+#18 - Woody and toys
+#19 - Landfill
+#20 - Mr. Pricklepants
+#21 - Landfill entrance
+#22 - Daycare play area
+#23 - Bonnie's house
+#24 - Daycare play area
+#25 - Lotso in the Butterfly Room
+
+-------------
+Hi-res Images
+-------------
+
+15 Hi-res images - 300 each
+#1 - Buzz, Jessie, Woody
+#2 - Andy, Buzz, Woody
+#3 - Rex
+#4 - Sid
+#5 - Woody
+#6 - Lotso
+#7 - Trixie, Buttercup
+#8 - Buzz, Woody
+#9 - Rex, Hamm
+#10 - Buzz
+#11 - Woody, Lotso
+#12 - Lotso, Twitch
+#13 - Chunk
+#14 - Jessie, Woody, Bullseye
+#15 - Sparks
+
+------
+Cheats
+------
+
+6 Cheats - Activate cheats in the pause menu. Pause -> Settings -> Cheats
+
+ ____________________________________________________________________________
+|  CHEAT NAME  |  COST |                     DESCRIPTION                     |
+|--------------|-------|-----------------------------------------------------|
+| Snakes       |   600 | Every time Woody lands on the ground, fake snakes   |
+|              |       | pop out from his boots.                             |
+|--------------|-------|-----------------------------------------------------|
+| Comedy       |   600 | Buzz wears a funny disguise mask.                   |
+|--------------|-------|-----------------------------------------------------|
+| Zurg mask    |   800 | Woody wears the mask of Zurg except when he rides   |
+|              |       | Bullseye.                                           |
+|--------------|-------|-----------------------------------------------------|
+| High speed   |   800 | All characters run twice as fast!                   |
+|--------------|-------|-----------------------------------------------------|
+| Maiden Buzz  | 1,000 | Buzz is wearing a maid's outfit!                    |
+|--------------|-------|-----------------------------------------------------|
+| Invincible   | 1,800 | For the Buzz adventures, Buzz never loses health!!  |
+ ----------------------------------------------------------------------------
+
+++++++++++++++++
+- Settings [SET]
+++++++++++++++++
+
+Modify game options and view Credits.
+
+-------
+Options
+-------
+
+Music         : ========
+> Adjust the in-game music. Use the left and right D-pad buttons to lower or
+higher the volume.
+
+Sound FX      : ================
+> Adjust the sound effects. Use the left and right D-pad buttons to lower or
+higher the volume.
+
+Dialogue      : ============
+> Adjust the dialogue volume of the toys. Use the left and right D-pad buttons
+to lower or higher the volume.
+
+Autosave      : Yes
+> Toggle automatically saving the game on or off. The game saves after each
+level is completed. This is indicated with a yellow pixar ball.
+
+Vibration     : Yes
+> Toggle controller vibration on or off.
+
+Aspect Ratio  : 4:3
+> Toggle screen resolution. You may pick from 4:3 aspect or 16:9 aspect.
+
+Adjust Screen :
+> Adjust the screen. Move the L analog button to adjust or you may use any
+D-pad buttons to adjust as well.
+
+---------
+Languages
+---------
+
+Choose from any of the 3 languages. The default language is English.
+
+> English
+> Francais
+> Espanol
+
+-------
+Credits
+-------
+
+View the in-game credits here.
+
+++++++++++++++++++++
+- Title Screen [TIT]
+++++++++++++++++++++
+
+Start a new game or load a previous saved game.
+
+++++++++++++++++++++++++
+- Aliens Escapades [ALI]
+++++++++++++++++++++++++
+
+---------------------------
+- Awards and Controls [AAC]
+---------------------------
+
+The game is pretty easy. All of Little Green Man's minigame have the same
+concept, it only differs in the situation of the mini-game. The table below is
+the points that will be awarded depending on the number of deaths you incurred
+after finishing the mini-game. Each mini-game awards a maximum of 200 points.
+Points are cumulative (eg. if you ranked silver on the first try, you'll get
+120 but if you ranked platinum on the second, you'll get 80 to make up 200
+points).
+
+ ______________________________________________
+|   RANK   | ALLOWED SWITCHES | POINTS AWARDED |
+|----------|------------------|----------------|
+| Wood     | 61 or greater    | +40            |
+| Bronze   | 51 - 60          | +80            |
+| Silver   | 41 - 50          | +120           |
+| Gold     | 31 - 40          | +160           |
+| Platinum | 30 or lesser     | +200           |
+ ----------------------------------------------
+
+Similar to the awards, controls are the same across all mini-games. Controls
+are the same as in Adventure Book except for some differences.
+
+> LEFT or RIGHT D-pad buttons - switch to the alien corresponding to that
+direction.
+> O button - interact with objects.
+> L analog stick to desired direction - moves the alien to that direction.
+> Hold O button + L analog stick up to move boxes forward.
+
+----------------------
+Rescue Buzz Lightyear!
+----------------------
+> Unlocks: automatically unlocked.
+
+"Oh no! Buzz Lightyear has been imprisoned by Zurg. He needs you to rescue
+him!"
+
+-------
+Escape!
+-------
+> Unlocks: complete "The Claw!!!" level.
+
+"Blast! You're trapped by Zurgbots! Quick! Find a way to escape this dangerous
+place."
+
+++++++++++++++++
+- Trophies [TRO]
+++++++++++++++++
+
+Take a look at your completed trophies and find out about the ones you're
+missing...
+
+There are a total of 26 trophies to collect. You can collect up to 2 trophies
+per level in Adventure Book, which the game's story mode.
+
+---------
+First row
+---------
+
+Rails icon: Find 8 rails in "Western Playtime".
+Barrels icon: Break 30 barrels in one go in "Western Playtime".
+Bulbs icon: Find 8 bulbs in "Operation Phone Call".
+Blinds icon: Close 2 blinds in one go in "Operation Phone Call".
+Bubble makers icon: Find 8 Bubble makers in "Keep Cool!"
+Vehicle icon: Find a way to switch off car lights in "Keep Cool!".
+Windmill icon: Find 8 windmill toys in "Family-minded".
+Box icon: Straighten up 6 pictures in one go in "Family-minded".
+
+----------
+Second row
+----------
+
+Food toy icon: Find 8 food toys in "Trouble in the Caterpillar Room".
+Jar icon: Knock over 3 jars in one go in "Trouble in the Caterpillar Room".
+Paper plane icon: Find 8 paper planes in "Goodbye Woody".
+Pigeon icon: Scare 8 pigeons in one go in "Goodbye Woody".
+Puzzle icon: Find 8 jigsaw puzzle pieces in "Strawberry Smells...".
+Sphere icon: Knock over 5 balls in one go in "Strawberry Smells...".
+Butterfly icon: Find 8 plastic butterflies in "Find the Computer".
+Plastic tube icon: Walk on 8 painting tubes in one go in "Find the Computer".
+
+---------
+Third row
+---------
+
+Box icon: Find 8 animal blocks in "Eye in the Sky".
+Ceiling icon: Knock down 6 suspended ceilings parts in one go in "Eye in the
+Sky".
+Toy hat icon: Find 8 toy hats in "Rodeo Rescue!".
+Shape icon: Knock down 5 red magnets in one go in "Rodeo Rescue!".
+Artificial flower icon: Find 8 artificial flowers in "City Dump".
+Jessie icon: Don't fall on the conveyor belt before you save Jessie in "City
+Dump".
+Space rocket icon: Find 8 space rocket pieces in "The Claw!!!".
+Aliens icon: Switch Aliens 50 times or less to reach the crane in "The
+Claw!!!".
+
+----------
+Fourth row
+----------
+
+Sticker icon: Find 8 stickers in "Back Home...".
+Slingshot icon: Reach the TV truck without falling on the road in "Back
+Home...".
+
++++++++++++++++++++++++
+- Woody's Roundup [WOO]
++++++++++++++++++++++++
+
+Play an original Woody's western adventure.
+
+---------------------------
+- Awards and Controls [WAC]
+---------------------------
+
+The game is pretty easy. All of Woody's minigame have the same concept, it only
+differs in the situation of the mini-game. The table below is the points that
+will be awarded depending on the number of deaths you incurred after finishing
+the mini-game. Each mini-game awards a maximum of 200 points. Points are
+cumulative (eg. if you ranked silver on the first try, you'll get 120 but if
+you ranked platinum on the second, you'll get 80 to make up 200 points).
+
+ ____________________________________________
+|   RANK   | ALLOWED DEATHS | POINTS AWARDED |
+|----------|----------------|----------------|
+| Wood     | 7 or more      | +40            |
+| Bronze   | 4 - 6          | +80            |
+| Silver   | 2 - 3          | +120           |
+| Gold     | 1              | +160           |
+| Platinum | 0              | +200           |
+ --------------------------------------------
+
+Similar to the awards, controls are the same across all mini-games. Controls
+are the same as in Adventure Book except for some differences.
+
+> X button - jump over obstacles.
+> X button (tap twice) - double jump.
+> /\, O, [] and X buttons - knock down bandits (when it shows up).
+> L analog stick down - duck under obstacles.
+> Hold L analog stick down to duck under obstacles longer.
+> Rapidly tap O button to escape danger (when it shows up).
+
+--------
+Hold-up!
+--------
+> Unlocks: automatically unlocked.
+
+"Bandits have stolen the gold! You must get it back Sheriff Woody."
+
+---------
+Switchman
+---------
+> Unlocks: automatically unlocked.
+
+"Bandits have blocked the train line. Quick! Switch the train onto another
+track!"
+
+-------------
+Save the Lady
+-------------
+> Unlocks: complete "Family-minded" level.
+
+"Hurry up! Jessie's in a cave filled with dynamite! Ride to her rescue!"
+
+------------------
+Lost in Ghost Town
+------------------
+> Unlocks: complete "Goodbye Woody" level.
+
+"Jessie's lost in the ghost town. Hurry up and find her!"
+
+--------------------
+The Blazing Inferno!
+--------------------
+> Unlocks: complete "Eye in the Sky" level.
+
+"Critters have been trapped by fire. You don't have a minute to lose!"
+
+-------------------------------------------------------------------------------
+C. Frequently Asked Questions [FAQ]
+-------------------------------------------------------------------------------
+
+Q - Are all the cast from the movie included in the game?
+A - No. Toys such as the Mr. and Mrs. Potato Head, Ken, Barbie are absent.
+
+Q - Does the PS2 version include the Toy Box Mode?
+A - No. It's only present in the Xbox 360, PS3 and Wii versions.
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "Toy Story 3: General Walkthrough FAQ" to remind me that you
+are not spam. If not, the subject should be at least close to the previous one
+and I will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs and SuperCheats for hosting the FAQ.
+
+To Disney Interactive Studio for making the game.
+
+To citricice for pointing out a hidden spring in the "Operation Phone Call"
+level.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

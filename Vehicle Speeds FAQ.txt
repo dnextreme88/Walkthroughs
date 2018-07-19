@@ -1,0 +1,477 @@
+Vehicle Speeds FAQ:
+
+Name of Game: Grand Theft Auto: San Andreas
+
+Platform: PS2 / PC
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. How I did it...................................................[HOW]
+        B. Vehicles I did not test........................................[NOT]
+        C. Speed Results..................................................[RES]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Welcome to the GTA: San Andreas Vehicle Speeds FAQ. This FAQ will inform you of
+the relative speeds of each and every land vehicle in San Andreas. I decided to
+conduct this test to end the continuous speculation about which vehicle was the
+quickest. Testing nearly 150 vehicles is not an easy process, and it took me a
+while to find and test them all, but now that it's finished, I am very glad
+that I did.
+
+Grand Theft Auto: San Andreas is owned by Rockstar Games. All trademarks are
+subjected to Rockstar Games.
+
+Copyright (c) Rockstar Games.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Mar 15, 2005
+= Submitted the FAQ.
+
+Version 1.1 - June 24, 2009
+= Added "About" section.
+= Renamed "Outro" to "Closing" section.
+
+Version 1.2 - Sep 19, 2016
+= Revival. Re-structured the document. Corrected some grammar errors.
+= Changed all section codes so that search is easier.
+= Renamed "Results" to "Speed Results" section.
+= Removed the following items:
+	> "About" section. Its content is placed in the "Introduction" section.
+	> "Closing" section.
+
+= Vehicle speed ranking in "Speed Results" section is now a table instead of
+plain text.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. How I did it [HOW]
+-------------------------------------------------------------------------------
+
+OK, this is how it went. I chose a method that would eliminate human error and
+reaction times as much as possible. When I found the vehicle, I took it to the
+SF Airport, and lined it up (using first person view) so that the front of the
+car was in line with the second closest lamp post to the water's edge. I then
+pressed down X and held it for the entirety of the test. When the vehicle
+reached the beginning of the runway, I started the stopwatch. I stopped the
+watch when it reached the end of the runway.
+
+I deliberately chose not to use the in-game clock for 2 reasons:
+> It does not go up in exact seconds.
+> It does not include fractions of seconds.
+
+-------------------------------------------------------------------------------
+B. Vehicles I did not test [NOT]
+-------------------------------------------------------------------------------
+
+I tested all the land vehicles (with the exception of bicycles) in San Andreas.
+So the vehicles I did not test are as follows:
+
+> Boats, helicopters and planes - they're not land vehicles.
+> Bicycles - they don't have engines.
+> LSPD/LVPD Police Cars - I doubt they're programmed to perform differently to
+the SFPD police cars (which I did test).
+
+-------------------------------------------------------------------------------
+C. Speed Results [RES]
+-------------------------------------------------------------------------------
+
+So, after extensive driving up and down the runway, here are the results.
+
+Now it's important to consider that, despite my best efforts to eliminate human
+error and reaction times, the results will not be 100% clear cut. For example,
+I may have started/stopped the stopwatch a few hundredths of a second too late
+or early at the end of the test, and as you will see in the results, the middle
+of the pack is very tight, with several times shared by more than one vehicle.
+
+Because of this, you must realize when reading the results that if they were
+re-tested, they may get slightly different times, and therefore be in slightly
+different positions. However, don't start thinking that this test is completely
+inaccurate as I would not have done this FAQ about it. As I stated before, the
+margin of error is minimal, and I am confident that the results are as accurate
+as possible.
+
+ _________________________________
+| RANK | SPEED |     VEHICLE      |
+|------|-------|------------------|
+|   1. | 15.58 | Infernus         |
+|------|-------|------------------|
+|   2. | 16.21 | Hotring Racer    |
+|------|-------|------------------|
+|   3. | 16.61 | Banshee          |
+|------|-------|------------------|
+|   4. | 16.69 | Bullet           |
+|------|-------|------------------|
+|   5. | 16.72 | Turismo          |
+|------|-------|------------------|
+|   6. | 17.36 | Cheetah          |
+|------|-------|------------------|
+|   7. | 17.61 | Comet            |
+|------|-------|------------------|
+|   8. | 17.66 | Buffalo          |
+|------|-------|------------------|
+|   9. | 17.84 | ZR-350           |
+|------|-------|------------------|
+|  10. | 17.96 | Elegy            |
+|------|-------|------------------|
+|  11. | 18.36 | Super GT         |
+|------|-------|------------------|
+|  12. | 18.40 | NRG-500          |
+|------|-------|------------------|
+|  13. | 18.41 | Jester           |
+|------|-------|------------------|
+|  14. | 18.42 | Sandking         |
+|------|-------|------------------|
+|  15. | 18.83 | Sultan           |
+|------|-------|------------------|
+|  16. | 18.85 | Phoenix          |
+|------|-------|------------------|
+|  17. | 18.90 | Bloodring Banger |
+|------|-------|------------------|
+|  18. | 18.96 | Police           |
+|------|-------|------------------|
+|  19. | 19.02 | Sabre            |
+|------|-------|------------------|
+|  20. | 19.08 | Blade            |
+|------|-------|------------------|
+|  21. | 19.12 | Hotknife         |
+|------|-------|------------------|
+|  22. | 19.27 | Savanna          |
+|------|-------|------------------|
+|  23. | 19.37 | Alpha            |
+|------|-------|------------------|
+|  24. | 19.40 | Remington        |
+|------|-------|------------------|
+|  25. | 19.46 | Premier          |
+|------|-------|------------------|
+|  25. | 19.46 | Stallion         |
+|------|-------|------------------|
+|  25. | 19.46 | Voodoo           |
+|------|-------|------------------|
+|  28. | 19.58 | Euros            |
+|------|-------|------------------|
+|  29. | 19.59 | Flash            |
+|------|-------|------------------|
+|  30. | 19.60 | Club             |
+|------|-------|------------------|
+|  31. | 19.65 | Clover           |
+|------|-------|------------------|
+|  32. | 19.77 | Blista Compact   |
+|------|-------|------------------|
+|  32. | 19.77 | Slamvan          |
+|------|-------|------------------|
+|  34. | 19.84 | Sentinel         |
+|------|-------|------------------|
+|  35. | 19.93 | Admiral          |
+|------|-------|------------------|
+|  36. | 20.05 | Buccaneer        |
+|------|-------|------------------|
+|  37. | 20.08 | Feltzer          |
+|------|-------|------------------|
+|  38. | 20.18 | Ranger           |
+|------|-------|------------------|
+|  39. | 20.21 | Windsor          |
+|------|-------|------------------|
+|  40. | 20.22 | Elegant          |
+|------|-------|------------------|
+|  41. | 20.28 | FCR-900          |
+|------|-------|------------------|
+|  41. | 20.28 | PCJ-600          |
+|------|-------|------------------|
+|  43. | 20.41 | FBI Rancher      |
+|------|-------|------------------|
+|  44. | 20.42 | Tahoma           |
+|------|-------|------------------|
+|  45. | 20.52 | Merit            |
+|------|-------|------------------|
+|  46. | 20.53 | Landstalker      |
+|------|-------|------------------|
+|  47. | 20.56 | Enforcer         |
+|------|-------|------------------|
+|  47. | 20.56 | Uranus           |
+|------|-------|------------------|
+|  49. | 20.73 | Tampa            |
+|------|-------|------------------|
+|  50. | 20.74 | Ambulance        |
+|------|-------|------------------|
+|  51. | 20.83 | Huntley          |
+|------|-------|------------------|
+|  52. | 20.85 | Tornado          |
+|------|-------|------------------|
+|  53. | 20.86 | Patriot          |
+|------|-------|------------------|
+|  54. | 20.90 | Coach            |
+|------|-------|------------------|
+|  55. | 20.92 | Fortune          |
+|------|-------|------------------|
+|  56. | 20.96 | Burrito          |
+|------|-------|------------------|
+|  57. | 20.96 | Majestic         |
+|------|-------|------------------|
+|  58. | 21.00 | Broadway         |
+|------|-------|------------------|
+|  59. | 21.18 | Stratum          |
+|------|-------|------------------|
+|  60. | 21.19 | Nebula           |
+|------|-------|------------------|
+|  61. | 21.21 | Bandito          |
+|------|-------|------------------|
+|  61. | 21.21 | Solair           |
+|------|-------|------------------|
+|  63. | 21.27 | Stafford         |
+|------|-------|------------------|
+|  63. | 21.27 | Washington       |
+|------|-------|------------------|
+|  65. | 21.37 | Firetruck        |
+|------|-------|------------------|
+|  66. | 21.40 | HPV1000          |
+|------|-------|------------------|
+|  66. | 21.40 | Towtruck         |
+|------|-------|------------------|
+|  68. | 21.42 | Cardona          |
+|------|-------|------------------|
+|  69. | 21.49 | BF-400           |
+|------|-------|------------------|
+|  70. | 21.52 | Picador          |
+|------|-------|------------------|
+|  70. | 21.52 | Sadler           |
+|------|-------|------------------|
+|  70. | 21.52 | Stretch          |
+|------|-------|------------------|
+|  73. | 21.73 | Cabbie           |
+|------|-------|------------------|
+|  73. | 21.73 | Emperor          |
+|------|-------|------------------|
+|  75. | 21.83 | Hermes           |
+|------|-------|------------------|
+|  76. | 21.98 | Esperanto        |
+|------|-------|------------------|
+|  76. | 21.98 | Previon          |
+|------|-------|------------------|
+|  78. | 22.02 | Hustler          |
+|------|-------|------------------|
+|  79. | 22.08 | Glendale         |
+|------|-------|------------------|
+|  80. | 22.24 | Willard          |
+|------|-------|------------------|
+|  81. | 22.27 | Sunrise          |
+|------|-------|------------------|
+|  82. | 22.28 | Yosemite         |
+|------|-------|------------------|
+|  83. | 22.30 | Sanchez          |
+|------|-------|------------------|
+|  84. | 22.41 | Roadtrain        |
+|------|-------|------------------|
+|  84. | 22.41 | Virgo            |
+|------|-------|------------------|
+|  86. | 22.43 | Vincent          |
+|------|-------|------------------|
+|  87. | 22.46 | Bravura          |
+|------|-------|------------------|
+|  87. | 22.46 | Taxi             |
+|------|-------|------------------|
+|  89. | 22.47 | Intruder         |
+|------|-------|------------------|
+|  90. | 22.53 | Rancher          |
+|------|-------|------------------|
+|  91. | 22.58 | Mesa             |
+|------|-------|------------------|
+|  92. | 22.77 | Freeway          |
+|------|-------|------------------|
+|  92. | 22.77 | Greenwood        |
+|------|-------|------------------|
+|  94. | 22.82 | Securicar        |
+|------|-------|------------------|
+|  95. | 22.90 | Primo            |
+|------|-------|------------------|
+|  95. | 22.90 | Wayfarer         |
+|------|-------|------------------|
+|  97. | 22.98 | BF Injection     |
+|------|-------|------------------|
+|  98. | 23.02 | Bobcat           |
+|------|-------|------------------|
+|  99. | 23.23 | Oceanic          |
+|------|-------|------------------|
+| 100. | 23.56 | Romero           |
+|------|-------|------------------|
+| 101. | 23.71 | Regina           |
+|------|-------|------------------|
+| 102. | 23.90 | Flatbed          |
+|------|-------|------------------|
+| 103. | 24.02 | Rumpo            |
+|------|-------|------------------|
+| 104. | 24.15 | Cement Truck     |
+|------|-------|------------------|
+| 105. | 24.17 | Newsvan          |
+|------|-------|------------------|
+| 106. | 24.30 | DFT-30           |
+|------|-------|------------------|
+| 107. | 24.52 | Perennial        |
+|------|-------|------------------|
+| 108. | 24.58 | Manana           |
+|------|-------|------------------|
+| 109. | 25.35 | Tanker           |
+|------|-------|------------------|
+| 110. | 25.54 | Packer           |
+|------|-------|------------------|
+| 111. | 26.35 | Camper           |
+|------|-------|------------------|
+| 112. | 26.43 | Utility Van      |
+|------|-------|------------------|
+| 113. | 26.58 | Benson           |
+|------|-------|------------------|
+| 114. | 27.02 | Monster          |
+|------|-------|------------------|
+| 115. | 27.27 | Walton           |
+|------|-------|------------------|
+| 116. | 27.42 | Dune             |
+|------|-------|------------------|
+| 117. | 27.44 | Quadbike         |
+|------|-------|------------------|
+| 118. | 27.85 | Moonbeam         |
+|------|-------|------------------|
+| 119. | 27.87 | Dumper           |
+|------|-------|------------------|
+| 120. | 28.56 | Barracks         |
+|------|-------|------------------|
+| 120. | 28.56 | Linerunner       |
+|------|-------|------------------|
+| 122. | 28.86 | Pizzaboy         |
+|------|-------|------------------|
+| 123. | 29.10 | Faggio           |
+|------|-------|------------------|
+| 124. | 29.27 | Hotdog           |
+|------|-------|------------------|
+| 125. | 29.36 | Pony             |
+|------|-------|------------------|
+| 126. | 29.42 | Journey          |
+|------|-------|------------------|
+| 127. | 29.43 | Boxville         |
+|------|-------|------------------|
+| 128. | 29.62 | Bus              |
+|------|-------|------------------|
+| 129. | 29.65 | Mule             |
+|------|-------|------------------|
+| 130. | 30.23 | Vortex           |
+|------|-------|------------------|
+| 131. | 30.48 | Yankee           |
+|------|-------|------------------|
+| 132. | 30.56 | Combine          |
+|------|-------|------------------|
+| 133. | 31.02 | Trashmaster      |
+|------|-------|------------------|
+| 134. | 31.35 | Baggage          |
+|------|-------|------------------|
+| 135. | 32.40 | Caddy            |
+|------|-------|------------------|
+| 136. | 32.72 | Kart             |
+|------|-------|------------------|
+| 137. | 33.09 | Mr. Whoopee      |
+|------|-------|------------------|
+| 138. | 34.30 | Rhino            |
+|------|-------|------------------|
+| 139. | 35.92 | Tug              |
+|------|-------|------------------|
+| 140. | 43.29 | Tractor          |
+|------|-------|------------------|
+| 141. | 49.27 | Forklift         |
+|------|-------|------------------|
+| 142. | 49.58 | Dozer            |
+|------|-------|------------------|
+| 143. | 50.08 | Sweeper          |
+|------|-------|------------------|
+| 144. | 50.15 | Mower            |
+ ---------------------------------
+
+You should now know what specific vehicles are fast and those that are slow 
+(but this is accurate, not perfect though). Also, do not forget that if you get
+the fastest cars in the game, you should put them in your garage too!
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "GTA SA: Vehicle Speeds FAQ" to remind me that you are not
+spam. If not, the subject should be at least close to the previous one and I
+will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+
+To Rockstar Games for making the game.
+
+To hdhg for testing the Bus, as I was unable to find one myself throughout the
+game.
+
+To all the posters at the GTA board of ign.com for their support during the
+tests. Without them, I would probably not have carried through with this.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

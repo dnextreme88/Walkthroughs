@@ -1,0 +1,274 @@
+Early EXP Farming FAQ:
+
+Name of Game: Digimon Story: Cyber Sleuth
+
+Platform: PS4 / PS Vita
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. Pre-requisites.................................................[REQ]
+        B. Farming Location...............................................[LOC]
+        C. Hunting for the Tactician USBs.................................[HNT]
+        D. DigiFarm Development...........................................[DEV]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hi and welcome to my Early EXP Farming FAQ. This FAQ will guide you to get an 
+early, easy EXP farming in the game. This is my first guide for 2016 and the 
+first one since the last guide I did back in 2009 (Gambling FAQ for GTA: San 
+Andreas PS2 version). It's been 7 years!
+
+Digimon Story: Cyber Sleuth is owned by Bando Namco Entertainment. All 
+trademarks are subjected to Bandai Namco Entertainment.
+
+Copyright (c) Bandai Namco Entertainment.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Aug 16, 2016
+= Submitted the FAQ.
+
+Version 1.1 - Aug 27, 2016
+= Fixed all indentions for better readability.
+
+Version 1.2 - Sep 16, 2016
+= Re-arranged the calculation table in "DigiFarm Development" section so that
+they are in alphabetical order.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. Pre-requisites [REQ]
+-------------------------------------------------------------------------------
+
+This EXP farming is best done at the beginning of Chapter 4. After beating an 
+Eater in Shinjuku's Digital Shift dungeon during Chapter 4, you'll be back in 
+the Kuremi Detective Agency. Check the white board and accept the case "A Life 
+Crisis!?" with a blue pin. Before exiting the agency, head to Kowloon Lv. 2 by 
+interacting with the TV. Once there, get a 200% scan for a Wanyamon here. Go to
+the DigiLab and use the scan to acquire a Wanyamon. Wanyamon is used for 
+acquiring a Digimon that gives a hefty amount of EXP when used in battle. Do 
+this 3 times so you have 3 Wanyamons. Put them in your party and exit Kowloon 
+Lv. 2. 
+
+-------------------------------------------------------------------------------
+B. Farming Location [LOC]
+-------------------------------------------------------------------------------
+
+Exit the agency and head left. Go all the way south to see a place where you 
+can Connect Jump. Interact it with the X button to be taken to a Digital Space
+network.
+
+I recommend you not to finish the case as you can always come back to it and 
+level your other Digimons. This dungeon has 5 Digimons to be encountered in 
+total. This is where you level your 3 Wanyamons. On the first level, you 
+encounter 3 Digimons: Greymon, Dorugamon and Peckmon. All of which give 548 EXP
+when killed.
+
+Your target Digimon is PlatinumNumemon. There are a lot of ways you could get
+him but I recommend you use this digivolution path:
+
+        Wanyamon > Kudamon > GoldNumemon > Vademon (for Nightmare III) > de-
+digivolve to GoldNumemon > PlatinumNumemon
+
+The reason why you need to Digivolve to Numemon before going to PlatinumNumemon
+is for its Nightmare III dark skill (learned at Level 45), which helps kill the
+Digimons in this dungeon. 
+
+-----
+NOTE: 
+This EXP farming will take a couple of hours but once you have 3 
+PlatinumNumemons in your party, leveling your other Digimon will become a lot 
+easier. Having 3 Tactician USBs for each PlatinumNumemon (a total of 9) will 
+yield a bigger EXP gain.
+-----
+
+-------------------------------------------------------------------------------
+C. Hunting for the Tactician USBs [HNT]
+-------------------------------------------------------------------------------
+
+Tactician USBs are equipments that boost the EXP gain after battles. There a 
+couple of ways to obtain Tactician USBs:
+
++++++++++++++++++++++++++
+- Nakano Digimon Festival
++++++++++++++++++++++++++
+
+Obtained as a case reward for completing "Nakano Digimon Festival" case (DLC 3
+case - install the "Mission Pack 1" DLC to unlock this case.)
+
+++++++++++++++++
+- Victory Uchida
+++++++++++++++++
+
+In Chapter 19, head to Shinjuku. Use your Stealth Hide hacking skill and enter
+the 2nd area. Approach him near the Digital Shift entrance to receive 1
+Tactician USB.
+
+++++++++++++++++++++++
+- King Drasil miniboss
+++++++++++++++++++++++
+
+In Chapter 20, you'll have 4 encounters with this mini-boss (one before you go
+into the King Drasil Core). On your last encounter with it, there's a big
+chance it drops 1 Tactician USB.
+
+++++++++++++++++++++++++++++
+- PlatinumNumemon encounters
+++++++++++++++++++++++++++++
+
+> Boss battle from DLC 3 case (possible drop).
+> Encounter at Tokyo Metropolitan Office 48-49F. There's a slim chance that you
+get to encounter him at 36-40F too.
+> Legendary Cup. This becomes available after clearing Platinum Cup in the
+Offline Coliseum and reaching Chapter 16. This is one of the battles where the
+PlatinumNumemon joins PrinceMamemon and MetalEtemon (guaranteed drop).
+
+-------------------------------------------------------------------------------
+D. DigiFarm Development [DEV]
+-------------------------------------------------------------------------------
+
+You can also get Tactician USB in the DigiFarm via the DigiLab. At Chapter 1, 
+you will only have access to 1 farm island but as you go farther into the game,
+you will find Farm Development Kits through chests that is used for adding more
+farm islands into the game. Farm Expansion Plugin is for increasing the farm 
+level, and increasing the number of farm goods that can be placed.
+	
+For me, this one is a little harder. I've had so many tries developing 
+Tactician USBs before getting at least 1 of it. Prepare at least 151,000 Yen 
+(assuming you've made it farther into the game, no Builder Digimon and no 
+Developer Know-How):
+
+        Developer Know-How: 25,000 Yen x  5 = 125,000 Yen
+        Development Patch :  2,500 Yen x 10 =  25,000 Yen
+        1,000 Yen Dev't   :  1,000 Yen x  1 =   1,000 Yen
+        -------------------------------------------------
+        TOTAL:                                151,000 Yen
+
+STEPS:
+        1. Fill at least 1 farm island with 10 Builder Digimon. If you need to 
+change their personalities to "Builder", access EDEN and go to EDEN Entrance. 
+Go north and interact with the shop on the left. Buy the Development Patch 
+(costs 2,500 Yen and is available on Chapter 2). Change the Digimons that will 
+be placed in the farm to Builder personality.
+        2. Go to DigiLab and interact with the shop. Buy 5 Developer Know-How 
+(costs 25,000 Yen and is available at Chapter 1).
+        3. Go to your DigiFarm. Use 2 or more farm islands if you can 
+(recommended). This will speed up the process and greater chances of getting 
+the Tactician USB in one go.
+        4. Pick Farm Goods and place your Develop Know-How farm goods into each 
+slot (each level of the farm increases the number of slots available, up to 5).
+        5. Pick Command then Develop. Choose the 1,000 Yen option. 
+        6. The table belows show the completion time of each development based 
+on the number of Builder Digimon you have on a farm.
+
+ __________________________________________________________
+| # of Builder Digimons |   Completion Time (in minutes)   |
+|-----------------------|----------------------------------|
+|          Zero         |            100 minutes           |
+|-----------------------|----------------------------------|
+|          One          |             95 minutes           |
+|-----------------------|----------------------------------|
+|          Two          |             65 minutes           |
+|-----------------------|----------------------------------|
+|         Three         |             50 minutes           |
+|-----------------------|----------------------------------|
+|          Four         |             40 minutes           |
+|-----------------------|----------------------------------|
+|          Five         |             35 minutes           |
+|-----------------------|----------------------------------|
+|          Six          |             30 minutes           |
+|-----------------------|----------------------------------|
+|      Seven/Eight      |             25 minutes           |
+|-----------------------|----------------------------------|
+|       Nine/Ten        |             20 minutes           |
+ ----------------------------------------------------------
+
+If you're successful in developing Tactician USBs, you should get at least 2
+per farm island, assuming you have 10 Builder Digimons and 5 Develop Know-How
+goods. This requires a bit of luck, because it's a rare chance for your
+Digimons to develop the item.
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "Digimon Story: Cyber Sleuth FAQ" to remind me that you are
+not spam. If not, the subject should be at least close to the previous one and
+I will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+
+To Bandai Namco Entertainment for making the game.
+
+To Draken70 for allowing me to use his mini-guide tip on early farming as early
+as Chapter 4.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

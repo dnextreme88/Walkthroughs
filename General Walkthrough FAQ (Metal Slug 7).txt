@@ -1,0 +1,1565 @@
+FAQ / Walkthrough:
+
+Name of Game: Metal Slug 7
+
+Platform: DS
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. Characters.....................................................[CHR]
+                - Marco Rossi.............................................[MAR]
+                - Tarma Roving............................................[TAR]
+                - Fio Germi...............................................[FIO]
+                - Eri Kasamoto............................................[ERI]
+                - Ralf Jones..............................................[RAL]
+                - Clark Still.............................................[CLA]
+        B. Main Missions..................................................[MIS]
+                - Mission 1.............................................[MIS-1]
+                        - Boss: Worm Mecha................................[WRM]
+                - Mission 2.............................................[MIS-2]
+                        - Boss: Crablops..................................[CRB]
+                - Mission 3.............................................[MIS-3]
+                        - Boss: Crablops (separated)......................[SPR]
+                - Mission 4.............................................[MIS-4]
+                        - Boss: Fall Mecha................................[FAL]
+                - Mission 5.............................................[MIS-5]
+                        - Boss: The Union.................................[UNI]
+                - Mission 6.............................................[MIS-6]
+                        - Boss: Rebel Gigant..............................[GIG]
+                - Mission 7.............................................[MIS-7]
+                        - Boss: Kraken....................................[KRK]
+        C. Combat School..................................................[CBS]
+                - Level 1...............................................[CBS-1]
+                - Level 2...............................................[CBS-2]
+                - Level 3...............................................[CBS-3]
+                - Level 4...............................................[CBS-4]
+                - Level 5...............................................[CBS-5]
+                - Level 6...............................................[CBS-6]
+                - Level 7...............................................[CBS-7]
+        D. Prisoners of War List..........................................[POW]
+        E. Ranking........................................................[RNK]
+        F. Options........................................................[OPT]
+                - Controls................................................[CTL]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hi and welcome to my FAQ/Walkthrough for the game Metal Slug 7. The Metal Slug
+franchise is back on the main scene. This installment of the game is only
+exclusive to the DS and in fact, the only game in the franchise in the DS
+platform. This FAQ will guide you through the basics as well as the gameplay.
+
+I started playing my DS since September 19, 2016 and decided to create a FAQ
+for this. I hope this FAQ will help you beat the game.
+
+Metal Slug 7 is owned by Ignition Entertainment. All trademarks are subjected
+to Ignition Entertainment.
+
+Copyright (c) Ignition Entertainment.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Sep 28, 2016
+= Submitted the FAQ.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. Characters [CHR]
+-------------------------------------------------------------------------------
+
+Metal Slug 7 features 6 characters in total.
+
++++++++++++++++++++
+- Marco Rossi [MAR]
++++++++++++++++++++
+
+A balanced soldier who is the best at handling the heavy machine gun.
+
+FULL NAME: Marchrius Dennis Rossi
+BACKGROUND:
+> Italian-American, Marco joined the military's special vocational academy
+following technical high school. Upon graduation, he became a member of the
+Peregrine Falcon (PF) special forces squad. Generally good-natured, he becomes
+enraged at the mere mention of General Morden, who has been responsible for the
+loss of many friends and comrades. He is a skilled member of the special forces
+squad and an elite hacker, who once created a virus for fun and accidentally
+infected the military mainframe. The virus broke through the security
+mechanisms and penetrated every level of the mainframe, nearly causing the
+launch of nuclear missiles. This is a secret he'll take to his grave.
+
+ABILITIES: His default weapon (Heavy Machine Gun on Beginner, Pistol on Normal
+and Hard) has twice the ordinary strength.
+
+++++++++++++++++++++
+- Tarma Roving [TAR]
+++++++++++++++++++++
+
+The most skilled with tanks and fighter planes. He can take down the enemies
+with devastating firepower.
+
+FULL NAME: Tarmicle Roving III
+BACKGROUND:
+> The son of a distinguished military man, he entered the Special Forces
+Training School immediately after junior high school. At the age of 20, he
+joined the PF Squad on a mission to rescue the president, where he met Marco
+and became fast friends. Upon discovering that Marco had been selected for a
+counteroffensive in the Great War, he volunteered for action, where they fought
+through and survived the war together. Following the war, both he and Marco
+were promoted, with Tarma becoming captain. In private, Tarma often makes fun
+of the over-serious Marco, but holds him in the highest regard as a soldier. He
+builds custom motorcycles as a hobby with a knack that rivals even
+professionals. Tarma had intended to retire and start up a motorcycle shop
+following the First Morden Great War, but he was coaxed by his superiors to
+remain in service.
+
+ABILITIES: While riding in or on a Slug, durability and the effects of power-
+ups are doubled. Additionally, the vulcan cannon's power is increased by 50%.
+He's capable of using Vulcan Fix when on or in any vehicle. He can also use his
+special 'attack' (by using the same key combination for Ralf and Clark's melee
+attacks) on a Slug, randomly repairing or damaging it.
+
++++++++++++++++++
+- Fio Germi [FIO]
++++++++++++++++++
+
+Carries a large amount of ammo and has a very heavy fire barrage. Can pierce
+any armor regardless of thickness.
+
+FULL NAME: Fiolina Germi
+BACKGROUND:
+> Fio is the only daughter of a wealthy Italian family. The Germi family was
+historically a military family, so of course Fio's father wished for the first
+child to be a strong son. However, following a difficult birth, her mother
+became unable to bear additional children. This was the first time in Germi
+history that the family had a female heir. Due to family tradition, she was
+required to become a soldier, so she was made to join the Government Forces.
+The complete opposite of Eri, Fio was raised by loving parents and possesses a
+quiet demeanor. She studied chiropractics and acupunture in university and is
+thinking of becoming a sports doctor in the future.
+
+ABILITIES: Begins each mission with the Heavy Machine Gun. Weapon supply is
+also increased by 50%.
+
+++++++++++++++++++++
+- Eri Kasamoto [ERI]
+++++++++++++++++++++
+
+Excellent with explosives, particularly hand grenades. She provides support to
+comrades, surrounding the enemies with explosions and smoke.
+
+FULL NAME: Eri Kasamoto
+BACKGROUND:
+> An orphan who was found abandoned in front of a church. Her earliest memory
+is escaping the church and becoming the leader of a street gang. Her leadership
+skills were discovered by the Government Forces Intelligence Agency, who gave
+her special training as a spy. Eri, however, found assassination and subterfuge
+missions to be heavily distasteful, so she applied to be transferred to
+SPARROWS, of which she was specially granted considering her ability and deeds.
+In the Second Uprising, she showed exemplary performance in suppression
+operations and stopped Morden's Army from executing the uprising. She was
+promoted to staff sergeant.
+
+ABILITIES: Receives twice as many grenades upon starting or resupplying. When
+throwing, she can aim in a specific direction.
+
+++++++++++++++++++
+- Ralf Jones [RAL]
+++++++++++++++++++
+
+Incredibly fast with close quarters combat. He carries little ammo, but can
+take down enemies with a single punch.
+
+BACKGROUND:
+> Though he is a colonel of his mercenary squad, his background is a complete
+mystery. Rumor has it that he came from a certain nation's special forces, or
+that he eradicated some secret society; Ralf shows no interest in such rumors.
+He does seem quite close to his commander, but no one has any clue as to how
+they met. He and Clark are brothers-in-arms, and they always go to battle
+together. He is known to participate in tournament fighting, and his close
+quarters combat ability far outstrips the average fighter.
+
+ABILITIES: Melee attack speed is doubled, at the expense of weapon and grenade
+supplies being halved. He can also use the special 'Vulcan Punch' attack, melee
+strikes capable of damaging vehicles. Can take two hits from most attacks
+before losing a life.
+
++++++++++++++++++++
+- Clark Still [CLA]
++++++++++++++++++++
+
+The mastery of throwing skills. He is a specialist capable of tossing aside
+legions of foes one after the other.
+
+FULL NAME:
+BACKGROUND:
+> It seems that he joined the mercenary squad some years ago, but nothing else
+is known about Clark other than that. He and Ralf have long been brothers-in
+-arms, and they always go to battle together. Just like Ralf, there are also
+countless rumors about his past, and they are all equally outlandish. However,
+the very number of these rumors and the known fact that he often joins Ralf in
+tournament fights offer a clue to his fighting prowess. On the battlefield his
+combat style somewhat differs from Ralf's, but he shows expertise in close
+quarters combat techniques all the same. Enemies unfortunate enough to run into
+him find themselves instantly flung into the air and crashing back down.
+
+ABILITIES: Gets an extra chance at start of respawn. He can perform his
+'Argentina Backbreaker' against most non-vehicle enemies, and he's immune to
+damage during the move, also earning generous amounts of points with such
+action.
+
+-------------------------------------------------------------------------------
+B. Main Missions [MIS]
+-------------------------------------------------------------------------------
+
+The game comprises of 7 missions. Each mission is divided into different areas.
+This is where the screen fades before proceeding to a new part of the mission.
+You'll be presented in a difficulty level screen. Choose from:
+
+> Beginner - Easy difficulty level. Best suited for light play during your
+lunch break!
+
+> Normal - Standard difficulty level. Take your time to clear all stages!
+
+> Hard - Expert difficulty level. For true Metal Slug fans and hardcore action
+gamers!
+
++++++++++++++++++++
+- Mission 1 [MIS-1]
++++++++++++++++++++
+
+-----------------------------
+Area: Garbage Island entrance
+-----------------------------
+Prisoners: 5
+
+Kill the 3 soldiers as soon you land. Rescue the 1st prisoner. There are 4 more
+soldiers up ahead: 2 footmen, 1 with a shield and 1 behind a cannon turret.
+Before taking the cannon turret, shoot upwards on where the soldier manning it
+was for a 2nd prisoner (this one is hidden). 3 soldiers will attack from
+behind. 3 more soldiers are up in the next screen: 1 with a shield and 2 behind
+the turrets. Once again, prepare for 3 soldiers coming behind. Rescue the 3rd
+prisoner stucked between the cannon turret and the artillery turret. On the
+next screen, shoot upwards to reveal the 4th prisoner (this one is also hidden,
+shoot on top of the destroyed artillery turret). A 2nd artillery turret is in
+the way so take it out. Shoot the slanted pipe (just beside the 4th prisoner)
+to reveal your 5th prisoner. Destroy the blockage up ahead with bombs. Proceed
+to the next area.
+
+-----------
+Area: Caves
+-----------
+Prisoners: 5
+
+Take out the 1st soldier hiding behind a cover. Another soldier will drop down
+to where he was hiding. Rescue the 1st and 2nd prisoners on top. 2 soldiers
+will be below them, one with a shield. Behind them is the 3rd prisoner. Go
+forward and take out the soldiers here, including the one that appears behind
+you. Take out the tank and the 4 soldiers above you. 3 soldiers will appear
+behind you. After blowing the tank and the barrel, don't proceed yet. Go to the
+very left and try to level yourself with where the tank was and fire at it to
+reveal the 4th prisoner. While here, position yourself to the very left and
+throw a grenade through the ravine to reveal the 5th prisoner. Proceed to the
+next area.
+
+-----------------------
+Area: Caves (continued)
+-----------------------
+Prisoners: 4
+
+Take out the 4 unwary soldiers in front. Be careful of rocks above you. Shoot
+the 2nd ruin to reveal a tank slug you can use. This will be very helpful in
+taking out enemies here. Jump and land yourself in the tank. If you're using
+Tarma, you'll have a decent durability before it gets destroyed. Rescue the 1st
+prisoner tied up after getting the tank. Take out the artillery turret and
+proceed. The 2nd prisoner is behind it. As you move forward, a rock will fall
+off. Proceed and take out the 2nd artillery turret. 3 more soldiers will come
+behind you. After taking it out, shoot the lamp above it to reveal the 3rd
+prisoner. 4 more soldiers will come out in the last part and your 4th prisoner.
+Take out the shielded soldiers with your cannon. Don't stand on where the
+turret was because 2 rocks will fall off. Proceed to the next area.
+
+------------------------
+- Boss: Worm Mecha [WRM]
+------------------------
+
+As you proceed into this area, you'll face your very first boss of the game:
+Worm Mecha. This is an easy battle. To win, just destroy all segments of the
+mecha. Your tank can't use its cannon properly when the boss is on the left, so
+just shoot the boss with your machine gun. The mecha will pop out of the ground
+every once in a while and that's where you use your cannon to heavily damage
+it. When it reveals above you, shoot all the segments as fast as you can.
+Rocket soldiers will pop out on the segments so be careful.
+
+You should take this out in no time. Just avoid going to the middle as Worm
+Mecha rises and falls there. If the mecha appears on the right, be careful as
+it will drop bombs above you. Dodge and take out the front first. After that, a
+rolling blade will pop out. Use your machine gun to destroy the rolling blade
+and stay to the far right as much as possible.
+
++++++++++++++++++++
+- Mission 2 [MIS-2]
++++++++++++++++++++
+
+-------------------
+Area: Mine entrance
+-------------------
+Prisoners: 3
+
+Proceed near the lift. A helicopter from the right will appear as well as 2
+soldiers behind you. Eventually another soldier appears behind so take it out.
+Stand in the lift and it'll automatically descend. Immediately take out the 2
+soldiers below and 1 on the platform. There's 2 more ahead, one with a shield.
+A helicopter will appear from the left. 2 soldiers will drop down and another 2
+will appear behind again. Take out the helicopter first. Descend the lift and
+rescue the 1st prisoner. Above him, shoot the platform to get a 2nd prisoner
+(he'll descend the lift). Take the 3rd lift on the opposite side after taking
+out 2 bystanders as well as a gatling soldier guarding it. The 2 soldiers below
+will throw bombs so dodge as necessary. The 3rd prisoner is up ahead. A tank
+will be behind it so destroy it. Proceed to the next area.
+
+-----------
+Area: Mines
+-----------
+Prisoners: 6
+
+Destroy the first 2 carts up ahead and attack it again to reveal the 1st
+prisoner here. Rescue the 2nd prisoner up ahead but beware of the soldiers
+behind him. On the hill, be careful of the soldiers coming above you. Shotgun
+works best here. Shoot the top of the hill to reveal the 3rd prisoner. Move
+forward and rescue the 4th prisoner up ahead. Be careful as the road up ahead
+pops metal moles (rocket-looking enemies that comes out of the mud). Avoid
+stepping on these moles or you'll get stucked. Mash buttons rapidly to get out.
+Destroy the bombs above you first so that you won't have trouble dropping mines
+at you (especially if you get stucked at the mud). Don't go up the railings yet
+or you'll miss the 5th prisoner below. I suggest taking the bottom route since
+you'll deal with a tank head-on if you took the rails. Shoot the 6th prisoner
+above him. Take out the big Sarubia vehicle that shoots rolling mines ahead
+along with 2 soldiers. Proceed to the next area.
+
+--------------
+Area: Railings
+--------------
+Prisoners: 1
+
+Grab the train slug up ahead. Shoot the base of the next train slug to get a
+free cannon attachment (infinite cannons). This area is pretty straightforward.
+Take out the cannons above you as you descend down. They attack much quicker
+than those artillery turrets. More soldiers up ahead. 2 soldiers will arrive in
+parachutes as you move through the middle. Be careful of a black train slug, if
+it gets near you, it will detonate after a couple of seconds. At the end of the
+rail tracks, rescue the 1st and sole prisoner here. Proceed to the next area.
+
+----------------------
+- Boss: Crablops [CRB]
+----------------------
+Prisoners: 4
+
+At the start of the boss fight, rescue the 1st prisoner that walks toward you.
+This boss won't be a lot of trouble. Stay out of robot arms. One other thing to
+watch out for is his laser. You'll know this when he readies an orange ray.
+When he does, get out of the ray to avoid it. A 2nd prisoner will walk towards
+the left as you go near the middle.
+
+Attack his robot arms and he'll be out sooner than you think. He'll sometimes
+shoot homing rockets at you. Take those out quickly. There'll be 2 slugs coming
+below you. Avoid their rockets as well. By this time, your 3rd prisoner should
+appear. Just focus on the arms but don't kill him yet for your 4th prisoner
+should appear in any moment.
+
++++++++++++++++++++
+- Mission 3 [MIS-3]
++++++++++++++++++++
+
+--------------------------
+Area: Underground Fortress
+--------------------------
+Prisoners: 4
+
+Take out the first 2 soldiers. A tank will be up against the right so just use
+your bomb to destroy it quickly. 2 more soldiers will appear behind. Rescue the
+1st prisoner behind the tank. Hop in the slug near it. There will be a moving
+platform up ahead. I suggest staying with it as it moves. Along the way, you'll
+encounter 3 prisoners ahead. Rescue the 2nd and 3rd prisoners tied together
+before the cliff. Don't shoot the last prisoner too early or you'll miss it
+out. Soldiers will infinitely spawn as they climb down the walls with their
+cannons. So don't bother staying for too long though (unless you're racking up
+some points for the rankings). Proceed to the next area.
+
+-----------
+Area: Lifts
+-----------
+Prisoners: 4
+
+This is a pretty straightforward area. You'll be rising up the lift 3 times
+before reaching the top and before the lift rises, you need to clear all
+enemies first. The first 3 prisoners will all fall from the sky so rescue them
+when you get the chance. Just be careful of the laser drones below you, as your
+cannon (should you be in one) doesn't affect them. You have to use your machine
+gun to attack them. Beware of their orange laser beam as it will fire it
+upwards. The 4th prisoner is located after reaching the top. Shoot upwards to
+reveal him. Proceed to the next area.
+
+-----------
+Area: Mines
+-----------
+Prisoners: 3
+
+Prepare for a mini Indiana-style chase as an orange ball starts chasing you as
+you move forward. Interact with the yellow box to get a flame powerup. You have
+to interact with these yellow boxes at the end of each path, otherwise you'll
+be crushed. There'll be 3 prisoners as soon as the orange ball falls. Behind
+them is your 1st prisoner. Rescue him. 4 more soldiers are up ahead, one has a
+shield and one shoots missiles. Go quickly to the end of the path and interact
+with the 1st yellow box. As you drop down, destroy the black boulder ahead
+quickly and do interact with the 2nd box again. Rescue the 2nd prisoner before
+the 3rd box. Interact with it. Destroy the 2 black boulders quickly (use
+bombs) and interact with the 4th box. Do the same for the last box. Rescue the
+3rd prisoner after falling down. Go down. Proceed to the next area.
+
+----------------------------------
+- Boss: Crablops (separated) [SPR]
+----------------------------------
+Prisoners: 3
+
+This boss fight is much similar to your previous boss fight, except that he's
+seperated from his body. You can destroy his torso or his head first though.
+I'd recommend going for the torso first. Destroy the yellow box ahead and ride
+the slug. This will immensely help you beat the boss quicker. Take out the
+soldier riding Crablops' torso. Metal moles from the previous mission will join
+here so be careful.
+
+The head will occasionally fire missiles at you. Take out those rocket-looking
+enemies first. They're tougher than the ones you fought before. Once you get to
+a platform, rescue the 1st prisoner there. Eventually the last 2 prisoners will
+fall down as well.
+
+When the torso is destroyed, focus on the head. As always, target his arms. The
+head will fire missiles right from his eye so be ready to crouch when he does.
+If it shoots purple missiles at you, jump quickly. This attack is too fast and
+crouching will simply kill you. He'll soon go down quickly.
+
++++++++++++++++++++
+- Mission 4 [MIS-4]
++++++++++++++++++++
+
+----------------
+Area: Waterfalls
+----------------
+Prisoners: 4
+
+There are two paths to choose from. Take the upper path first. Rescue the 1st
+prisoner at the end of the path. Now go back and take the lower path. 6
+soldiers will come rushing at you and 2 more will be standing still before the
+waterfalls. Don't go down yet, shoot upwards to reveal the 2nd prisoner. Wait
+for him to go down the cliff then proceed. 2 rocket soldiers will be on top of
+the 1st rock above you. Kill them. Rescue the 3rd prisoner below the 2nd rock.
+Kill the 4 soldiers up ahead and 6 more will appear behind. 2 helicopters will
+join the fray as well. Move forward. Rescue the 4th prisoner on the next rock
+ahead. Be careful of the enemy rocket tank slug ahead. Kill the 3 soldiers
+up ahead before moving up the cliff. 3 more will soon be waiting ahead and the
+last 3 at the end. You'll be greeted with your last enemies here as well as a
+helicopter. Take out the helicopter first as it shoots homing missiles very
+fast. Proceed to the next area.
+
+----------------------------
+Area: Waterfalls (continued)
+----------------------------
+Prisoners: 4
+
+Up ahead is a new type of prisoner. Walk up to her to rescue the 1st prisoner
+on this area. Move down the ruin. 3 soldiers will be in here so take them out.
+As you move forward, a soldier in motorcycle will rush down towards you. 2 more
+soldiers will be on top of the rock as well as the 2nd prisoner below it. Don't
+get in contact with the motorcycle or you'll die. As you're about to rescue the
+2nd prisoner, a tank will fall off to where you came. Dodge it quick. There'll
+be about 4 more tanks falling off the waterfall. Take out each soldier on both
+sides then move forward. 4 soldiers up ahead: 1 on top and 2 crouching down.
+Move down the slope. Take out the 2 rocket soldiers ahead. Another biker
+soldier will rush down again so use a bomb to destroy it. Rescue the 3rd
+prisoner tied up next to the 1st rock. Move forward and rescue the 4th prisoner
+at the end of the waterfall area. Beware of the enemy rocket tank slug and a
+soldier ahead. 1 more will come up behind you. Move below and kill the 2
+soldiers perched on the rock. More soldiers up ahead. A truck, 2 soldiers in
+parachutes and an enemy tank slug will show up. Next, beware of the falling
+tanks again. Move as necessary. The last area consists of 5 helicopters and
+some soldiers. Take out the red helicopter first so that all other helicopters
+are destroyed (you'll also get a chain bonus points for that). Proceed to the
+next area.
+
+-----------
+Area: Ruins
+-----------
+Prisoners: 4
+
+Destroy the plant ahead. Hop over the tank slug near it. Destroy the barrel at
+the opposite side. Make 2 huge hops to the right. Destroy the plant near the
+chains and rescue the 1st prisoner below the pink plant. Rescue the 2nd
+prisoner at the edge of the cliff. A tank slug will drop below him. Rescue the
+3rd prisoner by hopping over to the right. Destroy the 2 plants on the other
+side before hopping there. Time your hop carefully as falling tanks once again
+appear on the waterfall. Destroy the 2 plants up ahead. Keep your distance, as
+they have a great range. Should they get near you, you can use your slug's
+cannon to easily kill them. 3 more plants will be waiting up ahead. Rescue the
+4th prisoner on top of the rocky platform. Beware of the pink plant up ahead.
+Shoot the chains to easily kill it. Hop over the edge and kill the soldiers
+here. 2 more soldiers will come up behind and an enemy tank slug ahead. Proceed
+to the next area.
+
+------------------------
+- Boss: Fall Mecha [FAL]
+------------------------
+Prisoners: 2
+
+As you enter the area, rescue the 2 prisoners as soon as they drop off. They're
+on both end of the screen. Your boss will appear by the platform you're
+standing on. Hop to its arms because this boss will start climbing up while
+carrying you. When it stops, 2 blue cannons will appear the middle. Dodge their
+rays by hopping before it could even strike you. Use bombs to damage this boss.
+
+It'll randomly shoot missiles from its back. Hop as necessary. Don't focus on
+hopping to the other side of its arm as you'll fall to your death. Focus on
+hitting its thick armor.
+
++++++++++++++++++++
+- Mission 5 [MIS-5]
++++++++++++++++++++
+
+-----------------------
+Area: Ruins (continued)
+-----------------------
+Prisoners: 2
+
+Move forward and kill the first 3 soldiers here. Drop down below. Be ready for
+an ambush and kill the soldiers quickly, 1 of them is a gatling soldier and 2
+are mine soldiers. Dodge the gatling soldier's attacks. Rescue the 1st prisoner
+ahead. Drop down twice. Be ready to kill the 2 soldiers on the right platform.
+A rocket tank is below you so destroy it as well. After destroying it, shoot
+the ground to reveal the 2nd prisoner. Drop down again. 2 soldiers will appear
+at the right platform and another below. Proceed to the next area.
+
+-----------------------
+Area: Ruins (continued)
+-----------------------
+Prisoners: 0
+
+Kill the 2 soldiers as you get off the pod. 2 more soldiers will parachute
+their way towards you. Drop down on the far end. 2 soldiers will be at the
+right platform and 2 more will appear behind you. A helicopter will swing up to
+the middle as well. Land over to the right platform and drop below. 4 soldiers
+in parachutes will race you towards the bottom and another helicopter to the
+left. Kill the 2 soldiers below once you land again. 3 more soldiers will be
+at the bottom so shoot them and take cover when necessary. Drop down to the
+left area. More soldiers up ahead. Kill the 2 soldiers that appears above you
+as you land on the small platform as well as the soldiers on the right. Take
+out the 2 soldiers below it. There'll be more appearing on your left plus a
+tank. Proceed to the next area by going through the right.
+
+-----------------------
+Area: Ruins (continued)
+-----------------------
+Prisoners: 5
+
+Move forward and kill the 2 approaching soldiers ahead. Rescue the 1st prisoner
+tied up in the middle. 6 soldiers will march towards you. Rescue the 2nd
+prisoner on the top platform. Shoot the ground in the middle of that platform
+to reveal the 3rd prisoner. More soldiers are up ahead plus a helicopter as
+well. Destroy them. Be careful of the missiles the soldier fires on the far
+right. Rescue the 4th prisoner up ahead. More soldiers are up ahead. Rescue the
+5th prisoner as you move along the right. 2 more soldiers will appear behind
+you. 1 will be parachuting its way. Take care of the flying drone (sphere-like
+enemies that floats above) enemies ahead. They cause serious damage to you if
+left for a long time. Proceed to the next area.
+
+------------
+Area: Towers
+------------
+Prisoners: 7
+
+As you enter this area, shoot upwards to reveal the 1st prisoner. Move forward
+and rescue the 2nd prisoner at the bridge. 4 soldiers will rush at you and 2
+will be in jets. Crouch their missiles quickly to avoid being killed. All you
+have to do is destroy the missiles (you don't have to destroy the jets). Up
+ahead are more soldiers, a tank and 3 jets. Destroy them. Continue along the
+bridge and rescue the 3rd prisoner tied in the middle of the tower. Shoot a
+little upwards to the right of the 3rd prisoner to reveal the 4th prisoner. The
+other side of the bridge has the 5th prisoner but as soon as you get to the
+edge, 2 soldiers in parachutes will appear above. Kill the soldier guarding the
+5th prisoner and rescue him. 2 more soldiers in parachutes, a tank and an
+artillery will show up as you cross the other side of the bridge. There'll be
+another tank as you move forward. Dodge as necessary. Shoot the tower of where
+the tank was to reveal the 6th and 7th prisoners. Proceed to the next area.
+
+-----------------------
+- Boss: The Union [UNI]
+-----------------------
+
+You'll be facing a different boss this time. This boss comprises of 3 parts.
+At the start of the battle, the lower half will rush you towards to the right.
+Jump over the top of the smaller tank and shoot the red circular thing at its
+back to damage it (shooting the front does nothing). The top part of the boss
+will fire missiles at you. Luckily, these are easily dodged and is destroyed
+easily too.
+
+When the lower half parts connect each other, focus on the top part of the
+boss. You won't be dealing damage to the lower half for some reason. Shoot its
+middle part. It'll fire a missile and will join the lower part after a while.
+Dodge incoming missiles and shoot them before they rush at you. All of the
+boss' weaknesses are the red circular thing attached to them.
+
+When all 3 parts connect each other, hop out of the middle and focus on the top
+part. You'll be crushed if you stay too long in between the lower half parts.
+Focus on one part only before proceeding to the next.
+
++++++++++++++++++++
+- Mission 6 [MIS-6]
++++++++++++++++++++
+
+-----------------
+Area: Snowy Field
+-----------------
+Prisoners: 5
+
+Rescue the 1st prisoner as you land in the snow. 3 soldiers are up ahead and a
+recon vehicle behind them. Don't stand for too long or it'll ram you. Another
+recon vehicle appears behind you so be careful. Soldiers will hop over to the
+cover on the right and a helicopter above you will make their way towards you.
+Rescue the 2nd prisoner behind the cover. A tank and a recon vehicle with a
+missile will be up ahead. Destroy them quickly and watch out for another group
+of soldier in parachutes above. Move forward. 5 more soldiers in parachutes
+will be joined by a helicopter up ahead. Quickly fire to the right as 2
+motorcycle soldiers will rush immediately as you move. An enemy missile slug
+will be up ahead. 8 soldiers will drop down below and a tank will appear behind
+you as you destroy the missile slug. Rescue the 3rd prisoner just before the
+ravine. Jump over and kill the 2 soldiers here. Take out another 2 on the next
+platform. There'll be more soldiers and another tank a head. Shoot the 4th
+prisoner to rescue it. Destroy the 2 helicopters as soon as you destroy the
+tank. Jump over to the next platform. As you land, kill the soldier who is in
+parachutes. Proceed to the next area.
+
+-----------------------------
+Area: Snowy Field (continued)
+-----------------------------
+Prisoners: 2
+
+Kill the 2 soldiers rushing towards you as you enter the area. There'll be 5
+more up ahead. Rescue the 1st soldier tied on the platform. Jump up. Kill the
+soldiers here. One of them will be flying so be careful. Deal with that first.
+There'll be another one on top and a helicopter as well. Jump up to the series
+of platforms. Be careful of the soldier lying down on the far right. Take it
+out. Jump again. There'll be 5 helicopters here. Take out the red first and
+shoot upwards to reveal the 2nd prisoner. Jump up another series of platforms.
+Proceed to the next area.
+
+-----------------------------
+Area: Snowy Field (continued)
+-----------------------------
+Prisoners: 6
+
+Continue moving up the slope and kill the 2 soldiers on the right. Rescue the
+1st prisoner above them. Rescue the 2nd prisoner just after the soldiers you
+killed. Be careful of a sleigh after rescuing the prisoner. Jump when it gets
+near you (you don't have to destroy it, just let it slide down the slope).
+Another sleigh will move down. Rescue the 3rd prisoner on it. Another sleigh
+will appear, this time with 3 soldiers on-board. When the 4th sleigh rolls
+down, a helicopter and a flying soldier will appear above. If you don't destroy
+the helicopter quickly, a series of sleighs will start rolling down the slope.
+Another helicopter will appear again, destroy it quickly too. Rescue the 4th
+prisoner on the tree ahead. Moving up, rescue the 5th prisoner near a snowy
+entrance. 3 flying soldiers will appear as you rescue it so be careful. 2 more
+soldiers will appear behind as well. Move up the stairs and rescue the 6th
+prisoner here. Take out the soldier here quickly because it will throw
+bombs at you as soon as you walk up the stairs. Proceed to the next area.
+
+-----------------------------
+Area: Snowy Field (continued)
+-----------------------------
+Prisoners: 1
+
+You'll be boarding a giant robot as you enter this next area. Take out the
+soldiers standing guard here. There'll be 2 more tanks up ahead. 5 soldiers in
+parachutes will join the fray. Move forward. A truck and a jet will make their
+way towards you. Shoot the jet's missiles to prevent it from damaging your
+robot. A helicopter will appear as soon you make it to the middle. Rescue the
+1st prisoner tied up here. Another helicopter and a tank will get in the fray.
+Use your cannon to ward off the flying units should they become a nuisance.
+Another tank and a jet will block your way. Take them out again. Proceed to the
+next area.
+
+--------------------------
+- Boss: Rebel Gigant [GIG]
+--------------------------
+
+Now this is a fair battle! You'll be facing an enemy robot who looks almost
+similar to yours. At the start of battle, take out the missiles first. These
+missiles are fast when not taken care of immediately. It'll sometimes fire a
+very fast missile at the middle. Although hard to dodge, you'll have to jump
+at the right time to prevent it.
+
+He'll occasionally step back and rush at you. Use your cannon to prevent it.
+This attack takes out a lot of damage from your robot. Time it right and you'll
+prevent it from damaging your precious robot. This battle isn't really that
+hard. It's all about dodging and taking out the missiles.
+
++++++++++++++++++++
+- Mission 7 [MIS-7]
++++++++++++++++++++
+
+--------------
+Area: Junkyard
+--------------
+Prisoners: 3
+
+Hop in to the jet slug. This slug is very fast and you can dodge enemy attacks
+pretty easily. Use your slug's cannon to take out enemy jets. Rescue the 1st
+prisoner along the way. Rescue the 2nd prisoner as you move down the track.
+More soldiers are along the way. Rescue the 3rd prisoner here. Just keep moving
+down. 3 flying soldiers will appear above as you make your way towards the
+bottom track. 2 blue tanks will appear on the right. Take out the flying units
+first then focus on the tanks. Use grenades to take them out quickly. Proceed
+to the next area.
+
+--------------------------
+Area: Rebels' Headquarters
+--------------------------
+Prisoners: 4
+
+Rescue the 1st prisoner you encounter as you enter the area. Destroy the 3 two-
+legged robots up ahead. Watch out for falling debris here. They occur much more
+often on this area. Jump to the moving platforms up ahead. While here, take out
+the 2 flying soldiers roaming around. Once you hop to the 3rd platform, another
+flying soldier will make its way to you. Take out the 2 soldiers standing on
+the next platform. A two-legged robot will appear along with 2 soldier cohorts.
+Rescue the 2nd prisoner before the next set of moving platforms. Hop over these
+platforms and take out the flying soldiers as usual. Once you land to another
+platform, take out the blue tank on the far end. Take out the debris that fell
+to reveal the 3rd prisoner. Rescue the 4th prisoner after the falling debris.
+Take out the 3 flying soldiers up ahead. Kill the 3 soldiers near the portal.
+Eventually, you'll get to your nemesis, General Morden. He'll spawn 2 blue
+tanks on both sides. Watch out for the falling circular balls. Focus on hitting
+the portal. He'll sometimes spawn more soldiers to fight for him so watch out.
+He'll eventually flee after destroying the portal. Proceed to the next area.
+
+--------------------------------------
+Area: Rebels' Headquarters (continued)
+--------------------------------------
+Prisoners: 9
+
+Let the 1st prisoner walk up to you and rescue him. Shoot upwards to where the
+1st prisoner was to reveal the 2nd prisoner. Interact with the yellow box at
+the end. This will bring down 3 soldiers below. Go up the platform after you
+kill them. As you go up, lots of soldiers will spawn in all directions. Tanks
+will appear on both sides. Continue going upwards. A recon vehicle will appear
+on the left. Watch out for his missiles. Keep going upwards. Rescue the 3rd
+prisoner on the upper platform. Walk up to the girder and shoot upwards to
+reveal the 4th prisoner. Destroy the debris that fell to reveal the 5th
+prisoner. Go to the end of the platform and shoot straight to reveal the 6th
+prisoner. Continue to the right. Rescue the 7th prisoner tied in the middle.
+Watch out for the tank here. Shoot upwards on where the 7th prisoner was to
+reveal the 8th and 9th prisoners. Proceed to the next area.
+
+--------------------
+- Boss: Kraken [KRK]
+--------------------
+
+Here it is, the last boss of the game. Hop over the small platforms until you
+reach a gigantic machine on the background. This is your final boss for this
+game. This boss will unleash the first mini-boss, Worm Mecha from Mission 1.
+Use the same strategy on how you beat the first boss by destroying all segments
+of the mecha. The mecha will fire a blue bolts and this is where you hop to
+dodge them. While under the lava, the mecha will throw random boxes at you.
+Hop over to the platforms to avoid them. Avoid getting near it when it rises up
+from the lava as it will pull you closer to death.
+
+You have to destroy the mecha 5 times. The real boss will appear after beating
+Worm Mecha 5 times. Kraken will fall to the lava most of the time. Stay away
+from the continuous flames that will chase you. Just keep shooting it. Use
+bombs when its underneath. Be careful when it slowly dives into the lava, as
+this will take about 4 platforms at once. When it does, hop immediately to the
+farthest platform as possible.
+
+Congratulations! You've finally beaten the game. Watch the credits roll. If you
+haven't tried Combat School yet, you may do so now. See the next section.
+
+-------------------------------------------------------------------------------
+C. Combat School [CBS]
+-------------------------------------------------------------------------------
+
+You'll be greeted with a pretty face. An overview of this mode will be
+introduced by this pretty girl. When you get the prompt for selecting your
+option, choose "To Training Grounds" to be taken into the different missions
+for this mode. If you chose "Speak to Drill Instructor", you'll get a chit-chat
+with this woman. Although not necessary, it's quite interesting as well.
+
+Challenges are unlocked as you complete the main missions of the game. For
+example, challenges from level 1 are automatically unlocked as soon as you get
+the game. Beat main mission 2 to unlock the challenges for level 2 and so on.
+
+ _______________________________________________________________
+| ABBREVIATION |        RANK         | POINTS NEEDED TO ADVANCE |
+|--------------|---------------------|--------------------------|
+| none         | Recruit             | 0 pt.                    |
+|--------------|---------------------|--------------------------|
+| PFC          | Private First Class | 40 pt.                   |
+|--------------|---------------------|--------------------------|
+| CPL          | Corporal            | 100 pt.                  |
+|--------------|---------------------|--------------------------|
+| SGT          | Sergeant            | 200 pt.                  |
+|--------------|---------------------|--------------------------|
+| SSG          | Staff Sergeant      | 400 pt.                  |
+|--------------|---------------------|--------------------------|
+| PSG          | Platoon Sergeant    | 700 pt.                  |
+|--------------|---------------------|--------------------------|
+| MSG          | Master Sergeant     | 1000 pt.                 |
+|--------------|---------------------|--------------------------|
+| SGM          | Sergeant Major      | 1300 pt.                 |
+|--------------|---------------------|--------------------------|
+| WO1          | Warrant Officer     | 1600 pt.                 |
+ ---------------------------------------------------------------
+
+++++++++++++
+- Tips [TIP]
+++++++++++++
+
+To reduce the clutter on the guide, I'll list all tips here.
+
+> Use Eri for challenges that requires destruction of obstacles. She packs more
+grenades than any other characters in the game.
+> Use Fio in Special Training 2B - 2D. These ball challenges require you to
+beat the time limit. Use her heavy machine gun to make things easier.
+
++++++++++++++++++
+- Level 1 [CBS-1]
++++++++++++++++++
+
+Automatically unlocked as soon as you start the game.
+
+---------------------
+Target Elimination 1A
+---------------------
+Points: 110 pt.
+Goal: The objective is to eliminate all enemies. Up to 3 misses will be
+allowed, but of course the fewer the misses, the higher your rating. Time will
+not be evaluated, so proceed carefully.
+Challenge ends: when you destroy the boss.
+
+Rank S: 110 pt.
+Rank A:  80 pt.
+Rank B:  50 pt.
+Rank C:  10 pt.
+
+---------------------
+Target Elimination 1B
+---------------------
+Points: 140 pt.
+Goal: The objective is to eliminate all enemies. No misses allowed! The faster
+you achieve the objective, the higher your rating. There will be no limit on
+ammo, except for grenades. Make good use of them.
+
+---------------------
+Target Elimination 1C
+---------------------
+Points: 200 pt.
+Goal: The objective is to eliminate all enemies. No misses allowed. The only
+weapons you have are grenades and the handgun. The faster you achieve the
+objective, the higher your rating.
+
+---------------
+Item Collection
+---------------
+Points: 100 pt.
+Goal: The objective is to collect the items in the combat zone. The more items
+you collect, the higher your rating. Prioritize item collection over enemy
+elimination.
+Challenge ends: before the boss battle.
+
+Rank S: 100 pt. - 180,000 score
+Rank A:  70 pt. - 100,000 score
+Rank B:  40 pt. -  70,000 score
+Rank C:  10 pt. -  10,000 score
+
+----------
+POW Rescue
+----------
+Points: 100 pt.
+Goal: The objective is to rescue the POWs. The more you rescue, the higher your
+rating. Rescuing them is tantamount to our military strength. Prioritize POW
+rescue over enemy elimination.
+Challenge ends: before the boss battle.
+
+Rank S: 100 pt. - 14 rescued
+Rank A:  70 pt. - 10 rescued
+Rank B:  40 pt. -  4 rescued
+Rank C:  10 pt. -  1 rescued
+
+---------------
+Base Assault 1A
+---------------
+Points: 100 pt.
+Goal: The objective is to destroy the enemy bases. Up to 3 misses will be
+allowed, but of course, the fewer the misses, the higher your rating. Objective
+completion time will not be evaluated, so work carefully.
+Challenge ends: when you destroy the boss.
+
+Rank S: 100 pt.
+Rank A:  70 pt.
+Rank B:  40 pt.
+Rank C:  10 pt.
+
+---------------
+Base Assault 1B
+---------------
+Points: 120 pt.
+Goal: The objective is to destroy the enemy bases. No misses allowed. The
+faster you achieve the objective, the higher your rating. There will be no
+limit on ammo, except for grenades. Make good use of them.
+
+Rank S:     pt.
+Rank A:     pt.
+Rank B:     pt.
+Rank C:  10 pt.
+
+---------------
+Base Assault 1C
+---------------
+Points: 180 pt.
+Goal: The objective is to destroy the enemy bases. No misses allowed. The only
+weapons you have are grenades and the handgun. The faster you achieve the
+objective, the higher your rating.
+
+-------------------
+Special Training 1A
+-------------------
+Points: 100 pt.
+Goal: The objective is no misses within the time limit. Avoid the falling
+obstacles until the time runs out. The longer you hold out, the higher your
+rating.
+Challenge ends: until the time runs out.
+
+Each death causes you to lose 10,000 points.
+
+Rank S: 100 pt. - 38,300 points, no death
+Rank A:  70 pt. - 28,300 points, 1 death
+Rank B:  40 pt. - 18,300 points, 2 deaths
+Rank C:  10 pt. -  8,300 points, 3 deaths
+
+-------------------
+Special Training 1B
+-------------------
+Points: 100 pt
+Goal: The objective is to destroy the obstacles. Destroy all the obstacles in
+the combat zone. The faster you destroy them, the higher your rating. Ammo is
+hidden within the obstacles, so make good use of them.
+Challenge ends: when you destroy the last debris.
+
+Rank S: 100 pt.
+Rank A:  70 pt.
+Rank B:  40 pt.
+Rank C:  10 pt.
+
+-------------------
+Special Training 1C
+-------------------
+Points: 100 pt.
+Goal: The objective is to collect the items hidden in the obstacles. Collect
+all the hidden items in the combat zone. The more time remaining, the higher
+your rating.
+
+Rank S: 100 pt. - around 230,000 points.
+Rank A:  70 pt. - around 200,000 points.
+Rank B:  40 pt.
+Rank C:  10 pt.
+
++++++++++++++++++
+- Level 2 [CBS-2]
++++++++++++++++++
+
+Complete Mission 2 from Main Missions to unlock.
+
+---------------------
+Target Elimination 2A
+---------------------
+Points: 110 pt.
+Goal: The objective is to eliminate all enemies. Up to 3 misses will be
+allowed, but of course the fewer the misses, the higher your rating. Time will
+not be evaluated, so proceed carefully.
+Challenge ends: when you destroy the boss.
+
+Rank S: 100 pt.
+Rank A:  70 pt.
+Rank B:  40 pt.
+Rank C:  10 pt.
+
+---------------------
+Target Elimination 2B
+---------------------
+Points: 140 pt.
+Goal: The objective is to eliminate all enemies. No misses allowed! The faster
+you achieve the objective, the higher your rating. There will be no limit on
+ammo, except for grenades. Make good use of them.
+
+---------------------
+Target Elimination 2C
+---------------------
+Points: 200 pt.
+Goal: The objective is to eliminate all enemies. No misses allowed. The only
+weapons you have are grenades and the handgun. The faster you achieve the
+objective, the higher your rating.
+
+---------------
+Item Collection
+---------------
+Points: 100 pt.
+Goal: The objective is to collect the items in the combat zone. The more items
+you collect, the higher your rating. Prioritize item collection over enemy
+elimination.
+Challenge ends: before the boss battle.
+
+Rank S: 100 pt. - 280,000 points
+Rank A:  70 pt. - 240,000 points
+Rank B:  40 pt. - 190,000 points
+Rank C:  10 pt. - 190,000 points or lesser
+
+----------
+POW Rescue
+----------
+Points: 100 pt.
+Goal: The objective is to rescue the POWs. The more you rescue, the higher your
+rating. Rescuing them is tantamount to our military strength. Prioritize POW
+rescue over enemy elimination.
+Challenge ends: before the boss battle.
+
+Rank S: 100 pt. - 10 rescued
+Rank A:  70 pt. -  8 rescued
+Rank B:  40 pt. -  5 rescued
+Rank C:  10 pt. -  1 rescued
+
+---------------
+Base Assault 2A
+---------------
+Points: 100 pt.
+Goal: The objective is to destroy the enemy bases. Up to 3 misses will be
+allowed, but of course, the fewer the misses, the higher your rating. Objective
+completion time will not be evaluated, so work carefully.
+Challenge ends: when you destroy the boss.
+
+Rank S: 100 pt.
+Rank A:  70 pt.
+Rank B:  40 pt.
+Rank C:  10 pt.
+
+---------------
+Base Assault 2B
+---------------
+Points: 120 pt.
+Goal: The objective is to destroy the enemy bases. No misses allowed. The
+faster you achieve the objective, the higher your rating. There will be no
+limit on ammo, except for grenades. Make good use of them.
+
+---------------
+Base Assault 2C
+---------------
+Points: 180 pt.
+Goal: The objective is to destroy the enemy bases. No misses allowed. The only
+weapons you have are grenades and the handgun. The faster you achieve the
+objective, the higher your rating.
+
+-------------------
+Special Training 2A
+-------------------
+Points: 100 pt.
+Goal: The objective is to eliminate the enemy air force. Destroy all enemy
+aircrafts in the combat zone. The faster you achieve the objective, the higher
+your rating. Make use of the enemy equipment.
+
+Rank S: 100 pt. - 01:10
+Rank A:  70 pt. - 01:15
+Rank B:  40 pt. - 01:25
+Rank C:  10 pt. - 01:25 and later
+
+-------------------
+Special Training 2B
+-------------------
+Points: 100 pt.
+Goal: The objective is transporting the balls. Bounce the balls using your
+bullets and take them to the goal. Don't drop the balls. The more you bring to
+the goal, the higher your rating.
+
+Rank S: 100 pt. - 20 balls
+Rank A:  70 pt. - 15 balls
+Rank B:  40 pt. - 10 balls
+Rank C:  10 pt. -  5 balls and less
+
+-------------------
+Special Training 2C
+-------------------
+Points: 100 pt.
+Goal: The objective is transporting the balls. Bounce the balls using your
+bullets and take them to the goal. There is only one ball. The sooner you
+achieve the objective, the higher your rating.
+
+Rank S: 100 pt. - 00:35
+Rank A:  70 pt. - 00:55
+Rank B:  40 pt. - 01:15
+Rank C:  10 pt. - 01:15 or later
+
+-------------------
+Special Training 2D
+-------------------
+Points: 100 pt.
+Goal: The objective is to collect the balls. Move the truck using your bullets
+and catch the balls. The more you catch, the higher your rating.
+
+Rank S: 100 pt. - 20 balls
+Rank A:  70 pt. - 16 balls
+Rank B:  40 pt. - 12 balls
+Rank C:  10 pt. - 8 balls
+
++++++++++++++++++
+- Level 3 [CBS-3]
++++++++++++++++++
+
+Complete Mission 3 from Main Missions to unlock.
+
+---------------------
+Target Elimination 3A
+---------------------
+Points: 110 pt.
+Goal: The objective is to eliminate all enemies. Up to 3 misses will be
+allowed, but of course the fewer the misses, the higher your rating. Time will
+not be evaluated, so proceed carefully.
+Challenge ends: when you destroy the boss.
+
+Rank S: 110 pt.
+Rank A:  80 pt.
+Rank B:  50 pt.
+Rank C:  10 pt.
+
+---------------------
+Target Elimination 3B
+---------------------
+Points: 140 pt.
+Goal: The objective is to eliminate all enemies. No misses allowed! The faster
+you achieve the objective, the higher your rating. There will be no limit on
+ammo, except for grenades. Make good use of them.
+
+---------------------
+Target Elimination 3C
+---------------------
+Points: 200 pt.
+Goal: The objective is to eliminate all enemies. No misses allowed. The only
+weapons you have are grenades and the handgun. The faster you achieve the
+objective, the higher your rating.
+
+---------------
+Item Collection
+---------------
+Points: 100 pt.
+Goal: The objective is to collect the items in the combat zone. The more items
+you collect, the higher your rating. Prioritize item collection over enemy
+elimination.
+Challenge ends: before the boss battle.
+
+Rank S: 100 pt.
+Rank A:  70 pt.
+Rank B:  40 pt.
+Rank C:  10 pt.
+
+----------
+POW Rescue
+----------
+Points: 100 pt.
+Goal: The objective is to rescue the POWs. The more you rescue, the higher your
+rating. Rescuing them is tantamount to our military strength. Prioritize POW
+rescue over enemy elimination.
+Challenge ends: before the boss battle.
+
+Rank S: 100 pt.
+Rank A:  70 pt.
+Rank B:  40 pt.
+Rank C:  10 pt.
+
+---------------
+Base Assault 3A
+---------------
+Points: 100 pt.
+Goal: The objective is to destroy the enemy bases. Up to 3 misses will be
+allowed, but of course, the fewer the misses, the higher your rating. Objective
+completion time will not be evaluated, so work carefully.
+Challenge ends: when you destroy the boss.
+
+Rank S: 100 pt.
+Rank A:  70 pt.
+Rank B:  40 pt.
+Rank C:  10 pt.
+
+---------------
+Base Assault 3B
+---------------
+Points: 120 pt.
+Goal: The objective is to destroy the enemy bases. No misses allowed. The
+faster you achieve the objective, the higher your rating. There will be no
+limit on ammo, except for grenades. Make good use of them.
+
+---------------
+Base Assault 3C
+---------------
+Points: 180 pt.
+Goal: The objective is to destroy the enemy bases. No misses allowed. The only
+weapons you have are grenades and the handgun. The faster you achieve the
+objective, the higher your rating.
+
+-------------------
+Special Training 3A
+-------------------
+Points: 100 pt.
+Goal: The objective is transporting the ball. Bounce the balls using your
+bullets and take it to the goal. There is only one ball. The more you bounce
+the ball, the higher your rating.
+
+Rank S: 100 pt. - 97,000 points
+Rank A:  70 pt.
+Rank B:  40 pt.
+Rank C:  10 pt.
+
+-------------------
+Special Training 3B
+-------------------
+Points: 100 pt.
+Goal: The objective is moving a lift. Move the large lift using your bullets
+and reach the goal. The faser you achieve the objective, the higher your
+rating.
+
+Rank S: 100 pt. - 00:45
+Rank A:  70 pt. - 01:00
+Rank B:  40 pt. - 01:15
+Rank C:  10 pt. - 01:30
+
+-------------------
+Special Training 3C
+-------------------
+Points: 100 pt.
+Goal: The objective is to clear the combat zone. Destroy all enemies on the
+lift and reach the goal. The faster you achieve the objective, the higher your
+rating.
+
+Rank S: 100 pt. - 01:30
+Rank A:  70 pt. - 01:40
+Rank B:  40 pt. - 01:50
+Rank C:  10 pt. - 02:00
+
+-------------------
+Special Training 3D
+-------------------
+Points: 100 pt.
+Goal: The objective is to destroy the enemy's military capability. Destroy as
+many enemy weapons as you can within the time limit. The more you destroy, the
+higher your rating.
+
+Rank S: 100 pt. - around 90,000 points
+Rank A:  70 pt. - around 75,000 points
+Rank B:  40 pt. - around 70,000 points
+Rank C:  10 pt. - less than 70,000 points
+
++++++++++++++++++
+- Level 4 [CBS-4]
++++++++++++++++++
+
+Complete Mission 4 from Main Missions to unlock.
+
++++++++++++++++++
+- Level 5 [CBS-5]
++++++++++++++++++
+
+Complete Mission 5 from Main Missions to unlock.
+
++++++++++++++++++
+- Level 6 [CBS-6]
++++++++++++++++++
+
+Complete Mission 6 from Main Missions to unlock.
+
++++++++++++++++++
+- Level 7 [CBS-7]
++++++++++++++++++
+
+Complete Mission 7 from Main Missions to unlock.
+
+-------------------------------------------------------------------------------
+D. Prisoners of War List [POW]
+-------------------------------------------------------------------------------
+
+Here are the names of each prisoner you'll encounter throughout the game. Some
+of these prisoners are hidden and few of which are hidden but before they could
+appear, you must kill all enemies on the screen. The list is arranged from left
+to right.
+
+---------
+Mission 1
+---------
+Prisoners: 14
+
+PVT Medea
+PFC Pleiades
+SSG Aglauros
+MG Erebus
+SMA Zahir
+CPL Soga
+WOI Li
+PVT Nakasone
+MSG Cleveland
+LG Yoneuchi
+FSG Almagro
+PVT Morse
+PFG Wang
+CSM Archangel
+
+---------
+Mission 2
+---------
+Prisoners: 14
+
+CWO Nestor
+MAG Calchas
+CSM Oyabeen
+FSG Dryad
+LT Remus
+MG Yamada
+PVT Takada
+CPL Jawlensky
+PFC Antigone
+PVT Ondine
+SGT Yang
+SGM Nack-Key
+PSG Elman
+MSG Daphnis
+
+---------
+Mission 3
+---------
+Prisoners: 14
+
+PVT Karimen
+SGT Min
+BG Hippolyta
+2LT Fujimatu
+SGM Metastasio
+PFC Pentheus
+LG Shestov
+PSG Ward
+SSG Thor
+CPL Shih
+CO1 Putiatin
+PVT Nishida
+SGT Galbraith
+GEN Autolycus
+
+---------
+Mission 4
+---------
+Prisoners: 14
+
+LCL Goodelian
+2LT Hyakutaro
+SMA In
+PSG Minotaur
+PVT Penthesilea
+SGT Rumi. A
+PVT Hyachinth
+SSG Curry
+SGM Morga
+LCL Sarpedon
+FSG Tsukino
+SSG Woeikov
+SGT Theophane
+WO1 Noma
+
+---------
+Mission 5
+---------
+Prisoners: 14
+
+MSG Hours
+LCL Campanella
+GEN Hades
+FSG Bergengruen
+PVT Haupt
+SSG Ogawa
+CSM Sanger
+CPL Tyuuji
+PVT Winckler
+PSG Priam
+CWO Schacft
+MAG Maubont
+SSG Ochoa
+PFC Hesperides
+
+---------
+Mission 6
+---------
+Prisoners: 14
+
+SMA Coquelin
+SGT Phoebe
+PVT Kui
+PVT Madoka. A
+CO1 Scylla
+SGM Everett
+CPL Strowberry
+PFC Valcan
+2LT Maria
+BG Droisen
+PSG Orion
+MSG Triptolemus
+PFC Klapf
+LT ChaCha
+
+---------
+Mission 7
+---------
+Prisoners: 16
+
+PSG Pallas
+PFC Tantalus
+CO1 Fedorov
+2LT Hyakutaro
+MSG Uchida
+WO1 Lavinia
+MG Rubinsky
+BG Goto
+CSM Steinmetz
+CPL Ingrham
+CWO Rokuta
+SGT Menelaus
+LT Velrna
+MAG Siren
+MSG Kawai
+GA Rau
+
+-------------------------------------------------------------------------------
+E. Ranking [RNK]
+-------------------------------------------------------------------------------
+
+Check your rankings here. Toggle between high score tab and fastest time tabs
+with left or right d-pads. Toggle between difficulty levels (Beginner, Normal
+or Hard) using L or Rbuttons.
+
+-------------------------------------------------------------------------------
+F. Options [OPT]
+-------------------------------------------------------------------------------
+
+Adjust game settings here.
+
+AUTO FIRE: OFF
+> Toggle whether to automatically fire or not.
+
+BGM settings: <0 1 2 3 4 5 6 7 8 9 10>
+
+SFX settings: <0 1 2 3 4 5 6 7 8 9 10>
+
+Reset Save Data
+> Clears all progress, including rankings. Good if you want to start the whole
+game all over again.
+
+++++++++++++++++
+- Controls [CTL]
+++++++++++++++++
+
+Change in-game controls here. Press A button to select a control and use the
+d-pad buttons to change the action.
+
+Primary Fire - Y button.
+Secondary Fire - A button.
+Jump - B button.
+Change Weapon - R button.
+Special / Frontal Attack - L button.
+Special Melee Attack - [Special / Frontal Attack control] + [Primary Fire
+control]
+Throw Weapon - [Special / Frontal Attack control] + [Secondary Fire
+control]
+Special Action [Special / Frontal Attack control] + [Primary Fire
+control] + UP button.
+Default Settings - restores the default controls.
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "Metal Slug 7: General Walkthrough FAQ" to remind me that
+you are not spam. If not, the subject should be at least close to the previous
+one and I will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+
+To Ignition Entertainment for making the game.
+
+To deathfisaro's guide for helping me find the hidden prisoners of war (as I
+couldn't find them all myself).
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

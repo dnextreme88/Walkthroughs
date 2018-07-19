@@ -1,0 +1,345 @@
+FAQ / Walkthrough:
+
+Name of Game: Bookworm Deluxe
+
+Platform: PC
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. About Bookworm Deluxe..........................................[ABT]
+        B. The Basics
+                - Controls................................................[CON]
+                - Forming words...........................................[FRM]
+                - Backward letters........................................[BCK]
+                - Bonus words.............................................[BON]
+                - Special blocks..........................................[SPC]
+        C. Main Menu
+                - Classic Mode............................................[CLA]
+                - Action Mode.............................................[ACT]
+                - Hall of Fame............................................[HOF]
+                - Quit....................................................[QUI]
+        D. Options........................................................[OPT]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hi and welcome to my FAQ/Walkthrough for the game Bookworm Deluxe. This FAQ
+will guide you the basics of the game. Ranging from the features to its
+gameplay. I hope you learn the basics of the game as well as how it works.
+
+Bookworm Deluxe is owned by PopCap. All trademarks are subjected to PopCap.
+
+Copyright (c) PopCap.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Feb 21, 2009
+= Submitted the FAQ.
+
+Version 1.1 - Aug 19, 2016
+= Revival. Re-structured the document. Corrected some grammar errors.
+= Changed all section codes so that search is easier.
+= Removed the section "How the game works". Its content is placed in the "About
+Bookworm Deluxe" section instead.
+= Added description for the "Hardware acceleration" option under "Options"
+section.
+= Renamed "Advanced" to "Special blocks" section. Each colored block has its
+own paragraph to provide more readability.
+= Added "Bonus Words" section.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. About Bookworm Deluxe [ABT]
+-------------------------------------------------------------------------------
+
+BookWorm Deluxe is the very first installation of the game in the BookWorm
+series. Bookworm Deluxe is a PC game that can be downloaded on the internet.
+This game is like a scrabble game but you should form words that are adjacent
+to it. This game also expands your vocabulary so its helpful to you gamers.
+
+This game is played in two modes. One is the Classic Mode and the other is
+Action Mode. Whichever mode you take, the gameplay is the same. In this game,
+your main objective is to form words using blocks.
+
+-------------------------------------------------------------------------------
+B. The Basics
+-------------------------------------------------------------------------------
+
+++++++++++++++++
+- Controls [CON]
+++++++++++++++++
+
+Left mouse click - Select option / select letters.
+Double left mouse click - Submits the letters highlighted.
+ENTER button - Submits the letters highlighted.
+Right mouse click - Deselects all letters highlighted.
+
++++++++++++++++++++++
+- Forming words [FRM]
++++++++++++++++++++++
+
+The minimum letters you can form is 3 letters. However, the maximum number of 
+letters you can form out is 8 letters. So far, that word is "BOOKWORM". In this
+game, there is no time limit so there is so much time to look for words. In 
+order to form words, you will have to click the block with an assign letter on
+it. Let's say these are the set of blocks on your game:
+
+ I T
+A N
+ F
+
+Using those letters, you can form "FAN", "TIN", "NIT", "AIN", "FAIN" and using
+all letters, "FAINT". For each of those words you formed out, these are the
+scores you will receive (some of them):
+
+        FAN: 150 pts.
+        TIN: 180 pts.
+        NIT: 180 pts.
+        AIN: 150 pts.
+        FAIN: 400 pts
+        FAINT: 600 pts.
+
+However, there are still words you can form out not only my given set of
+blocks. Take this another example:
+
+T
+SF
+TA
+AIN
+ N T
+
+Using those letters, you can now form "FAT", "FATS", "SAIN", "TAN", "TINT",
+"FAN", "SAT", "TIN", "AIN" and the 2 longest words you can form out: "SAINT
+and "FAINT". For each of those words you formed out, these are the scores you
+will receive:
+
+        "FAT": 270 pts.
+        "FATS": 400 pts.
+        "SAIN": 240 pts.
+        "TAN": 180 pts.
+        "TINT": 320 pts.
+        "FAN": 150 pts.
+        "SAT": 150 pts.
+        "TIN": 180 pts.
+        "AIN": 150 pts.
+        "SAINT": 400 pts.
+        "FAINT": 600 pts.
+
+You could also scramble the board by clicking Lexi's portrait. This will remove
+all colored tiles and gives you a fresh set of words. However, if there are
+existing red blocks before you scramble, the red tiles will appear and you lose
+a turn.
+
+++++++++++++++++++++++++
+- Backward letters [BCK]
+++++++++++++++++++++++++
+
+You can form more words if you invert the original set of letters. Words like
+"BUS", "TIN" and so forth can form another word by just using those letters
+again. However, you will get the same score but its worth a try. For the word
+"BUS", you can form "SUB". Either of those words you formed out, you will get
+270 pts. For the word "TIN", you can form the word "NIT". Both words give you
+210 pts.
+
++++++++++++++++++++
+- Bonus words [BON]
++++++++++++++++++++
+
+Starting at Level 2, after forming at least 1 word, you get the chance to form
+a special word that is displayed below Lexi's portrait. The first bonus word is
+worth 1,000 points and increases as you form more bonus words.
+
+> 1,000
+> 2,000
+> 4,000
+> 6,000
+> 10,000
+
+++++++++++++++++++++++
+- Special blocks [SPC]
+++++++++++++++++++++++
+
+The last section explained how to form words using normal blocks. But what if
+you form words whose blocks have colors? Colored blocks (burning blocks, green
+blocks) also add more points to your score if you infuse one of those letters
+onto your word. 
+
+> Green blocks - if you form the word "FOU" with letter "O"'s block being
+green, your score will be 500 points. However, if you form "FOU" without the
+letter "O"'s block being green, you would only form 300 pts. That's why it is
+essential to form words with green blocks. There are still more colorful blocks
+that will increase your score.
+
+> Red blocks - special blocks. These are distinguished when a tile is in red
+and has fire. If you don't use these blocks to form words, they burn the tile
+beneath them. Once they reach the bottom, your game is over. It is essential to
+keep them away from the bottom, unless you can form a word using adjacent
+letters. If a red block follows another red block, it cannot burn the tile
+beneath it.
+
+> Yellow blocks - yellow blocks changes a random tile on the board if you
+scored at least 1,000 points for a single word with at least 5 letters. These
+blocks add around 150+ points for 3-letter words, around 200+ points for 4-
+letter words and so on. Yellow blocks take 3 turns before being burned by the
+red block if not used.
+
+> Blue blocks - blue blocks changes a random tile on the board if you scored
+at least 2,000 points for a single word with at least 6 letters. These blocks
+will increase your score by 200+ points for 3-letter words, around 250+ points
+for 4-letter words and so on.
+
+> Gray blocks - gray blocks changes a random tile on the board if you scored
+at least 4,000 points for a single word with at least 4 letters. These blocks
+will increase your score by 250+ points for 3-letter words, around 300+ points
+for 4-letter words and so on.
+
+-------------------------------------------------------------------------------
+C. Main Menu
+-------------------------------------------------------------------------------
+
+++++++++++++++++++++
+- Classic Mode [CLA]
+++++++++++++++++++++
+
+This is the basic mode you will most likely play with. Time isn't competing
+with you in this mode not unlike Action Mode where burning blocks (red blocks)
+will just appear within a few seconds only.
+
++++++++++++++++++++
+- Action Mode [ACT]
++++++++++++++++++++
+
+This mode is the opposite of Classic Mode. It's the same in nature as the
+gameplay is the same in this mode. The difference is, burning blocks (red
+blocks) will appear rapidly so you have to clear some blocks faster in this
+mode.
+
+++++++++++++++++++++
+- Hall of Fame [HOF]
+++++++++++++++++++++
+
+Records all your high-scores in this mode. When you first bought this game,
+there will be some high-scores listed by the developers just to give you what
+lies inside here. Other than that, there is another option on the upper-right
+corner of this screen. It is a feature to send your scores online in the
+internet. Currently, the game doesn't support any more scores online.
+
+++++++++++++
+- Quit [QUI]
+++++++++++++
+
+Quits the game. Simple. Closes the Bookworm Deluxe game and returns you to
+your desktop.
+
+-------------------------------------------------------------------------------
+D. Options [OPT]
+-------------------------------------------------------------------------------
+
+In order to access the game's option, you must first be on a game mode. It
+maybe Classic Mode or Action Mode. Start or continue the game if you have a
+previous saved game. Here, you can adjust the following:
+
+> MUSIC - move the gem-looking block to the left to tone the music down or to 
+the right to hear the music even louder.
+
+> SOUND FX - same as the music, move the gem-looking block to the left to tone 
+the sound lower or to the right to tone it higher.
+
+> FULL SCREEN - what it does is to maximize the screen to its largest possible 
+screen resolution your computer can take. Checking the box will make it full-
+screen. However, un-checking the box will return to its normal size.
+
+> SHOW HINTS - this will show hints and tips while playing the game in any 
+mode. Check the box to show hints or un-check the box to disable hints.
+
+> HARDWARE ACCELERATION - makes the CPU run faster by performing some 
+functions. This lowers FPS in some computers.
+
+> CUSTOM CURSORS - provides customized cursors for BookWorm Deluxe instead of 
+your normal cursor to enhance a more, cooler BookWorm Deluxe experience. Check 
+the box to enable the custom cursors. Otherwise, un-check the box to disable 
+the custom cursors and use your current mouse cursor.
+
+> SHOW DEFINITIONS - shows the definition of some words you entered. Check the 
+box to enable or un-check the box to disable.
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "Bookworm: General Walkthrough FAQ" to remind me that you
+are not spam. If not, the subject should be at least close to the previous one
+and I will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+
+To PopCap for making the game.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------
