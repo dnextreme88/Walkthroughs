@@ -27,8 +27,8 @@ Table of Contents:
                 - PSP-exclusive superstars................................[PSP]
         D. Increasing superstar attributes................................[INC]
                 - Starter / Premium Kits..................................[KIT]
-                        - Starter Kits....................................[STK]
-                        - Premium Kits....................................[PMK]
+                      - Starter Kits....................................[KIT-1]
+                      - Premium Kits....................................[KIT-2]
 5. Contact Information................................................[Contact]
 6. Permitted Sites......................................................[Sites]
 7. Credits...............................................................[Cred]
@@ -52,26 +52,33 @@ Version 1.0 - May 23, 2008
 = Submitted the FAQ.
 
 Version 1.1 - May 29, 2008
-= Corrected errors particularly in section 6 of the FAQ.
+= Fixed minor grammar errors in section 6.
 
-Version 1.2 - June 10, 2008
-= Added the definition of Technical.
+Version 1.2 - Jun 10, 2008
+= Added the definition of Technical attribute.
 
-Version 1.3 - June 21, 2008
+Version 1.3 - Jun 21, 2008
 = Changed layout for section 6.
 
 Version 1.4 - Aug 23, 2016
 = Revival. Re-structured the document. Corrected some grammar errors.
 = Changed all section codes so that search is easier.
-= Transferred the contents in "About" to "Introduction" section.
-= Renamed "Terminologies" to "Attribute List" section, "Superstars that 
-needs to be bought from the WWE Shop" to "Unlockable superstars from the WWE
-Shop" section and "Way on how to increase Attributes" to "Increasing superstar
-attributes" section.
-= Renamed table headers "Name of wrestler" to "Unlockable superstar" and
-"Price/Cost" to simply "Price" in "Superstars that needs to be purchased in WWE
-Shop" section.
+= Removed "About" section. Its content is placed in the "Introduction" section.
 = The sub-sub section for PSP exclusive superstars is now a sub-section.
+= Renamed the following items:
+    > "Superstars that needs to be bought from the WWE Shop" to "Unlockable
+    superstars from the WWE Shop" section.
+    > "Terminologies" to "Attribute List" section.
+    > "Way on how to increase Attributes" to "Increasing superstar attributes"
+    section.
+    > Table headers "Name of wrestler" to "Unlockable superstar".
+    > Table headers "Price/Cost" to "Price".
+
+Version 1.5 - Jul 23, 2018
+= Corrected "Stone Cold" to "Steve Austin".
+= Renamed the following section codes:
+    > "Starter Kits [STK]" to "Starter Kits [KIT-1]".
+    > "Premium Kits [PMK]" to "Premium Kits [KIT-2]".
 
 ===============================================================================
 3. Copyright Information [Copy]
@@ -954,7 +961,7 @@ and how to unlock it.
 |----------------------|-------------|------------------------------------|
 |  Rick Rude           |   $210,000  | NO REQUIREMENTS REQUIRED           |
 |----------------------|-------------|------------------------------------|
-|  The Rock            |   $210,000  | Beat him using Stone Cold in a     |
+|  The Rock            |   $210,000  | Beat him using Steve Austin in a   |
 |                      |             | Single Match in Hall of Fame Mode. |
 |----------------------|-------------|------------------------------------|
 |  Roddy Piper         |   $210,000  | NO REQUIREMENTS REQUIRED           |
@@ -987,7 +994,7 @@ for the PSP only.
 |----------------------|-------------|------------------------------------|
 |  Jim Neidhart        |   $160,000  | NO REQUIREMENTS REQUIRED           |
 |----------------------|-------------|------------------------------------|
-|  Sgt.Slaughter       |   $160,000  | NO REQUIREMENTS REQUIRED           |
+|  Sgt. Slaughter      |   $160,000  | NO REQUIREMENTS REQUIRED           |
  -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------
@@ -1024,9 +1031,9 @@ take a look at both.
 Training Exercises only adds up to your stats (like TEC, CHA etc.) while Skill
 Improvement will only enhance your skills on the ring like Fan Favorite
 Training, Fan Heat Training and others. I recommend doing the practice so if
-you succeeded, it adds 1% stat on that particular stat. So if you pick Strength
+you succeeded, it adds 1% stat on that particular stat. If you pick Strength
 Training, you will have to perform a number of Ultimate Control Moves within 1
-minute. If you succeeded, it adds 1% to STR stat.
+minute. If you complete it, your STR stat increases by 1%.
 
 Don't just increase your stats, also check out if the overall increased. This
 only affects the superstars' attributes from GM Mode only. Their default
@@ -1042,9 +1049,9 @@ description:
 
 "Increase a created Superstar's attributes."
 
---------------------
-- Starter Kits [STK]
---------------------
+----------------------
+- Starter Kits [KIT-1]
+----------------------
 
 BRAWLER
         STR:     65
@@ -1142,9 +1149,9 @@ TECHNICAL
         -----------
         OVERALL: 60
 
---------------------
-- Premium Kits [PMK]
---------------------
+----------------------
+- Premium Kits [KIT-2]
+----------------------
 
 BRAWLER
         STR:     75

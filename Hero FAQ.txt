@@ -45,14 +45,11 @@ Table of Contents:
                         - Dread Lord......................................[DRE]
                         - Lich............................................[LIC]
                         - Crypt Lord......................................[CRY]
-        C. Other Heroes...................................................[OTH]
-                - Cenarius................................................[CEN]
-                - Jaina Proudmoore........................................[JAI]
-        D. Bonus Campaign Key Names.......................................[BCK]
+        C. Bonus Campaign Key Names.......................................[BCK]
                 - Act I (To Tame A Land)..................................[TOT]
                 - Act II (Old Hatreds)....................................[OLH]
                 - Act III (A Blaze of Glory)..............................[BOG]
-        E. Frequently Asked Questions.....................................[FAQ]
+        D. Frequently Asked Questions.....................................[FAQ]
 5. Contact Information................................................[Contact]
 6. Permitted Sites......................................................[Sites]
 7. Credits...............................................................[Cred]
@@ -79,7 +76,7 @@ Version 1.0 - Sep 11, 2008
 
 Version 1.1 - Apr 2, 2009
 = Completed "Lich" and "Crypt Lord" heroes.
-= Added "Jaina Proudmoore" and "Cenarius".
+= Added "Jaina Proudmoore" and "Cenarius" sub-sections.
 = The sub-sections of "Attributes Guide" section is added but not yet complete.
 
 Version 1.2 - Jun 4, 2009
@@ -114,25 +111,25 @@ Attributes", "Attribute-increasing skills" and "Attribute-increasing items".
 Version 1.3 - Aug 26, 2016
 = Revival. Re-structured the document. Corrected some grammar errors.
 = Changed all section codes so that search is easier.
+= Fixed missing "AUTOCAST" note of Immolation and Carrion Beetles spells.
 = Removed "Attributes Guide" section. Its content was placed in "The 3
 Attributes" section.
-= Fixed missing "AUTOCAST" note of Immolation and Carrion Beetles spells.
-= Renamed the following items:
-    > "Heroes FAQ" to "Hero FAQ".
-    > "Summonable" spell type to "Summon".
-
 = Added the following items:
     > Cairne Bloodhoof (Tauren Chieftain) from the Bonus Campaign Key Heroes
 list.
     > Key heroes: Anetheron, Balnazzar, Detheroc, Duke Lionheart, Grom
 Hellscream, Mal'Ganis, Mephistroth, Varimathras.
 
+= Renamed the following items:
+    > "Heroes FAQ" to "Hero FAQ".
+    > "Summonable" spell type to "Summon".
+
 Version 1.4 - Jul 15, 2018
-= Renamed "Universal Spell" spell type to "Auras" in "Heroes" section.
-= Updated questions in "Frequently Asked Questions" section.
-= Fixed "SUMMONABLE" note of Vengeance and Water Elemental spells as "SUMMON".
+= Fixed "Summonable" note of Vengeance and Water Elemental spells as "Summon".
 = Level of indention in "Attribute-increasing items" and "Attribute-increasing
 skills" sections has been drastically reduced for improved readability.
+= Renamed "Universal Spell" spell type to "Auras" in "Heroes" section.
+= Updated questions in "Frequently Asked Questions" section.
 = Added the following items:
 
     ==============
@@ -141,26 +138,37 @@ skills" sections has been drastically reduced for improved readability.
     > Legend note from all 4 playable races.
     > Common statistics for each hero now has a separate section (to remove
     redundancy of having to place the same info across all races).
-    > Added skills for every hero.
+    > Added spells for every hero.
+
+= Interchanged the following items:
+    > "Attribute-increasing items" and "Attribute-increasing skills" sections.
+    > "Cenarius" and "Jaina Proudmoore" sections.
 
 = Removed the following items:
 
     ==============
     HEROES SECTION
     ==============
+    > "Summon" note from the Vengeance spell of Warden.
     > "Ultimate" spell type (as every hero have them).
-    > Night Elves:
-        - "SUMMON" note from the Vengeance spell of Warden.
 
     ================================
     BONUS CAMPAIGN KEY NAMES SECTION
     ================================
     > Redundant heroes list (these were already listed in the sub-sections).
 
-= Interchanged the following items:
-    > "Attribute-increasing items" and "Attribute-increasing skills" sections.
-    > "Jaina Proudmoore" and "Cenarius" sections.
+Version 1.5 - Jul 23, 2018
+= Minor grammar errors fixed.
+= Removed "Other Heroes" section and its sub-sections "Cenarius" and "Jaina
+Proudmoore". These were redundant and I couldn't complete their stats.
+= Corrected the following typos in hero spells:
+    > Fan of Knives spell effect.
+    > Holy Light spell effect.
+    > Metamorphosis spell effect.
 
+= Fixed the following items:
+    > Missing border in Warden's statistics table.
+    > "Ultimate" note for Phoenix spell.
 
 ===============================================================================
 3. Copyright Information [Copy]
@@ -228,7 +236,6 @@ Orc
 > Spirit Lounge (Orb of Lightning):
         - Heroes are able to attack air units if they are melee and has a
 chance to dispel magic and slows the movement speed of the enemy for 3 seconds.
-
 
 ------
 Undead
@@ -442,9 +449,9 @@ of the following legend to keep the guide short and concise.
 
 -------
 LEGEND:
-        G = Gold
-        L = Lumber
-        F = Food
+        LV = Hero Level
+        HP = Health Points
+        MP = Mana Points
         STR = Strength
         AGI = Agility
         INT = Intelligence
@@ -532,7 +539,7 @@ unit.
 |----|-----------------|----------|---------|-----------------------------|
 |  1 | N/A             | 5 sec.   |      65 | Heals 200 HP or 100 damage. |
 |  2 | N/A             | 5 sec.   |      65 | Heals 400 HP or 200 damage. |
-|  3 | N/A             | 5 sec.   |      65 | Heals 600 HP or 200 damage. |
+|  3 | N/A             | 5 sec.   |      65 | Heals 600 HP or 300 damage. |
  -------------------------------------------------------------------------
 
 2. Divine Shield (INVULNERABILITY):
@@ -844,7 +851,7 @@ its maximum value, though excess mana drains off rapidly if not used.
 |  3 | 6 sec.          | 6 sec.   |      10 | Drains 45 MP/sec. |
  ---------------------------------------------------------------
 
-4. Phoenix (SUMMON):
+4. Phoenix (SUMMON, ULTIMATE):
 Summons a powerful Phoenix. The Phoenix burns with such intensity that it
 damages itself and nearby enemy units. Has Spell Immunity, and Resistant Skin.
 When the Phoenix drops to 0 health points, it turns to an egg that will hatch
@@ -1324,11 +1331,11 @@ Gives the Demon Hunter a chance to avoid attacks.
 4. Metamorphosis (ULTIMATE):
 Transforms the Demon Hunter into a powerful demon with a ranged attack (60
 range) and 500 bonus hit points.
- ______________________________________________________________________
-| LV | DURATION (HERO) | COOLDOWN | MP COST |          EFFECT          |
-|----|-----------------|----------|---------|--------------------------|
-|  6 | 60 sec.         | 180 sec. |     150 | +500 HP, 3 HP regen/sec. |
- ----------------------------------------------------------------------
+ _______________________________________________________________________
+| LV | DURATION (HERO) | COOLDOWN | MP COST |          EFFECT           |
+|----|-----------------|----------|---------|---------------------------|
+|  6 | 60 sec.         | 180 sec. |     150 | +500 HP, +3 HP regen/sec. |
+ -----------------------------------------------------------------------
 
 -------------------------
 Keeper of the Grove [KEE]
@@ -1545,7 +1552,7 @@ Production Hot Key: W
 | 1  | 22-42 [32 avg]/None |   4   | 18  | 20  |  15 | 550  |  225 |
 | 2  | 23-43 [33 avg]/None |   4   | 20  | 21  |  17 | 600  |  255 |
 | 3  | 25-45 [35 avg]/None |   5   | 22  | 23  |  19 | 650  |  285 |
-| 4  | 26-46 [36 avg]/None |   5   | 25  | 24     21 | 725  |  315 |
+| 4  | 26-46 [36 avg]/None |   5   | 25  | 24  |  21 | 725  |  315 |
 | 5  | 28-48 [38 avg]/None |   6   | 27  | 26  |  23 | 775  |  345 |
 | 6  | 30-50 [40 avg]/None |   6   | 30  | 28  |  25 | 850  |  375 |
 | 7  | 31-51 [41 avg]/None |   7   | 32  | 29  |  27 | 900  |  405 |
@@ -2020,95 +2027,7 @@ points to the Crypt Lord when they return.
  -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------
-C. Other Heroes [OTH]
--------------------------------------------------------------------------------
-
-Heroes listed here are not part of the ordinary human race nor can you train
-them at your respective altars. These heroes are classified under this section.
-
---------------
-Cenarius [CEN]
---------------
-
-Demigod hero.
-
-Statistics:
-
-Attack Type: Hero
-Weapon Type: Chaos
-Armor Type: Hero
-Cooldown: 1.9
-Range: 600
-Primary Attribute: Intelligence
-STR Bonus per Level: -
-AGI Bonus per Level: -
-INT Bonus per Level: -
-Health Regeneration: Always
-Mana Regeneration: .01
-Day Sight: 180
-Night Sight: 80 (180*)
-Speed: Fast (320)
-
- __________________________________________________________________
-| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
-|----|---------------------|-------|-----|-----|-----|------|------|
-| 1  |  106-162 [131 avg]  |   3   | 17  | 15  | 18  | 3100 |  325 |
-| 2  |  108-164 [132 avg]  |   3   | 18  | 16  | 20  | 3125 |  355 |
-| 3  |  110-166 [133 avg]  |   3   | 19  | 17  | 22  | 3150 |  385 |
-| 4  |  112-168 [134 avg]  |   3   | 20  | 18  | 24  | 3175 |  415 |
-| 5  |  114-170 [135 avg]  |   4   | 21  | 19  | 26  | 3200 |  445 |
-| 6  |  116-172 [136 avg]  |   4   | 22  | 20  | 28  | 3225 |  475 |
-| 7  |  118-174 [137 avg]  |   4   | 23  | 21  | 30  | 3250 |  505 |
-| 8  |  120-176 [138 avg]  |   5   | 24  | 22  | 32  | 3275 |  535 |
-| 9  |  122-178 [139 avg]  |   5   | 25  | 23  | 34  | 3300 |  565 |
-| 10 |  124-180 [140 avg]  |   5   | 26  | 24  | 36  | 3325 |  595 |
- ------------------------------------------------------------------
-
-His spells are similar to a Keeper of the Grove hero.
-
-----------------------
-Jaina Proudmoore [JAI]
-----------------------
-
-Archmage hero.
-
-Statistics:
-
-Attack Type: Hero
-Weapon Type: Missile
-Armor Type: Hero
-Cooldown: 1.9
-Range: 600
-Primary Attribute: Intelligence
-STR Bonus per Level: -
-AGI Bonus per Level: -
-INT Bonus per Level: -
-Health Regeneration: Always
-Mana Regeneration: .01
-Day Sight: 180
-Night Sight: 80
-Speed: Fast (320)
-Transport Space Usage: 1
-
- __________________________________________________________________
-| LV | ATTACK (Ground/Air) | ARMOR | STR | AGI | INT |  HP  |  MP  |
-|----|---------------------|-------|-----|-----|-----|------|------|
-| 1  |  91-97 [94 avg]     |   3   | 15  | 17  | 19  | 475  |  285 |
-| 2  |  92-98 [95 avg]     |   3   | 16  | 18  | 20  | 500  |  300 |
-| 3  |  93-99 [96 avg]     |   4   | 18  | 19  | 21  | 550  |  315 |
-| 4  |  94-100 [97 avg]    |   4   | 20  | 20  | 22  | 600  |  330 |
-| 5  |  95-101 [98 avg]    |   4   | 22  | 21  | 23  | 650  |  345 |
-| 6  |  96-102 [99 avg]    |   5   | 24  | 22  | 24  | 700  |  360 |
-| 7  |  97-103 [100 avg]   |   5   | 25  | 23  | 25  | 725  |  375 |
-| 8  |  98-104 [101 avg]   |   5   | 27  | 24  | 26  | 775  |  390 |
-| 9  |  99-105 [102 avg]   |   6   | 29  | 25  | 27  | 825  |  405 |
-| 10 |  100-106 [103 avg]  |   6   | 31  | 26  | 28  | 875  |  420 |
- ------------------------------------------------------------------
-
-Her spells are similar to an Archmage hero.
-
--------------------------------------------------------------------------------
-D. Bonus Campaign Key Names [BCK]
+C. Bonus Campaign Key Names [BCK]
 -------------------------------------------------------------------------------
 
 In Bonus Campaign, you will encounter so many names of your foes or even your
@@ -2161,7 +2080,7 @@ Act III (A Blaze of Glory) [BOG]
 > Admiral Proudmoore (Paladin)
 
 -------------------------------------------------------------------------------
-E. Frequently Asked Questions [FAQ]
+D. Frequently Asked Questions [FAQ]
 -------------------------------------------------------------------------------
 
 Q - How many items can hero units carry?

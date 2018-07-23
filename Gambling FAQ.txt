@@ -29,7 +29,7 @@ Table of Contents:
                 - Slots...................................................[SLO]
                 - Video Poker.............................................[POK]
                 - Wheel of Fortune........................................[WOF]
-        B. Skill
+        B. Skills
                 - Gambling Skill..........................................[GMB]
                 - Luck Skill..............................................[LCK]
         C. Frequently Asked Questions.....................................[FAQ]
@@ -58,46 +58,50 @@ Copyright (c) Rockstar Games.
 2. Version History [Hist]
 ===============================================================================
 
-Version 1.0 - June 1, 2005
+Version 1.0 - Jun 1, 2005
 = Submitted the FAQ.
 
-Version 1.1 - June 5, 2009
-= Added "Sites Permitted", "Outro" and "Credits" sections.
+Version 1.1 - Jun 5, 2009
 = An important note was added to "Horse Racing" game, mentioning that all
 horses have an equal chance of winning on the ITB machines by a submitter named
 jlc_alt. Thanks!
+= Added the following items:
+        > "Credits" section.
+        > "Outro" section.
+        > "Sites Permitted" section.
 
-Version 1.2 - June 23, 2009
+Version 1.2 - Jun 23, 2009
+= A better information about the game "Wheel of Fortune" was now added thanks
+to a submitter named <T.Payne>. Thanks!
 = Added "About" section.
 = Renamed the following items:
         > "Outro" to "Closing" section.
         > "What you can do" to "List of Games" section.
 
-= A better information about the game "Wheel of Fortune" was now added thanks
-to a submitter named <T.Payne>. Thanks!
-
 Version 1.3 - Sep 19, 2016
 = Revival. Re-structured the document. Corrected some grammar errors.
 = Changed all section codes so that search is easier.
-= Renamed the following items:
-        > "The Games" to "Gambling Activities" section.
-        > "Gambling Skill" to "Skills" section.
-
-= Added "Luck Skill" sub-section under "Skills" section.
-= Added "Frequently Asked Questions" section.
-= Removed the following items:
-        > "List of Games" section. Its content is placed in the "Gambling
-Activities" section.
-        > "About" section. Its content is placed in the "Introduction" section.
-        > "Closing" section.
-
-= Re-arranged the betting activities in "Gambling Activities" section in
-alphabetical order.
-= Re-arranged the betting payout in "Roulette" sub-section in increasing order.
-= Changed the description of "Wheel of Fortune" sub-section with better
+= Updated the description of "Wheel of Fortune" sub-section with better
 explanations.
-= Added betting denominations in "Horse Racing" sub-section.
-= Added gambling levels in "Gambling Skill" sub-section.
+= Added the following items:
+    > Betting denominations in "Horse Racing" sub-section.
+    > "Frequently Asked Questions" section.
+    > Gambling levels in "Gambling Skill" sub-section.
+    > "Luck Skill" sub-section under "Skills" section.
+
+= Removed the following items:
+    > "About" section. Its content is placed in the "Introduction" section.
+    > "Closing" section.
+    > "List of Games" section. Its content is placed in the "Gambling
+    Activities" section.
+
+= Renamed the following items:
+    > "Gambling Skill" to "Skills" section.
+    > "The Games" to "Gambling Activities" section.
+
+= Sorted the following items:
+    > Betting activities in "Gambling Activities" section.
+    > Betting payouts in "Roulette" sub-section.
 
 ===============================================================================
 3. Copyright Information [Copy]
@@ -405,7 +409,7 @@ However much you bet on a certain number you multiply that by the number you
 bet on, for example you bet 100 dollars on 10 so 10x100=1000 , so 1000 is what
 you earned. Also you are allowed to bet on more than one number (you can bet on
 all of them if you wanted) but its a little more complicated to understand. For
-example you bet 10 on every number and it lands on a star so normaly you would
+example you bet 10 on every number and it lands on a star so normally you would
 get 400 but since you lost the other five bets (which were all ten dollars) you
 lost 50 dollars so you would have earned 350. I hope you can understand what I
 was trying to say.

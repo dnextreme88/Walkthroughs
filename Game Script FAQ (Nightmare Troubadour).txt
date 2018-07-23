@@ -53,6 +53,10 @@ Copyright (c) Konami.
 Version 1.0 - Oct 4, 2017
 = Submitted the FAQ.
 
+Version 1.1 - Jul 23, 2018
+= Legend note is now properly presented.
+= Minor grammar errors fixed.
+
 ===============================================================================
 3. Copyright Information [Copy]
 ===============================================================================
@@ -84,15 +88,17 @@ succeeding text is found on the next screen. If there's no continuation of the
 dialogue, it will just denote the next character who will speak next (or most
 of the time, it's the same character who spoke last who will continue again).
 
+-------
 LEGEND:
-PLAYER / [player name] > This is the name of your player when you started the
-game.
-[location name] > This is the name of the location you inputted when you
-started the game. There's only one instance where the location is mentioned
+        PLAYER / [player name] - This is the name of your player when you
+started the game.
+        [location name] - This is the name of the location you inputted when
+you started the game. There's only one instance where the location is mentioned
 though.
-* > Narration or a certain event has occured (eg. you acquired the cards when
-winning the Expert Cup)
-[] > Prompts when given a set of choices/options.
+        * - Narration or a certain event has occured (eg. you acquired the
+cards when you won the Expert Cup).
+        [] - Prompts when given a set of choices/options.
+-------
 
 +++++++++++++++++++++++++++++++++++++++++++++
 - Events before Beginners' Cup finals [STO-1]
@@ -2383,7 +2389,7 @@ you really shouldn't do after all.
 
 I would like to thank the following:
 
-To GameFAQs and SuperCheats for hosting the FAQ.
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
 
 To Konami for making the game.
 

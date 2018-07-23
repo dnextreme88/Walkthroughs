@@ -59,12 +59,11 @@ Version 1.2 - Sep 19, 2016
 = Revival. Re-structured the document. Corrected some grammar errors.
 = Changed all section codes so that search is easier.
 = Renamed "Results" to "Speed Results" section.
+= Vehicle speed ranking in "Speed Results" section is now a table instead of
+plain text.
 = Removed the following items:
 	> "About" section. Its content is placed in the "Introduction" section.
 	> "Closing" section.
-
-= Vehicle speed ranking in "Speed Results" section is now a table instead of
-plain text.
 
 ===============================================================================
 3. Copyright Information [Copy]

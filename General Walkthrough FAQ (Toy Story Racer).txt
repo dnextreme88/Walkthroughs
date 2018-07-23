@@ -69,15 +69,25 @@ Version 1.0 - Aug 22, 2016
 = Submitted the FAQ.
 
 Version 1.1 - Sep 11, 2016
-= Re-arranged each tips in "Tips" sub-section. Added 2 more tips.
-= Added "Regular challenges", "Tournament challenges" and "Time-based
-challenges" sub-subsections.
 = Changed the number of challenges for each toy to an individual breakdown of
 challenges.
+= Re-arranged each tips in "Tips" sub-section. Added 2 more tips.
+= Added the following items:
+    > "Regular challenges" sub-sub section.
+    > "Time-based challenges" sub-sub section.
+    > "Tournament challenges" sub-sub section.
+
 = Renamed the following items:
-        > "Countdown Challenges" to "Countdown Race"
-        > "Endurance Race" to "Endurance Challenges"
-        > "Lap Trial Race" to "Lap Trial Challenges"
+    > "Countdown Challenges" to "Countdown Race".
+    > "Endurance Race" to "Endurance Challenges".
+    > "Lap Trial Race" to "Lap Trial Challenges".
+
+Version 1.2 - Jul 23, 2018
+= Fixed missing number of enemies in "Nacho's for the film?" challenge.
+= Minor grammar errors fixed.
+= Sorted the following items:
+    > Power-ups in "Power-ups" section.
+    > Tips in "Tips" section.
 
 ===============================================================================
 3. Copyright Information [Copy]
@@ -128,13 +138,6 @@ momentum (should they be catching up the race).
 Andy's house stage. This will make your toy slid and lose a little bit of
 control.
 
-> Use speed boosts when you get the chance. Challenges such as lap trial race,
-endurance race requires you to beat the levels in the given amount of time.
-
-> Use the electric shock power-up for close-quarter combat with an opponent.
-This is the most accurate weapon to use in smash challenges, smash tournament
-challenges etc.
-
 > In knockout race challenges and knockout race tournament challenges, make
 sure that you are not in last position for each lap. Your opponents tend to get
 better after each lap. Make sure you use the speed boosts when necessary (they
@@ -178,6 +181,13 @@ right path is harder yet faster. There's a speed boost on top of the table. If
 you picked the right path, you must be precise when accelerating up the plank
 going to the table because if you fall off the mud, your speed drastically
 decreases. Plan your route wisely.
+
+> Use speed boosts when you get the chance. Challenges such as lap trial race,
+endurance race requires you to beat the levels in the given amount of time.
+
+> Use the electric shock power-up for close-quarter combat with an opponent.
+This is the most accurate weapon to use in smash challenges, smash tournament
+challenges etc.
 
 -------------------------------------------------------------------------------
 C. Story [STO]
@@ -1980,7 +1990,7 @@ Nacho's for the film?
 > Required soldiers: 144
 > Racing type: Smash challenge
 > Level: Cinema
-> Enemies: 
+> Enemies: 7
 
 ----------------
 K.O. snow potato
@@ -2841,11 +2851,11 @@ The game features 8 items contained in 4 colored boxes. 7 are weapons that you
 can use against other toys and 1 is a special item. Each colored box contains 2
 items.
 
-> Yellow boxes - the 8-ball (black) and the pixar ball (yellow).
 > Blue boxes - rocket (red) and a whipping top (big).
 > Pink boxes - whipping top (small) and Bo Peep's sheep.
 > Red boxes - electric shock and a dynamite speed boost (special item that is
 not available in smash arenas - except for the Skate park level).
+> Yellow boxes - the 8-ball (black) and the pixar ball (yellow).
 
 ===============================================================================
 5. Contact Information [Contact]

@@ -21,9 +21,9 @@ Table of Contents:
 2. Version History.......................................................[Hist]
 3. Copyright Information.................................................[Copy]
 4. Main Content
-        A. What is a "Power User"?........................................[WHT]
-        B. Benefits of a "Power User".....................................[BEN]
-        C. Downsides of a "Power User"....................................[DOW]
+        A. What is a Power User?..........................................[WHT]
+        B. Benefits of a Power User.......................................[BEN]
+        C. Downsides of a Power User......................................[DOW]
         D. Detailed Explanations..........................................[DET]
                 - Benefits..............................................[DET-1]
                 - Downsides.............................................[DET-2]
@@ -49,20 +49,29 @@ Copyright (c) Softnyx.
 2. Version History [Hist]
 ===============================================================================
 
-Version 1.0 - Oct 16 2008
+Version 1.0 - Oct 16, 2008
 = Submitted the FAQ.
 
-Version 1.1 - Oct 26 2008
+Version 1.1 - Oct 26, 2008
 = Updated the "Sites Permitted to use my FAQ" as I added NeoSeeker.
 
-Version 1.2 - July 19, 2018
+Version 1.2 - Jul 23, 2018
 = Revival. Re-structured the document. Corrected some grammar errors.
 = Changed all section codes so that search is easier.
 = Added missing detailed explanation text for "Power User holders cannot get
-Gold deduction penalty while playing the game:" in "Benefits" section.
+gold deduction penalty while playing the game" in "Benefits" section.
+= Sorted the benefits in "Benefits of a Power User" section.
 = Removed the following items:
-        > "About" section. Its content is placed in the "Introduction" section.
-        > "Closing" section.
+    > "About" section. Its content is placed in the "Introduction" section.
+    > "Closing" section.
+    > "Power User holders can receive 20% bonus GP and 10% bonus Gold" benefit.
+
+= Renamed the following items:
+    > "Your speech balloon (where your messages come out) will have a nice
+    golden color outline touch to it" to "Speech balloons have a nice golden
+    color outline touch to it" benefit.
+    > "Power User holders cannot get gold deduction penalty while playing the
+    game" to "No gold deduction penalty while playing the game" benefit.
 
 ===============================================================================
 3. Copyright Information [Copy]
@@ -80,48 +89,46 @@ Copyright (c) dnextreme88
 ===============================================================================
 
 -------------------------------------------------------------------------------
-A. What is a "Power User"? [WHT]
+A. What is a Power User? [WHT]
 -------------------------------------------------------------------------------
 
-Power User is an EX item that you buy to earn extra GP and Gold on the game. As
+Power User is an EX item that you buy to earn extra GP and gold on the game. As
 a Power User holder, you'll stand out over other players who don't even own a
 Power User Card. For a nifty price of 4,000 Cash, you'll gain exclusive access
 to purchase Cash avatars, a special background avatar for your player and much
 more. These and a lot more are explained in detail in the next sections.
 
 -------------------------------------------------------------------------------
-B. Benefits of a "Power User" [BEN]
+B. Benefits of a Power User [BEN]
 -------------------------------------------------------------------------------
 
 Being a Power User holder has so many benefits and advantages. You are entitled
 to the following privileges:
 
-> Extra GP and Gold.
-> Your Game Room (or Waiting Room if you're not in-game yet) is displayed on
-the first page of the channel you're in.
-> Your speech balloon (where your messages come out) will have a nice golden
-color outline touch to it.
+> Extra 20% bonus GP and 10% bonus gold.
+> No gold deduction penalty while playing the game.
 > Power User holders get an exclusive background avatar.
-> Power User holders can receive 20% bonus GP and 10% bonus Gold.
-> Power User holders cannot get Gold deduction penalty while playing the game.
+> Speech balloons have a nice golden color outline touch to it.
+> Your game room (or waiting room if you're not in-game yet) is displayed on
+the first page of the channel you're in.
 
 -------------------------------------------------------------------------------
-C. Downsides of a "Power User" [DOW]
+C. Downsides of a Power User [DOW]
 -------------------------------------------------------------------------------
 
 Despite being an advantageous item to have, power user holders have their own
 downsides as well. The following are disadvantages of being a Power User
 holder:
 
-> Players have to pay to be a Power User.
-> Power User Card cannot be wearable.
-> Power User Card has a period of expiration to use.
+> Players have to pay cash to be a Power User.
+> Power User Card cannot be worn.
+> Power User Card has a period of expiration of use.
 > Power User Card is a Cash-only avatar.
 > Power User doesn't have stats that increase the Power User holder's stats.
 
-===============================================================================
+-------------------------------------------------------------------------------
 D. Detailed Explanations [DET]
-===============================================================================
+-------------------------------------------------------------------------------
 
 In this section, I will explain the benefits and downsides more in detail.
 
@@ -129,13 +136,29 @@ In this section, I will explain the benefits and downsides more in detail.
 - Benefits [DET-1]
 ++++++++++++++++++
 
-Extra GP and Gold:
-> Power User holders receive 20% bonus GP and 10% bonus Gold while playing the
-game. This means that the bonus will take effect after a game has ended (where
-the results are given and GP and Gold are shown). This is the main focus of a
-Power User Card.
+Extra 20% bonus GP and 10% bonus gold:
+> Power User holders receive bonus GP and bonus gold while playing the game.
+This means that the bonus will take effect after a game has ended (where the
+results are given and GP and gold are shown). The change is reflected
+immediately. This is the main focus of a Power User Card.
 
-Your Game Room (or Waiting Room if you're not in-game yet) is displayed on the
+No gold deduction penalty while playing the game:
+> If you've accidentally damaged yourself or your teammate (the minimum damage
+is 50 to get a penalty), you'd get a penalty. As a Power User, you're entitled
+to avoid this penalty. Just because you don't get a gold deduction penalty, it
+doesn't mean that you should start hitting your teammates recklessly for fun.
+
+Power User holders get an exclusive background avatar:
+> If you haven't purchased a background avatar yet, you'll get a special
+background avatar for being a Power User holder.
+
+Speech balloons have a nice golden color outline touch to it:
+> When you send a message in-game, your message balloon turns to a golden color
+instead of a regular blue color. This signifies that you own a Power User Card
+and have purchased it. Bragging rights purposes, if you ask me. In a waiting
+room, it returns to the blue color though.
+
+Your game room (or waiting room if you're not in-game yet) is displayed on the
 first page of the channel you're in:
 > When you acquire a Power User Card and want to make a Game Room, your Game
 Room will be on the first page of the channel. It will not be always as such
@@ -143,60 +166,39 @@ especially if there are so many Power User Holders that are on the channel
 the Power User Holder is in too. However, that's already ten times better than
 having your game room at the very last page.
 
-Your speech balloon (where your messages come out) will have a nice golden
-color outline touch to it:
-> This only occurs and take place when the game has already started. When you
-type your message and pressed ENTER, your message balloon will not be blue. 
-Instead, it will be gold signifying you have a Power User Card and have
-purchased it.
-
-Power User holders get an exclusive background avatar:
-> If you haven't purchased a background avatar yet, you'll get a special
-background avatar for being a Power User holder.
-
-Power User holders can receive 20% bonus GP and 10% bonus Gold:
-> Power User holders only get these advantages when the battle ends and the
-results are shown. The change is reflected immediately.
-
-Power User holders cannot get Gold deduction penalty while playing the game:
-> If you've accidentally damaged yourself or your teammate (the minimum damage
-is 50 to get a penalty), you'd get a penalty. As a Power User, you're entitled
-to avoid this penalty. Just because you don't get a gold deduction penalty, it
-doesn't mean that you should start hitting your teammates recklessly for fun.
-
 +++++++++++++++++++
 - Downsides [DET-2]
 +++++++++++++++++++
 
-Players have to pay to be a Power User:
+Players have to pay cash to be a Power User:
 > Yes, you have to pay in order to become a "Power User" and to be able to
 purchase the "Power User Card". You have to pay through PayPal, VISA etc. to
 have cash which will be used to purchase Cash-only avatars or avatars that can
-also be bought by Cash. A Cash-only avatar is the Power User Card which
-needs 4,000 Cash to purchase.
+also be bought by Cash. A Cash-only avatar is the Power User Card which needs
+4,000 Cash to purchase.
 
-Power User Card cannot be wearable:
+Power User Card cannot be worn:
 > You cannot wear these like a usual avatar but the Power User Card gives out a
 big advantage to anyone who manages to have it.
 
-Power User Card has a period of expiration to use:
+Power User Card has a period of expiration of use:
 > There is no Power User Card that has unlimited expiration of use irregardless
 of how much Cash you will be needing to purchase it. Power User Cards can
 expire for 1 week or 1 month. After they have expired on the specified time,
 you can re-purchase them to continue enjoying its benefits.
 
 Power User Card is a Cash-only avatar:
-> You cannot buy Power User Card through Gold irregardless of how much Gold you
+> You cannot buy Power User Card through gold irregardless of how much gold you
 will be needing to purchase it. Using your Cash is the only way to do it.
 
 Power User doesn't have stats that increase the Power User holder's stats:
-> Power User holders doesn't get increase in Popularity, Attack, Delay, 
+> Power User holders doesn't get increase in Popularity, Attack, Delay,
 Defense, Item Delay, Bunge, Mobile Shield and Life when they purchase it. They
 only get the advantage as explained on the Benefits section.
 
-===============================================================================
+-------------------------------------------------------------------------------
 E. Frequently Asked Questions [FAQ]
-===============================================================================
+-------------------------------------------------------------------------------
 
 Q - Why do I have to pay in order to be a Power User holder?
 A - You need to pay to become a Power User. Think of it like a premium currency

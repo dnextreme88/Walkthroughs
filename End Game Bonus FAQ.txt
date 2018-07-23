@@ -1,0 +1,899 @@
+End Game Bonus FAQ:
+
+Name of Game: Yu-Gi-Oh! Nightmare Troubadour
+
+Platform: DS
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. Bonuses Overview...............................................[OVR]
+        B. Detailed Bonuses...............................................[DTL]
+        C. Frequently Asked Questions.....................................[FAQ]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+Hi and welcome to my End Game Bonus FAQ. This FAQ will guide you on how to
+achieve the bonuses that you get after each duel. Certain conditions must be
+met in order for you to achieve the desired bonus. I hope this guide will help
+you earn more KCP as you play the game.
+
+Yu-Gi-Oh! Nightmare Troubadour is owned by Konami. All trademarks are subjected
+to Konami.
+
+Copyright (c) Konami.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version 1.0 - Oct 4, 2017
+= Submitted the FAQ.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. Bonuses Overview [OVR]
+-------------------------------------------------------------------------------
+
+Here is the list of all bonuses you receive after each duel. When you lose a
+duel, you'll only receive "Turn Bonus". Bonuses with varied KCP refers to using
+cards that affect your opponent's deck, hand or graveyard such as discarding at
+least 5 cards from your opponent's hand gives you 10 KCP for "Hand Destruction
+Bonus".
+
+ _____________________________________________________________________________
+|             BONUS NAME             |                   KCP                  |
+|------------------------------------|----------------------------------------|
+| 20000 LP Bonus                     | 10                                     |
+| All Monster Card Zone Bonus        | 5                                      |
+| Battle Damage Only Bonus           | 5                                      |
+| Chain Bonus                        | 2 * # of links in the chain            |
+| Clear Bonus (Beginner)             | 50                                     |
+| Clear Bonus (Intermediate)         | 100                                    |
+| Clear Bonus (Advanced)             | 150                                    |
+| Deck Destruction Bonus             | 2 * # of cards in deck discarded       |
+| Destiny Board Finish               | 100                                    |
+| Destroy by Effect Bonus            | 2 * # of cards destroyed by card       |
+|                                    | effects                                |
+| Destroy in Battle Bonus            | 2 * # of monsters destroyed in battle  |
+| Draw Game Bonus                    | 61                                     |
+| Duelist Bonus                      | EXP                                    |
+| Egyptian God Finish Bonus          | 5                                      |
+| Exactly 0 LP Bonus                 | 10                                     |
+| Exodia Finish Bonus                | 50                                     |
+| Exodia Necross                     | 30                                     |
+| Extremely Low Deck Bonus           | 30                                     |
+| Extremely Low LP Bonus             | 50                                     |
+| Final Countdown Finish Bonus       | 50                                     |
+| Fusion Summon Bonus                | 3 * # of fusion monsters summoned      |
+| Hand Destruction Bonus             | 2 * # of cards in hand discarded       |
+| Last Turn Finish                   | 50                                     |
+| Level Up Bonus                     | 300                                    |
+| Limited Attribute Deck             | 5                                      |
+| Limited Type Deck                  | 5                                      |
+| Low Deck Bonus                     | 10                                     |
+| Low LP Bonus                       | 10                                     |
+| LP Differential Bonus              | opponent's LP - your LP / 500          |
+| Luck Bonus                         | ?                                      |
+| Match Game Bonus                   | 30                                     |
+| Max ATK Bonus                      | Max ATK / 1000                         |
+| Max Damage Bonus                   | Max DMG / 1000                         |
+| Max Reflected Damage Bonus         | Max deflected damage / 100             |
+| New Bonus                          | 50                                     |
+| No Battle Damage Bonus             | 5                                      |
+| No Damage Bonus                    | 5                                      |
+| No Forbidden Cards Deck            | 5                                      |
+| No Limited/Semi-Limited Cards Deck | 5                                      |
+| No More Cards Bonus                | 10                                     |
+| No Special Summon Bonus            | 3                                      |
+| No Spell Cards Bonus               | 5                                      |
+| No Trap Cards Bonus                | 5                                      |
+| Obelisk the Tormentor              | 20                                     |
+| Opponent's Turn Finish Bonus       | 10                                     |
+| Quick Finish Bonus                 | 10                                     |
+| Removed from Play Bonus            | 2 * # of cards removed from play.      |
+| Return to Hand Bonus               | 2 * # of cards returned to opponent's  |
+|                                    | hand                                   |
+| Reversal Finish Bonus              | 5                                      |
+| Ritual Summon Bonus                | 3 * # of ritual monsters summoned      |
+| Same Card Bonus                    | 5                                      |
+| Shadow Game Bonus                  | 30                                     |
+| Slifer the Sky Dragon              | 20                                     |
+| Spell Card Bonus                   | 2 * # of spell cards used              |
+| Spell Counter Bonus                | 2 * # of spell counters used           |
+| The Winged Dragon of Ra            | 20                                     |
+| Trap Card Bonus                    | 2 * # of trap cards used               |
+| Tribute Summon Bonus               | 3 * # of monsters tributed             |
+| Turn Bonus                         | TURNS ELAPSED                          |
+| Wall Shadow                        | 10                                     |
+| XYZ-Dragon Cannon Bonus            | 20                                     |
+| Yata-Garasu Finish Bonus           | 5                                      |
+ -----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+B. Detailed Bonuses [DTL]
+-------------------------------------------------------------------------------
+
+Here I will list down how to achieve the bonuses. Some bonuses have a minimum
+amount to be achieved before getting the bonus. With 62 bonuses, I decided not
+to give them separate sub-sections since it'll just make the file too big.
+
+--------------
+20000 LP Bonus
+--------------
+> KCP Awarded: 10
+> Minimum: your LP must be at least 20000 LP.
+> Condition: Reach 20000 LP.
+
+---------------------------
+All Monster Card Zone Bonus
+---------------------------
+> KCP Awarded: 5
+> Condition: Occupy all 5 monster card zones with monsters.
+
+------------------------
+Battle Damage Only Bonus
+------------------------
+> KCP Awarded: 5
+> Condition: Inflict damage to your opponent's LP through battles only.
+
+-----------
+Chain Bonus
+-----------
+> KCP Awarded: 2 * # of links in the chain
+> Minimum: achieve at least 3 chain links.
+> Condition: Chain card effects. Use Counter Traps and Quick Spell Cards
+effectively to achieve the bonus.
+
+----------------------
+Clear Bonus (Beginner)
+----------------------
+> KCP Awarded: 50
+> Condition: Finish a beginner puzzle. The puzzles are located at the card
+shop.
+
+--------------------------
+Clear Bonus (Intermediate)
+--------------------------
+> KCP Awarded: 100
+> Condition: Finish an intermediate puzzle. The puzzles are located at the card
+shop.
+
+----------------------
+Clear Bonus (Advanced)
+----------------------
+> KCP Awarded: 150
+> Condition: Finish an advanced puzzle. The puzzles are located at the card
+shop.
+
+----------------------
+Deck Destruction Bonus
+----------------------
+> KCP Awarded: 2 * # of cards sent to the graveyard
+> Minimum: discard at least 5 cards from your opponent's deck to the graveyard.
+> Condition: Send your opponent's cards from his/her deck to the graveyard
+using card effects.
+
+--------------------
+Destiny Board Finish
+--------------------
+> KCP Awarded: 100
+> Condition: Win the duel using the effect of "Destiny Board".
+
+-----------------------
+Destroy by Effect Bonus
+-----------------------
+> KCP Awarded: 20
+> Minimum: destroy at least 5 of your opponent's cards using your cards.
+> Condition: Destroy your opponent's cards using card effects. Monsters, spells
+and trap cards count here.
+
+-----------------------
+Destroy in Battle Bonus
+-----------------------
+> KCP Awarded: 2 * # of opponent's monsters destroyed in battle 
+> Minimum: destroy at least 5 of your opponent's monsters in battle.
+> Condition: Destroy your opponent's monsters in battle.
+
+---------------
+Draw Game Bonus
+---------------
+> KCP Awarded: 61
+> Condition: End a duel in a draw. Certain cards can help you reduce both you
+and your opponent's LP to 0 to force a draw. Some cards include that may result
+in a draw:
+
+        Dark Snake Syndrome : Found in "Dragon's Nest" pack (common)
+        Destruction Ring    : Found in "Chosen Warrior" pack (common)
+        Last Turn           : Found in "Roar of Demise" pack (rare)
+        Ring of Destruction : Found in "The Forever Ones" pack (ultra rare)
+        Self-Destruct Button: Found in "Devised Tactics" pack (common)
+
+You're actually required to end the game in a draw in one of the events of the
+game (but if you don't have the cards, Yami Yugi will give you and they will be
+placed on your trunk).
+
+-------------
+Duelist Bonus
+-------------
+> KCP Awarded: EXP
+> Condition: This is equivalent to the value of your opponent's deck used when
+you beat him/her.
+
+ ________________________________________________
+|     DUELIST      |   EXP   |     DECK USED     |
+|------------------|---------|-------------------|
+| Yami Yugi        | 94 EXP  | Magician Power    |
+|                  | 110 EXP | Union Power       |
+|                  | 146 EXP | Sky Champion      |
+|                  | 118 EXP | Chaos Magician    |
+| Yugi Muto        | 82 EXP  | Magic Darkness    |
+|                  | 106 EXP | Magic Time        |
+| Joey Wheeler     | 66 EXP  | Dice Power Deck   |
+|                  | 126 EXP | Warrior Max       |
+|                  | 74 EXP  | Power of Luck     |
+| Seto Kaiba       | 102 EXP | X-Y-Z             |
+|                  | 134 EXP | Blue-Eyes Burst   |
+|                  | 134 EXP | Kaiser Impact     |
+| Mokuba           | 62 EXP  | It's Mokuba!      |
+| Yami Bakura      | 134 EXP | Underworld Ruler  |
+|                  | 106 EXP | Horror Countdown  |
+| Bakura           | 86 EXP  | Occult Deck       |
+| Tea Gardner      | 58 EXP  | Magic Stage!      |
+| Mai Valentine    | 94 EXP  | Lady Sanctuary    |
+| Serenity Wheeler | 58 EXP  | Cute Sister       |
+| Rebecca Hawkins  | 102 EXP | Big Bang USA      |
+| Solomon Muto     | 74 EXP  | Casket Guardian   |
+|                  | 98 EXP  | Ancient Pharaoh   |
+| Bonz             | 54 EXP  | Spook and Boo     |
+|                  | 62 EXP  | Zombie Deck       |
+| Mako             | 66 EXP  | Big Catch         |
+|                  | 78 EXP  | Big Haul          |
+| Espa Roba        | 70 EXP  | Cyber Energy      |
+|                  | 82 EXP  | ESP Deck          |
+| Rex Raptor       | 58 EXP  | Dino Destruction  |
+|                  | 66 EXP  | Raptor Rampage    |
+| Weevil           | 66 EXP  | Insect Deck       |
+|                  | 74 EXP  | Bug Queen Deck    |
+|                  | 74 EXP  | Bug Swarm Deck    |
+| PaniK            | 78 EXP  | Dark Zone         |
+| Dox              | 86 EXP  | Labyrinth Shadow  |
+| Para             | 90 EXP  | Gate Guardian     |
+| Pegasus          | 106 EXP | Toon World!       |
+| Bandit Keith     | 86 EXP  | Machine Mayhem    |
+| Big 1            | 118 EXP | Ocean Conqueror   |
+| Big 2            | 118 EXP | Fatal Flyer       |
+| Big 3            | 118 EXP | Final Judgment    |
+| Big 4            | 118 EXP | Steel Soul        |
+| Big 5            | 118 EXP | View from Above   |
+| Noah             | 134 EXP | Divine Ark        |
+| Gozaburo         | 150 EXP | Forbidden Pact    |
+| Rare Hunter      | 102 EXP | Seal Release      |
+| Strings          | 94 EXP  | Aqua Slime Deck   |
+| Arkana           | 106 EXP | Sleight of Hand   |
+| Lumis            | 106 EXP | Mask of Light     |
+| Umbra            | 106 EXP | Mask of Shadow    |
+| Odion            | 118 EXP | Temple Lurker     |
+| Ishizu Ishtar    | 106 EXP | Call from Below   |
+| Marik Ishtar     | 138 EXP | Keeper's Judgment |
+| Yami Marik       | 163 EXP | God Phoenix       |
+ ------------------------------------------------
+
+-------------------------
+Egyptian God Finish Bonus
+-------------------------
+> KCP Awarded: 5
+> Condition: Win the duel using any of the 3 Egyptian God Cards.
+
+        Obelisk the Tormentor: At one point of the game, beat Seto Kaiba and
+                               select "Power" as your choice.
+        Slifer the Sky Dragon: At one point of the game, beat Seto Kaiba and
+                               select "Unity" as your choice.
+        Winged Dragon of Ra  : Trade one of your Egyptian God card with Marik
+                               for this card.
+
+------------------
+Exactly 0 LP Bonus
+------------------
+> KCP Awarded: 10
+> Condition: Reduce your opponent's LP to exactly 0.
+
+-------------------
+Exodia Finish Bonus
+-------------------
+> KCP Awarded: 50
+> Condition: Win the duel using the effect of "Exodia the Forbidden One".
+
+--------------
+Exodia Necross
+--------------
+> KCP Awarded: 30
+> Condition: Summon "Exodia Necross" in a duel.
+
+------------------------
+Extremely Low Deck Bonus
+------------------------
+> KCP Awarded: 30
+> Condition: Win the duel without any cards left on your deck.
+
+----------------------
+Extremely Low LP Bonus
+----------------------
+> KCP Awarded: 50
+> Minimum: you must have at least 99 LP.
+> Condition: Win the duel with less than 100 LP.
+
+----------------------------
+Final Countdown Finish Bonus
+----------------------------
+> KCP Awarded: 50
+> Condition: Win the duel using the effect of "Final Countdown".
+
+-------------------
+Fusion Summon Bonus
+-------------------
+> KCP Awarded: 3 * # of fusion monsters summoned.
+> Minimum: perform at least 2 fusion summons.
+> Condition: Fuse monsters to form a fusion monster to get the bonus. Cards
+that can be used for a fusion summon:
+
+        Fusion Gate   : Found in "Infinite Illusion" pack (common)
+        Polymerization: Found in "Mechanical Trap Power" pack (common)
+
+----------------------
+Hand Destruction Bonus
+----------------------
+> KCP Awarded: 2 * # of opponent's cards in hand discarded.
+> Minimum: discard at least 5 cards from your opponent's hand to the graveyard.
+> Condition: Discard your opponent's cards from his/her hand using card
+effects.
+
+----------------
+Last Turn Finish
+----------------
+> KCP Awarded: 50
+> Condition: Win the duel using the effect of "Last Turn".
+
+--------------
+Level Up Bonus
+--------------
+> KCP Awarded: 300
+> Condition: Simply gain a level by defeating duelists.
+
+----------------------
+Limited Attribute Deck
+----------------------
+> KCP Awarded: 5
+> Condition: Use only 1 attribute of monsters in your deck. The attributes are:
+Dark, Divine, Earth, Fire, Light, Water, Wind.
+
+-----------------
+Limited Type Deck
+-----------------
+> KCP Awarded: 5
+> Condition: Use only 1 type of monsters in your deck. The types are: Aqua,
+Beast, Beast-Warrior, Dinosaur, Divine Beast, Dragon, Fairy, Fiend, Fish,
+Insect, Machine, Plant, Pyro, Reptile, Rock, Sea Serpent, Spellcaster, Thunder,
+Warrior, Winged Beast, Zombie.
+
+--------------
+Low Deck Bonus
+--------------
+> KCP Awarded: 10
+> Minimum: your deck must have at least 9 cards left.
+> Condition: Win the duel with less than 10 cards left on your deck.
+
+------------
+Low LP Bonus
+------------
+> KCP Awarded: 10
+> Minimum: your LP must be at least 999 LP.
+> Condition: Win the duel with less than 1000 LP.
+
+---------------------
+LP Differential Bonus
+---------------------
+> KCP Awarded: opponent's LP - your LP / 500
+> Minimum: the difference between your opponent's LP and your LP must be at
+least 4000 LP.
+> Condition: Have a huge difference of your opponent's LP to your LP.
+
+----------
+Luck Bonus
+----------
+> KCP Awarded: ?
+> Condition: I'm not pretty sure on how you get this one. I believe it has
+something to do with cards that lets you roll dices. If anyone can help me out
+with what it does, I'll be glad to credit you.
+
+----------------
+Match Game Bonus
+----------------
+> KCP Awarded: 30
+> Condition: Win a duel in a match series. This applies during the Beginner Cup
+and Expert Cup duels.
+
+-------------
+Max ATK Bonus
+-------------
+> KCP Awarded: Max ATK / 1000
+> Minimum: have a monster on your side of the field whose ATK is at least 3000.
+> Condition: Control a monster with a minimum required ATK to achieve the
+bonus.
+
+----------------
+Max Damage Bonus
+----------------
+> KCP Awarded: Max DMG / 1000
+> Minimum: inflict battle damage to your opponent's LP whose damage is at least
+3000.
+> Condition: Reduce your opponent's LP with the highest possible damage with a
+minimum required ATK to achieve the bonus.
+
+--------------------------
+Max Reflected Damage Bonus
+--------------------------
+> KCP Awarded: Max deflected damage / 100
+> Minimum: deflect an opposing monster's attack whose minimum battle damage
+is at least 1000.
+> Condition: Counter-attack your opponent's attacks by dealing damage to them
+during their own Battle Phase.
+
+---------
+New Bonus
+---------
+> KCP Awarded: 50
+> Minimum: get at least 1 bonus that you haven't received before. These are
+flashed as green text.
+> Condition: Awarded each time you get a bonus for the first time. You only get
+this once per new bonus that you received.
+
+----------------------
+No Battle Damage Bonus
+----------------------
+> KCP Awarded: 5
+> Condition: Reduce your opponent's LP using card effects only (don't inflict
+battle damage with the use of monsters).
+
+---------------
+No Damage Bonus
+---------------
+> KCP Awarded: 5
+> Condition: Never lose an LP by any means.
+
+-----------------------
+No Forbidden Cards Deck
+-----------------------
+> KCP Awarded: 5 
+> Condition: Don't have any forbidden cards on your deck. These cards are
+indicated by a red forbidden sign during deck construction.
+
++++++++++++++++
+Forbidden Cards
++++++++++++++++
+
+After becoming the King of Games during the Expert Cup finals, you'll have the
+chance to have 1 forbidden card in your deck. Your opponents will also have
+this ability too.
+
+Monster Cards:
+        Chaos Emperor Dragon - Envoy of the End
+        Fiber Jar
+        Magical Scientist
+        Makyura the Destructor
+        Obelisk the Tormentor (Egyptian God card)
+        Slifer the Sky Dragon (Egyptian God card)
+        The Winged Dragon of Ra (Egyptian God card)
+        Witch of the Black Forest
+        Yata-Garasu
+
+Spell Cards:
+        Butterfly Dagger - Elma
+        Change of Heart
+        Confiscation
+        Dark Hole
+        Harpie's Feather Duster
+        Monster Reborn
+        Painful Choice
+        Raigeki
+        The Forceful Sentry
+
+Trap Cards:
+        Imperial Order
+        Mirage of Nightmare
+        Sixth Sense
+
+----------------------------------
+No Limited/Semi-Limited Cards Deck
+----------------------------------
+> KCP Awarded: 5 
+> Condition: Don't have any limited/semi-limited cards on your deck. These
+cards are indicated by their numbers during deck construction.
+
++++++++++++++++++
+Limited Cards (1)
++++++++++++++++++
+
+Monster Cards:
+        Black Luster Soldier - Envoy of the Beginning
+        Breaker the Magical Warrior
+        Cyber Jar
+        Dark Magician of Chaos
+        D.D. Warrior Lady
+        Exiled Force
+        Exodia the Forbidden One
+        Injection Fairy Lily
+        Jinzo
+        Left Arm of the Forbidden One
+        Left Leg of the Forbidden One
+        Marshmallon
+        Morphing Jar
+        Protector of the Sanctuary
+        Reflect Bounder
+        Right Arm of the Forbidden One
+        Right Leg of the Forbidden One
+        Sacred Phoenix of Nephthys
+        Sangan
+        Sinister Serpent
+        Tribe-Infecting Virus
+        Twin-Headed Behemoth
+
+Spell Cards:
+        Card Destruction
+        Delinquent Duo
+        Graceful Charity
+        Heavy Storm
+        Lightning Vortex
+        Mage Power
+        Mystical Space Typhoon
+        Pot of Greed
+        Premature Burial
+        Snatch Steal
+        Swords of Revealing Light
+        United We Stand
+
+Trap Cards:
+        Call of the Haunted
+        Ceasefire
+        Crush Card
+        Deck Devastation Virus
+        Magic Cylinder
+        Mirror Force
+        Reckless Greed
+        Reversal of Graves
+        Ring of Destruction
+        Torrential Tribute
+
+++++++++++++++++++++++
+Semi-Limited Cards (2)
+++++++++++++++++++++++
+
+Monster Cards:
+        Abyss Soldier
+        Dark Scorpion - Chick the Yellow
+        Manticore of Darkness
+        Marauding Captain
+        Night Assailant
+        Vampire Lord
+
+Spell Cards:
+        Creature Swap
+        Emergency Provisions
+        Level Limit - Area B
+        Nobleman of Crossout
+        Reinforcement of the Army
+        Upstart Goblin
+
+Trap Cards:
+        Good Goblin Housekeeping
+        Gravity Bind
+        Last Turn
+
+-------------------
+No More Cards Bonus
+-------------------
+> KCP Awarded: 10
+> Condition: Win the duel by letting your opponent run out of cards.
+
+-----------------------
+No Special Summon Bonus
+-----------------------
+> KCP Awarded: 3
+> Condition: Don't special summon a monster by any means.
+
+--------------------
+No Spell Cards Bonus
+--------------------
+> KCP Awarded: 5
+> Condition: Don't use any Spell Cards on the duel.
+
+-------------------
+No Trap Cards Bonus
+-------------------
+> KCP Awarded: 5
+> Condition: Don't use any Trap Cards on the duel.
+
+---------------------
+Obelisk the Tormentor
+---------------------
+> KCP Awarded: 20
+> Minimum: have "Obelisk the Tormentor" in your deck and normal summon it.
+> Condition: Summon "Obelisk the Tormentor" in a duel. When you defeat Seto
+Kaiba in one of the events of the game, select "Power" as your choice to
+receive this Egyptian God card from Ishizu.
+
+----------------------------
+Opponent's Turn Finish Bonus
+----------------------------
+> KCP Awarded: 10
+> Condition: Win the duel on your opponent's turn.
+
+------------------
+Quick Finish Bonus
+------------------
+> KCP Awarded: 10
+> Minimum: you can win on the 1st turn, if you're lucky.
+> Condition: Win the duel in 5 turns or less.
+
+-----------------------
+Removed from Play Bonus
+-----------------------
+> KCP Awarded: 2 * # of cards removed from play
+> Minimum: send at least 5 of your opponent's cards from his/her graveyard to
+the removed from play zone.
+> Condition: Remove your opponent's cards from play using card effects.
+
+--------------------
+Return to Hand Bonus
+--------------------
+> KCP Awarded: 2 * # of cards returned to opponent's hand
+> Minimum: return at least 5 of your opponent's cards to his/her hand.
+> Condition: Use cards that will return your opponent's cards in play back
+to his/her hand.
+
+---------------------
+Reversal Finish Bonus
+---------------------
+> KCP Awarded: 5
+> Condition: Have fewer LP at the start of the last turn.
+
+-------------------
+Ritual Summon Bonus
+-------------------
+> KCP Awarded: 3 * # of ritual monsters summoned
+> Minimum: perform at least 2 ritual summons.
+> Condition: Use Ritual Spell Cards and Ritual Monster Cards to achieve the
+bonus.
+
+---------------
+Same Card Bonus
+---------------
+> KCP Awarded: 5
+> Minimum: have at least 2 cards of the same name in a duel.
+> Condition: Play at least 2 cards of the same name in a duel at once. Cards
+with alternate names like "Harpie Lady 1", "Harpie Lady 2", "Harpie Lady 3" are
+not considered.
+
+-----------------
+Shadow Game Bonus
+-----------------
+> KCP Awarded: 30
+> Condition: Win a Shadow Game duel. This only occurs at night. If you lose a
+Shadow Game, it's Game Over. The following duelists must be beaten at night to
+incur the bonus
+
++++++++++++++++++++++++
+Regular Shadow duelists
++++++++++++++++++++++++
+
++--------------+------------------------------------------------------+
+|   DUELIST    |                        NOTES                         |
++--------------+------------------------------------------------------+
+| Bandit Keith | Uses a MACHINE deck.                                 |
+| Dox          | Appears as a regular duelist after beating the game. |
+| PaniK        | Appears in both cities.                              |
+| Para         | Appears as a regular duelist after beating the game. |
+| Pegasus      | Appears as a regular duelist after beating the game. |
+| Yami Bakura  | You must beat Bakura before getting him to appear.   |
++--------------+------------------------------------------------------+
+
++++++++++++++++++++
+KaibaCorp employees
++++++++++++++++++++
+
++----------+----------------------------------------------------+
+| DUELIST  |                       NOTES                        |
++----------+----------------------------------------------------+
+| Big 1    | Must be defeated to proceed to Expert Cup finals.  |
+| Big 2    | Must be defeated to proceed to Expert Cup finals.  |
+| Big 3    | Must be defeated to proceed to Expert Cup finals.  |
+| Big 4    | Must be defeated to proceed to Expert Cup finals.  |
+| Big 5    | Must be defeated to proceed to Expert Cup finals.  |
+| Gozaburo | Win before the 20th turn after beating Noah twice. |
+| Mokuba   | Under Noah's control.                              |
+| Noah     | Uses a LIGHT deck.                                 |
++----------+----------------------------------------------------+
+
+++++++++++++
+Rare Hunters
+++++++++++++
+
++-------------+----------------------------------------+
+|   DUELIST   |                 NOTES                  |
++-------------+----------------------------------------+
+| Arcana      | Appears in the second city more often. |
+| Lumis       | Uses a LIGHT deck.                     |
+| Odion       | Uses an Egyptian-themed deck.          |
+| Rare Hunter | Uses an Exodia-themed deck.            |
+| Strings     | Uses a WATER deck.                     |
+| Umbra       | Uses a DARK deck.                      |
+| Yami Marik  | Uses a lot of trap cards.              |
++-------------+----------------------------------------+
+
+---------------------
+Slifer the Sky Dragon
+---------------------
+> KCP Awarded: 20
+> Minimum: have "Slifer the Sky Dragon" in your deck and normal summon it.
+> Condition: Summon "Slifer the Sky Dragon" in a duel. When you defeat Seto
+Kaiba in one of the events of the game, select "Unity" as your choice to
+receive this Egyptian God card from Ishizu.
+
+----------------
+Spell Card Bonus
+----------------
+> KCP Awarded: 2 * # of spell cards used
+> Minimum: use at least 15 spell cards in a duel at once.
+> Condition: Use a lot of spell cards to achieve the bonus.
+
+-------------------
+Spell Counter Bonus
+-------------------
+> KCP Awarded: 2 * # of spell counters used
+> Minimum: put at least 5 spell counters on cards that are eligible to have
+spell counters on.
+> Condition: Awarded each time a spell counter is used on a card (that can have
+a spell counter on).
+
+-----------------------
+The Winged Dragon of Ra
+-----------------------
+> KCP Awarded: 20
+> Minimum: have "The Winged Dragon of Ra" in your deck and normal summon it.
+> Condition: Summon "The Winged Dragon of Ra" in a duel. You can trade with
+Marik Ishtar in exchange of your other Egyptian God card to get his card.
+
+---------------
+Trap Card Bonus
+---------------
+> KCP Awarded: 2 * # of trap cards used
+> Minimum: use at least 15 trap cards in a duel at once.
+> Condition: Use a lot of trap cards to achieve the bonus.
+
+--------------------
+Tribute Summon Bonus
+--------------------
+> KCP Awarded: 3 * # of monsters tributed for a tribute summon
+> Minimum: tribute at least 2 monsters for a tribute summon.
+> Condition: Tribute summon monsters whose level is 5 or more.
+
+----------
+Turn Bonus
+----------
+> KCP Awarded: TURNS
+> Condition: This bonus is equal to the turns elapsed. This is the only bonus
+you'll get when a duel results in a draw or lose.
+
+-----------
+Wall Shadow
+-----------
+> KCP Awarded: 10
+> Condition: Summon "Wall Shadow" in a duel.
+
+-----------------------
+XYZ-Dragon Cannon Bonus
+-----------------------
+> KCP Awarded: 20
+> Condition: Summon "XYZ-Dragon Cannon" in a duel.
+
+------------------------
+Yata-Garasu Finish Bonus
+------------------------
+> KCP Awarded: 5
+> Condition: Win the duel using the effect of "Yata-Garasu".
+
+-------------------------------------------------------------------------------
+C. Frequently Asked Questions [FAQ]
+-------------------------------------------------------------------------------
+
+Q - What is the maximum number of chain links that can be achieved?
+A - I think it's 4. It's the highest I've got so far.
+
+Q - What bonus do I get when I lose a duel?
+A - You'll only get Turn Bonus if you lose a duel. This amount is equal to the
+    turn that you lost the duel with. For example, if you lose on the 10th
+    turn, you'll only get 10 KCP for Turn Bonus.
+
+Q - I tribute summoned monsters with a card effect, does it count towards the
+    bonus?
+A - No. You must offer monsters for a tribute summon to count for the Tribute
+    Summon Bonus.
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "Nightmare Troubadour: End Game Bonus FAQ" to remind me that
+you are not spam. If not, the subject should be at least close to the previous
+one and I will try to answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To GameFAQs, SuperCheats and Neeoseeker for hosting the FAQ.
+
+To Konami for making the game.
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------

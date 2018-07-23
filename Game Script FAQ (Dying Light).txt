@@ -1046,7 +1046,7 @@ it, Firkin! Kick his ass!
 Gursel: For God's sake, Ayla!
 Gursel: Look, I don't want any trouble. But we already paid up this month.
 You're gonna bleed us dry.
-Crane: That is ENITRELY not my problem. Rais wants his payment. So you make the
+Crane: That is ENTIRELY not my problem. Rais wants his payment. So you make the
 payment, or things get bad for you... AND your woman.
 Ayla: You can't threaten us! Kick his ass, Firkin!
 Gursel: GIVE ME A BREAK, Ayla! (Alright.) Fine. Here. This is all of it.
@@ -2596,10 +2596,10 @@ you really shouldn't do after all.
 
 I would like to thank the following:
 
-To GameFAQs and SuperCheats for hosting the FAQ.
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
 
 To Techland for making the game.
 
 To you, as the reader.
 
-END OF DOCUMENT--------------------------------------------------------------  
+END OF DOCUMENT----------------------------------------------------------------

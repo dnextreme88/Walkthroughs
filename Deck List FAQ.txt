@@ -59,7 +59,7 @@ Version 1.0 - Jan 5, 2009
 Version 1.1 - Jan 8, 2009
 = A major update. Added "Morphing Jar" to all duelists except Alexis Rhodes'
 decks, whose Morphing Jar is already listed.
-= Minor corrections corrected.
+= Fixed minor grammar errors.
 = Updated questions in Frequently Asked Questions section.
 
 Version 1.2 - Jan 14, 2009
@@ -76,39 +76,41 @@ Version 1.5 - Feb 8, 2009
 = Added Trueman's decks on "Other Character Decklists" section.
 
 Version 1.6 - Feb 19, 2009
+= Completed other decks of "Jaden Yuki" and "Blair Flannigan".
 = Corrected "Trueman" as "Trueman" is in the English version and "Mr.T" is for
 the Japanese version.
-= Completed other decks of "Jaden Yuki" and "Blair Flannigan".
 
 Version 1.7 - May 8, 2009
 = Added Syrus and Zane's other decks. Added a "*NOTE*" as well.
 
-Version 1.8 - Jul 19, 2018
+Version 1.8 - Jul 23, 2018
 = Revival. Re-structured the document. Corrected some grammar errors.
 = Changed all section codes so that search is easier.
-= Re-arranged the order of decks in "Partner's Starting Decks" and "Deck List"
-sections.
 = Trueman's decks now have proper deck names.
 = Added the following items:
-        > Giant Trunade spell card in Mister Trail deck.
-        > Missing "Cards in deck" and "Extra deck" note for Trueman's decks.
+    > Giant Trunade spell card in Mister Trail deck.
+    > Missing "Cards in deck" and "Extra deck" note for Trueman's decks.
 
-= Correction in card names:
-        > "Dark Valkyeria" to "Dark Valkyria".
-        > "Elemental Hero Neos Aluis" to "Elemental Hero Neos Alius".
-        > "Flamveil Urquiza" to "Flamvell Uruquizas".
+= Fixed the following card names:
+    > "Dark Valkyeria" to "Dark Valkyria".
+    > "Elemental Hero Neos Aluis" to "Elemental Hero Neos Alius".
+    > "Flamveil Urquiza" to "Flamvell Uruquizas".
 
 = Removed the following items:
-        > "About" section. Its content is placed in the "Introduction" section.
-        > "Important Notes" section. Its content is placed in the "Choosing a
-        Partner" section.
+    > "About" section. Its content is placed in the "Introduction" section.
+    > "Important Notes" section. Its content is placed in the "Choosing a
+    Partner" section.
 
 = Renamed the following items:
-        > "Character Deck Listing FAQ" to "Deck List FAQ".
-        > "Character Decklists Introduction" to "Choosing a Partner" section.
-        > "Other Character Decklists" to "Deck List" section.
-        > "Yu-Gi-Oh! GX: Tag Force 3 Character Decklists" to "Partner's
-Starting Decks" section.
+    > "Character Deck Listing FAQ" to "Deck List FAQ".
+    > "Character Decklists Introduction" to "Choosing a Partner" section.
+    > "Other Character Decklists" to "Deck List" section.
+    > "Yu-Gi-Oh! GX: Tag Force 3 Character Decklists" to "Partner's Starting
+    Decks" section.
+
+= Sorted the order of decks in the following items:
+    > "Deck List" section.
+    > "Partner's Starting Decks" section.
 
 ===============================================================================
 3. Copyright Information [Copy]
@@ -510,7 +512,7 @@ Effect Monsters
     * Marshmallon (DESTINY CARD)
     * Morphing Jar
     * Sangan
-    * The Earth – Hex-Sealed Fusion (x2)
+    * The Earth ? Hex-Sealed Fusion (x2)
     * Warrior Lady of the Wasteland (x3)
 
 Fusion Monsters
@@ -579,8 +581,8 @@ Normal Monsters
     * Zure, Knight of Dark World (x3)
 
 Effect Monsters
-    * Black Luster Soldier – Envoy of the Beginning
-    * Cyber Angel – Dakini (x2)
+    * Black Luster Soldier ? Envoy of the Beginning
+    * Cyber Angel ? Dakini (x2)
     * Manju of the Ten Thousand Hands (x3)
     * Morphing Jar
     * Sangan
@@ -871,7 +873,7 @@ Traps
 > Extra Deck: 0
 
 Effect Monsters
-    * Destiny Hero – Plasma (x2)
+    * Destiny Hero ? Plasma (x2)
     * Elemental Hero Stratos
     * Garoth, Lightsworn Warrior (x2)
     * Herald of Creation (x3)
@@ -934,7 +936,7 @@ Traps
     * Defence Maiden (x3)
     * Dimensional Wall (x3) 
     * Magic Cylinder
-    * Magician’s Circle
+    * Magician?s Circle
     * Mirror Force (DESTINY CARD)
 
 ++++++++++++++++++++
@@ -981,7 +983,7 @@ Traps
 Effect Monsters
     * Apprentice Magician (x3)
     * D.D. Warrior Lady
-    * Magician’s Valkyria (x3)
+    * Magician?s Valkyria (x3)
     * Maiden in Love (x3)
     * Marshamllon
     * Shining Angel (x3)
@@ -1003,7 +1005,7 @@ Spells
 
 Traps
     * Defence Maiden (x2)
-    * Magician’s Circle (x3)
+    * Magician?s Circle (x3)
     * Mirror Force (DESTINY CARD)
     * Spirit Barrier
 
@@ -1089,14 +1091,14 @@ Fusion Monsters
 
 Spells
     * Card Destruction
-    * E – Emergency Call (x3)
+    * E ? Emergency Call (x3)
     * Heavy Storm
     * Lightning Vortex
     * Monster Reborn (DESTINY CARD)
     * Mystical Space Typhoon
     * O - Oversoul (x2)
     * Premature Burial
-    * R – Righteous Justice (x2)
+    * R ? Righteous Justice (x2)
     * Super Polymerization 
 
 Traps
@@ -1128,15 +1130,15 @@ Fusion Monsters
 
 Spells
     * Ancient Rules (x2)
-    * E – Emergency Call (x3)
+    * E ? Emergency Call (x3)
     * Heavy Storm
     * Lightning Vortex
     * Monster Reborn (DESTINY CARD)
     * Mystical Space Typhoon
     * O - Oversoul (x3)
     * Premature Burial
-    * R – Righteous Justice (x2)
-    * Skyscraper 2 – Hero City (X2)
+    * R ? Righteous Justice (x2)
+    * Skyscraper 2 ? Hero City (X2)
     * The A. Forces (X2)
     * Wrath of Neos (X2)
 
@@ -1168,17 +1170,17 @@ Fusion Monsters
     * Elemental Hero Grand Neos (x3)
 
 Spells
-    * E – Emergency Call (x3)
+    * E ? Emergency Call (x3)
     * Heavy Storm
     * Lightning Vortex
     * Monster Reborn (DESTINY CARD)
     * Mystical Space Typhoon
     * O - Oversoul (x3)
-    * Philosopher’s Stone (DESTINY CARD)
+    * Philosopher?s Stone (DESTINY CARD)
     * Premature Burial
-    * R – Righteous Justice (x3)
+    * R ? Righteous Justice (x3)
     * Reinforcement of the Army (x2)
-    * Skyscraper 2 – Hero City
+    * Skyscraper 2 ? Hero City
     * The A. Forces
     * Wrath of Neos 
 
@@ -1223,7 +1225,7 @@ Fusion Monsters
 Spells
     * Burst Impact
     * De-Fusion
-    * E – Emergency Call (x3)
+    * E ? Emergency Call (x3)
     * Fusion Recovery
     * Heavy Storm
     * Miracle Fusion (x3)
@@ -1231,7 +1233,7 @@ Spells
     * Mystical Space Typhoon
     * Polymerization (x2)    
     * Premature Burial
-    * R – Righteous Justice (x3)
+    * R ? Righteous Justice (x3)
     * Reinforcement of the Army (x2)
     * The Warrior Returning Alive 
 
@@ -1273,17 +1275,17 @@ Fusion Monsters
 
 Spells
     * Berserker Crush
-    * E – Emergency Call (x2)
+    * E ? Emergency Call (x2)
     * Heavy Storm
     * Miracle Fusion (x2)
     * Monster Reborn (DESTINY CARD)
     * Mystical Space Typhoon
     * Polymerization     
     * Premature Burial
-    * R – Righteous Justice
+    * R ? Righteous Justice
     * Reinforcement of the Army (x2)
     * Flute of Summoning Kuriboh
-    * The Rival’s Name
+    * The Rival?s Name
     * Transcendent Wings
 
 Traps
@@ -1323,7 +1325,7 @@ Fusion Monsters
 Spells
     * Burst Impact
     * De-Fusion
-    * E – Emergency Call (x3)
+    * E ? Emergency Call (x3)
     * Fusion Recovery
     * Heavy Storm
     * Miracle Fusion (x3) (DESTINY CARD)
@@ -1331,7 +1333,7 @@ Spells
     * Mystical Space Typhoon
     * Polymerization (x2)
     * Premature Burial
-    * R – Righteous Justice (x3)
+    * R ? Righteous Justice (x3)
     * Reinforcement of the Army (x2)
 
 Traps
@@ -1370,17 +1372,17 @@ Fusion Monsters
 
 Spells
     * De-Fusion
-    * E – Emergency Call (x3)
+    * E ? Emergency Call (x3)
     * Fusion Recovery
     * Future Fusion (x2)
     * Heavy Storm
     * Miracle Fusion (x3)
     * Monster Reborn (DESTINY CARD)
     * Mystical Space Typhoon
-    * Philosopher’s Stone - Sabatier
+    * Philosopher?s Stone - Sabatier
     * Polymerization (x2)
     * Premature Burial
-    * R – Righteous Justice (x2)
+    * R ? Righteous Justice (x2)
     * Reinforcement of the Army (x2)
     * The A. Forces
 
@@ -1413,7 +1415,7 @@ Effect Monsters
     * Morphing Jar
     * Neo-spacian Grand Mole (DESTINY CARD)
     * Sangan
-    * The Earth – Hex – Sealed Fusion (x3)
+    * The Earth ? Hex ? Sealed Fusion (x3)
 
 Fusion Monsters
     * Evil Hero Dark Gaia (x3)
@@ -1428,7 +1430,7 @@ Spells
     * Card Destruction
     * Dark Calling (x3)
     * Dark Fusion (x2) (DESTINY CARD)
-    * E – Emergency Call (x3)
+    * E ? Emergency Call (x3)
     * Giant Trunade
     * Heavy Storm
     * Monster Reborn (DESTINY CARD)
@@ -1463,7 +1465,7 @@ Effect Monsters
     * Morphing Jar
     * Neo-spacian Grand Mole
     * Sangan
-    * The Eath – Hex – Sealed Fusion (x3)
+    * The Eath ? Hex ? Sealed Fusion (x3)
 
 Fusion Monsters
     * Evil Hero Dark Gaia (x3)
@@ -1475,7 +1477,7 @@ Spells
     * Dark Calling (x3) (DESTINY CARD)
     * Dark Fusion (x2)
     * Dimension Fusion
-    * E – Emergency Call (x2)
+    * E ? Emergency Call (x2)
     * Giant Trunade
     * Heavy Storm
     * Monster Reborn (DESTINY CARD)
