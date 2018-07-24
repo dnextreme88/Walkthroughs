@@ -52,9 +52,9 @@ Table of Contents:
 1. Introduction [Intro]
 ===============================================================================
 
-Hi and welcome to my general walkthrough for Toy Story Racer. I noticed that no
-one has made a guide for this despite its 15-year age so I thought I'd make
-one. This guide contains spoilers.
+Hi and welcome to my FAQ/Walkthrough for Toy Story Racer. I noticed that no one
+has made a guide for this despite its 15-year age so I thought I'd make one.
+This guide contains spoilers.
 
 Toy Story Racer is owned by Traveller's Tales. All trademarks are subjected to
 Traveller's Tales.
@@ -82,7 +82,7 @@ challenges.
     > "Endurance Race" to "Endurance Challenges".
     > "Lap Trial Race" to "Lap Trial Challenges".
 
-Version 1.2 - Jul 23, 2018
+Version 1.2 - Jul 24, 2018
 = Fixed missing number of enemies in "Nacho's for the film?" challenge.
 = Minor grammar errors fixed.
 = Sorted the following items:

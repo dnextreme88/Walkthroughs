@@ -59,8 +59,8 @@ Table of Contents:
 ===============================================================================
 
 Hi and welcome to my FAQ/Walkthrough for Toy Story 3. The guide covers all
-aspects of the game, from the game's Adventure Book to the mini-games of Woody,
-Buzz and the Little Green Men.
+aspects of the game, from the game's Adventure Book to the mini-games of Buzz,
+Little Green Men and Woody.
 
 Toy Story 3 is owned by Disney Interactive Studio. All trademarks are subjected
 to Disney Interactive Studio.
@@ -208,7 +208,7 @@ should have collected all 60 stars. Continue on and watch the scene unfold.
 Your task is to find Andy's cell phone. Hop to the stack of books on the right
 and collect the 1st bulb (near the hamper). Now jump on the stack of books that
 is near the blue mini-sofa and hop on to the compartment of the red table. This
-will reveal a spring. Use it to close the 1st blind in front of you (credit to
+will reveal a spring. Use it to close the 1st blind in front of you (CREDITS:
 citricice for pointing a hidden spring). Collect the hidden star below the
 skateboard. Go to the back of the TV and collect the 2nd bulb on top of the
 speakers. Use the skateboard to climb. Hop over to the next box, to the desk
@@ -1183,7 +1183,7 @@ them.
 |--------|------------------|------------------------------------------------|
 | OLDMOV | Old movie        | Play the game with an old movie effect!        |
 |--------|------------------|------------------------------------------------|
-| 3DGLAS | Alien 3d glasses | Toy aliens wear 3D glasses.                    |
+| 3DGLAS | Alien 3D glasses | Toy aliens wear 3D glasses.                    |
 |--------|------------------|------------------------------------------------|
 | BANDIT | Bandit Woody     | Woody wearing his bandit outfit.               |
  ----------------------------------------------------------------------------
@@ -1268,7 +1268,7 @@ Cheats
 |--------------|-------|-----------------------------------------------------|
 | Maiden Buzz  | 1,000 | Buzz is wearing a maid's outfit!                    |
 |--------------|-------|-----------------------------------------------------|
-| Invincible   | 1,800 | For the Buzz adventures, Buzz never loses health!!  |
+| Invincible   | 1,800 | For the Buzz adventures, Buzz never loses health!   |
  ----------------------------------------------------------------------------
 
 ++++++++++++++++
@@ -1388,7 +1388,7 @@ Take a look at your completed trophies and find out about the ones you're
 missing...
 
 There are a total of 26 trophies to collect. You can collect up to 2 trophies
-per level in Adventure Book, which the game's story mode.
+per level in Adventure Book, which is the game's story mode.
 
 ---------
 First row
@@ -1559,7 +1559,7 @@ you really shouldn't do after all.
 
 I would like to thank the following:
 
-To GameFAQs and SuperCheats for hosting the FAQ.
+To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
 
 To Disney Interactive Studio for making the game.
 
