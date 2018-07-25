@@ -21,19 +21,18 @@ Table of Contents:
 2. Version History.......................................................[Hist]
 3. Copyright Information.................................................[Copy]
 4. Main Content
-        A. About Bookworm Deluxe..........................................[ABT]
-        B. The Basics
+        A. The Basics.....................................................[BSC]
                 - Controls................................................[CON]
                 - Forming words...........................................[FRM]
                 - Backward letters........................................[BCK]
                 - Bonus words.............................................[BON]
                 - Special blocks..........................................[SPC]
-        C. Main Menu
+        B. Main Menu......................................................[MEN]
                 - Classic Mode............................................[CLA]
                 - Action Mode.............................................[ACT]
                 - Hall of Fame............................................[HOF]
                 - Quit....................................................[QUI]
-        D. Options........................................................[OPT]
+        C. Options........................................................[OPT]
 5. Contact Information................................................[Contact]
 6. Permitted Sites......................................................[Sites]
 7. Credits...............................................................[Cred]
@@ -42,9 +41,9 @@ Table of Contents:
 1. Introduction [Intro]
 ===============================================================================
 
-Hi and welcome to my FAQ/Walkthrough for the game Bookworm Deluxe. This FAQ
-will guide you the basics of the game. Ranging from the features to its
-gameplay. I hope you learn the basics of the game as well as how it works.
+Hi and welcome to my FAQ/Walkthrough for Bookworm Deluxe. This FAQ will guide
+you the basics of the game. Ranging from the features to its gameplay. I hope
+you learn the basics of the game as well as how it works.
 
 Bookworm Deluxe is owned by PopCap. All trademarks are subjected to PopCap.
 
@@ -60,13 +59,21 @@ Version 1.0 - Feb 21, 2009
 Version 1.1 - Aug 19, 2016
 = Revival. Re-structured the document. Corrected some grammar errors.
 = Changed all section codes so that search is easier.
-= Removed the section "How the game works". Its content is placed in the "About
+= Removed "How the game works" section. Its content is placed in the "About
 Bookworm Deluxe" section instead.
-= Added description for the "Hardware acceleration" option under "Options"
-section.
 = Renamed "Advanced" to "Special blocks" section. Each colored block has its
 own paragraph to provide more readability.
-= Added "Bonus Words" section.
+= Added the following items:
+    > "Bonus Words" section.
+    > Description for "Hardware acceleration" option.
+
+Version 1.2 - Jul 25, 2018
+= Controls in "Controls" sub section are now in lists.
+= Removed "About Bookworm Deluxe" section. Its content is placed in the "The
+Basics" section instead.
+= Added the following section codes:
+    > "Main Menu" section.
+    > "The Basics" section.
 
 ===============================================================================
 3. Copyright Information [Copy]
@@ -86,38 +93,33 @@ Copyright (c) dnextreme88
 ===============================================================================
 
 -------------------------------------------------------------------------------
-A. About Bookworm Deluxe [ABT]
+A. The Basics [BSC]
 -------------------------------------------------------------------------------
 
-BookWorm Deluxe is the very first installation of the game in the BookWorm
-series. Bookworm Deluxe is a PC game that can be downloaded on the internet.
-This game is like a scrabble game but you should form words that are adjacent
-to it. This game also expands your vocabulary so its helpful to you gamers.
+Bookworm Deluxe is the very first installment in the Bookworm series. This game
+is like a scrabble game in which you form words using adjacent letters.
 
 This game is played in two modes. One is the Classic Mode and the other is
 Action Mode. Whichever mode you take, the gameplay is the same. In this game,
-your main objective is to form words using blocks.
-
--------------------------------------------------------------------------------
-B. The Basics
--------------------------------------------------------------------------------
+your main objective is to form words using blocks until a red block hits the
+bottom of the screen, in which case it's game over.
 
 ++++++++++++++++
 - Controls [CON]
 ++++++++++++++++
 
-Left mouse click - Select option / select letters.
-Double left mouse click - Submits the letters highlighted.
-ENTER button - Submits the letters highlighted.
-Right mouse click - Deselects all letters highlighted.
+> Left mouse click - Select option / select letters.
+> Double left mouse click - Submits the letters highlighted.
+> ENTER button - Submits the letters highlighted.
+> Right mouse click - Deselects all letters highlighted.
 
 +++++++++++++++++++++
 - Forming words [FRM]
 +++++++++++++++++++++
 
-The minimum letters you can form is 3 letters. However, the maximum number of 
+The minimum letters you can form is 3 letters. However, the maximum number of
 letters you can form out is 8 letters. So far, that word is "BOOKWORM". In this
-game, there is no time limit so there is so much time to look for words. In 
+game, there is no time limit so there is so much time to look for words. In
 order to form words, you will have to click the block with an assign letter on
 it. Let's say these are the set of blocks on your game:
 
@@ -129,12 +131,12 @@ Using those letters, you can form "FAN", "TIN", "NIT", "AIN", "FAIN" and using
 all letters, "FAINT". For each of those words you formed out, these are the
 scores you will receive (some of them):
 
-        FAN: 150 pts.
-        TIN: 180 pts.
-        NIT: 180 pts.
-        AIN: 150 pts.
-        FAIN: 400 pts
-        FAINT: 600 pts.
+        "FAN": 150 pts.
+        "TIN": 180 pts.
+        "NIT": 180 pts.
+        "AIN": 150 pts.
+        "FAIN": 400 pts.
+        "FAINT": 600 pts.
 
 However, there are still words you can form out not only my given set of
 blocks. Take this another example:
@@ -231,7 +233,7 @@ will increase your score by 250+ points for 3-letter words, around 300+ points
 for 4-letter words and so on.
 
 -------------------------------------------------------------------------------
-C. Main Menu
+B. Main Menu [MEN]
 -------------------------------------------------------------------------------
 
 ++++++++++++++++++++
@@ -269,35 +271,34 @@ Quits the game. Simple. Closes the Bookworm Deluxe game and returns you to
 your desktop.
 
 -------------------------------------------------------------------------------
-D. Options [OPT]
+C. Options [OPT]
 -------------------------------------------------------------------------------
 
 In order to access the game's option, you must first be on a game mode. It
 maybe Classic Mode or Action Mode. Start or continue the game if you have a
 previous saved game. Here, you can adjust the following:
 
-> MUSIC - move the gem-looking block to the left to tone the music down or to 
+> MUSIC - move the gem-looking block to the left to tone the music down or to
 the right to hear the music even louder.
 
-> SOUND FX - same as the music, move the gem-looking block to the left to tone 
+> SOUND FX - same as the music, move the gem-looking block to the left to tone
 the sound lower or to the right to tone it higher.
 
-> FULL SCREEN - what it does is to maximize the screen to its largest possible 
+> FULL SCREEN - what it does is to maximize the screen to its largest possible
 screen resolution your computer can take. Checking the box will make it full-
 screen. However, un-checking the box will return to its normal size.
 
-> SHOW HINTS - this will show hints and tips while playing the game in any 
+> SHOW HINTS - this will show hints and tips while playing the game in any
 mode. Check the box to show hints or un-check the box to disable hints.
 
-> HARDWARE ACCELERATION - makes the CPU run faster by performing some 
-functions. This lowers FPS in some computers.
+> HARDWARE ACCELERATION - makes the CPU run faster by performing functions so that your computer runs faster than usual. This lowers FPS in some computers.
 
-> CUSTOM CURSORS - provides customized cursors for BookWorm Deluxe instead of 
-your normal cursor to enhance a more, cooler BookWorm Deluxe experience. Check 
-the box to enable the custom cursors. Otherwise, un-check the box to disable 
+> CUSTOM CURSORS - provides customized cursors for BookWorm Deluxe instead of
+your normal cursor to enhance a more, cooler BookWorm Deluxe experience. Check
+the box to enable the custom cursors. Otherwise, un-check the box to disable
 the custom cursors and use your current mouse cursor.
 
-> SHOW DEFINITIONS - shows the definition of some words you entered. Check the 
+> SHOW DEFINITIONS - shows the definition of some words you entered. Check the
 box to enable or un-check the box to disable.
 
 ===============================================================================

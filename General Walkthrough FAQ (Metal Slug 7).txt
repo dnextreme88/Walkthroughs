@@ -63,10 +63,10 @@ Table of Contents:
 1. Introduction [Intro]
 ===============================================================================
 
-Hi and welcome to my FAQ/Walkthrough for the game Metal Slug 7. The Metal Slug
-franchise is back on the main scene. This installment of the game is only
-exclusive to the DS and in fact, the only game in the franchise in the DS
-platform. This FAQ will guide you through the basics as well as the gameplay.
+Hi and welcome to my FAQ/Walkthrough for Metal Slug 7. The Metal Slug franchise
+is back on the main scene. This installment of the game is only exclusive to
+the DS and in fact, the only game in the franchise in the DS platform. This FAQ
+will guide you through the basics as well as the gameplay.
 
 I started playing my DS since September 19, 2016 and decided to create a FAQ
 for this. I hope this FAQ will help you beat the game.
@@ -206,6 +206,7 @@ throwing, she can aim in a specific direction.
 Incredibly fast with close quarters combat. He carries little ammo, but can
 take down enemies with a single punch.
 
+FULL NAME: Ralf Jones
 BACKGROUND:
 > Though he is a colonel of his mercenary squad, his background is a complete
 mystery. Rumor has it that he came from a certain nation's special forces, or
@@ -227,7 +228,7 @@ before losing a life.
 The mastery of throwing skills. He is a specialist capable of tossing aside
 legions of foes one after the other.
 
-FULL NAME:
+FULL NAME: Clark Still
 BACKGROUND:
 > It seems that he joined the mercenary squad some years ago, but nothing else
 is known about Clark other than that. He and Ralf have long been brothers-in
@@ -254,9 +255,7 @@ You'll be presented in a difficulty level screen. Choose from:
 
 > Beginner - Easy difficulty level. Best suited for light play during your
 lunch break!
-
 > Normal - Standard difficulty level. Take your time to clear all stages!
-
 > Hard - Expert difficulty level. For true Metal Slug fans and hardcore action
 gamers!
 

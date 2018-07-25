@@ -1,4 +1,4 @@
-Create-A-Wrestler FAQ:
+Create A Wrestler FAQ:
 
 Name of Game: WWE WrestleMania 21
 
@@ -21,7 +21,7 @@ Table of Contents:
 2. Version History.......................................................[Hist]
 3. Copyright Information.................................................[Copy]
 4. Main Content
-        A. Create-A-Wrestler
+        A. Create-A-Wrestler..............................................[CAW]
                 - Brock Lesnar............................................[BRO]
                 - Carlito.................................................[CAR]
                 - Gene Snitsky............................................[SNI]
@@ -41,10 +41,9 @@ Table of Contents:
 1. Introduction [Intro]
 ===============================================================================
 
-Hi and welcome to my WWE WrestleMania 21 FAQ or yet called "Create-A-Wrestler
-FAQ". This is are some of the wrestlers that you can create as they are not
-included on the roster of the game itself. The other sections of this FAQ will
-explain it.
+Hi and welcome to my Create A Wrestler FAQ. These are some of the wrestlers
+that you can create as they are not included on the roster of the game itself.
+The other sections of this FAQ will explain it.
 
 WWE Wrestlemania 21 is owned by THQ. All trademarks are subjected to THQ.
 
@@ -54,7 +53,7 @@ Copyright (c) THQ.
 2. Version History [Hist]
 ===============================================================================
 
-Version 1.0 - July 12, 2008
+Version 1.0 - Jul 12, 2008
 = Submitted the FAQ.
 
 Version 1.1 - Jan 23, 2009
@@ -65,6 +64,10 @@ Version 1.2 - Aug 19, 2016
 = Changed all section codes so that search is easier.
 = Re-arranged the custom wrestler sections so that they are alphabetically 
 arranged.
+
+Version 1.3 - Jul 25, 2018
+= Added section code for "Create-A-Wrestler" section.
+= Fixed table layouts for clarity. Table rows were also sorted.
 
 ===============================================================================
 3. Copyright Information [Copy]
@@ -84,7 +87,7 @@ Copyright (c) dnextreme88
 ===============================================================================
 
 -------------------------------------------------------------------------------
-A. Create-A-Wrestler
+A. Create-A-Wrestler [CAW]
 -------------------------------------------------------------------------------
 
 This is the list of wrestlers that aren't on the main roster that you can make 
@@ -95,25 +98,25 @@ look like the actual superstar though.
 - Brock Lesnar [BRO]
 ++++++++++++++++++++
 
-It's a bit tricky to make Brock, because pushing up his weight just makes him 
+It's a bit tricky to make Brock, because pushing up his weight just makes him
 too fat.
 
- ______________________
-| WEIGHT | Super-Heavy |
-|--------|-------------|
-| STYLE  | Powerful    |
-|--------|-------------|
-| EYES   | Fallen Up   |
-|--------|---------------|
-| TATTOO | Mason (bicep) |
-|--------|---------------|
-| TRUNKS | Short (black) |
-|--------|-------------------|
-| WRISTBANDS | Sport (black) |
-|------------|--------------------------------|
-| SHOES      | Wrestling Boots Medium (black) |
-|------------|-------------------------------------------------------|
-| FAVOURITE MOVES | Backbreaker, Shoulderbreaker, Gorilla Press Slam |
+ _______________________________
+| WEIGHT          | Super-Heavy |
+|-----------------|-------------|
+| STYLE           | Powerful    |
+|-----------------|--------------------------------
+| EYES            | Fallen Up                      |
+|-----------------|--------------------------------|
+| SHOES           | Wrestling Boots Medium (black) |
+|-----------------|--------------------------------|
+| TATTOOS         | Mason (bicep)                  |
+|-----------------|--------------------------------|
+| TRUNKS          | Short (black)                  |
+|-----------------|--------------------------------|
+| WRISTBANDS      | Sport (black)                  |
+|-----------------|--------------------------------------------------
+| FAVOURITE MOVES | Backbreaker, Gorilla Press Slam, Shoulderbreaker |
 |-----------------|--------------------------------------------------|
 | FINISHERS       | Death Valley Driver, Falling Rock Bottom         |
  --------------------------------------------------------------------
@@ -125,49 +128,49 @@ too fat.
 There's no shirt that works for Carribean Cool. So stick with his basic in-ring
 costume.
 
- ______________________
-| WEIGHT | Light-Heavy |
-|--------|-------------|
-| STYLE  | Technical   |
-|--------|----------------|
-| HEAD   | Fallen-Up Eyes |
-|--------|----------------|
-| HAIR   | Afro Big       |
-|--------|----------------|
-| TRUNKS | Purple         |
-|----------------|--------|-----------------------|
-| FAVORITE MOVES | FigureFour, Suplex, Scoop Slam |
-|----------------|--------------------------------|----------------|
-| FINISHERS      | DDT, Tajiri's Mist (pretend its the apple spit) |
- ------------------------------------------------------------------
+ _______________________________
+| WEIGHT          | Light-Heavy |
+|-----------------|-------------|
+| STYLE           | Technical   |
+|-----------------|----------------
+| HAIR            | Afro Big       |
+|-----------------|----------------|
+| HEAD            | Fallen-Up Eyes |
+|-----------------|----------------|
+| TRUNKS          | Purple         |
+|-----------------|-------------------------------------------------
+| FAVOURITE MOVES | Figure Four, Scoop Slam, Suplex                 |
+|-----------------|-------------------------------------------------|
+| FINISHERS       | DDT, Tajiri's Mist (pretend its the apple spit) |
+ -------------------------------------------------------------------
 
 ++++++++++++++++++++
 - Gene Snitsky [SNI]
 ++++++++++++++++++++
 
-This monster's all about getting his hair right. Remember to make him as tall 
+This monster's all about getting his hair right. Remember to make him as tall
 as possible.
 
- ______________________
-| WEIGHT | Super-Heavy |
-|--------|-------------|
-| STYLE  | Powerful    |
-|----------------------|
-| EYEBROWS | J-Hook    |
-|----------------------|
-| EYES | Fallen Up     |
-|------|-----------------|
-| FACIAL HAIR | Goatee 3 |
-|-------------|-------------|
-| HAIR        | Tajiri Hair |
-|-------------|---------------|
-| WRISTBANDS  | Sport (black) |
-|-------------|---------------|
-| KNEEPADS    | Sport (black) |
-|-------------|----------------------------------------------|
-| FAVOURITE MOVES | Pumphandle Slam, Head Pound, Atomic Drop |
+ _______________________________
+| WEIGHT          | Super-Heavy |
+|-----------------|-------------|
+| STYLE           | Powerful    |
+|-----------------|---------------
+| EYEBROWS        | J-Hook        |
+|-----------------|---------------|
+| EYES            | Fallen Up     |
+|-----------------|---------------|
+| FACIAL HAIR     | Goatee 3      |
+|-----------------|---------------|
+| HAIR            | Tajiri Hair   |
+|-----------------|---------------|
+| KNEEPADS        | Sport (black) |
+|-----------------|---------------|
+| WRISTBANDS      | Sport (black) |
+|-----------------|------------------------------------------
+| FAVOURITE MOVES | Atomic Drop, Head Pound, Pumphandle Slam |
 |-----------------|------------------------------------------|
-| FINISHER        | Piledriver                               |
+| FINISHERS       | Piledriver                               |
  ------------------------------------------------------------
 
 ++++++++++++++++
@@ -176,55 +179,55 @@ as possible.
 
 If only there was an "excessive cheat hair" option for an added realism.
 
- ______________________
-| WEIGHT | Super-Heavy |
-|--------|-------------|
-| STYLE  | Powerful    |
-|---------------------------|
-| FACIAL HAIR | Goatee 2    |
-|-------------|-------------|
-| NOSE        | Wide        |
-|-------------|---------------------------|
-| GLOVES      | Padded Black (both hands) |
-|-------------|---------------------------|
-| ELBOW PAD   | Sports (black)            |
-|-------------|------------------------------|
-| SHOES       | Wrestling Boots Long (black) |
-|-------------|------------------------------|
-| KNEEPADS    | Sports (black)               |
-|-------------|------------------------------|
-| TATTOO      | Left Arm Bicep Tribal Vines  |
-|-------------|-----------------------------------------|
-| FAVOURITE MOVES | Vertical Suplex, Gorilla Press Slam |
+ _______________________________
+| WEIGHT          | Super-Heavy |
+|-----------------|-------------|
+| STYLE           | Powerful    |
+|-----------------|------------------------------
+| ELBOW PAD       | Sports (black)               |
+|-----------------|------------------------------|
+| FACIAL HAIR     | Goatee 2                     |
+|-----------------|------------------------------|
+| GLOVES          | Padded Black (both hands)    |
+|-----------------|------------------------------|
+| KNEEPADS        | Sports (black)               |
+|-----------------|------------------------------|
+| NOSE            | Wide                         |
+|-----------------|------------------------------|
+| SHOES           | Wrestling Boots Long (black) |
+|-----------------|------------------------------|
+| TATTOOS         | Left Arm Bicep Tribal Vines  |
+|-----------------|-------------------------------------
+| FAVOURITE MOVES | Gorilla Press Slam, Vertical Suplex |
 |-----------------|-------------------------------------|
-| FINISHER        | Backbreaker                         |
+| FINISHERS       | Backbreaker                         |
  -------------------------------------------------------
 
 ++++++++++++++++++
 - Hulk Hogan [HUL]
 ++++++++++++++++++
 
-It's all about getting the jaw right with the Hulkster. Everything else 
+It's all about getting the jaw right with the Hulkster. Everything else
 follows.
 
- ______________________
-| WEIGHT | Heavyweight |
-|--------|-------------|
-| STYLE  | Traditional |
-|--------|--------------|
-| HAIR   | Long Balding |
-|--------|---------------|
-| FACIAL HAIR | Hogan    |
-|-------------|-------------|
-| KNEEPADS    | Sport (red) |
-|-----------------------------------|
+ _______________________________
+| WEIGHT          | Heavyweight |
+|-----------------|-------------|
+| STYLE           | Traditional |
+|-----------------|-----------------
+| HAIR            | Long Balding    |
+|-----------------|-----------------|
+| FACIAL HAIR     | Hogan           |
+|-----------------|-----------------|
+| KNEEPADS        | Sport (red)     |
+|-----------------|-----------------|
 | WRESTLING BOOTS | Medium (yellow) |
 |-----------------|-----------------|
 | WRISTBANDS      | White           |
+|-----------------|------------------------------------
+| FAVOURITE MOVES | Big Boot, Piledriver, Wild Punches |
 |-----------------|------------------------------------|
-| FAVOURITE MOVES | Piledriver, Big Boot, Wild Punches |
-|-----------------|------------------------------------|
-| FINISHER        | Leg Bomb                           |
+| FINISHERS       | Leg Bomb                           |
  ------------------------------------------------------
 
 ++++++++++++++++++
@@ -233,32 +236,31 @@ follows.
 
 Obviously, Jeff gets exactly the same entrance moves as his brother, Matt.
 
- ________________________
-| WEIGHT | Cruiserweight |
-|--------|---------------|
-| STYLE  | Aerialist     |
-|--------|-----------------------|
-| HAIR   | Long Wet Look (green) |
-|--------|-----------------------|
-| SHIRT  | Tank Top              |
-|--------|-------------------------------|
-| ACCESSORIES | Gold Necklace with cross |
-|-------------|-----------------------------------|
-| TATTOOS | Asian Lattice (bicep, left),          |
-|         | Wise Warrior (forearm, left),         |
-|         | Randy Orton Wristband (purple, right) |
-|---------|---------------------------------------|
-| PANTS   | Cargo Pants (black)                   |
-|---------|---------------------------------------|
-| SHOES   | Hi Tops                               |
-|---------|---------------------------------------|
-| TAUNTS  | Matt Hardy 1, 2                       |
-|---------|--------------------------------------------------|
-| FAVOURITE MOVES | Corkscrew, Moonsault, Senton Somersault, |
-|                 | Super Dropkick                           |
-|-----------------|------------------------------------------|
-| FINISHERS       | Twist Of Fate, Lita Twist Of Fate        |
- ------------------------------------------------------------
+ _________________________________
+| WEIGHT          | Cruiserweight |
+|-----------------|---------------|
+| STYLE           | Aerialist     |
+|-----------------|---------------------------------------
+| ACCESSORIES     | Gold Necklace with cross              |
+|-----------------|---------------------------------------|
+| HAIR            | Long Wet Look (green)                 |
+|-----------------|---------------------------------------|
+| PANTS           | Cargo Pants (black)                   |
+|-----------------|---------------------------------------|
+| SHIRT           | Tank Top                              |
+|-----------------|---------------------------------------|
+| SHOES           | Hi Tops                               |
+|-----------------|---------------------------------------|
+| TATTOOS         | Asian Lattice (bicep, left),          |
+|                 | Wise Warrior (forearm, left),         |
+|                 | Randy Orton Wristband (purple, right) |
+|-----------------|---------------------------------------|
+| TAUNTS          | Matt Hardy 1, 2                       |
+|-----------------|---------------------------------------------------------
+| FAVOURITE MOVES | Corkscrew, Moonsault, Senton Somersault, Super Dropkick |
+|-----------------|---------------------------------------------------------|
+| FINISHERS       | Lita Twist Of Fate, Twist of Fate                       |
+ ---------------------------------------------------------------------------
 
 +++++++++++++++++++++++
 - Muhammad Hassan [MUH]
@@ -266,86 +268,88 @@ Obviously, Jeff gets exactly the same entrance moves as his brother, Matt.
 
 It's about getting his beard nice and clean.
 
- ______________________
-| WEIGHT | Heavyweight |
-|--------|-------------|
-| STYLE  | Technical   |
-|--------|-------------|
-| EYES   | Almond      |
-|--------|-------------|
-| LIPS   | Thin        |
-|--------|-------------|
-| BEARD  | Full        |
-|--------|---------------|
-| HATS   | Arab Kaffview |
-|--------|-------------------|
-| WRISTBANDS | Sport (black) |
-|------------|-------------------|
-| LEFT ARM TATTOO | Tribal Vines |
+ _______________________________
+| WEIGHT          | Heavyweight |
+|-----------------|-------------|
+| STYLE           | Technical   |
+|-----------------|-----------------------------------
+| BEARD           | Full                              |
+|-----------------|-----------------------------------|
+| EYES            | Almond                            |
+|-----------------|-----------------------------------|
+| HATS            | Arab Kaffview                     |
+|-----------------|-----------------------------------|
+| LEFT ARM TATTOO | Tribal Vines                      |
+|-----------------|-----------------------------------|
+| LIPS            | Thin                              |
 |-----------------|-----------------------------------|
 | TRUNKS          | Skintight long, polyester (black) |
 |-----------------|-----------------------------------|
-| WRESTLING BOOTS | Medium (black)    |
+| WRESTLING BOOTS | Medium (black)                    |
+|-----------------|-----------------------------------|
+| WRISTBANDS      | Sport (black)                     |
+|-----------------|-----------------------------------
+| FAVOURITE MOVES | DDT               |
 |-----------------|-------------------|
-| FAVOURITE MOVES | Camel Clutch, DDT |
+| FINISHERS       | Camel Clutch      |
  -------------------------------------
 
 ++++++++++++++++++++++
 - Orlando Jordan [ORL]
 ++++++++++++++++++++++
 
-When you're done Orlando, why not make him a custom U.S. Championship belt to 
+When you're done Orlando, why not make him a custom U.S. Championship belt to
 suit it?
 
- ______________________
-| WEIGHT | Heavyweight |
-|--------|-------------|
-| STYLE  | Original    |
-|--------|--------------------------|
-| HAIR   | Jheri Curl short (black) |
-|--------|--------------------------|
-| TRUNKS | Short (yellow)           |
-|--------|--------------------------|
-| EYES   | Bigger                   |
-|--------|--------------------------|
-| MOUTH  | Wide                     |
-|--------|--------------------------|
-| WRESTLING BOOTS | Medium (yellow) |
-|-----------------|-----------------|
-| TAUNTS          | JBL 1, 2        |
+ _______________________________
+| WEIGHT          | Heavyweight |
+|-----------------|-------------|
+| STYLE           | Original    |
+|-----------------|--------------------------
+| EYES            | Bigger                   |
+|-----------------|--------------------------|
+| HAIR            | Jheri Curl short (black) |
+|-----------------|--------------------------|
+| MOUTH           | Wide                     |
+|-----------------|--------------------------|
+| TAUNTS          | JBL 1, 2                 |
+|-----------------|--------------------------|
+| TRUNKS          | Short (yellow)           |
+|-----------------|--------------------------|
+| WRESTLING BOOTS | Medium (yellow)          |
+|-----------------|---------------------------------------------
+| FAVOURITE MOVES | Clothesline, Flying Cross Body, Neckbreaker |
 |-----------------|---------------------------------------------|
-| FAVOURITE MOVES | Neckbreaker, Clothesline, Flying Cross Body |
-|-----------------|---------------------------------------------|
-| FINISHER        | Flying Neckbreaker                          |
+| FINISHERS       | Flying Neckbreaker                          |
  ---------------------------------------------------------------
 
 +++++++++++++
 - Rosey [ROS]
 +++++++++++++
 
-Rosey shares a lot of moves with the Hurricane, but he's also a bit heavier 
+Rosey shares a lot of moves with the Hurricane, but he's also a bit heavier
 than The Hurricane though.
 
- ______________________
-| WEIGHT | Super-Heavy |
-|--------|-------------|
-| STYLE  | Powerful    |
-|--------|-------------|
-| MASK   | Bandit      |
-|--------|-------------|
-| HAIR   | RVD Hair    |
-|--------|------------------|
-| SHIRT  | T-Shirt (orange) |
-|--------|----------------------|
-| PANTS  | Trunks medium (blue) |
-|--------|--------------------------------|
-| SHOES  | Wrestling Boots (medium, blue) |
-|--------|----------------------------------------------|
-| FAVOURITE MOVES | Bearhug, Splash, Corkscrew Leg Drop |
+ _______________________________
+| WEIGHT          | Super-Heavy |
+|-----------------|-------------|
+| STYLE           | Powerful    |
+|-----------------|--------------------------------
+| HAIR            | RVD Hair                       |
+|-----------------|--------------------------------|
+| MASK            | Bandit                         |
+|-----------------|--------------------------------|
+| PANTS           | Trunks medium (blue)           |
+|-----------------|--------------------------------|
+| SHIRT           | T-Shirt (orange)               |
+|-----------------|--------------------------------|
+| SHOES           | Wrestling Boots (medium, blue) |
+|-----------------|--------------------------------|
+| TAUNTS          | Hurricane 1, 2                 |
+|-----------------|-------------------------------------
+| FAVOURITE MOVES | Bearhug, Corkscrew Leg Drop, Splash |
 |-----------------|-------------------------------------|
-| TAUNTS          | Hurricane 1, 2                      |
-|-----------------|-------------------------------------|
-| FINISHER        | Eye of the Hurricane                |
+| FINISHERS       | Eye of the Hurricane                |
  -------------------------------------------------------
 
 +++++++++++++++++++++++++++++++
@@ -354,49 +358,49 @@ than The Hurricane though.
 
 Stone Cold in all his glory. Sadly, there's no "What?" sign in the crowd rows.
 
- ______________________
-| WEIGHT | Heavyweight |
-|--------|-------------|
-| STYLE  | Traditional |
-|--------|---------------|
-| FACIAL HAIR | Goatee 2 |
-|-------------|--------------|
-| JACKET      | Leather Vest |
-|-------------|------------------------|
-| KNEEPADS    | Medical Braces (black) |
-|-------------|-------------------------|
-| SHOES       | Wrestling Boots (black) |
-|-------------|-------------------------|
-| LOGO        | WWE (black)             |
-|-------------|------------------------------------------------|
-| FAVOURITE MOVES | Head Pound, Alabama Slam, Mudhole Stomping |
+ _______________________________
+| WEIGHT          | Heavyweight |
+|-----------------|-------------|
+| STYLE           | Traditional |
+|-----------------|-------------------------
+| FACIAL HAIR     | Goatee 2                |
+|-----------------|-------------------------|
+| JACKET          | Leather Vest            |
+|-----------------|-------------------------|
+| KNEEPADS        | Medical Braces (black)  |
+|-----------------|-------------------------|
+| LOGO            | WWE (black)             |
+|-----------------|-------------------------|
+| SHOES           | Wrestling Boots (black) |
+|-----------------|--------------------------------------------
+| FAVOURITE MOVES | Alabama Slam, Head Pound, Mudhole Stomping |
 |-----------------|--------------------------------------------|
-| FINISHER        | Stunner                                    |
+| FINISHERS       | Stunner                                    |
  --------------------------------------------------------------
 
 +++++++++++++++++++
 - Tyson Tomko [TOM]
 +++++++++++++++++++
 
-Tomko is pretty similar to Christian. So give him the same entrance movie and 
+Tomko is pretty similar to Christian. So give him the same entrance movie and
 music similar to Christian.
 
- ______________________
-| WEIGHT | Heavyweight |
-|--------|-------------|
-| STYLE  | Powerful    |
-|--------|------------------|
-| BEARD  | Fu Manchu Bottom |
-|--------|------------------|
-| SHIRT  | Tank Top (black) |
-|--------|--------------------|
-| PANTS  | Long Pants (black) |
-|--------|--------------------|------------------|
-| TATTOOS | Tribal Vines (left & right biceps),  |
-|         | Wise Warrior (left & right forearms) |
-|---------|--------------------------------------|
-| TAUNT   | Christian 1, 2                       |
-|---------|--------------------------------------|
+ _______________________________
+| WEIGHT          | Heavyweight |
+|-----------------|-------------|
+| STYLE           | Powerful    |
+|-----------------|--------------------------------------
+| BEARD           | Fu Manchu Bottom                     |
+|-----------------|--------------------------------------|
+| PANTS           | Long Pants (black)                   |
+|-----------------|--------------------------------------|
+| SHIRT           | Tank Top (black)                     |
+|-----------------|--------------------------------------|
+| TATTOOS         | Tribal Vines (left & right biceps),  |
+|                 | Wise Warrior (left & right forearms) |
+|-----------------|--------------------------------------|
+| TAUNTS          | Christian 1, 2                       |
+|-----------------|--------------------------------------
 | FAVOURITE MOVES | Big Boot, Low Blow           |
 |-----------------|------------------------------|
 | FINISHERS       | Neckbreaker, Unprettier      |
@@ -412,9 +416,9 @@ me. My e-mail is
 storm_iz_here[at]yahoo[dot]com
 
 Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
-put the subject as "WWE WrestleMania 21 FAQ" to remind me that you are not
-spam. If not, the subject should be at least close to the previous one and I
-will try to answer you back.
+put the subject as "Create A Wrestler FAQ" to remind me that you are not spam.
+If not, the subject should be at least close to the previous one and I will try
+to answer you back.
 
 ===============================================================================
 6. Permitted Sites [Sites]

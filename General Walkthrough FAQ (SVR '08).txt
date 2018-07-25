@@ -152,14 +152,14 @@ Cage Door" options in "Match Rules" sub-section.
     > Ranks in "Ranks" sub-section (from Midcarder to Hall of Famer).
     > "Superstar Mode" sub-section.
 
-Version 1.5 - Jul 24, 2018
+Version 1.5 - Jul 25, 2018
 = Minor grammar errors fixed.
 = Added the following items:
     > Description in "Legend Superstars" sub section.
     > Legend on "Exhibition" section.
 
 = Fixed redundant prices in the following sub sections:
-    > "Another Superstar" sub section
+    > "Another Superstar" sub section.
     > "Legend Superstars" sub section.
     > "PSP-exclusive superstars" sub-sub section.
 
@@ -168,7 +168,7 @@ Version 1.5 - Jul 24, 2018
     > Section codes of all sub-sections in "Exhibition" section. These were
     redundant and fills up useless space.
 
-= Renamed the following section codes:
+= Renamed the following items:
     > "Controls if your not yet starting a match" to "General controls"
     section.
     > "Controls when selecting a superstar" to "Superstar selection controls"
