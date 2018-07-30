@@ -59,7 +59,8 @@ Version 1.2 - Sep 12, 2016
 = Fixed all indentions not properly showing up.
 = Removed "About" section. Its content is placed in the "Introduction" section.
 
-Version 1.3 - Jul 25, 2018
+Version 1.3 - Jul 26, 2018
+= Added Legend note in "Skill Templates" section.
 = Changed the description of "Editing BotProfile.db" section.
 = Removed "What is a Bot Profile?" section. Its content is placed in the "Accessing Bot Profile" section.
 = Renamed the following items:
@@ -159,14 +160,18 @@ VeryHard+Sniper Quinn
 End
 
 -------
-LEGEND: 
+LEGEND:
         VeryHard - the difficulty of the bot.
+
         Quinn - name of the bot.
-        Skin - force the bot to use the specified skin number. This makes the 
+
+        Skin - force the bot to use the specified skin number. This makes the
 bot to always use skin "3" whenever in the game. Remove this line if you want
 the bot to use any skin.
+
         VoicePitch - the voice of the bot when making a radio command.
-        End - needed to end the template. Should you not have this after the 
+
+        End - needed to end the template. Should you not have this after the
 bot, the game won't include that bot while in a game.
 -------
 
@@ -353,7 +358,9 @@ D. Skill Templates [SKL]
 
 Like the weapon templates, if you ever wanted to revert to the original skill
 templates, a list of them is here. Note that, if you are going to do this, you
-must also replace your current skill templates with the one listed here.
+must also replace your current skill templates with the one listed here. Always
+match the skill template listed above to those bots whom you will assign the
+difficulty with. It's a must that you do - similar to the weapon templates.
 
 // skill templates
 Template Elite
@@ -431,31 +438,32 @@ Template Easy
         VoicePitch = 110
 End
 
-Always match the skill template listed above to those bots whom you will assign
-the difficulty with. It's a must that you do - similar to the weapon templates.
 You may have noticed that each template comes with a skill set. Let's take a
 look at that:
 
-> Skill - in percent. The higher the number, the difficult the bot is.
+-------
+LEGEND:
+        Skill - in percent. The higher the number, the difficult the bot is.
 
-> Aggression - in percent. The rate at which the bot is aggressive. Lesser
-camping. Bots are more focused on map objectives such as planting bombs at a
-bombsite or rescuing hostages.
+        Aggression - in percent. The rate at which the bot is aggressive.
+Lesser camping. Bots are more focused on map objectives such as planting bombs
+at a bombsite or rescuing hostages.
 
-> ReactionTime - in seconds. The rate at which the bot reacts when encountering
-an enemy. The lower the number, the faster it reacts.
+        ReactionTime - in seconds. The rate at which the bot reacts when
+encountering an enemy. The lower the number, the faster it reacts.
 
-> AttackDelay - in seconds. The rate at which the bot attacks upon making
+        AttackDelay - in seconds. The rate at which the bot attacks upon making
 contact with an enemy. The lower the number, the faster it attacks.
 
-> Cost - I don't really know what this means.
+        Cost - I don't really know what this means.
 
-> Difficulty - sets the bot to a particular difficulty. You play with these
-bots on the difficulty assigned.
+        Difficulty - sets the bot to a particular difficulty. You play with
+these bots on the difficulty assigned.
 
-> VoicePitch - in whole numbers. I believe the numbers range from 80 - 120. The
-voice of the bot when making a radio command. The higher the number, the deeper
-the bot's voice is.
+        VoicePitch - in whole numbers. I believe the numbers range from 80 -
+120. The voice of the bot when making a radio command. The higher the number,
+the deeper the bot's voice is.
+-------
 
 ===============================================================================
 5. Contact Information [Contact]

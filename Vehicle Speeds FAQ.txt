@@ -32,12 +32,11 @@ Table of Contents:
 1. Introduction [Intro]
 ===============================================================================
 
-Welcome to the GTA: San Andreas Vehicle Speeds FAQ. This FAQ will inform you of
-the relative speeds of each and every land vehicle in San Andreas. I decided to
-conduct this test to end the continuous speculation about which vehicle was the
-quickest. Testing nearly 150 vehicles is not an easy process, and it took me a
-while to find and test them all, but now that it's finished, I am very glad
-that I did.
+Welcome to my Vehicle Speeds FAQ. This FAQ will inform you of the relative
+speeds of each and every land vehicle in San Andreas. I decided to conduct this
+test to end the continuous speculation about which vehicle was the quickest.
+Testing nearly 150 vehicles is not an easy process, and it took me a while to
+find and test them all, but now that it's finished, I am very glad that I did.
 
 Grand Theft Auto: San Andreas is owned by Rockstar Games. All trademarks are
 subjected to Rockstar Games.
@@ -51,7 +50,7 @@ Copyright (c) Rockstar Games.
 Version 1.0 - Mar 15, 2005
 = Submitted the FAQ.
 
-Version 1.1 - June 24, 2009
+Version 1.1 - Jun 24, 2009
 = Added "About" section.
 = Renamed "Outro" to "Closing" section.
 
@@ -62,8 +61,8 @@ Version 1.2 - Sep 19, 2016
 = Vehicle speed ranking in "Speed Results" section is now a table instead of
 plain text.
 = Removed the following items:
-	> "About" section. Its content is placed in the "Introduction" section.
-	> "Closing" section.
+    > "About" section. Its content is placed in the "Introduction" section.
+    > "Closing" section.
 
 ===============================================================================
 3. Copyright Information [Copy]
@@ -114,9 +113,10 @@ the SFPD police cars (which I did test).
 C. Speed Results [RES]
 -------------------------------------------------------------------------------
 
-So, after extensive driving up and down the runway, here are the results.
+-----
+NOTE:
 
-Now it's important to consider that, despite my best efforts to eliminate human
+It's important to consider that, despite my best efforts to eliminate human
 error and reaction times, the results will not be 100% clear cut. For example,
 I may have started/stopped the stopwatch a few hundredths of a second too late
 or early at the end of the test, and as you will see in the results, the middle
@@ -128,6 +128,9 @@ different positions. However, don't start thinking that this test is completely
 inaccurate as I would not have done this FAQ about it. As I stated before, the
 margin of error is minimal, and I am confident that the results are as accurate
 as possible.
+-----
+
+So, after extensive driving up and down the runway, here are the results.
 
  _________________________________
 | RANK | SPEED |     VEHICLE      |

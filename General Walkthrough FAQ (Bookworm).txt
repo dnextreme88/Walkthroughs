@@ -60,17 +60,17 @@ Version 1.1 - Aug 19, 2016
 = Revival. Re-structured the document. Corrected some grammar errors.
 = Changed all section codes so that search is easier.
 = Removed "How the game works" section. Its content is placed in the "About
-Bookworm Deluxe" section instead.
+Bookworm Deluxe" section.
 = Renamed "Advanced" to "Special blocks" section. Each colored block has its
 own paragraph to provide more readability.
 = Added the following items:
     > "Bonus Words" section.
     > Description for "Hardware acceleration" option.
 
-Version 1.2 - Jul 25, 2018
+Version 1.2 - Jul 26, 2018
 = Controls in "Controls" sub section are now in lists.
 = Removed "About Bookworm Deluxe" section. Its content is placed in the "The
-Basics" section instead.
+Basics" section.
 = Added the following section codes:
     > "Main Menu" section.
     > "The Basics" section.

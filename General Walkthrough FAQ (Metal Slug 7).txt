@@ -1326,8 +1326,8 @@ D. Prisoners of War List [POW]
 
 Here are the names of each prisoner you'll encounter throughout the game. Some
 of these prisoners are hidden and few of which are hidden but before they could
-appear, you must kill all enemies on the screen. The list is arranged from left
-to right.
+appear, you must kill all enemies on the screen. The prisoner names are sorted
+in the order that you find them.
 
 ---------
 Mission 1
@@ -1485,7 +1485,7 @@ F. Options [OPT]
 
 Adjust game settings here.
 
-AUTO FIRE: OFF
+Auto Fire: OFF
 > Toggle whether to automatically fire or not.
 
 BGM settings: <0 1 2 3 4 5 6 7 8 9 10>

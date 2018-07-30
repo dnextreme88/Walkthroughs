@@ -62,10 +62,10 @@ Version 1.1 - Jan 23, 2009
 Version 1.2 - Aug 19, 2016
 = Revival. Re-structured the document. Corrected some grammar errors.
 = Changed all section codes so that search is easier.
-= Re-arranged the custom wrestler sections so that they are alphabetically 
+= Re-arranged the custom wrestler sections so that they are alphabetically
 arranged.
 
-Version 1.3 - Jul 25, 2018
+Version 1.3 - Jul 26, 2018
 = Added section code for "Create-A-Wrestler" section.
 = Fixed table layouts for clarity. Table rows were also sorted.
 
@@ -90,8 +90,8 @@ Copyright (c) dnextreme88
 A. Create-A-Wrestler [CAW]
 -------------------------------------------------------------------------------
 
-This is the list of wrestlers that aren't on the main roster that you can make 
-through Create-A-Wrestler. The resemblance of the created wrestler might not 
+This is the list of wrestlers that aren't on the main roster that you can make
+through Create-A-Wrestler. The resemblance of the created wrestler might not
 look like the actual superstar though.
 
 ++++++++++++++++++++

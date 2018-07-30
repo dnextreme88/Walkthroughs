@@ -29,7 +29,7 @@ Table of Contents:
                 - Slots...................................................[SLO]
                 - Video Poker.............................................[POK]
                 - Wheel of Fortune........................................[WOF]
-        B. Skills
+        B. Skills.........................................................[SKL]
                 - Gambling Skill..........................................[GMB]
                 - Luck Skill..............................................[LCK]
         C. Frequently Asked Questions.....................................[FAQ]
@@ -66,17 +66,17 @@ Version 1.1 - Jun 5, 2009
 horses have an equal chance of winning on the ITB machines by a submitter named
 jlc_alt. Thanks!
 = Added the following items:
-        > "Credits" section.
-        > "Outro" section.
-        > "Sites Permitted" section.
+    > "Credits" section.
+    > "Outro" section.
+    > "Sites Permitted" section.
 
 Version 1.2 - Jun 23, 2009
 = A better information about the game "Wheel of Fortune" was now added thanks
 to a submitter named <T.Payne>. Thanks!
 = Added "About" section.
 = Renamed the following items:
-        > "Outro" to "Closing" section.
-        > "What you can do" to "List of Games" section.
+    > "Outro" to "Closing" section.
+    > "What you can do" to "List of Games" section.
 
 Version 1.3 - Sep 19, 2016
 = Revival. Re-structured the document. Corrected some grammar errors.
@@ -102,6 +102,10 @@ explanations.
 = Sorted the following items:
     > Betting activities in "Gambling Activities" section.
     > Betting payouts in "Roulette" sub-section.
+
+Version 1.4 - Jul 26, 2018
+= Added section code for "Skills" section. A matching description is also
+added.
 
 ===============================================================================
 3. Copyright Information [Copy]
@@ -423,8 +427,11 @@ Credit: <T.Payne>
 -----
 
 -------------------------------------------------------------------------------
-B. Skills
+B. Skills [SKL]
 -------------------------------------------------------------------------------
+
+There are 2 skills that affect your skill in gambling. I shall explain them in
+further detail below.
 
 ++++++++++++++++++++++
 - Gambling Skill [GMB]
