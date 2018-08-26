@@ -59,10 +59,11 @@ Version 1.2 - Sep 12, 2016
 = Fixed all indentions not properly showing up.
 = Removed "About" section. Its content is placed in the "Introduction" section.
 
-Version 1.3 - Jul 26, 2018
+Version 1.3 - Aug 26, 2018
 = Added Legend note in "Skill Templates" section.
 = Changed the description of "Editing BotProfile.db" section.
-= Removed "What is a Bot Profile?" section. Its content is placed in the "Accessing Bot Profile" section.
+= Removed "What is a Bot Profile?" section. Its content is placed in the
+"Accessing Bot Profile" section.
 = Renamed the following items:
     > "Accessing Bot Profile" to "The BotProfile.db" section.
     > "Editing the BotProfile" to "Editing BotProfile.db" section.

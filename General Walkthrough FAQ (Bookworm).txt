@@ -67,7 +67,7 @@ own paragraph to provide more readability.
     > "Bonus Words" section.
     > Description for "Hardware acceleration" option.
 
-Version 1.2 - Jul 26, 2018
+Version 1.2 - Aug 26, 2018
 = Controls in "Controls" sub section are now in lists.
 = Removed "About Bookworm Deluxe" section. Its content is placed in the "The
 Basics" section.
@@ -291,7 +291,8 @@ screen. However, un-checking the box will return to its normal size.
 > SHOW HINTS - this will show hints and tips while playing the game in any
 mode. Check the box to show hints or un-check the box to disable hints.
 
-> HARDWARE ACCELERATION - makes the CPU run faster by performing functions so that your computer runs faster than usual. This lowers FPS in some computers.
+> HARDWARE ACCELERATION - makes the CPU run faster by performing functions so
+that your computer runs faster than usual. This lowers FPS in some computers.
 
 > CUSTOM CURSORS - provides customized cursors for BookWorm Deluxe instead of
 your normal cursor to enhance a more, cooler BookWorm Deluxe experience. Check

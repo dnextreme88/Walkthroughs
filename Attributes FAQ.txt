@@ -74,7 +74,7 @@ Version 1.4 - Aug 23, 2016
     > Table headers "Name of wrestler" to "Unlockable superstar".
     > Table headers "Price/Cost" to "Price".
 
-Version 1.5 - Jul 23, 2018
+Version 1.5 - Aug 26, 2018
 = Corrected "Stone Cold" to "Steve Austin".
 = Renamed the following section codes:
     > "Starter Kits [STK]" to "Starter Kits [KIT-1]".

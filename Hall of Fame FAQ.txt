@@ -100,7 +100,7 @@ Version 1.6 - Sep 11, 2016
     > "Legend Championships" sub section.
     > Missing ranks in "Ranks" sub section (from Midcarder to Hall of Famer).
 
-Version 1.7 - Jul 23, 2018
+Version 1.7 - Aug 26, 2018
 = Added missing "Vince McMahon (Bald)" alternate attire in "Alternate Attire"
 section.
 = Corrected "Stone Cold" to "Steve Austin" unlockable.
@@ -131,7 +131,8 @@ A. Unlockables
 - Alternate Attire [ATT]
 ++++++++++++++++++++++++
 
-All alternate attires cost $60,000. By purchasing the alternate attires of Shawn Michaels and Triple H, you also get to unlock their respective DX
+All alternate attires cost $60,000. By purchasing the alternate attires of
+Shawn Michaels and Triple H, you also get to unlock their respective DX
 entrances.
 
 > Shawn Michaels (D-X) - In Hall of Fame mode, defeat Triple H and Shawn

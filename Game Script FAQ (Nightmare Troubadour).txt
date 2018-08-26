@@ -53,7 +53,7 @@ Copyright (c) Konami.
 Version 1.0 - Oct 4, 2017
 = Submitted the FAQ.
 
-Version 1.1 - Jul 26, 2018
+Version 1.1 - Aug 26, 2018
 = Legend note in "Main Story" section is now properly presented.
 = Minor grammar errors fixed.
 

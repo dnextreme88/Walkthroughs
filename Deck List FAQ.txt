@@ -83,7 +83,7 @@ the Japanese version.
 Version 1.7 - May 8, 2009
 = Added Syrus and Zane's other decks. Added a "*NOTE*" as well.
 
-Version 1.8 - Jul 23, 2018
+Version 1.8 - Aug 26, 2018
 = Revival. Re-structured the document. Corrected some grammar errors.
 = Changed all section codes so that search is easier.
 = Trueman's decks now have proper deck names.

@@ -55,7 +55,7 @@ Version 1.0 - Oct 16, 2008
 Version 1.1 - Oct 26, 2008
 = Updated the "Sites Permitted to use my FAQ" as I added NeoSeeker.
 
-Version 1.2 - Jul 23, 2018
+Version 1.2 - Aug 26, 2018
 = Revival. Re-structured the document. Corrected some grammar errors.
 = Changed all section codes so that search is easier.
 = Added missing detailed explanation text for "Power User holders cannot get
@@ -67,11 +67,11 @@ gold deduction penalty while playing the game" in "Benefits" section.
     > "Power User holders can receive 20% bonus GP and 10% bonus Gold" benefit.
 
 = Renamed the following items:
+    > "Power User holders cannot get gold deduction penalty while playing the
+    game" to "No gold deduction penalty while playing the game" benefit.
     > "Your speech balloon (where your messages come out) will have a nice
     golden color outline touch to it" to "Speech balloons have a nice golden
     color outline touch to it" benefit.
-    > "Power User holders cannot get gold deduction penalty while playing the
-    game" to "No gold deduction penalty while playing the game" benefit.
 
 ===============================================================================
 3. Copyright Information [Copy]

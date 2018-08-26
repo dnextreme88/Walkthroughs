@@ -65,7 +65,7 @@ Version 1.2 - Aug 19, 2016
 = Re-arranged the custom wrestler sections so that they are alphabetically
 arranged.
 
-Version 1.3 - Jul 26, 2018
+Version 1.3 - Aug 26, 2018
 = Added section code for "Create-A-Wrestler" section.
 = Fixed table layouts for clarity. Table rows were also sorted.
 

@@ -152,7 +152,7 @@ Cage Door" options in "Match Rules" sub-section.
     > Ranks in "Ranks" sub-section (from Midcarder to Hall of Famer).
     > "Superstar Mode" sub-section.
 
-Version 1.5 - Jul 25, 2018
+Version 1.5 - Aug 26, 2018
 = Minor grammar errors fixed.
 = Added the following items:
     > Description in "Legend Superstars" sub section.

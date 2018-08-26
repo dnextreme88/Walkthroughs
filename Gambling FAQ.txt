@@ -103,7 +103,7 @@ explanations.
     > Betting activities in "Gambling Activities" section.
     > Betting payouts in "Roulette" sub-section.
 
-Version 1.4 - Jul 26, 2018
+Version 1.4 - Aug 26, 2018
 = Added section code for "Skills" section. A matching description is also
 added.
 
