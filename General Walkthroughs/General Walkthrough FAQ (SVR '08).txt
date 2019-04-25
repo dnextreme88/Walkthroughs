@@ -102,7 +102,7 @@ Version 1.0 - Mar 18, 2009
 Version 1.1 - Mar 20, 2009
 = Added the description for "Delete" in "Save Options".
 = Changed submission date for "Version 1.0" as I put Mar 10 2009 by mistake.
-= Words enclosed with single quotation marks (") are now replaced with (ìî).
+= Words enclosed with single quotation marks (") are now replaced with (‚Äú‚Äù).
 
 Version 1.2 - Aug 22, 2016
 = Revival. Re-structured the document. Corrected some grammar errors.
