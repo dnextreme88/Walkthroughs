@@ -1,0 +1,147 @@
+NAME OF FAQ:
+
+Name of Game: 
+
+Platform: 
+
+By: dnextreme88
+
+===============================================================================
+Table of Contents:
+===============================================================================
+
++---------------------JUMPING INTO A SPECIFIC SECTION....---------------------+
+| To jump into a specific section of this FAQ, hit Ctrl + F on your keyboard  |
+| to bring up the Find dialog box. In the "Find what" text area, type the     |
+| letters found in ['s and ]'s (include them as well). This will redirect you |
+| to a specific section in the FAQ without having to scroll down.             |
++-----------------------------------------------------------------------------+
+
+1. Introduction.........................................................[Intro]
+2. Version History.......................................................[Hist]
+3. Copyright Information.................................................[Copy]
+4. Main Content
+        A. Section
+                - Sub-section 1...........................................[***]
+                        - Sub-sub-section 1
+                                - Sub-sub-sub section 1.................[***-1]
+                - Sub-section 2...........................................[***]
+                        - Sub-sub-section 2
+                                - Sub-sub-sub section 2.................[***-1]
+5. Contact Information................................................[Contact]
+6. Permitted Sites......................................................[Sites]
+7. Credits...............................................................[Cred]
+
+===============================================================================
+1. Introduction [Intro]
+===============================================================================
+
+- Opening statement here
+
+NAME OF GAME is owned by THE ONE WHO PUBLISHED THE GAME. All trademarks are
+subjected to THE ONE WHO PUBLISHED THE GAME.
+
+Copyright (c) THE ONE WHO PUBLISHED THE GAME.
+
+===============================================================================
+2. Version History [Hist]
+===============================================================================
+
+Version # - Month Day, Year
+= Revival. Re-structured the document. Corrected some grammar errors.
+= Changed all section codes so that search is easier.
+
+===============================================================================
+3. Copyright Information [Copy]
+===============================================================================
+
+IMPORTANT NOTICE: PLEASE READ
+
+No part of this FAQ may be produced or published in any form or by any means,
+electronic or mechanical, including photocopying, recording, or any information
+storage or retrieval system without the permission in writing from the
+copyright owner.
+
+Copyright (c) dnextreme88
+
+===============================================================================
+4. Main Content
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. Section
+-------------------------------------------------------------------------------
+
++++++++++++++++++++++
+- Sub-section 1 [***]
++++++++++++++++++++++
+
+CONTENT
+
++++++++++++++++++
+Sub-sub section 1
++++++++++++++++++
+
+-------------------------------------------------------------------------------
+- Sub-sub-sub section 1 [***-1]
+-------------------------------------------------------------------------------
+
++++++++++++++++++++++
+- Sub-section 2 [***]
++++++++++++++++++++++
+
+CONTENT
+
++++++++++++++++++
+Sub-sub section 2
++++++++++++++++++
+
+-------------------------------------------------------------------------------
+- Sub-sub-sub section 2 [***-1]
+-------------------------------------------------------------------------------
+
+===============================================================================
+5. Contact Information [Contact]
+===============================================================================
+
+If you have any questions, suggestions or some corrections, feel free to e-mail
+me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
+put the subject as "NAME OF FAQ" to remind me that you are not spam. If not,
+the subject should be at least close to the previous one and I will try to
+answer you back.
+
+===============================================================================
+6. Permitted Sites [Sites]
+===============================================================================
+
+If you posted this on your website without my supervision, it is a violation of
+the copyright. The following sites have MY PERMISSION to post this FAQ to their
+site:
+
+www.gamefaqs.com
+www.supercheats.com
+www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ
+on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
+you really shouldn't do after all.
+
+===============================================================================
+7. Credits [Cred]
+===============================================================================
+
+I would like to thank the following:
+
+To SuperCheats for hosting the FAQ.
+
+To THE ONE WHO PUBLISHED THE GAME for making the game.
+
+To [OPTIONAL - ADD MORE CREDITS HERE IF NECESSARY]
+
+To you, as the reader.
+
+END OF DOCUMENT----------------------------------------------------------------
