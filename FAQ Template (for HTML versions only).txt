@@ -1,6 +1,7 @@
 ;format:gf-markup
 ;NOTES
 ;Placeholders are enclosed in [], replace as necessary.
+;Paragraphs must be in a single line, as FFAQs dont have the 80-character per line break.
 ;Remove these comments (except the first line) when publishing the FAQ.
 ==Introduction==
 
@@ -19,10 +20,7 @@ Copyright (c) [the one who published the game].
 
 =--IMPORTANT NOTICE: PLEASE READ--=
 
-No part of this FAQ may be produced or published in any form or by any means,
-electronic or mechanical, including photocopying, recording, or any information
-storage or retrieval system without the permission in writing from the
-copyright owner.
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
 
 Copyright (c) dnextreme88
 =-=
@@ -45,29 +43,21 @@ CONTENT
 
 ==Contact Information==
 
-If you have any questions, suggestions or some corrections, feel free to e-mail
-me. My e-mail is
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
 
 storm_iz_here[at]yahoo[dot]com 
 
-Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please
-put the subject as ''"[title of FAQ eg. Attributes FAQ, if multiple FAQs exist within a single game, use game name: title of FAQ]"'' to remind me that you are not spam.
-If not, the subject should be at least close to the previous one and I will try
-to answer you back.
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"[title of FAQ eg. Attributes FAQ, if multiple FAQs exist within a single game, use game name: title of FAQ]"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
 
 ==Permitted Sites==
 
-If you posted this on your website without my supervision, it is a violation of
-the copyright. The following sites have MY PERMISSION to post this FAQ to their
-site:
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
 
 *www.gamefaqs.com
 *www.supercheats.com
 *www.neoseeker.com
 
-If your site isn't listed above, email me first. Never and never post this FAQ
-on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and
-you really shouldn't do after all.
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
 
 ==Credits==
 
@@ -75,6 +65,7 @@ I would like to thank the following:
 
 *To GameFAQs and SuperCheats for hosting the FAQ.
 *To [the one who published the game] for making the game.
+*[add extra credits here, following the same format as above. If there are none, simply remove this line.]
 *To you, as the reader.
 
 =-----=
