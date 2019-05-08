@@ -644,9 +644,9 @@ Conjures a pillar of fire which damages ground units in a target area over time.
 Turns a non-mechanical unit ethereal and slows its movement speed by 50% for a short duration. Ethereal creatures cannot attack, but they can cast spells and certain spells cast upon them will have a greater effect.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 | 12 (4) sec.     |c-3 N/A   |      75 |c-3 Turns unit ethereal. |
-|  2 | 15 (5) sec.     |                 60 |
-|  3 | 18 (6) sec.     |                 50 |
+|  1 | 12 (4) sec.     |c-3 N/A   | 75      |c-3 Turns unit ethereal. |
+|  2 | 15 (5) sec.     |            60      |
+|  3 | 18 (6) sec.     |            50      |
 
 3. Siphon Mana:
 Transfers mana between the Blood Mage and a target. Drains mana from an enemy, or transfers mana to an ally. Siphon Mana can push the Blood Mage's mana over its maximum value, though excess mana drains off rapidly if not used.
@@ -802,16 +802,16 @@ Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemie
 Reveals the area of the map that it is cast upon. Also reveals invisible units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 8 sec.       |c-3 N/A   |      75 |c-3 Reveals an area of the map. |
-|  2 |                                   60 |
-|  3 |                                   50 |
+|  1 |c-3 8 sec.       |c-3 N/A   | 75      |c-3 Reveals an area of the map. |
+|  2 |                              60      |
+|  3 |                              50      |
 
 *Feral Spirit (SUMMON)
 Summons 2 Spirit Wolves to fight the Far Seer's enemies.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
 |  1 |c-3 60 sec.      | 30 sec.    |c-3 75   | Summons Spirit Wolves, 200 HP. |
-|  2 |                  c-2 25 sec. |           Summons Dire Wolves, 300 HP.   |
+|  2 |c-2 25 sec.                             | Summons Dire Wolves, 300 HP.   |
 |  3 |                                          Summons Shadow Wolves, 500 HP. |
 
 *Earthquake (ULTIMATE)
@@ -1507,9 +1507,9 @@ Causes rains of healing energy to pour down in a large area, healing friendly al
 Temporarily summons an Owl Scout, which can be used to scout the map. Can see invisible units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
-|  1 | 60 sec.         |c-3 20 sec. |     100 |c-3 Summons Owl Scout. |
-|  2 | 90 sec.         |                   75 |
-|  3 | 120 sec.        |                   50 |
+|  1 | 60 sec.         |c-3 20 sec. | 100     |c-3 Summons Owl Scout. |
+|  2 | 90 sec.         |               75     |
+|  3 | 120 sec.        |               50     |
 
 *Searing Arrows (AUTOCAST)
 Increases the damage of the Priestess' attack by adding fire.
