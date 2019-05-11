@@ -259,66 +259,66 @@ This is the main body of the FAQ. You can find all the heroes on each race as we
 *AURAS - Uncastable spells that supports the Hero as well as the units near it. These spells last and are permanent to the Hero when learned. Most auras fall under the 3rd slot of each Hero's skills.
 
 =--Examples--=
-*Devotion Aura (Paladin)
-*Brilliance Aura (Archmage)
-*Endurance Aura (Tauren Chieftain)
-*Thorns Aura (Keeper of the Grove)
-*Trueshot Aura (Priestess of the Moon)
-*Unholy Aura (Death Knight)
-*Vampiric Aura (Dreadlord)
+*Devotion Aura ([[Paladin|Paladin]])
+*Brilliance Aura ([[Archmage||Archmage]])
+*Endurance Aura ([[Tauren Chieftain||Tauren Chieftain]])
+*Thorns Aura ([[Keeper of the Grove|Keeper of the Grove]])
+*Trueshot Aura ([[Priestess of the Moon|Priestess of the Moon]])
+*Unholy Aura ([[Death Knight||Death Knight]])
+*Vampiric Aura ([[Dread Lord||Dread Lord]])
 =-=
 
 *AUTOCAST - Enables the hero to toggle the spell whether to cast it automatically or not without having to cast the spell yourself.
 
 =--Examples--=
-*Searing Arrows (Priestess of the Moon)
-*Frost Armor (Lich)
-*Carrion Beetles (Crypt Lord)
+*Searing Arrows ([[Priestess of the Moon|Priestess of the Moon]])
+*Frost Armor ([[Lich||Lich]])
+*Carrion Beetles ([[Crypt Lord||Crypt Lord]])
 =-=
 
 *HEAL - Spells that restore health to friendly living units or damage enemy undead units. On the other hand, undead spells damage enemy living units or heal the friendly undead units.
 
 =--Examples--=
-*Holy Light (Paladin) - heals friendly living units and damages enemy undead units.
-*Healing Wave (Shadow Hunter) - only heals friendly living units.
-*Tranquility (Keeper of the Grove) - only heals friendly living units.
-*Death Coil (Death Knight) - heals friendly undead units and damages enemy living units.
+*Holy Light ([[Paladin|Paladin]]) - heals friendly living units and damages enemy undead units.
+*Healing Wave ([[Shadow Hunter||Shadow Hunter]]) - only heals friendly living units.
+*Tranquility ([[Keeper of the Grove|Keeper of the Grove]]) - only heals friendly living units.
+*Death Coil ([[Death Knight||Death Knight]]) - heals friendly undead units and damages enemy living units.
 =-=
 
 *INVULNERABILITY - Grants immunity to enemy physical attacks and enemy spells.
 
 =--Examples--=
-*Divine Shield (Paladin)
+*Divine Shield ([[Paladin|Paladin]])
 =-=
 
 *PASSIVE - Spells that activates by itself without losing mana or letting the heroes cast it.
 
 =--Examples--=
-*Bash (Mountain King)
-*Critical Strike (Blademaster)
-*Reincarnation (Tauren Chieftain)
-*Evasion (Demon Hunter)
-*Spiked Carapace (Crypt Lord)
+*Bash ([[Mountain King||Mountain King]])
+*Critical Strike ([[Blade Master||Blade Master]])
+*Reincarnation ([[Tauren Chieftain||Tauren Chieftain]])
+*Evasion ([[Demon Hunter||Demon Hunter]])
+*Spiked Carapace ([[Crypt Lord||Crypt Lord]])
 =-=
 
 *SUMMON - Spells that summons special units to fight for your army. Summoned units are not permanent (except the Carrion Beetles spell).
 
 =--Examples--=
-*Summon Water Elemental (Archmage)
-*Phoenix (Blood Mage)
-*Mirror Image (Blademaster)
-*Feral Spirit (Far Seer)
-*Force of Nature (Keeper of the Grove)
-*Scout (Priestess of the Moon)
-*Animate Dead (Death Knight)
-*Infernal (Dreadlord)
+*Summon Water Elemental ([[Archmage||Archmage]])
+*Phoenix ([[Blood Mage||Blood Mage]])
+*Mirror Image ([[Blade Master||Blade Master]])
+*Feral Spirit ([[Far Seer||Far Seer]])
+*Force of Nature ([[Keeper of the Grove|Keeper of the Grove]])
+*Scout ([[Priestess of the Moon|Priestess of the Moon]])
+*Animate Dead ([[Death Knight||Death Knight]])
+*Infernal ([[Dread Lord||Dread Lord]])
 =-=
 
 *TELEPORT - Spells that transfer the Hero to a distant place. These spells are very useful for getting out of danger.
 
 =--Examples--=
-*Mass Teleport (Archmage)
-*Blink (Warden)
+*Mass Teleport ([[Archmage||Archmage]])
+*Blink ([[Warden||Warden]])
 =-=
 
 By the way, the first hero bought from its respective altar only costs 5 food. Subsequent heroes cost 425 gold, 135 lumber and 5 food. Let's take note of the following legend to keep the guide short and concise.
