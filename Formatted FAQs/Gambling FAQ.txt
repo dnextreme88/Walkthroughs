@@ -2,6 +2,8 @@
 ;REMOVE THIS LINE AFTER RECORDING THE UPDATES AND BEFORE SUBMITTING THE GUIDE.
 ;List of changes for Version 1.5 (started on May 8, 2019)
 ;FAQ is now converted into a Formatted FAQ.
+;Contributors have a link associated with them.
+;Fixed indentions of calculations under Wheel of Fortune section.
 ==Introduction==
 
 Welcome to my Gambling FAQ. In this FAQ, you'll learn how to play the various different games at the three enterable casinos in Las Venturas, as well as the ITB machines in Los Santos and Blueberry. I will also show you how you can tip the odds in your favour through other means.
@@ -18,14 +20,14 @@ Copyright (c) Rockstar Games.
 **Submitted the FAQ.
 
 *Version 1.1 - Jun 5, 2009
-**An important note was added to "Horse Racing" game, mentioning that all horses have an equal chance of winning on the ITB machines by a submitter named [[jlc_alt|jlc_alt]]. Thanks!
+**An important note was added to [[Horse Racing|"Horse Racing"]] game, mentioning that all horses have an equal chance of winning on the ITB machines by a submitter named [[jlc_alt's contribution|jlc_alt]]. Thanks!
 **Added the following items:
-:: "Credits" section.
+:: [[Credits|"Credits"]] section.
 :: "Outro" section.
-:: "Sites Permitted" section.
+:: [[Permitted Sites|"Permitted Sites"]] section.
 
 *Version 1.2 - Jun 23, 2009
-**A better information about the game "Wheel of Fortune" was now added thanks to a submitter named [[<T.Payne>||<T.Payne>]]. Thanks!
+**A better information about the game [[Wheel of Fortune|"Wheel of Fortune"]] was now added thanks to a submitter named [[<T.Payne>'s contribution|<T.Payne>]]. Thanks!
 **Added "About" section.
 **Renamed the following items:
 :: "Outro" to "Closing" section.
@@ -34,36 +36,37 @@ Copyright (c) Rockstar Games.
 *Version 1.3 - Sep 19, 2016
 **Revival. Re-structured the document. Corrected some grammar errors.
 **Changed all section codes so that search is easier.
-**Updated the description of "Wheel of Fortune" sub-section with better explanations.
+**Updated the description of [[Wheel of Fortune|"Wheel of Fortune"]] sub-section with better explanations.
 **Added the following items:
-:: Betting denominations in "Horse Racing" sub-section.
-:: "Frequently Asked Questions" section.
-:: Gambling levels in "Gambling Skill" sub-section.
-:: "Luck Skill" sub-section under "Skills" section.
+:: Betting denominations in [[Horse Racing|"Horse Racing"]] sub-section.
+:: [[Frequently Asked Questions|"Frequently Asked Questions"]] section.
+:: Gambling levels in [[Gambling Skill|"Gambling Skill"]] sub-section.
+:: [[Luck Skill|"Luck Skill"]] sub-section under [[Skills|"Skills"]] section.
 
 **Removed the following items:
-:: "About" section. Its content is placed in the "Introduction" section.
+:: "About" section. Its content is placed in the [[Introduction|"Introduction"]] section.
 :: "Closing" section.
-:: "List of Games" section. Its content is placed in the "Gambling Activities" section.
+:: "List of Games" section. Its content is placed in the [[Gambling Activities|"Gambling Activities"]] section.
 
 **Renamed the following items:
-:: "Gambling Skill" to "Skills" section.
-:: "The Games" to "Gambling Activities" section.
+:: "Gambling Skill" to [[Skills|"Skills"]] section.
+:: "The Games" to [[Gambling Activities|"Gambling Activities"]] section.
 
 **Sorted the following items:
-:: Betting activities in "Gambling Activities" section.
-:: Betting payouts in "Roulette" sub-section.
+:: Betting activities in [[Gambling Activities|"Gambling Activities"]] section.
+:: Betting payouts in [[Roulette|"Roulette"]] sub-section.
 
 *Version 1.4 - Aug 26, 2018
-**Added section code for "Skills" section. A matching description is also added.
+**Added section code for [[Skills|"Skills"]] section. A matching description is also added.
 
 ==Copyright Information==
 
-IMPORTANT NOTICE: PLEASE READ
+=--IMPORTANT NOTICE: PLEASE READ--=
 
 No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
 
 Copyright (c) dnextreme88
+=-=
 
 ==Gambling Activities==
 
@@ -82,28 +85,28 @@ The goal is to try to get as close to 21 as you can, without going over 21 (goin
 
 When you have stuck, the dealer will reveal his second card, and will then do the same, hitting until he either beats you, or goes bust. Note that the dealer will always stick when he reaches 17 or higher, and he will always hit on 16 or lower. When deciding on whether or not you should hit or stick, it's important to consider 2 things.
 
-*Consider the cards you have compared to the dealer. For example, if you have a total of 16 and the dealer has a 9, it's wise to hit because the chances are he'll get a ten or a picture (as there are many more of them than there are ace-9's). However, if he has a 5, then you may want to stick and hope he doesn't beat you.
+*Consider the cards you have compared to the dealer. For example, if you have a total of 16 and the dealer has a 9, it's wise to hit because the chances are he'll get a 10 or a picture (as there are many more of them than there are ace-9's). However, if he has a 5, then you may want to stick and hope he doesn't beat you.
 *Consider what cards have been dealt recently. For example, if a lot of picture cards have shown in the last few hands, then chances are you'll be given cards of a lower value, so you may want to hit on higher numbers such as 16 or 17 (depending on what the dealer has of course). 
 
-Depending on the cards you've been dealt, you may be given two other options. One of them is known as ''"splitting the hand"''. This option is only available if you've been given two cards of the same value (i.e. two 3's or two Kings, picture cards must also be the same). If you choose this option, the two cards will be "split", thus creating two hands. You'll be dealt an extra card on each hand, and you carry on playing as normal, taking each hand in turn. Splitting the hand gives you the chance of doubling your winnings, but be careful because you also double your bet, so you stand to lose more if it goes wrong.
+Depending on the cards you've been dealt, you may be given 2 other options. One of them is known as ''"splitting the hand"''. This option is only available if you've been given 2 cards of the same value (i.e. two 3's or two Kings, picture cards must also be the same). If you choose this option, the 2 cards will be "split", thus creating 2 hands. You'll be dealt an extra card on each hand, and you carry on playing as normal, taking each hand in turn. Splitting the hand gives you the chance of doubling your winnings, but be careful because you also double your bet, so you stand to lose more if it goes wrong.
 
-Whether or not you should split depends on which cards you've been given. Here is a quick reference as to when you should and should not split (you must have two of the same kind):
+Whether or not you should split depends on which cards you've been given. Here is a quick reference as to when you should and should not split (you must have 2 of the same kind):
 
-*Aces - split (you'll only be given one extra card per hand).
+*Aces - split (you'll only be given 1 extra card per hand).
 *Twos or Threes - split.
 *Fours or Fives or Sixes - don't split.
 *Sevens or Eights - split.
-*Nines - split (only if the dealer's card is nine or higher).
-*Tens - don't split (if the dealers card is not a ten or higher card. If it is, then it's your choice).
+*Nines - split (only if the dealer's card is 9 or higher).
+*Tens - don't split (if the dealers card is not a 10 or higher card. If it is, then it's your choice).
 *Jacks or Queens or Kings - don't split.
 
-Another option you'll always be given is called ''"doubling"''. This is when you double your bet, but you'll only be dealt one extra card. It's only advisable to do this if your two original cards total 9, 10 or 11 and the dealer has a 5 or 6.
+Another option you'll always be given is called ''"doubling"''. This is when you double your bet, but you'll only be dealt 1 extra card. It's only advisable to do this if your 2 original cards total 9, 10 or 11 and the dealer has a 5 or 6.
 
-If you're dealt an ace, a ten or a high card, then it's known as a ''"blackjack"'', and you instantly win double your bet, unless the dealer has also been dealt a blackjack, in which case it's a ''"push"'' (a push is when you and the dealer both reach the same total. In this case, you don't win or lose anything). If the dealer gets a blackjack and you don't, you instantly lose.
+If you're dealt an ace, a 10 or a high card, then it's known as a ''"blackjack"'', and you instantly win double your bet, unless the dealer has also been dealt a blackjack, in which case it's a ''"push"'' (a push is when you and the dealer both reach the same total. In this case, you don't win or lose anything). If the dealer gets a blackjack and you don't, you instantly lose.
 
 Note that there are no 5 card tricks on this variation of blackjack. Instead, you are only allowed a maximum of 5 cards in one go, although the number of  times when you need a 6th card will not be many.
 
-Well, that's the basics of blackjack. A mixture of doing the above and a bit of luck and you should be fine in no time. There are 4 different tables you can play at, differed only by the maximum you can bet on that table:
+Well, that's the basics of Blackjack. A mixture of doing the above and a bit of luck and you should be fine in no time. There are 4 different tables you can play at, differed only by the maximum you can bet on that table:
 
 *$100
 *$1,000
@@ -114,7 +117,7 @@ Well, that's the basics of blackjack. A mixture of doing the above and a bit of 
 
 Locations: Under the Mulholland Intersection, Blueberry and Downtown Los Santos.
 
-This is easy to learn, but relies mostly on luck to succeed, but not entirely. You start off with two choices to make, how much money to bet and which horse to bet on. The horses with shorter odds (lower numbers i.e. 2/1) have a better chance of winning. If your horse comes in first, you win your bet back plus whatever it's odds were as a multiple of your original bet. For example, if you bet $1,000 on a 5/1 horse and it wins, you win your $1,000 back plus an extra $5,000, giving $6,000 in total. Anything other than a victory results in you losing your bet.
+This is easy to learn, but relies mostly on luck to succeed, but not entirely. You start off with 2 choices to make, how much money to bet and which horse to bet on. The horses with shorter odds (lower numbers i.e. 2/1) have a better chance of winning. If your horse comes in first, you win your bet back plus whatever it's odds were as a multiple of your original bet. For example, if you bet $1,000 on a 5/1 horse and it wins, you win your $1,000 back plus an extra $5,000, giving $6,000 in total. Anything other than a victory results in you losing your bet.
 
 Note that it's possible to cheat using the ITB machines to gain lots of money fast. All you need to do is go to a machine just after loading a game, bet the max on the horse with the longest odds, and if you lose, just reload again and you don't lose your money. This isn't something I do as I don't like cheating but I know that some people out there want good money fast and this is a good way of earning it. The different denominations you can bet on:
 
@@ -126,10 +129,11 @@ Note that it's possible to cheat using the ITB machines to gain lots of money fa
 *$5,000
 *$10,000
 
+=====jlc_alt's contribution=====
 =--NOTE--=
 I received an e-mail that claimed that rather than the horses with shorter odds having more chance of winning, as happens in real life, all horses have an equal chance of winning on the ITB machines. If this info is indeed true, my suggestion is to always bet on the horse with the longest odds, that way you stand to win more money.
 
-Credit: =====jlc_alt=====
+Credit: ''jlc_alt''
 =-=
 
 ===Pool===
@@ -188,9 +192,9 @@ Typically, this game does not pay out well, so don't come here looking to raise 
 
 Locations: Casinos and some bars.
 
-The object of this game is to try and get the best combination of card values and/or suits. After you have placed your bet, you're dealt with five cards, you then have the opportunity of "holding" as many cards as you like, and the cards you do not hold are replaced by fresh cards. Your winnings (if any) are then calculated from the five cards you have.
+The object of this game is to try and get the best combination of card values and/or suits. After you have placed your bet, you're dealt with 5 cards, you then have the opportunity of holding as many cards as you like, and the cards you do not hold are replaced by fresh cards. Your winnings (if any) are then calculated from the 5 cards you have.
 
-Above the five cards is a table showing you the different ways of winning:
+Above the 5 cards is a table showing you the different ways of winning:
 
 *Flush - all cards of the same suit.
 *Straight - run of cards in succession (e.g. 2, 3, 4, 5, 6).
@@ -211,33 +215,34 @@ This is a fairly simple game. You place your bet on a value and when the wheel s
 *$20
 *$40
 
-You can bet on all 6 values. The wheel will stop at one value and if there's a bet on that value, you win it back times the value (which is a multiplier). For example, you placed your bet on a $20 value and the bet is $1,000. The wheel stopped at $20, you win $20,000.
+You can bet on all 6 values. The wheel will stop at 1 value and if there's a bet on that value, you win it back times the value (which is a multiplier). For example, you placed your bet on a $20 value and the bet is $1,000. The wheel stopped at $20, you win $20,000.
 
-If you have more than 1 bet and the wheel stopped on one of it, you'll win the bet on that value only times the value and your bets on the rest are discarded. For example, I placed a $500 bet on a $2 value and a $800 on a $10 value. You betted a total of $1,300. The wheel stopped on $10. You won $8,000 but your total is $6,700 (deducted from your initial bet). To better show it off, here's a list of calculations:
+If you have more than 1 bet and the wheel stopped on 1 of it, you'll win the bet on that value only times the value and your bets on the rest are discarded. For example, I placed a $500 bet on a $2 value and a $800 on a $10 value. You betted a total of $1,300. The wheel stopped on $10. You won $8,000 but your total is $6,700 (deducted from your initial bet). To better show it off, here's a list of calculations:
 
 Let's assume that we currently have $2,300 in hand.
 
-$2 bet: $ 500
-$10 bet: $ 800
+:: $2 bet: $ 500
+:: $10 bet: $ 800
 %
-TOTAL: $1,300
+:: TOTAL: $1,300
 
 Our current cash should be $1,000. The wheel stopped on $10, we will look at the possible winning wages:
 
-$2 bet: $ 500 x 2 = $1,000
-$10 bet: $ 800 x 10 = $8,000
+:: $2 bet: $ 500 x 2 = $1,000
+:: $10 bet: $ 800 x 10 = $8,000
 %
-TOTAL WAGE: $8,000 - $1,300 = $6,700
+:: TOTAL WAGE: $8,000 - $1,300 = $6,700
 
+=====<T.Payne>'s contribution=====
 =--NOTE--=
 A submitter named <T.Payne> provided me a better information about this game. Here are his exact words in the e-mail I received from him:
 
 "There are 6 numbers you can bet on, 1,2,5,10,20, and the * which equals 40. However much you bet on a certain number you multiply that by the number you bet on, for example you bet 100 dollars on 10 so 10x100=1000, so 1000 is what you earned. Also you are allowed to bet on more than one number (you can bet on all of them if you wanted) but its a little more complicated to understand. For example you bet 10 on every number and it lands on a star so normally you would get 400 but since you lost the other five bets (which were all ten dollars) you lost 50 dollars so you would have earned 350. I hope you can understand what I was trying to say.
  
-- Also, if you bet 10 on all the numbers and it lands on a 5 you win no money.
-- Another thing, the smaller the number the more common it is on the wheel. 1 is common, 2 is relatively common, 5 is still plentiful, and so on."
+:: - Also, if you bet 10 on all the numbers and it lands on a 5 you win no money.
+:: - Another thing, the smaller the number the more common it is on the wheel. 1 is common, 2 is relatively common, 5 is still plentiful, and so on."
 
-Credit: =====<T.Payne>=====
+Credit: ''<T.Payne>''
 =-=
 
 ==Skills==
@@ -252,15 +257,15 @@ Not only does this skill determine how much you can bet, but it also tells you h
 
 The number of people that are after you is determined by the amount you're in debt by. The maximum being 4 people if you have debts of over $1,000,000. Be on the look out for a black Vincent driving erratically. If you decide to fight them, they'll leave a lot of money when they die. Here are the different levels of each gambling skill:
 
-*Professional level - your maximum wager and the highest amount you can borrow from casinos increases up to $10,000.
-*Hi-roller level - your maximum wager and the highest amount you can borrow from casinos increases up to $100,000.
-*Whale level - your maximum wager and the highest amount you can borrow from casinos increases up to $1,000,000.
+*Professional level - your maximum wager and the highest amount you can borrow from casinos increases up to ''$10,000''.
+*Hi-roller level - your maximum wager and the highest amount you can borrow from casinos increases up to ''$100,000''.
+*Whale level - your maximum wager and the highest amount you can borrow from casinos increases up to ''$1,000,000''.
 
 ===Luck Skill===
 
 Apart from your gambling skill, your luck skill plays an important role in gambling. Luck skill is related to your gambling skill. The higher it is, the more chances you have in winning. To increase your luck, you must collect the 50 horseshoes that are scattered around Las Venturas. Each horseshoe adds up to your luck skill. Collecting all 50 nets you with 1,000 luck skill.
 
-===Frequently Asked Questions===
+==Frequently Asked Questions==
 
 *Q - What is the maximum gambling amount?
 **A - The maximum you can gamble in any one go is $1,000,000.
@@ -269,7 +274,7 @@ Apart from your gambling skill, your luck skill plays an important role in gambl
 **A - All you need to do to raise your gambling skill is gamble, it's that simple. The more you gamble, the more you win. Plus, the higher stakes you gamble with, the quicker your skill will increase. It's possible to max out your skill in just a few minutes if you have the money (and the luck).
 
 *Q - Which casinos in San Andreas can I gamble?
-**A - Simply enter one of the three enterable casinos in Las Venturas. These are The Four Dragons (The Strip), Caligula's Palace (The Strip) or The Casino Floor (Redsands West).
+**A - Simply enter in 1 of the three enterable casinos in Las Venturas. These are The Four Dragons (The Strip), Caligula's Palace (The Strip) or The Casino Floor (Redsands West).
 
 ==Contact Information==
 
