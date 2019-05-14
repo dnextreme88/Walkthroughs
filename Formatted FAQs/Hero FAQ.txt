@@ -3,7 +3,7 @@
 ;List of changes for Version 1.6 (started on May 7, 2019)
 ;FAQ is now converted into a Formatted FAQ.
 ;Armor table header in each hero page is now capitalized.
-;Removed spell type from certain spells (except Ultimate spells).
+;Removed spell type note from certain spells (except Ultimate spells).
 ;Corrected Infernal spell as Inferno.
 ==Introduction==
 Hi and welcome to my Hero FAQ. This FAQ will concentrate on hero units of the game. I'll be listing valuable information to every hero, such as statistics, hero names, skills and a lot more. It's my second FAQ for the WarCraft series.
@@ -18,41 +18,42 @@ Copyright (c) Blizzard Entertainment.
 **Submitted the FAQ.
 
 *Version 1.1 - Apr 2, 2009
-**Completed "Lich" and "Crypt Lord" heroes.
+**Completed [[Lich|"Lich"]] and [[Crypt Lord|"Crypt Lord"]] heroes.
 **Added "Jaina Proudmoore" and "Cenarius" sub-sections.
 **The sub-sections of "Attributes Guide" section is added but not yet complete.
 
 *Version 1.2 - Jun 4, 2009
-**Completed "Attributes Guide" section and its 3 sub-sections "The 3 Attributes", "Attribute-increasing skills" and "Attribute-increasing items".
-**Added "Bonus Campaign Key Names" section.
+**Completed "Attributes Guide" section and its 3 sub-sections [[The Attributes|"The Attributes"]], [[Attribute-increasing skills|"Attribute-increasing skills"]] and [[Attribute-increasing items|"Attribute-increasing items"]].
+**Added [[Bonus Campaign Key Names|"Bonus Campaign Key Names"]] section.
 **Added a bunch of heroes:
 
 =-----=
 *''KEY HEROES''
-**KEEPER OF THE GROVE: Cenarius, Malfurion Stormrage
-**DEMON HUNTER: Illidan Stormrage
-**PRIESTESS OF THE MOON: Tyrande Whisperwind
-**WARDEN: Maiev Shadowsong
-**DEATH KNIGHT: Arthas
-**DREADLORD: Tichondrius
-**LICH: Kel'Thuzad
-**CRYPT LORD: Anub'arak
+**[[Archmage|Archmage]]: Antonidas
+**[[Crypt Lord|Crypt Lord]]: Anub'arak
+**[[Death Knight|Death Knight]]: Arthas
+**[[Demon Hunter|Demon Hunter]]: Illidan Stormrage
+**[[Dread Lord|Dread Lord]]: Tichondrius
+**[[Keeper of the Grove|Keeper of the Grove]]: Cenarius, Malfurion Stormrage
+**[[Lich|Lich]]: Kel'Thuzad
+**[[Priestess of the Moon|Priestess of the Moon]]: Tyrande Whisperwind
+**[[Warden|Warden]]: Maiev Shadowsong
 
-*''BONUS CAMPAIGN KEY HEROES''
-**PALADIN: Admiral Proudmoore, Dagren the Orcslayer
-**ARCHMAGE: Antonidas, Zerx Hydromon
-**BLADE MASTER: Samuro
-**FAR SEER: Drek'Thar
-**TAUREN CHIEFTAIN: Baine Bloodhoof
-**SHADOW HUNTER: Rokhan
-**DREADLORD: Talnivarr the Sleeper
+*''[[Bonus Campaign Key Names|BONUS CAMPAIGN KEY HEROES]]''
+**[[Archmage|Archmage]]: Zerx Hydromon
+**[[Blade Master|Blade Master]]: Samuro
+**[[Dread Lord|Dread Lord]]: Talnivarr the Sleeper
+**[[Far Seer|Far Seer]]: Drek'Thar
+**[[Paladin|Paladin]]: Admiral Proudmoore, Dagren the Orcslayer
+**[[Shadow Hunter|Shadow Hunter]]: Rokhan
+**[[Tauren Chieftain|Tauren Chieftain]]: Baine Bloodhoof
 =-=
 
 *Version 1.3 - Aug 26, 2016
 **Revival. Re-structured the document. Corrected some grammar errors.
 **Changed all section codes so that search is easier.
 **Fixed missing "AUTOCAST" note of Immolation and Carrion Beetles spells.
-**Removed "Attributes Guide" section. Its content was placed in "The 3 Attributes" section.
+**Removed "Attributes Guide" section. Its content was placed in [[The Attributes|"The Attributes"]] section.
 **Added the following items:
 :: Cairne Bloodhoof (Tauren Chieftain) from the Bonus Campaign Key Heroes list.
 :: Key heroes: Anetheron, Balnazzar, Detheroc, Duke Lionheart, Grom Hellscream, Mal'Ganis, Mephistroth, Varimathras.
@@ -61,46 +62,46 @@ Copyright (c) Blizzard Entertainment.
 :: "Summonable" spell type to "Summon".
 
 *Version 1.4 - Jul 15, 2018
-**Fixed "Summonable" note of Vengeance and Water Elemental spells as "Summon".
-**Level of indention in "Attribute-increasing items" and "Attribute-increasing skills" sections has been drastically reduced for improved readability.
-**Renamed "Universal Spell" spell type to "Auras" in "Heroes" section.
-**Updated questions in "Frequently Asked Questions" section.
+**Fixed "Summonable" note of [[Vengeance|Vengeance]] and [[Summon Water Elemental|Summon Water Elemental]] spells as "Summon".
+**Level of indention in [[Attribute-increasing items|"Attribute-increasing items"]] and [[Attribute-increasing skills|"Attribute-increasing skills"]] sections has been drastically reduced for improved readability.
+**Renamed "Universal Spell" spell type to "Auras" in [[Heroes|"Heroes"]] section.
+**Updated questions in [[Frequently Asked Questions|"Frequently Asked Questions"]] section.
 **Added the following items:
 
 =-----=
-*''HEROES SECTION''
+*''[[Heroes|HEROES SECTION]]''
 **Common statistics for each hero now has a separate section (to remove redundancy of having to place the same info across all races).
 **Legend note from all 4 playable races.
 **Spells for every hero.
 =-=
 
 **Interchanged the following items:
-**"Attribute-increasing items" and "Attribute-increasing skills" sections.
+**[[Attribute-increasing items|"Attribute-increasing items"]] and [[Attribute-increasing skills|"Attribute-increasing skills"]] sections.
 **"Cenarius" and "Jaina Proudmoore" sections.
 **Removed the following items:
 
 =-----=
-*''HEROES SECTION''
-**"Summon" note from the Vengeance spell of Warden.
+*''[[Heroes|HEROES SECTION]]''
+**"Summon" note from the [[Vengeance|Vengeance]] spell of [[Warden|Warden]].
 **"Ultimate" spell type (as every hero have them).
 
-*''BONUS CAMPAIGN KEY NAMES SECTION''
+*''[[Bonus Campaign Key Names|BONUS CAMPAIGN KEY NAMES SECTION]]''
 **Redundant heroes list (these were already listed in the sub-sections).
 =-=
 
 *Version 1.5 - Aug 26, 2018
 **Added Baelgun key hero.
-**Interchanged "Undead" and "Night Elves" sections.
+**Interchanged [[Undead|"Undead"]] and [[Night Elves"Night Elves"]] sections.
 **Minor grammar errors fixed.
 **Updated spell descriptions for every hero so that it matches what appears exactly in-game.
 **Corrected the following typos in hero spells:
-:: Fan of Knives spell effect.
-:: Holy Light spell effect.
-:: Metamorphosis spell effect.
+:: [[Fan of Knives|Fan of Knives spell]] effect.
+:: [[Holy Light|Holy Light]] spell effect.
+:: [[Metamorphosis|Metamorphosis]] spell effect.
 
 **Fixed the following items:
-:: "Ultimate" note for Phoenix spell.
-:: Missing border in Warden's statistics table.
+:: "Ultimate" note for [[Phoenix|Phoenix]] spell.
+:: Missing border in [[Warden|Warden's]] statistics table.
 :: Unique model text for key heroes: Admiral Proudmoore, Arthas (as a Paladin), Grom Hellscream
 
 **Removed the following items:
