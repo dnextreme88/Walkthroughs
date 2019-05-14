@@ -3,6 +3,8 @@
 ;List of changes for Version 1.6 (started on May 7, 2019)
 ;FAQ is now converted into a Formatted FAQ.
 ;Armor table header in each hero page is now capitalized.
+;Removed spell type from certain spells (except Ultimate spells).
+;Corrected Infernal spell as Inferno.
 ==Introduction==
 Hi and welcome to my Hero FAQ. This FAQ will concentrate on hero units of the game. I'll be listing valuable information to every hero, such as statistics, hero names, skills and a lot more. It's my second FAQ for the WarCraft series.
 
@@ -259,66 +261,66 @@ This is the main body of the FAQ. You can find all the heroes on each race as we
 *AURAS - Uncastable spells that supports the Hero as well as the units near it. These spells last and are permanent to the Hero when learned. Most auras fall under the 3rd slot of each Hero's skills.
 
 =--Examples--=
-*Devotion Aura ([[Paladin|Paladin]])
-*Brilliance Aura ([[Archmage||Archmage]])
-*Endurance Aura ([[Tauren Chieftain||Tauren Chieftain]])
-*Thorns Aura ([[Keeper of the Grove|Keeper of the Grove]])
-*Trueshot Aura ([[Priestess of the Moon|Priestess of the Moon]])
-*Unholy Aura ([[Death Knight||Death Knight]])
-*Vampiric Aura ([[Dread Lord||Dread Lord]])
+*[[Devotion Aura|Devotion Aura]] ([[Paladin|Paladin]])
+*[[Brilliance Aura|Brilliance Aura]] ([[Archmage||Archmage]])
+*[[Endurance Aura|Endurance Aura]] ([[Tauren Chieftain||Tauren Chieftain]])
+*[[Thorns Aura|Thorns Aura]] ([[Keeper of the Grove|Keeper of the Grove]])
+*[[Trueshot Aura|Trueshot Aura]] ([[Priestess of the Moon|Priestess of the Moon]])
+*[[Unholy Aura|Unholy Aura]] ([[Death Knight||Death Knight]])
+*[[Vampiric Aura|Vampiric Aura]] ([[Dread Lord||Dread Lord]])
 =-=
 
 *AUTOCAST - Enables the hero to toggle the spell whether to cast it automatically or not without having to cast the spell yourself.
 
 =--Examples--=
-*Searing Arrows ([[Priestess of the Moon|Priestess of the Moon]])
-*Frost Armor ([[Lich||Lich]])
-*Carrion Beetles ([[Crypt Lord||Crypt Lord]])
+*[[Searing Arrows|Searing Arrows]] ([[Priestess of the Moon|Priestess of the Moon]])
+*[[Frost Armor|Frost Armor]] ([[Lich||Lich]])
+*[[Carrion Beetles|Carrion Beetles]] ([[Crypt Lord||Crypt Lord]])
 =-=
 
 *HEAL - Spells that restore health to friendly living units or damage enemy undead units. On the other hand, undead spells damage enemy living units or heal the friendly undead units.
 
 =--Examples--=
-*Holy Light ([[Paladin|Paladin]]) - heals friendly living units and damages enemy undead units.
-*Healing Wave ([[Shadow Hunter||Shadow Hunter]]) - only heals friendly living units.
-*Tranquility ([[Keeper of the Grove|Keeper of the Grove]]) - only heals friendly living units.
-*Death Coil ([[Death Knight||Death Knight]]) - heals friendly undead units and damages enemy living units.
+*[[Holy Light|Holy Light]] ([[Paladin|Paladin]]) - heals friendly living units and damages enemy undead units.
+*[[Healing Wave|Healing Wave]] ([[Shadow Hunter||Shadow Hunter]]) - only heals friendly living units.
+*[[Tranquility (ULTIMATE)|Tranquility]] ([[Keeper of the Grove|Keeper of the Grove]]) - only heals friendly living units.
+*[[Death Coil|Death Coil]] ([[Death Knight||Death Knight]]) - heals friendly undead units and damages enemy living units.
 =-=
 
 *INVULNERABILITY - Grants immunity to enemy physical attacks and enemy spells.
 
 =--Examples--=
-*Divine Shield ([[Paladin|Paladin]])
+*[[Divine Shield|Divine Shield]] ([[Paladin|Paladin]])
 =-=
 
 *PASSIVE - Spells that activates by itself without losing mana or letting the heroes cast it.
 
 =--Examples--=
-*Bash ([[Mountain King||Mountain King]])
-*Critical Strike ([[Blade Master||Blade Master]])
-*Reincarnation ([[Tauren Chieftain||Tauren Chieftain]])
-*Evasion ([[Demon Hunter||Demon Hunter]])
-*Spiked Carapace ([[Crypt Lord||Crypt Lord]])
+*[[Bash|Bash]] ([[Mountain King||Mountain King]])
+*[[Critical Strike|Critical Strike]] ([[Blade Master||Blade Master]])
+*[[Reincarnation (ULTIMATE)|Reincarnation]] ([[Tauren Chieftain||Tauren Chieftain]])
+*[[Evasion|Evasion]] ([[Demon Hunter||Demon Hunter]])
+*[[Spiked Carapace|Spiked Carapace]] ([[Crypt Lord||Crypt Lord]])
 =-=
 
 *SUMMON - Spells that summons special units to fight for your army. Summoned units are not permanent (except the Carrion Beetles spell).
 
 =--Examples--=
-*Summon Water Elemental ([[Archmage||Archmage]])
-*Phoenix ([[Blood Mage||Blood Mage]])
-*Mirror Image ([[Blade Master||Blade Master]])
-*Feral Spirit ([[Far Seer||Far Seer]])
-*Force of Nature ([[Keeper of the Grove|Keeper of the Grove]])
-*Scout ([[Priestess of the Moon|Priestess of the Moon]])
-*Animate Dead ([[Death Knight||Death Knight]])
-*Infernal ([[Dread Lord||Dread Lord]])
+*[[Summon Water Elemental|Summon Water Elemental]] ([[Archmage||Archmage]])
+*[[Phoenix|Phoenix]] ([[Blood Mage||Blood Mage]])
+*[[Mirror Image|Mirror Image]] ([[Blade Master||Blade Master]])
+*[[Feral Spirit|Feral Spirit]] ([[Far Seer||Far Seer]])
+*[[Force of Nature|Force of Nature]] ([[Keeper of the Grove|Keeper of the Grove]])
+*[[Scout|Scout]] ([[Priestess of the Moon|Priestess of the Moon]])
+*[[Animate Dead (ULTIMATE)|Animate Dead]] ([[Death Knight||Death Knight]])
+*[[Inferno (ULTIMATE)|Inferno]] ([[Dread Lord||Dread Lord]])
 =-=
 
 *TELEPORT - Spells that transfer the Hero to a distant place. These spells are very useful for getting out of danger.
 
 =--Examples--=
-*Mass Teleport ([[Archmage||Archmage]])
-*Blink ([[Warden||Warden]])
+*[[Mass Teleport (ULTIMATE)|Mass Teleport]] ([[Archmage||Archmage]])
+*[[Blink|Blink]] ([[Warden||Warden]])
 =-=
 
 By the way, the first hero bought from its respective altar only costs 5 food. Subsequent heroes cost 425 gold, 135 lumber and 5 food. Let's take note of the following legend to keep the guide short and concise.
@@ -397,7 +399,8 @@ All heroes have the following common attributes.
 **Uther
 
 ====SPELLS====
-*Holy Light (HEAL)
+=====Holy Light=====
+%
 A holy light that can heal a friendly living unit or damage an enemy Undead unit.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -405,7 +408,8 @@ A holy light that can heal a friendly living unit or damage an enemy Undead unit
 |  2 |                                         Heals 400 HP or 200 damage. |
 |  3 |                                         Heals 600 HP or 300 damage. |
 
-*Divine Shield (INVULNERABILITY)
+=====Divine Shield=====
+%
 An impenetrable shield surrounds the Paladin, protecting him from all damage and spells for a set amount of time.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -413,7 +417,8 @@ An impenetrable shield surrounds the Paladin, protecting him from all damage and
 |  2 |c 30 sec.        |c 50 sec. |
 |  3 |c 45 sec.        |c 65 sec. |
 
-*Devotion Aura (AURA)
+=====Devotion Aura=====
+%
 Gives additional armor to nearby friendly units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -421,7 +426,8 @@ Gives additional armor to nearby friendly units.
 |  2 |                                        +3 armor.   |
 |  3 |                                        +4.5 armor. |
 
-*Resurrection (ULTIMATE)
+=====Resurrection (ULTIMATE)=====
+%
 Brings back to life the corpses of 6 friendly nearby units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -476,7 +482,8 @@ Brings back to life the corpses of 6 friendly nearby units.
 **Zerx Hydromon (BONUS CAMPAIGN, ACT II)
 
 ====SPELLS====
-*Blizzard
+=====Blizzard=====
+%
 Calls down waves of freezing ice shards that damage units in a target area.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -484,7 +491,8 @@ Calls down waves of freezing ice shards that damage units in a target area.
 |  2 |c 8 sec.         |                       8 waves/40 damage, max 200.  |
 |  3 |c 10 sec.        |                       10 waves/50 damage, max 250. |
 
-*Summon Water Elemental (SUMMON)
+=====Summon Water Elemental=====
+%
 Summons a Water Elemental to attack the Archmage's enemies.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
@@ -492,7 +500,8 @@ Summons a Water Elemental to attack the Archmage's enemies.
 |  2 |                                          675 HP, 31-39 damage. |
 |  3 |                                          900 HP, 41-49 damage. |
 
-*Brilliance Aura (AURA)
+=====Brilliance Aura=====
+%
 Gives additional mana regeneration to nearby friendly units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -500,7 +509,8 @@ Gives additional mana regeneration to nearby friendly units.
 |  2 |                                        +1.5 MP regen/sec.  |
 |  3 |                                        +2.25 MP regen/sec. |
 
-*Mass Teleport (TELEPORT, ULTIMATE)
+=====Mass Teleport (ULTIMATE)=====
+%
 Teleports 24 of the player's nearby units, including the Archmage, to a friendly ground unit or structure.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -554,7 +564,8 @@ Teleports 24 of the player's nearby units, including the Archmage, to a friendly
 **Muradin Bronzebeard
 
 ====SPELLS====
-*Storm Bolt
+=====Storm Bolt=====
+%
 A magical hammer that is thrown at an enemy unit, causing damage and stunning the target.
 
 |*LV |*DURATION (HERO)    |*COOLDOWN  |*MP COST |*EFFECT |
@@ -562,7 +573,8 @@ A magical hammer that is thrown at an enemy unit, causing damage and stunning th
 |  2 |                                            225 damage. |
 |  3 |                                            350 damage. |
 
-*Thunder Clap
+=====Thunder Clap=====
+%
 Slams the ground, dealing damage to and slowing the movement speed and attack rate of nearby enemy land units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -570,7 +582,8 @@ Slams the ground, dealing damage to and slowing the movement speed and attack ra
 |  2 |                                         100 damage, -50% movement. |
 |  3 |                                         140 damage, -50% movement. |
 
-*Bash (PASSIVE)
+=====Bash=====
+%
 Gives a chance that an attack will do 25 bonus damage and stun an opponent for 2 seconds.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -578,7 +591,8 @@ Gives a chance that an attack will do 25 bonus damage and stun an opponent for 2
 |  2 |                                        30% chance, +25 damage. |
 |  3 |                                        40% chance, +25 damage. |
 
-*Avatar (ULTIMATE)
+=====Avatar (ULTIMATE)=====
+%
 When Avatar is activated, it gives the Mountain King 5 bonus armor, 500 bonus hit points, 20 bonus damage and spell immunity.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -632,8 +646,8 @@ When Avatar is activated, it gives the Mountain King 5 bonus armor, 500 bonus hi
 **Kael'thas
 
 ====SPELLS====
-
-*Flame Strike
+=====Flame Strike=====
+%
 Conjures a pillar of fire which damages ground units in a target area over time.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
@@ -641,7 +655,8 @@ Conjures a pillar of fire which damages ground units in a target area over time.
 |  2 |                                          80 damage/3 sec.  |
 |  3 |                                          110 damage/3 sec. |
 
-*Banish
+=====Banish=====
+%
 Turns a non-mechanical unit ethereal and slows its movement speed by 50% for a short duration. Ethereal creatures cannot attack, but they can cast spells and certain spells cast upon them will have a greater effect.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -649,7 +664,8 @@ Turns a non-mechanical unit ethereal and slows its movement speed by 50% for a s
 |  2 |c 15 (5) sec.    |c            60     |
 |  3 |c 18 (6) sec.    |c            50     |
 
-3. Siphon Mana:
+=====Siphon Mana=====
+%
 Transfers mana between the Blood Mage and a target. Drains mana from an enemy, or transfers mana to an ally. Siphon Mana can push the Blood Mage's mana over its maximum value, though excess mana drains off rapidly if not used.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -657,7 +673,8 @@ Transfers mana between the Blood Mage and a target. Drains mana from an enemy, o
 |  2 |                                         Drains 30 MP/sec. |
 |  3 |                                         Drains 45 MP/sec. |
 
-4. Phoenix (SUMMON, ULTIMATE):
+=====Phoenix (ULTIMATE)=====
+%
 Summons a powerful Phoenix. The Phoenix burns with such intensity that it damages itself and nearby enemy units. Has Spell Immunity, and Resistant Skin. When a Phoenix dies, it creates an egg that will hatch into a Phoenix.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -713,8 +730,8 @@ Summons a powerful Phoenix. The Phoenix burns with such intensity that it damage
 **Samuro (BONUS CAMPAIGN, ACT II)
 
 ====SPELLS====
-
-*Wind Walk
+=====Wind Walk=====
+%
 Allows the Blademaster to become invisible, and move faster for a set amount of time. When the Blademaster attacks a unit to break invisibility, he will deal bonus damage.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -722,7 +739,8 @@ Allows the Blademaster to become invisible, and move faster for a set amount of 
 |  2 |c 35 sec.        |                       +40% movement, +70 damage.   |
 |  3 |c 50 sec.        |                       +100% movement, +100 damage. |
 
-*Mirror Image (SUMMON):
+=====Mirror Image=====
+%
 Confuses the enemy by creating illusions of the Blademaster and dispelling all magic from the Blademaster.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -730,7 +748,8 @@ Confuses the enemy by creating illusions of the Blademaster and dispelling all m
 |  2 |                                         Summons 2 illusions. |
 |  3 |                                         Summons 3 illusions. |
 
-*Critical Strike (PASSIVE):
+=====Critical Strike=====
+%
 Gives a chance to do more damage on an attack.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -738,7 +757,8 @@ Gives a chance to do more damage on an attack.
 |  2 |                                        15% chance, 3 times the damage. |
 |  3 |                                        15% chance, 4 times the damage. |
 
-*Bladestorm (ULTIMATE):
+=====Bladestorm (ULTIMATE)=====
+%
 Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and dealing 110 damage per second to nearby enemy land units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -790,8 +810,8 @@ Causes a bladestorm of destructive force around the Blademaster, rendering him i
 **Thrall (unique model)
 
 ====SPELLS====
-
-*Chain Lightning
+=====Chain Lightning=====
+%
 Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -799,7 +819,8 @@ Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemie
 |  2 |                                         125 damage, jumps 6 times. |
 |  3 |                                         180 damage, jumps 8 times. |
 
-*Far Sight
+=====Far Sight=====
+%
 Reveals the area of the map that it is cast upon. Also reveals invisible units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -807,7 +828,8 @@ Reveals the area of the map that it is cast upon. Also reveals invisible units.
 |  2 |c                              60     |
 |  3 |c                              50     |
 
-*Feral Spirit (SUMMON)
+=====Feral Spirit=====
+%
 Summons 2 Spirit Wolves to fight the Far Seer's enemies.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
@@ -815,7 +837,8 @@ Summons 2 Spirit Wolves to fight the Far Seer's enemies.
 |  2 |c-2 25 sec.                             | Summons Dire Wolves, 300 HP.   |
 |  3 |                                          Summons Shadow Wolves, 500 HP. |
 
-*Earthquake (ULTIMATE)
+=====Earthquake (ULTIMATE)=====
+%
 Makes the ground tremble and break, causing 50 damage per second to buildings and slowing units by 75% within area of effect.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -866,8 +889,8 @@ Makes the ground tremble and break, causing 50 damage per second to buildings an
 **Cairne Bloodhoof
 
 ====SPELLS====
-
-*Shockwave
+=====Shockwave=====
+%
 A wave of force that ripples out from the Hero, causing damage to land units in a line.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -875,15 +898,17 @@ A wave of force that ripples out from the Hero, causing damage to land units in 
 |  2 |                                         130 damage. |
 |  3 |                                         200 damage. |
 
-*War Stomp
-Slams the ground, stunning ad damaging nearby enemy land units.
+=====War Stomp=====
+%
+Slams the ground, stunning and damaging nearby enemy land units.
 
 |*LV |*DURATION (HERO)  |*COOLDOWN  |*MP COST |*EFFECT |
 |  1 |c 3 (2) sec. stun |c-3 6 sec. |c-3 90   | 25 damage. |
 |  2 |c 4 (3) sec. stun |                       50 damage. |
 |  3 |c 5 (4) sec. stun |                       75 damage. |
 
-*Endurance Aura (AURA)
+=====Endurance Aura=====
+%
 Increases the movement speed and attack rate of nearby friendly units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -891,7 +916,8 @@ Increases the movement speed and attack rate of nearby friendly units.
 |  2 |                                        +20% movement, +10% rate. |
 |  3 |                                        +30% movement, +15% rate. |
 
-*Reincarnation (PASSIVE, ULTIMATE)
+=====Reincarnation (ULTIMATE)=====
+%
 When killed, the Tauren Chieftain will come back to life.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -939,8 +965,8 @@ When killed, the Tauren Chieftain will come back to life.
 **Rokhan (BONUS CAMPAIGN, ACT I)
 
 ====SPELLS====
-
-*Healing Wave (HEAL)
+=====Healing Wave=====
+%
 Calls forth a wave of energy that heals a target and bounces to nearby friendlies. Each bounce heals less damage.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -948,7 +974,8 @@ Calls forth a wave of energy that heals a target and bounces to nearby friendlie
 |  2 |                                         Heals 215 HP, jumps 4 times. |
 |  3 |                                         Heals 300 HP, jumps 5 times. |
 
-*Hex
+=====Hex=====
+%
 Transforms an enemy unit into a random critter, disabling special abilities.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -956,7 +983,8 @@ Transforms an enemy unit into a random critter, disabling special abilities.
 |  2 |c 30 (5) sec.    |
 |  3 |c 45 (6) sec.    |
 
-*Serpent Ward
+=====Serpent Ward=====
+%
 Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic.
 
 |*LV |*DURATION (HERO) |*COOLDOWN    |*MP COST |*EFFECT |
@@ -964,7 +992,8 @@ Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The w
 |  2 |                                           135 HP, 23-26 damage. |
 |  3 |                                           135 HP, 41-45 damage. |
 
-*Big Bad Voodoo (ULTIMATE)
+=====Big Bad Voodoo (ULTIMATE)=====
+%
 Turns all friendly units invulnerable in an area around the Shadow Hunter. The Shadow Hunter does not turn invulnerable.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1021,8 +1050,8 @@ Turns all friendly units invulnerable in an area around the Shadow Hunter. The S
 **Arthas (After completing the Human campaign in Warcraft III: Reign of Chaos)
 
 ====SPELLS====
-
-*Death Coil (HEAL)
+=====Death Coil=====
+%
 A coil of death that can damage an enemy living unit or heal a friendly undead unit.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1030,7 +1059,8 @@ A coil of death that can damage an enemy living unit or heal a friendly undead u
 |  2 |                                         200 damage or heals 400 HP. |
 |  3 |                                         300 damage or heals 600 HP. |
 
-*Death Pact
+=====Death Pact=====
+%
 Kills a target friendly Undead unit, giving a percentage of its hit points to the Death Knight.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
@@ -1038,7 +1068,8 @@ Kills a target friendly Undead unit, giving a percentage of its hit points to th
 |  2 |                                          200% HP. |
 |  3 |                                          300% HP. |
 
-*Unholy Aura (AURA)
+=====Unholy Aura=====
+%
 Increases the movement speed and life regeneration rate of nearby friendly units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -1046,7 +1077,8 @@ Increases the movement speed and life regeneration rate of nearby friendly units
 |  2 |                                        +20% movement, +1 HP/sec.   |
 |  3 |                                        +30% movement, +1.5 HP/sec. |
 
-*Animate Dead (SUMMON, ULTIMATE)
+=====Animate Dead (ULTIMATE)=====
+%
 Raises 6 dead units in an area to fight for the Death Knight. Animated units are invulnerable.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1110,8 +1142,8 @@ Raises 6 dead units in an area to fight for the Death Knight. Animated units are
 **Varimathras
 
 ====SPELLS====
-
-*Carrion Swarm
+=====Carrion Swarm=====
+%
 Sends a horde of bats to damage enemies.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
@@ -1119,7 +1151,8 @@ Sends a horde of bats to damage enemies.
 |  2 |                                          125 damage/unit, max 600.  |
 |  3 |                                          200 damage/unit, max 1000. |
 
-*Sleep
+=====Sleep=====
+%
 Puts a target enemy unit to sleep. A sleeping unit can be awoken by attacking it.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1127,7 +1160,8 @@ Puts a target enemy unit to sleep. A sleeping unit can be awoken by attacking it
 |  2 |c 40 (10) sec.   |c             75     |
 |  3 |c 60 (15) sec.   |c             50     |
 
-*Vampiric Aura (AURA)
+=====Vampiric Aura=====
+%
 Nearby friendly melee units gain hit points when they hit enemy units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -1135,7 +1169,8 @@ Nearby friendly melee units gain hit points when they hit enemy units.
 |  2 |                                        HP equal to 30% of damage. |
 |  3 |                                        HP equal to 45% of damage. |
 
-*Inferno (SUMMON, ULTIMATE)
+=====Inferno (ULTIMATE)=====
+%
 Calls an Infernal down from the sky, dealing 50 damage and stunning enemy land units for 4 seconds in an area.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1191,8 +1226,8 @@ Calls an Infernal down from the sky, dealing 50 damage and stunning enemy land u
 **Kel'Thuzad (After reviving him during the Undead campaign in Warcraft III: Reign of Chaos)
 
 ====SPELLS====
-
-*Frost Nova
+=====Frost Nova=====
+%
 Blasts enemy units around a target enemy unit with a wave of damaging frost that slows movement and attack rate.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1200,7 +1235,8 @@ Blasts enemy units around a target enemy unit with a wave of damaging frost that
 |  2 |c 6 (3) sec.     |                       100 damage, 100 nova damage. |
 |  3 |c 8 (4) sec.     |                       100 damage, 150 nova damage. |
 
-*Frost Armor (AUTOCAST)
+=====Frost Armor=====
+%
 Creates a shield of frost around a target friendly unit. The shield adds armor and slows melee units that attack it.
 
 |*LV |*DURATION (HERO)       |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1208,7 +1244,8 @@ Creates a shield of frost around a target friendly unit. The shield adds armor a
 |  2 |c 45 sec., 5 sec. slow |                       +5 armor. |
 |  3 |c 45 sec., 5 sec. slow |                       +7 armor. |
 
-*Dark Ritual
+=====Dark Ritual=====
+%
 Sacrifices a target friendly Undead unit to convert its hit points into mana for the Lich.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
@@ -1216,7 +1253,8 @@ Sacrifices a target friendly Undead unit to convert its hit points into mana for
 |  2 |                                          66% HP to MP.  |
 |  3 |                                          100% HP to MP. |
 
-*Death and Decay (ULTIMATE)
+=====Death and Decay (ULTIMATE)=====
+%
 Damages everything in its area of effect by 4% of its base hit points per second. Also destroys trees.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1265,8 +1303,8 @@ Damages everything in its area of effect by 4% of its base hit points per second
 **Anub'arak
 
 ====SPELLS====
-
-*Impale
+=====Impale=====
+%
 Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake.
 
 |*LV |*DURATION (HERO)  |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1274,7 +1312,8 @@ Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils o
 |  2 |c 3 (2) sec. stun |                       80 damage.  |
 |  3 |c 4 (3) sec. stun |                       110 damage. |
 
-*Spiked Carapace (PASSIVE)
+=====Spiked Carapace=====
+%
 The Crypt Lord forms barbed layers of chitinous armor that increases its defense and returns damage to enemy melee units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -1282,7 +1321,8 @@ The Crypt Lord forms barbed layers of chitinous armor that increases its defense
 |  2 |                                        25% damage returned, +5 armor. |
 |  3 |                                        35% damage returned, +7 armor. |
 
-*Carrion Beetles (SUMMON, AUTOCAST)
+=====Carrion Beetles=====
+%
 The Crypt Lord progenerates 1 Carrion Beetle from a target corpse to attack the Crypt Lord's enemies. Beetles are permanent, but only 5 can be controlled at a time.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1290,7 +1330,8 @@ The Crypt Lord progenerates 1 Carrion Beetle from a target corpse to attack the 
 |  2 |                                         275 HP, 15-18 damage, Burrow. |
 |  3 |                                         410 HP, 22-27 damage, Burrow. |
 
-*Locust Swarm (ULTIMATE)
+=====Locust Swarm (ULTIMATE)=====
+%
 Creates a swarm of angry locusts that bite and tear at nearby enemy units. As they chew the enemy flesh, they convert it into a substance that restores hit points to the Crypt Lord when they return.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1347,8 +1388,8 @@ Creates a swarm of angry locusts that bite and tear at nearby enemy units. As th
 **Illidan Stormrage
 
 ====SPELLS====
-
-*Mana Burn
+=====Mana Burn=====
+%
 Sends a bolt of negative energy that burns a target enemy unit's mana. Burned mana combusts, dealing damage to the target equal to the amount of mana burned.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -1356,7 +1397,8 @@ Sends a bolt of negative energy that burns a target enemy unit's mana. Burned ma
 |  2 |c                   6 sec.  |           Burns 100 MP. |
 |  3 |c                   5 sec.  |           Burns 150 MP. |
 
-*Immolation (AUTOCAST)
+=====Immolation=====
+%
 Engulfs the Demon Hunter in flames, causing damage to nearby enemy land units. Drains mana until deactivated.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST        |*EFFECT |
@@ -1364,7 +1406,8 @@ Engulfs the Demon Hunter in flames, causing damage to nearby enemy land units. D
 |  2 |                                               15 damage/sec. |
 |  3 |                                               20 damage/sec. |
 
-*Evasion (PASSIVE)
+=====Evasion=====
+%
 Gives a percent chance to avoid attacks.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -1372,7 +1415,8 @@ Gives a percent chance to avoid attacks.
 |  2 |                                        20% chance enemy misses. |
 |  3 |                                        30% chance enemy misses. |
 
-*Metamorphosis (ULTIMATE)
+=====Metamorphosis (ULTIMATE)=====
+%
 Transforms the Demon Hunter into a powerful Demon with a ranged attack and 500 bonus hit points.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1425,8 +1469,8 @@ Transforms the Demon Hunter into a powerful Demon with a ranged attack and 500 b
 **Malfurion Stormrage (unique model)
 
 ====SPELLS====
-
-*Entangling Roots
+=====Entangling Roots=====
+%
 Causes roots to burst from the ground, immobilizing, disarming and damaging a target enemy temporarily.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1434,7 +1478,8 @@ Causes roots to burst from the ground, immobilizing, disarming and damaging a ta
 |  2 |c 24 (4) sec.    |
 |  3 |c 36 (5) sec.    |                          Deals 25 damage. |
 
-*Force of Nature (SUMMON)
+=====Force of Nature=====
+%
 Converts an area of trees into Treants. Treants have 300 hit points and deal 15-17 damage. Can learn Nature's Blessing.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
@@ -1442,7 +1487,8 @@ Converts an area of trees into Treants. Treants have 300 hit points and deal 15-
 |  2 |                                          Summons 3 Treants, 300 HP. |
 |  3 |                                          Summons 4 Treants, 300 HP. |
 
-*Thorns Aura (AURA)
+=====Thorns Aura=====
+%
 An aura that gives friendly nearby units a damage shield, which returns a percentage of a melee attacker's damage back to it.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -1450,7 +1496,8 @@ An aura that gives friendly nearby units a damage shield, which returns a percen
 |  2 |                                        20% damage returned. |
 |  3 |                                        30% damage returned. |
 
-*Tranquility (HEAL, ULTIMATE)
+=====Tranquility (ULTIMATE)=====
+%
 Causes rains of healing energy to pour down in a large area, healing friendly allied units for 20 hit points per second.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -1503,8 +1550,8 @@ Causes rains of healing energy to pour down in a large area, healing friendly al
 **Tyrande Whisperwind
 
 ====SPELLS====
-
-*Scout (SUMMON)
+=====Scout=====
+%
 Temporarily summons an Owl Scout, which can be used to scout the map. Can see invisible units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
@@ -1512,7 +1559,8 @@ Temporarily summons an Owl Scout, which can be used to scout the map. Can see in
 |  2 |c 90 sec.        |c              75     |
 |  3 |c 120 sec.       |c              50     |
 
-*Searing Arrows (AUTOCAST)
+=====Searing Arrows=====
+%
 Increases the damage of the Priestess' attack by adding fire.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1520,7 +1568,8 @@ Increases the damage of the Priestess' attack by adding fire.
 |  2 |                                         +20 damage. |
 |  3 |                                         +30 damage. |
 
-*Trueshot Aura (AURA)
+=====Trueshot Aura=====
+%
 An aura that gives friendly nearby units bonus damage to their ranged attacks.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -1528,7 +1577,8 @@ An aura that gives friendly nearby units bonus damage to their ranged attacks.
 |  2 |                                        +20% ranged damage. |
 |  3 |                                        +30% ranged damage. |
 
-*Starfall (ULTIMATE)
+=====Starfall (ULTIMATE)=====
+%
 Calls down waves of falling stars that damage nearby enemy units. Each wave deals 50 damage.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1582,8 +1632,8 @@ Calls down waves of falling stars that damage nearby enemy units. Each wave deal
 **Maiev Shadowsong
 
 ====SPELLS====
-
-*Fan of Knives
+=====Fan of Knives=====
+%
 The Warden hurls a flurry of knives, damaging nearby enemies.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
@@ -1591,7 +1641,8 @@ The Warden hurls a flurry of knives, damaging nearby enemies.
 |  2 |                                         125 damage, max 625. |
 |  3 |                                         190 damage, max 950. |
 
-*Blink (TELEPORT)
+=====Blink=====
+%
 Short distance teleportation that allows the Warden to move in and out of combat.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
@@ -1599,7 +1650,8 @@ Short distance teleportation that allows the Warden to move in and out of combat
 |  2 |c-2 10                                  |
 |  3 |c                  1 sec.     |
 
-*Shadow Strike
+=====Shadow Strike=====
+%
 Hurls a poisoned dagger which deals large initial damage, and then deals damage over time. The poisoned unit has its movement speeed slowed for a short duration.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
@@ -1607,7 +1659,8 @@ Hurls a poisoned dagger which deals large initial damage, and then deals damage 
 |  2 |                                        150 damage, 30 damage/3 sec. |
 |  3 |                                        225 damage, 45 damage/3 sec. |
 
-*Vengeance (ULTIMATE)
+=====Vengeance (ULTIMATE)=====
+%
 Creates a powerful avatar that summons invulnerable spirits from nearby corpses to attack your enemies. When the Avatar of Vengeance dies, the spirits vanish.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
