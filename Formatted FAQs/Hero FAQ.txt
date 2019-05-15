@@ -423,7 +423,7 @@ TIPS:
 An impenetrable shield surrounds the Paladin, protecting him from all damage and spells for a set amount of time.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c 15 sec.        |c 35 sec. |c-3 25   |c-3 Hero is invulnerable. |
+|  1 |c 15 sec.        |c 35 sec. |c-3 25   |c-3 Hero becomes invulnerable. |
 |  2 |c 30 sec.        |c 50 sec. |
 |  3 |c 45 sec.        |c 65 sec. |
 
@@ -511,9 +511,9 @@ TIPS:
 Calls down waves of freezing ice shards that damage units in a target area.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 6 sec.         |c-3 6 sec. |c-3 75   |c 6 waves/30 damage, 150 max damage.  |
-|  2 |c 8 sec.         |c                       8 waves/40 damage, 200 max damage.  |
-|  3 |c 10 sec.        |c                       10 waves/50 damage, 250 max damage. |
+|  1 |c 6 sec.         |c-3 6 sec. |c-3 75   |c Calls 6 waves/30 damage, 150 max damage.  |
+|  2 |c 8 sec.         |c                       Calls 8 waves/40 damage, 200 max damage.  |
+|  3 |c 10 sec.        |c                       Calls 10 waves/50 damage, 250 max damage. |
 
 TIPS:
 *This spell greatly maximizes damages on hordes of enemy forces that are close to each other. Use this spell on ranged units such as Riflemen or Necromancers.
@@ -613,9 +613,9 @@ TIPS:
 A magical hammer that is thrown at an enemy unit, causing damage and stunning the target.
 
 |*LV |*DURATION (HERO)    |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 5 (3) sec. stun |c-3 9 sec. |c-3 75   |c 100 damage. |
-|  2 |c                                            225 damage. |
-|  3 |c                                            350 damage. |
+|  1 |c-3 5 (3) sec. stun |c-3 9 sec. |c-3 75   |c Deals 100 damage. |
+|  2 |c                                            Deals 225 damage. |
+|  3 |c                                            Deals 350 damage. |
 
 TIPS:
 *Storm Bolt is a good spell to damage and stun enemies. Use it to interrupt enemies channeling their spells.
@@ -627,9 +627,9 @@ TIPS:
 Slams the ground, dealing damage to and slowing the movement speed and attack rate of nearby enemy land units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 5 (3) sec.   |c-3 6 sec. |c-3 90   |c 60 damage, -50% movement speed, -50% attack rate.  |
-|  2 |c                                         100 damage, -50% movement speed, -50% attack rate. |
-|  3 |c                                         140 damage, -50% movement speed, -50% attack rate. |
+|  1 |c-3 5 (3) sec.   |c-3 6 sec. |c-3 90   |c Deals 60 damage, -50% movement speed, -50% attack rate.  |
+|  2 |c                                         Deals 100 damage, -50% movement speed, -50% attack rate. |
+|  3 |c                                         Deals 140 damage, -50% movement speed, -50% attack rate. |
 
 TIPS:
 *Thunder Clap is best used on enemy melee units who are attacking the Mountain King, as it will reduce their effectiveness to hit you while you attack them.
@@ -714,9 +714,9 @@ When Avatar is activated, it gives the Mountain King 5 bonus armor, 500 bonus hi
 Conjures a pillar of fire which damages ground units in a target area over time.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
-|  1 |c-3 6 sec.       |c-3 10 sec. |c-3 135  |c 45 damage/3 sec.  |
-|  2 |c                                          80 damage/3 sec.  |
-|  3 |c                                          110 damage/3 sec. |
+|  1 |c-3 6 sec.       |c-3 10 sec. |c-3 135  |c Deals 45 damage/3 sec.  |
+|  2 |c                                          Deals 80 damage/3 sec.  |
+|  3 |c                                          Deals 110 damage/3 sec. |
 
 TIPS:
 *Just like the [[Blizzard|Blizzard]] spell, you can use this against an enemy group that gangs up together to deal a lot of damage. However, allied units who are in the pillar of flames are damaged too.
@@ -757,7 +757,7 @@ TIPS:
 Summons a powerful Phoenix. The Phoenix burns with such intensity that it damages itself and nearby enemy units. Has Spell Immunity, and Resistant Skin. When a Phoenix dies, it creates an egg that will hatch into a Phoenix.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c UNLIMITED      |c 180 sec. |c 175    |c Summons Phoenix. |
+|  6 |c UNLIMITED      |c 180 sec. |c 175    |c Summons Phoenix, Resistant Skin, spell immunity. |
 
 TIPS:
 *Unlike most spells that summon units into battle like an [[Inferno (ULTIMATE)|Infernal]] or a [[Summon Water Elemental|Water Elemental]], the Phoenix stays on the battle until the egg dies.
@@ -866,7 +866,7 @@ TIPS:
 Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and dealing 110 damage per second to nearby enemy land units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 7 sec.         |c 180 sec. |c 200    |c Magic immunity, 110 damage/sec. |
+|  6 |c 7 sec.         |c 180 sec. |c 200    |c Deals 110 damage/sec., spell immunity. |
 
 TIPS:
 *The Blade Master has 1 of the best ultimates among all heroes. Use this against a horde of unsuspecting victims to maximize damage output.
@@ -923,9 +923,9 @@ TIPS:
 Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 9 sec. |c-3 120  |c 85 damage, jumps 4 times.  |
-|  2 |c                                         125 damage, jumps 6 times. |
-|  3 |c                                         180 damage, jumps 8 times. |
+|  1 |c-3 N/A          |c-3 9 sec. |c-3 120  |c Deals 85 damage, jumps 4 times.  |
+|  2 |c                                         Deals 125 damage, jumps 6 times. |
+|  3 |c                                         Deals 180 damage, jumps 8 times. |
 
 TIPS:
 *Some players pick this spell first for creep farming, as it damages multiple targets at once.
@@ -966,7 +966,7 @@ TIPS:
 Makes the ground tremble and break, causing 50 damage per second to buildings and slowing units by 75% within area of effect.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  6 |c 25 sec.        |c 90 sec. |c 150    |c 50 damage/sec to buildings, -75% slow to units. |
+|  6 |c 25 sec.        |c 90 sec. |c 150    |c Deals 50 damage/sec to buildings, -75% slow to units. |
 
 TIPS:
 *Channel this spell as you siege an enemy base. Walk up to the middle of the base and use it to cause damage to nearby buildings. Best used near altars to prevent enemy Heroes from respawning.
@@ -1024,9 +1024,9 @@ TIPS:
 A wave of force that ripples out from the Hero, causing damage to land units in a line.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 8 sec. |c-3 100  |c 75 damage.  |
-|  2 |c                                         130 damage. |
-|  3 |c                                         200 damage. |
+|  1 |c-3 N/A          |c-3 8 sec. |c-3 100  |c Deals 75 damage.  |
+|  2 |c                                         Deals 130 damage. |
+|  3 |c                                         Deals 200 damage. |
 
 TIPS:
 *Use Shockwave to deal damage to enemy units that are stacked in a line, preferably spellcasters and ranged units.
@@ -1038,9 +1038,9 @@ TIPS:
 Slams the ground, stunning and damaging nearby enemy land units.
 
 |*LV |*DURATION (HERO)  |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 3 (2) sec. stun |c-3 6 sec. |c-3 90   |c 25 damage. |
-|  2 |c 4 (3) sec. stun |c                       50 damage. |
-|  3 |c 5 (4) sec. stun |c                       75 damage. |
+|  1 |c 3 (2) sec. stun |c-3 6 sec. |c-3 90   |c Deals 25 damage. |
+|  2 |c 4 (3) sec. stun |c                       Deals 50 damage. |
+|  3 |c 5 (4) sec. stun |c                       Deals 75 damage. |
 
 TIPS:
 *Similar to [[Thunder Clap|Thunder Clap]], War Stomp stuns nearby units. Use it on enemy melee units who gangs up on the Tauren Chieftain to stun them.
@@ -1265,7 +1265,7 @@ TIPS:
 Raises 6 dead units in an area to fight for the Death Knight. Animated units are invulnerable.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 40 sec.        |c 180 sec. |c 175    |c Summons 6 random dead units. |
+|  6 |c 40 sec.        |c 180 sec. |c 175    |c Summons 6 random dead units, invulnerable. |
 
 TIPS:
 *Similar to [[Resurrection (ULTIMATE)|Resurrection]], one of its differences is that units summoned are invulnerable to attacks and cannot be dispelled.
@@ -1336,9 +1336,9 @@ TIPS:
 Sends a horde of bats to damage enemies.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 10 sec. |c-3 110  |c 75 damage/unit, 300 max damage.   |
-|  2 |c                                          125 damage/unit, 600 max damage.  |
-|  3 |c                                          200 damage/unit, 1000 max damage. |
+|  1 |c-3 N/A          |c-3 10 sec. |c-3 110  |c Deals 75 damage/unit, 300 max damage.   |
+|  2 |c                                          Deals 125 damage/unit, 600 max damage.  |
+|  3 |c                                          Deals 200 damage/unit, 1000 max damage. |
 
 TIPS:
 *Carrion Swarm affects land and flying units. Use it during a clash.
@@ -1440,9 +1440,9 @@ TIPS:
 Blasts enemy units around a target enemy unit with a wave of damaging frost that slows movement and attack rate.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 4 (2) sec.     |c-3 8 sec. |c-3 125  |c 100 damage, 50 nova damage, -50% movement speed, -25% attack rate.  |
-|  2 |c 6 (3) sec.     |c                       100 damage, 100 nova damage, -50% movement speed, -25% attack rate. |
-|  3 |c 8 (4) sec.     |c                       100 damage, 150 nova damage, -50% movement speed, -25% attack rate. |
+|  1 |c 4 (2) sec.     |c-3 8 sec. |c-3 125  |c Deals 100 damage, 50 nova damage, -50% movement speed, -25% attack rate.  |
+|  2 |c 6 (3) sec.     |c                       Deals 100 damage, 100 nova damage, -50% movement speed, -25% attack rate. |
+|  3 |c 8 (4) sec.     |c                       Deals 100 damage, 150 nova damage, -50% movement speed, -25% attack rate. |
 
 TIPS:
 *Frost Nova is mainly used on low health units such as Peasants or Peons. Use this against them to prevent them from harvesting resources and easily kill them.
@@ -1468,9 +1468,9 @@ TIPS:
 Sacrifices a target friendly Undead unit to convert its hit points into mana for the Lich.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 15 sec. |c-3 25   |c 33% HP to MP.  |
-|  2 |c                                          66% HP to MP.  |
-|  3 |c                                          100% HP to MP. |
+|  1 |c-3 N/A          |c-3 15 sec. |c-3 25   |c Converts 33% HP to MP.  |
+|  2 |c                                          Converts 66% HP to MP.  |
+|  3 |c                                          Converts 100% HP to MP. |
 
 TIPS:
 *This spell is similar to [[Death Pact|Death Pact]], the only difference is that HP is converted to MP.
@@ -1538,9 +1538,9 @@ TIPS:
 Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake.
 
 |*LV |*DURATION (HERO)  |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 2 (1) sec. stun |c-3 9 sec. |c-3 100  |c 50 damage.  |
-|  2 |c 3 (2) sec. stun |c                       80 damage.  |
-|  3 |c 4 (3) sec. stun |c                       110 damage. |
+|  1 |c 2 (1) sec. stun |c-3 9 sec. |c-3 100  |c Deals 50 damage.  |
+|  2 |c 3 (2) sec. stun |c                       Deals 80 damage.  |
+|  3 |c 4 (3) sec. stun |c                       Deals 110 damage. |
 
 TIPS:
 *This is similar to [[Shockwave|Shockwave]], the only difference is that the units are stunned.
@@ -1578,7 +1578,7 @@ TIPS:
 Creates a swarm of angry locusts that bite and tear at nearby enemy units. As they chew the enemy flesh, they convert it into a substance that restores hit points to the Crypt Lord when they return.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 30 sec.        |c 180 sec. |c 150    |c 20 locusts, 7 locusts/unit. |
+|  6 |c 30 sec.        |c 180 sec. |c 150    |c Releases 20 locusts, 7 locusts/unit. |
 
 TIPS:
 *Locust Swarm can hit land units and flying units though it cannot damage buildings.
@@ -1656,9 +1656,9 @@ TIPS:
 Engulfs the Demon Hunter in flames, causing damage to nearby enemy land units. Drains mana until deactivated.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST        |*EFFECT |
-|  1 |c-3 N/A          |c-3 N/A   |c-3 35 + 7/sec. |c 10 damage/sec. |
-|  2 |c                                               15 damage/sec. |
-|  3 |c                                               20 damage/sec. |
+|  1 |c-3 N/A          |c-3 N/A   |c-3 35 + 7/sec. |c Deals 10 damage/sec. |
+|  2 |c                                               Deals 15 damage/sec. |
+|  3 |c                                               Deals 20 damage/sec. |
 
 TIPS:
 *The Demon Hunter is a skilled melee Hero with a great spell to fend off melee units. If the Demon Hunter is ganged up by enemy melee units, use Immolation to deal damage to multiple enemy units at once. It doesn't affect flying units though.
@@ -1743,9 +1743,9 @@ TIPS:
 Causes roots to burst from the ground, immobilizing, disarming and damaging a target enemy temporarily.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 9 (3) sec.     |c-3 8 sec. |c-3 75   |c-2 15 damage/sec. |
+|  1 |c 9 (3) sec.     |c-3 8 sec. |c-3 75   |c-2 Roots 15 damage/sec. |
 |  2 |c 24 (4) sec.    |
-|  3 |c 36 (5) sec.    |c                          25 damage/sec. |
+|  3 |c 36 (5) sec.    |c                         Roots 25 damage/sec. |
 
 TIPS:
 *Entangled units cannot attack but can cast spells.
@@ -1884,7 +1884,7 @@ TIPS:
 Calls down waves of falling stars that damage nearby enemy units. Each wave deals 50 damage.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 45 sec.        |c 180 sec. |c 200    |c 50 damage/wave. |
+|  6 |c 45 sec.        |c 180 sec. |c 200    |c Deals 50 damage/wave. |
 
 TIPS:
 *Use Starfall on large enemy forces. It picks the nearest enemy units including flying units.
@@ -1944,9 +1944,9 @@ TIPS:
 The Warden hurls a flurry of knives, damaging nearby enemies.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 9 sec. |c-3 100  |c 75 damage, 300 max damage.  |
-|  2 |c                                         125 damage, 625 max damage. |
-|  3 |c                                         190 damage, 950 max damage. |
+|  1 |c-3 N/A          |c-3 9 sec. |c-3 100  |c Deals 75 damage, 300 max damage.  |
+|  2 |c                                         Deals 125 damage, 625 max damage. |
+|  3 |c                                         Deals 190 damage, 950 max damage. |
 
 TIPS:
 *Use this spell whilst attacking enemy units as it has a good range of dealing damage to other nearby units, not just melee units.
@@ -1973,9 +1973,9 @@ TIPS:
 Hurls a poisoned dagger which deals large initial damage, and then deals damage over time. The poisoned unit has its movement speed slowed for a short duration.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 15 sec.      |c-3 8 sec. |c-3 75  |c 75 damage, -50% movement speed, 10 damage/3 sec.  |
-|  2 |c                                        150 damage, -50% movement speed, 30 damage/3 sec. |
-|  3 |c                                        225 damage, -50% movement speed, 45 damage/3 sec. |
+|  1 |c-3 15 sec.      |c-3 8 sec. |c-3 75  |c Deals 75 damage, -50% movement speed, 10 damage/3 sec.  |
+|  2 |c                                        Deals 150 damage, -50% movement speed, 30 damage/3 sec. |
+|  3 |c                                        Deals 225 damage, -50% movement speed, 45 damage/3 sec. |
 
 TIPS:
 *Shadow Strike is used when enemy heroes retreat as it not only damages them over time, it impairs their movement speed.
