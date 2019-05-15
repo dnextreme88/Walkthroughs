@@ -3,9 +3,10 @@
 ;List of changes for Version 1.6 (started on May 7, 2019)
 ;FAQ is now converted into a Formatted FAQ.
 ;Armor table header in each hero page is now capitalized.
-;Removed spell type note from certain spells (except Ultimate spells).
+;Removed spell type note from all spells except Ultimate spells.
 ;Corrected Infernal spell as Inferno.
 ;Added tips for each hero spells.
+;Optimized hero spell tables.
 ==Introduction==
 Hi and welcome to my Hero FAQ. This FAQ will concentrate on hero units of the game. I'll be listing valuable information to every hero, such as statistics, hero names, skills and a lot more. It's my second FAQ for the WarCraft series.
 
