@@ -5,6 +5,7 @@
 ;Armor table header in each hero page is now capitalized.
 ;Removed spell type note from certain spells (except Ultimate spells).
 ;Corrected Infernal spell as Inferno.
+;Added tips for each hero spells.
 ==Introduction==
 Hi and welcome to my Hero FAQ. This FAQ will concentrate on hero units of the game. I'll be listing valuable information to every hero, such as statistics, hero names, skills and a lot more. It's my second FAQ for the WarCraft series.
 
@@ -405,9 +406,16 @@ All heroes have the following common attributes.
 A holy light that can heal a friendly living unit or damage an enemy Undead unit.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 5 sec. |c-3 65   | Heals 200 HP or 100 damage. |
-|  2 |                                         Heals 400 HP or 200 damage. |
-|  3 |                                         Heals 600 HP or 300 damage. |
+|  1 |c-3 N/A          |c-3 5 sec. |c-3 65   |c Heals 200 HP or deals 100 damage. |
+|  2 |c                                         Heals 400 HP or deals 200 damage. |
+|  3 |c                                         Heals 600 HP or deals 300 damage. |
+
+TIPS:
+*Holy Light cannot be casted on Mechanical units (such as a Siege Engine or a Meat Wagon) or on the hero himself.
+*You can cast Holy Light against enemy Undead forces to damage them, but you cannot cast the spell on your allied Undead forces. They can help damage an enemy Undead hero greatly, should Holy Light be casted upon them.
+*Use the spell to keep your strongest units alive such as a Knight or a Gryphon Rider.
+*You can also use the spell to heal allied heroes or other heroes you may have.
+*Some players usually pick this spell first at Level 1 for creep farming, coupled with 3-4 footmen. 
 
 =====Divine Shield=====
 %
@@ -418,21 +426,35 @@ An impenetrable shield surrounds the Paladin, protecting him from all damage and
 |  2 |c 30 sec.        |c 50 sec. |
 |  3 |c 45 sec.        |c 65 sec. |
 
+TIPS:
+*Upon casting, the Paladin cannot be attacked or be targeted by enemy spells until it wears off.
+*Divine Shield is a great spell for solo low-level creep farming, as you can't easily die. It can also be used to retreat your Paladin, if it's low on health.
+*This spell is relatively useful on enemy clashes, as you can hammer away with attacks and you won't be attacked until the spell wears off.
+
 =====Devotion Aura=====
 %
 Gives additional armor to nearby friendly units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  | +1.5 armor. |
-|  2 |                                        +3 armor.   |
-|  3 |                                        +4.5 armor. |
+|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  |c +1.5 armor. |
+|  2 |c                                        +3 armor.   |
+|  3 |c                                        +4.5 armor. |
+
+TIPS:
+*This aura is greatly effective with melee units that are near the Paladin, such as Footmen and Knights as it greatly increases their longevity during clashes.
 
 =====Resurrection (ULTIMATE)=====
 %
 Brings back to life the corpses of 6 friendly nearby units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c N/A            |c 240 sec. |c 200    | Resurrects 6 dead units. |
+|  6 |c N/A            |c 240 sec. |c 200    |c Resurrects 6 dead units. |
+
+TIPS:
+*Paladin's ultimate spell revives the strongest allied units, either your units or your allies' units, nearby. You can turn the tide of battle if you use this effectively.
+*Resurrecting allied units doesn't go into your control, as they will be controlled by your allies.
+*Use Resurrection to exceed food limit and bolster additional forces.
+*Resurrection is best used with an allied Meat Wagon. It simply has to drop all corpses it has and you just have to resurrect them.
 
 ===Archmage===
 
@@ -488,34 +510,54 @@ Brings back to life the corpses of 6 friendly nearby units.
 Calls down waves of freezing ice shards that damage units in a target area.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 6 sec.         |c-3 6 sec. |c-3 75   | 6 waves/30 damage, max 150.  |
-|  2 |c 8 sec.         |                       8 waves/40 damage, max 200.  |
-|  3 |c 10 sec.        |                       10 waves/50 damage, max 250. |
+|  1 |c 6 sec.         |c-3 6 sec. |c-3 75   |c 6 waves/30 damage, 150 max damage.  |
+|  2 |c 8 sec.         |c                       8 waves/40 damage, 200 max damage.  |
+|  3 |c 10 sec.        |c                       10 waves/50 damage, 250 max damage. |
+
+TIPS:
+*This spell greatly maximizes damages on hordes of enemy forces that are close to each other. Use this spell on ranged units such as Riflemen or Necromancers.
+*Be careful on using this spell, as it can harm both your allies and enemies on the area it was casted upon.
+*Blizzard can also damage enemy buildings during a siege to an enemy base.
+*Blizzard is ineffective for units with Spell Immunity such as [[Inferno (ULTIMATE)|Infernals]].
 
 =====Summon Water Elemental=====
 %
 Summons a Water Elemental to attack the Archmage's enemies.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
-|  1 |c-3 60 sec.      |c-3 20 sec. |c-3 125  | 525 HP, 18-22 damage. |
-|  2 |                                          675 HP, 31-39 damage. |
-|  3 |                                          900 HP, 41-49 damage. |
+|  1 |c-3 60 sec.      |c-3 20 sec. |c-3 125  |c 525 HP, 18-22 damage. |
+|  2 |c                                          675 HP, 31-39 damage. |
+|  3 |c                                          900 HP, 41-49 damage. |
+
+TIPS:
+*Only 1 Water Elemental can be summoned. If there is an existing Water Elemental, it will be replaced with a new one upon casting.
+*Some players use this on a solo low-level creep farming, as the Water Elemental can stay longer before being casted again.
+*Water Elementals can be used to scout unexplored areas without losing food as it does not use food.
 
 =====Brilliance Aura=====
 %
 Gives additional mana regeneration to nearby friendly units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  | +0.75 MP regen/sec. |
-|  2 |                                        +1.5 MP regen/sec.  |
-|  3 |                                        +2.25 MP regen/sec. |
+|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  |c +0.75 MP regen/sec. |
+|  2 |c                                        +1.5 MP regen/sec.  |
+|  3 |c                                        +2.25 MP regen/sec. |
+
+TIPS:
+*Brilliance Aura increases mana regeneration of nearby units including allied units. It's best to have Sorceresses or Priests close to the Archmage so that it can maximize mana usage.
 
 =====Mass Teleport (ULTIMATE)=====
 %
 Teleports 24 of the player's nearby units, including the Archmage, to a friendly ground unit or structure.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  6 |c N/A            |c 20 sec. |c 100    | Teleports to a building/unit. |
+|  6 |c N/A            |c 20 sec. |c 100    |c Teleports to a building/unit. |
+
+TIPS:
+*Mass Teleport are much more effective than Scroll of Town Portals because it can be used on your buildings and allied buildings. You can also use it to teleport to a unit.
+*Best used on an allied Shadow unit, you can ambush an unsuspecting enemy base while the unit being teleported to is invisible.
+*Use this spell to help an ally defend their bases or to retreat from your own bases from enemy ambushes.
+*Use all your units and move to the Archmage to teleport as many units as possible.
 
 ===Mountain King===
 
@@ -570,34 +612,53 @@ Teleports 24 of the player's nearby units, including the Archmage, to a friendly
 A magical hammer that is thrown at an enemy unit, causing damage and stunning the target.
 
 |*LV |*DURATION (HERO)    |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 5 (3) sec. stun |c-3 9 sec. |c-3 75   | 100 damage. |
-|  2 |                                            225 damage. |
-|  3 |                                            350 damage. |
+|  1 |c-3 5 (3) sec. stun |c-3 9 sec. |c-3 75   |c 100 damage. |
+|  2 |c                                            225 damage. |
+|  3 |c                                            350 damage. |
+
+TIPS:
+*Storm Bolt is a good spell to damage and stun enemies. Use it to interrupt enemies channeling their spells.
+*It can be used on enemy flying units that prove to be nuisance, such as Frost Wyrms or Wyverns.
+*For chasing enemy heroes who are retreating away, just hurl your hammer to stun them and prevent them from escaping.
 
 =====Thunder Clap=====
 %
 Slams the ground, dealing damage to and slowing the movement speed and attack rate of nearby enemy land units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 5 (3) sec.   |c-3 6 sec. |c-3 90   | 60 damage, -50% movement.  |
-|  2 |                                         100 damage, -50% movement. |
-|  3 |                                         140 damage, -50% movement. |
+|  1 |c-3 5 (3) sec.   |c-3 6 sec. |c-3 90   |c 60 damage, -50% movement speed, -50% attack rate.  |
+|  2 |c                                         100 damage, -50% movement speed, -50% attack rate. |
+|  3 |c                                         140 damage, -50% movement speed, -50% attack rate. |
+
+TIPS:
+*Thunder Clap is best used on enemy melee units who are attacking the Mountain King, as it will reduce their effectiveness to hit you while you attack them.
+*You can combo this with [[Storm Bolt|Storm Bolt]] to maximize the Mountain King's damage output.
+*Enemy flying units are unaffected by this spell.
 
 =====Bash=====
 %
 Gives a chance that an attack will do 25 bonus damage and stun an opponent for 2 seconds.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 2 (1) sec.   |c-3 N/A   |c-3 N/A  | 20% chance, +25 damage. |
-|  2 |                                        30% chance, +25 damage. |
-|  3 |                                        40% chance, +25 damage. |
+|  1 |c-3 2 (1) sec.   |c-3 N/A   |c-3 N/A  |c 20% chance to stun, +25 damage. |
+|  2 |c                                        30% chance to stun, +25 damage. |
+|  3 |c                                        40% chance to stun, +25 damage. |
+
+TIPS:
+*This spell automatically stuns the enemy Mountain King is attacking to.
+*Bash can stun enemy flying units if Mountain King attacks flying units. You need an orb for this (such as an Orb of Fire or Orb of Lightning), bought from a shop building like an Arcane Vault.
 
 =====Avatar (ULTIMATE)=====
 %
 When Avatar is activated, it gives the Mountain King 5 bonus armor, 500 bonus hit points, 20 bonus damage and spell immunity.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 60 sec.        |c 180 sec. |c 150    | +5 armor, +500 HP, +20 damage. |
+|  6 |c 60 sec.        |c 180 sec. |c 150    |c +5 armor, +500 HP, +20 damage, spell immunity. |
+
+*TIPS:
+*One of the best ultimate spells, Avatar transforms Mountain King into a powerful hammer-wielding giant twice his size. This is usually used when Mountain King is low on health because he gains extra health upon casting this.
+*You can use this spell when Mountain King is ganged up by enemies, then a [[Thunder Clap|Thunder Clap]] to maximize your damage output.
+*Make good use of this spell, as it has a fairly long duration and takes a long time before casting it again. Use it to help your allies fend off enemy attacks or siege enemy bases.
 
 ===Blood Mage===
 
@@ -652,34 +713,57 @@ When Avatar is activated, it gives the Mountain King 5 bonus armor, 500 bonus hi
 Conjures a pillar of fire which damages ground units in a target area over time.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
-|  1 |c-3 6 sec.       |c-3 10 sec. |c-3 135  | 45 damage/3 sec.  |
-|  2 |                                          80 damage/3 sec.  |
-|  3 |                                          110 damage/3 sec. |
+|  1 |c-3 6 sec.       |c-3 10 sec. |c-3 135  |c 45 damage/3 sec.  |
+|  2 |c                                          80 damage/3 sec.  |
+|  3 |c                                          110 damage/3 sec. |
+
+TIPS:
+*Just like the [[Blizzard|Blizzard]] spell, you can use this against an enemy group that gangs up together to deal a lot of damage. However, allied units who are in the pillar of flames are damaged too.
+*Use this spell to destroy trees and clear a path.
 
 =====Banish=====
 %
 Turns a non-mechanical unit ethereal and slows its movement speed by 50% for a short duration. Ethereal creatures cannot attack, but they can cast spells and certain spells cast upon them will have a greater effect.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c 12 (4) sec.    |c-3 N/A   |c 75     |c-3 Turns unit ethereal. |
+|  1 |c 12 (4) sec.    |c-3 N/A   |c 75     |c-3 Turns unit ethereal, cannot attack.|
 |  2 |c 15 (5) sec.    |c            60     |
 |  3 |c 18 (6) sec.    |c            50     |
+
+TIPS:
+*Banish is a powerful spell to temporarily remove powerful units such as Abominations, Wyverns or Frost Wyrms. They will not be able to attack but can cast spells and move.
+*You can also use this against units that cast spells or interrupt it, such as Sorceresses or Druid of the Talons.
+*If you use a damaging spell such as a [[Storm Bolt|Storm Bolt]] or [[Blizzard|Blizzard]] against them while under the effects of Banish, they will receive extra damage. Use it against enemy heroes who may be persistently stronger than your forces do to turn the tides of battle against them.
+*Banish cannot be casted on units with spell immunity or Mechanical units such as Siege Engines.
 
 =====Siphon Mana=====
 %
 Transfers mana between the Blood Mage and a target. Drains mana from an enemy, or transfers mana to an ally. Siphon Mana can push the Blood Mage's mana over its maximum value, though excess mana drains off rapidly if not used.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 6 sec.       |c-3 6 sec. |c-3 10   | Drains 15 MP/sec. |
-|  2 |                                         Drains 30 MP/sec. |
-|  3 |                                         Drains 45 MP/sec. |
+|  1 |c-3 6 sec.       |c-3 6 sec. |c-3 10   |c Drains 15 MP/sec. |
+|  2 |c                                         Drains 30 MP/sec. |
+|  3 |c                                         Drains 45 MP/sec. |
+
+TIPS:
+*Siphon Mana can exceed the maximum mana of the Blood Mage upon casting, though excess mana drastically drains.
+*Use this spell if Blood Mage runs out of mana, refunding 10 mana as you continually drain your target's mana.
+*You can cast this spell to drain mana of enemy Heroes or spellcasters so that they won't be able to cast spells, making them ineffective in battle.
+*The Blood Mage requires to be in range with the target to drain mana, otherwise spell channeling will cancel.
 
 =====Phoenix (ULTIMATE)=====
 %
 Summons a powerful Phoenix. The Phoenix burns with such intensity that it damages itself and nearby enemy units. Has Spell Immunity, and Resistant Skin. When a Phoenix dies, it creates an egg that will hatch into a Phoenix.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c UNLIMITED      |c 180 sec. |c 175    | Summons Phoenix. |
+|  6 |c UNLIMITED      |c 180 sec. |c 175    |c Summons Phoenix. |
+
+TIPS:
+*Unlike most spells that summon units into battle like an [[Inferno (ULTIMATE)|Infernal]] or a [[Summon Water Elemental|Water Elemental]], the Phoenix stays on the battle until the egg dies.
+*If the egg dies, the Phoenix channels for a short period of time before hatching again, unless it dies before it hatches.
+*You can have only 1 Phoenix in battle. Casting the spell again replaces the old one with a new one.
+*The Phoenix continually drains HP, which means that it cannot regenerate any HP from any source of spells or buildings.
+*The Phoenix is extremely powerful in destroying enemy bases, so remember to have one before making an ambush.
 
 ==Orcs==
 
@@ -736,34 +820,56 @@ Summons a powerful Phoenix. The Phoenix burns with such intensity that it damage
 Allows the Blademaster to become invisible, and move faster for a set amount of time. When the Blademaster attacks a unit to break invisibility, he will deal bonus damage.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 20 sec.        |c-3 5 sec. |c-3 75   | +10% movement, +40 damage.   |
-|  2 |c 35 sec.        |                       +40% movement, +70 damage.   |
-|  3 |c 50 sec.        |                       +100% movement, +100 damage. |
+|  1 |c 20 sec.        |c-3 5 sec. |c-3 75   |c Invisibility, +10% movement speed, +40 damage upon attacking.   |
+|  2 |c 35 sec.        |c                       Invisibility, +40% movement speed, +70 damage upon attacking.   |
+|  3 |c 50 sec.        |c                       Invisibility, +100% movement speed, +100 damage upon attacking. |
+
+TIPS:
+*Wind Walk is best used to scout unexplored areas, as the Blade Master is invisible.
+*Use Wind Walk when making a stealthy kill or chasing an enemy Hero and deal bonus damage.
+*In conjunction with its ultimate, [[Bladestorm (ULTIMATE)||Bladestorm]], you can stealth with Wind Walk then activate the ultimate for a surprise attack and let your units pounce on your enemies.
+*Wind Walk is also used for retreat, in case the Blade Master is low on health.
 
 =====Mirror Image=====
 %
 Confuses the enemy by creating illusions of the Blademaster and dispelling all magic from the Blademaster.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 60 sec.      |c-3 3 sec. |c-3 125  | Summons 1 illusion.  |
-|  2 |                                         Summons 2 illusions. |
-|  3 |                                         Summons 3 illusions. |
+|  1 |c-3 60 sec.      |c-3 3 sec. |c-3 125  |c Summons 1 illusion.  |
+|  2 |c                                         Summons 2 illusions. |
+|  3 |c                                         Summons 3 illusions. |
+
+TIPS:
+*Mirror Image is best used on a full HP/full MP Blade Master, because it will mirror the exact state of the original hero when casted.
+*Duplicates never deal damage when attacking and cannot cast spells but they receive more damage than the original hero.
+*Duplicates also levels up if the original hero levels up, still creating confusion between enemies.
+*Similar to spells like [[Phoenix (ULTIMATE)|Phoenix]], the illusions are replaced with new illusions and will still replicate the same state of the original hero when casted.
+*Use this spell when you are snared or stuck such as [[Entangling Roots|Entangling Roots]] as the original hero will break free.
+*Always have the Blade Master along with its duplicates to confuse enemies which Blade Master they would attack.
 
 =====Critical Strike=====
 %
 Gives a chance to do more damage on an attack.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  | 15% chance, 2 times the damage. |
-|  2 |                                        15% chance, 3 times the damage. |
-|  3 |                                        15% chance, 4 times the damage. |
+|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  |c 15% chance, 2 times the damage. |
+|  2 |c                                        15% chance, 3 times the damage. |
+|  3 |c                                        15% chance, 4 times the damage. |
+
+TIPS:
+*This is relatively stronger than [[Bash|Bash]], only has a lesser chance of activating it.
+*Critical Strikes only works on units the Blade Master attacks, as it does not work on enemy buildings.
 
 =====Bladestorm (ULTIMATE)=====
 %
 Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and dealing 110 damage per second to nearby enemy land units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 7 sec.         |c 180 sec. |c 200    | Magic immunity, 110 damage/sec. |
+|  6 |c 7 sec.         |c 180 sec. |c 200    |c Magic immunity, 110 damage/sec. |
+
+TIPS:
+*The Blade Master has 1 of the best ultimates among all heroes. Use this against a horde of unsuspecting victims to maximize damage output.
+*Bladestorm can also damage buildings. Maximize its damage to buildings close to each other.
 
 ===Far Seer===
 
@@ -816,9 +922,14 @@ Causes a bladestorm of destructive force around the Blademaster, rendering him i
 Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 9 sec. |c-3 120  | 85 damage, jumps 4 times.  |
-|  2 |                                         125 damage, jumps 6 times. |
-|  3 |                                         180 damage, jumps 8 times. |
+|  1 |c-3 N/A          |c-3 9 sec. |c-3 120  |c 85 damage, jumps 4 times.  |
+|  2 |c                                         125 damage, jumps 6 times. |
+|  3 |c                                         180 damage, jumps 8 times. |
+
+TIPS:
+*Some players pick this spell first for creep farming, as it damages multiple targets at once.
+*Chain Lightning damages multiple targets, as long as the lightning can still bounce off from target to target.
+*Chain Lightning doesn't deal any further damage to the same targets if it cannot bounce off anymore.
 
 =====Far Sight=====
 %
@@ -829,21 +940,38 @@ Reveals the area of the map that it is cast upon. Also reveals invisible units.
 |  2 |c                              60     |
 |  3 |c                              50     |
 
+TIPS:
+*Mainly used for detecting danger, use it against invisible units that may be lurking around such as a Shadow.
+*Always use Far Sight before going to unexplored areas, as enemies could be lurking around.
+*Higher levels of this spell reveal a larger area, though if you've explored most of the map, you wouldn't need to level up this spell anyway.
+
 =====Feral Spirit=====
 %
 Summons 2 Spirit Wolves to fight the Far Seer's enemies.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
-|  1 |c-3 60 sec.      |c 30 sec.   |c-3 75   | Summons Spirit Wolves, 200 HP. |
-|  2 |c-2 25 sec.                             | Summons Dire Wolves, 300 HP.   |
-|  3 |                                          Summons Shadow Wolves, 500 HP. |
+|  1 |c-3 60 sec.      |c 30 sec.   |c-3 75   |c Summons 2 Spirit Wolves, 200 HP, Critical Strike. |
+|  2 |c-2 25 sec.                             |c Summons 2 Dire Wolves, 300 HP, Critical Strike.   |
+|  3 |c                                          Summons 2 Shadow Wolves, 500 HP, Critical Strike. |
+
+TIPS:
+*If [[Chain Lightning|Chain Lightning]] isn't your type of spell at level 1, you can go for this spell. This adds reinforcements to your forces while bolstering your army.
+*Your wolves have level 1 [[Critical Strike|Critical Strike]]. You can use them as front line troops to fend off creeps while keeping your other units undamaged as possible.
+*Summoning additional wolves replaces the old ones with newer ones. If the previous wolves are of different level and you replaced them with a higher level of this spell, the wolves will be summoned with better stats.
+*Use the wolves to scout areas of the map or as additional units for your allies during clashes.
 
 =====Earthquake (ULTIMATE)=====
 %
 Makes the ground tremble and break, causing 50 damage per second to buildings and slowing units by 75% within area of effect.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  6 |c 25 sec.        |c 90 sec. |c 150    | 50 damage/sec, 75% slow. |
+|  6 |c 25 sec.        |c 90 sec. |c 150    |c 50 damage/sec to buildings, -75% slow to units. |
+
+TIPS:
+*Channel this spell as you siege an enemy base. Walk up to the middle of the base and use it to cause damage to nearby buildings. Best used near altars to prevent enemy Heroes from respawning.
+*Earthquake can also clear nearby trees, similar to [[Flame Strike|Flame Strike]].
+*Earthquake's slow only affects land units and not flying units.
+*You can also use this spell during clashes. Bravely walk the Far Seer into the middle of the enemy forces, protect it with Taurens or Kodo Beasts then cast it to slow your enemies.
 
 ===Tauren Chieftain===
 
@@ -895,34 +1023,53 @@ Makes the ground tremble and break, causing 50 damage per second to buildings an
 A wave of force that ripples out from the Hero, causing damage to land units in a line.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 8 sec. |c-3 100  | 75 damage.  |
-|  2 |                                         130 damage. |
-|  3 |                                         200 damage. |
+|  1 |c-3 N/A          |c-3 8 sec. |c-3 100  |c 75 damage.  |
+|  2 |c                                         130 damage. |
+|  3 |c                                         200 damage. |
+
+TIPS:
+*Use Shockwave to deal damage to enemy units that are stacked in a line, preferably spellcasters and ranged units.
+*Shockwave only affects land units and not flying units.
+*Shockwave doesn't damage buildings though.
 
 =====War Stomp=====
 %
 Slams the ground, stunning and damaging nearby enemy land units.
 
 |*LV |*DURATION (HERO)  |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 3 (2) sec. stun |c-3 6 sec. |c-3 90   | 25 damage. |
-|  2 |c 4 (3) sec. stun |                       50 damage. |
-|  3 |c 5 (4) sec. stun |                       75 damage. |
+|  1 |c 3 (2) sec. stun |c-3 6 sec. |c-3 90   |c 25 damage. |
+|  2 |c 4 (3) sec. stun |c                       50 damage. |
+|  3 |c 5 (4) sec. stun |c                       75 damage. |
+
+TIPS:
+*Similar to [[Thunder Clap|Thunder Clap]], War Stomp stuns nearby units. Use it on enemy melee units who gangs up on the Tauren Chieftain to stun them.
+*War Stomp only affects land units and not flying units.
+*You may also use this spell on spellcasters who frequently cast spells to interrupt them.
 
 =====Endurance Aura=====
 %
 Increases the movement speed and attack rate of nearby friendly units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  | +10% movement, +5% rate.  |
-|  2 |                                        +20% movement, +10% rate. |
-|  3 |                                        +30% movement, +15% rate. |
+|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  |c +10% movement speed, +5% attack rate.  |
+|  2 |c                                        +20% movement speed, +10% attack rate. |
+|  3 |c                                        +30% movement speed, +15% attack rate. |
+
+TIPS:
+*The aura works well with heavy units like Grunts and Taurens. It maximizes speed and attacks faster.
+*The aura affects both land and flying units, so having the Tauren Chieftain joining forces with your allies will prove a hard battle to your enemies.
 
 =====Reincarnation (ULTIMATE)=====
 %
 When killed, the Tauren Chieftain will come back to life.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 7 sec.         |c 240 sec. |c N/A    | Hero revives. |
+|  6 |c 7 sec.         |c 240 sec. |c N/A    |c Hero revives. |
+
+TIPS:
+*This ultimate is so unique that it activates on its own, without a cost. It revives your hero upon death.
+*Once the Tauren Chieftain gets to level 6, you can send him as the front line hero and hammer away your forces because you'll be confident he'll revive after death. Though it has a fairly long cooldown before the passive ultimate activates again.
+*Reincarnation saves a lot of resources instead of reviving it on the Altar of Storms. Just make sure that the spell is ready to activate before making a suicide dive on your enemies.
 
 ===Shadow Hunter===
 
@@ -971,9 +1118,14 @@ When killed, the Tauren Chieftain will come back to life.
 Calls forth a wave of energy that heals a target and bounces to nearby friendlies. Each bounce heals less damage.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 9 sec. |c-3 90   | Heals 130 HP, jumps 3 times. |
-|  2 |                                         Heals 215 HP, jumps 4 times. |
-|  3 |                                         Heals 300 HP, jumps 5 times. |
+|  1 |c-3 N/A          |c-3 9 sec. |c-3 90   |c Heals 130 HP, jumps 3 times. |
+|  2 |c                                         Heals 215 HP, jumps 4 times. |
+|  3 |c                                         Heals 300 HP, jumps 5 times. |
+
+TIPS:
+*Healing Wave saves a lot of Healing Wards because this is the only spell from all Orc units that you can heal from. You cannot heal your units unless you have Healing Wards from Troll Witch Doctors.
+*A unit cannot be healed twice if Healing Wave cannot jump any further.
+*Use this spell to keep your strongest units alive, such as Taurens and Wyverns. 
 
 =====Hex=====
 %
@@ -984,21 +1136,35 @@ Transforms an enemy unit into a random critter, disabling special abilities.
 |  2 |c 30 (5) sec.    |
 |  3 |c 45 (6) sec.    |
 
+TIPS:
+*Hex works on both land and flying units, so use it against enemy units who maybe troublesome. It doesn't work on summoned units such as [[Summon Water Elemental|Water Elementals]], [[Inferno (ULTIMATE)|Infernals]].
+*Hex also works on enemy Heroes. You can use it to interrupt them from channeling spells or if they retreat to get a secured kill.
+*Units transformed into random critters walk slowly, so grab the chance to pummel them with your strongest units.
+
 =====Serpent Ward=====
 %
 Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic.
 
 |*LV |*DURATION (HERO) |*COOLDOWN    |*MP COST |*EFFECT |
-|  1 |c-3 40 sec.      |c-3 6.5 sec. |c-3 30   | 75 HP, 11-13 damage.  |
-|  2 |                                           135 HP, 23-26 damage. |
-|  3 |                                           135 HP, 41-45 damage. |
+|  1 |c-3 40 sec.      |c-3 6.5 sec. |c-3 30   |c 75 HP, 11-13 damage.  |
+|  2 |c                                           135 HP, 23-26 damage. |
+|  3 |c                                           135 HP, 41-45 damage. |
+
+TIPS:
+*Serpent Wards are good spells to fend off enemy flying units, since most Orc units rely on melee units.
+*Serpent Wards deal a good damage to low health units such as Peasants or Acolytes to prevent them from mining gold.
 
 =====Big Bad Voodoo (ULTIMATE)=====
 %
 Turns all friendly units invulnerable in an area around the Shadow Hunter. The Shadow Hunter does not turn invulnerable.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 30 sec.        |c 180 sec. |c 200    | Units become invulnerable. |
+|  6 |c 30 sec.        |c 180 sec. |c 200    |c Nearby units become invulnerable. |
+
+TIPS:
+*Surround Shadow Hunter with all your units and cast this spell. Units near the Shadow Hunter become invulnerable while the spell is in effect.
+*Just like most spells, Big Bad Voodoo can be interrupted. If you want to keep your units invulnerable in the longest time possible, use your invulnerable units to kill enemy units who may interrupt Shadow Hunter.
+*Allied units can also be invulnerable, provided they are near the Shadow Hunter.
 
 ==Undead==
 
@@ -1056,34 +1222,55 @@ Turns all friendly units invulnerable in an area around the Shadow Hunter. The S
 A coil of death that can damage an enemy living unit or heal a friendly undead unit.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 6 sec. |c-3 75   | 100 damage or heals 200 HP. |
-|  2 |                                         200 damage or heals 400 HP. |
-|  3 |                                         300 damage or heals 600 HP. |
+|  1 |c-3 N/A          |c-3 6 sec. |c-3 75   |c Deals 100 damage or heals 200 HP. |
+|  2 |c                                         Deals 200 damage or heals 400 HP. |
+|  3 |c                                         Deals 300 damage or heals 600 HP. |
+
+TIPS:
+*This spell shares similarities with [[Holy Light|Holy Light]].
+*Death Coil can be casted on land or flying units.
 
 =====Death Pact=====
 %
 Kills a target friendly Undead unit, giving a percentage of its hit points to the Death Knight.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 15 sec. |c-3 50   | 100% HP. |
-|  2 |                                          200% HP. |
-|  3 |                                          300% HP. |
+|  1 |c-3 N/A          |c-3 15 sec. |c-3 50   |c Restores 100% HP. |
+|  2 |c                                          Restores 200% HP. |
+|  3 |c                                          Restores 300% HP. |
+
+TIPS:
+*Death Pact is a confusing yet powerful spell, because it gives HP to the Death Knight in exchange for 1 of your units. Use it your extra units you may deem invaluable.
+*Death Pact is best used on [[Carrion Beetles|Carrion Beetles]], because you can just simply cast that spell and this spell again to regain HP faster.
+*Death Pact can also be used on summoned units such as Skeleton Warriors and Skeleton Archers. Though remember, the higher the percentage of their HP, the more HP the Death Knight gets.
+*Sacrificed units simply disappear and doesn't turn into corpses.
 
 =====Unholy Aura=====
 %
 Increases the movement speed and life regeneration rate of nearby friendly units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  | +10% movement, +0.5 HP/sec. |
-|  2 |                                        +20% movement, +1 HP/sec.   |
-|  3 |                                        +30% movement, +1.5 HP/sec. |
+|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  |c +10% movement speed, +0.5 HP/sec. |
+|  2 |c                                        +20% movement speed, +1 HP/sec.   |
+|  3 |c                                        +30% movement speed, +1.5 HP/sec. |
+
+TIPS:
+*Treat this aura as a healing spell because Undead units doesn't regenerate health besides standing on blight or getting healed by Obsidian Statues.
+*Unholy Aura works well with fast units such as Ghouls.
+*Unholy Aura is strange that it also regenerates the health of Meat Wagons, Obsidian Statues and other similar Mechanical units when it seems unrealistic to do so.
 
 =====Animate Dead (ULTIMATE)=====
 %
 Raises 6 dead units in an area to fight for the Death Knight. Animated units are invulnerable.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 40 sec.        |c 180 sec. |c 175    | Summons 6 random dead units. |
+|  6 |c 40 sec.        |c 180 sec. |c 175    |c Summons 6 random dead units. |
+
+TIPS:
+*Similar to [[Resurrection (ULTIMATE)|Resurrection]], one of its differences is that units summoned are invulnerable to attacks and cannot be dispelled.
+*Animate Dead raises 6 dead units near the Death Knight, including flying units.
+*Meat Wagons should carry the corpses of strong units such as Taurens, Knights, Mountain Giants and drop them so that you can raise these units.
+*The Death Knight raises either your units, your allied units or your enemy units, choosing the nearest corpses.
 
 ===Dread Lord===
 
@@ -1148,9 +1335,14 @@ Raises 6 dead units in an area to fight for the Death Knight. Animated units are
 Sends a horde of bats to damage enemies.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 10 sec. |c-3 110  | 75 damage/unit, max 300.   |
-|  2 |                                          125 damage/unit, max 600.  |
-|  3 |                                          200 damage/unit, max 1000. |
+|  1 |c-3 N/A          |c-3 10 sec. |c-3 110  |c 75 damage/unit, 300 max damage.   |
+|  2 |c                                          125 damage/unit, 600 max damage.  |
+|  3 |c                                          200 damage/unit, 1000 max damage. |
+
+TIPS:
+*Carrion Swarm affects land and flying units. Use it during a clash.
+*Carrion Swarm attacks units randomly. It's preferred to use it near enemy spellcasters as they have lower health compared to units that doesn't cast spells at all.
+*Carrion Swarm can deal a huge damage to smaller forces as the bats will just repeatedly flock to the targets. If your enemies have a lot of units, the bats will randomly attack units so some units may not be attacked at all.
 
 =====Sleep=====
 %
@@ -1161,21 +1353,36 @@ Puts a target enemy unit to sleep. A sleeping unit can be awoken by attacking it
 |  2 |c 40 (10) sec.   |c             75     |
 |  3 |c 60 (15) sec.   |c             50     |
 
+TIPS:
+*Sleep is an effective spell to interrupt spell channeling or to keep a nuisance unit quiet. Most players use this against enemy heroes who prove a challenge to the Dread Lord.
+*Sleep can be casted on land units or flying units.
+*On creep farming, use this spell on a high-leveled creep and kill the weaker creeps to make the battle easier.
+*Most spells casted on sleeping units do not awaken them but spells that stuns or snares awakens them. These spells may be [[Thunder Clap|Thunder Clap]], [[Entangling Roots|Entangling Roots]], [[War Stomp|War Stomp]] etc.
+
 =====Vampiric Aura=====
 %
 Nearby friendly melee units gain hit points when they hit enemy units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  | HP equal to 15% of damage. |
-|  2 |                                        HP equal to 30% of damage. |
-|  3 |                                        HP equal to 45% of damage. |
+|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  |c Restores HP equal to 15% of damage. |
+|  2 |c                                        Restores HP equal to 30% of damage. |
+|  3 |c                                        Restores HP equal to 45% of damage. |
+
+TIPS:
+*This aura plays an opposite role to [[Trueshot Aura|Trueshot Aura]], because it only affects melee units.
+*Vampiric Aura works well in conjunction with [[Unholy Aura|Unholy Aura]] as you can move faster, regenerate HP faster, attack faster, and even restore HP faster based on the damage your units dealt.
 
 =====Inferno (ULTIMATE)=====
 %
 Calls an Infernal down from the sky, dealing 50 damage and stunning enemy land units for 4 seconds in an area.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 180 sec.       |c 180 sec. |c 175    | Summons Infernal, 4 sec. stun. |
+|  6 |c 180 sec.       |c 180 sec. |c 175    |c Summons Infernal, 4 sec. stun, 50 damage on impact. |
+
+TIPS:
+*Infernals are tremendously strong summoned units that have Chaos damage that is superior in all armor types. Use this spell to send an Infernal down the sky into the enemy base as it greatly deals heavy damage to buildings and units.
+*You can also cast this spell to clear up trees.
+*Cast this spell on enemy forces who are close to each other, preferably enemy spellcasters to stun them. Remember, Infernals stun land units who gets contact with the Infernal upon landing.
 
 ===Lich===
 
@@ -1232,34 +1439,55 @@ Calls an Infernal down from the sky, dealing 50 damage and stunning enemy land u
 Blasts enemy units around a target enemy unit with a wave of damaging frost that slows movement and attack rate.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 4 (2) sec.     |c-3 8 sec. |c-3 125  | 100 damage, 50 nova damage.  |
-|  2 |c 6 (3) sec.     |                       100 damage, 100 nova damage. |
-|  3 |c 8 (4) sec.     |                       100 damage, 150 nova damage. |
+|  1 |c 4 (2) sec.     |c-3 8 sec. |c-3 125  |c 100 damage, 50 nova damage, -50% movement speed, -25% attack rate.  |
+|  2 |c 6 (3) sec.     |c                       100 damage, 100 nova damage, -50% movement speed, -25% attack rate. |
+|  3 |c 8 (4) sec.     |c                       100 damage, 150 nova damage, -50% movement speed, -25% attack rate. |
+
+TIPS:
+*Frost Nova is mainly used on low health units such as Peasants or Peons. Use this against them to prevent them from harvesting resources and easily kill them.
+*If the target unit is near other units, they will be slowed as well.
+*You can also use this spell for enemy Heroes that are retreating, as it slows them and lowers their battle potency.
 
 =====Frost Armor=====
 %
 Creates a shield of frost around a target friendly unit. The shield adds armor and slows melee units that attack it.
 
 |*LV |*DURATION (HERO)       |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 45 sec., 5 sec. slow |c-3 2 sec. |c-3 40   | +3 armor. |
-|  2 |c 45 sec., 5 sec. slow |                       +5 armor. |
-|  3 |c 45 sec., 5 sec. slow |                       +7 armor. |
+|  1 |c 45 sec., 5 sec. slow |c-3 2 sec. |c-3 40   |c +3 armor. |
+|  2 |c 45 sec., 5 sec. slow |c                       +5 armor. |
+|  3 |c 45 sec., 5 sec. slow |c                       +7 armor. |
+
+TIPS:
+*This is a defensive spell that can be casted on land and flying units. Use this spell to shield your strongest units and allied heroes during clashes.
+*Only melee units are slowed when the target is attacked. Flying units who attacked it are not slowed.
+*The Lich can autocast Frost Armor and he will pick the nearest melee unit for it.
 
 =====Dark Ritual=====
 %
 Sacrifices a target friendly Undead unit to convert its hit points into mana for the Lich.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 15 sec. |c-3 25   | 33% HP to MP.  |
-|  2 |                                          66% HP to MP.  |
-|  3 |                                          100% HP to MP. |
+|  1 |c-3 N/A          |c-3 15 sec. |c-3 25   |c 33% HP to MP.  |
+|  2 |c                                          66% HP to MP.  |
+|  3 |c                                          100% HP to MP. |
+
+TIPS:
+*This spell is similar to [[Death Pact|Death Pact]], the only difference is that HP is converted to MP.
+*Use this spell on your units with a huge chunk of HP such as Abominations, since these units are slow anyway.
+*You can also use this spell on summoned units such as Skeleton Warriors and Skeleton Archers.
 
 =====Death and Decay (ULTIMATE)=====
 %
 Damages everything in its area of effect by 4% of its base hit points per second. Also destroys trees.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 35 sec.        |c 150 sec. |c 250    | Damage equal to 4% of HP/sec. |
+|  6 |c 35 sec.        |c 150 sec. |c 250    |c Damage equal to 4% of HP/sec. |
+
+TIPS:
+*Lich's ultimate can damage just about anything. Use Death and Decay on an enemy base to significantly damage buildings, especially buildings that are low on health.
+*Land units and flying units are affected by this spell. Useful for persistent flying units such as Dragonhawk Riders or Wyverns.
+*Death and Decay can also clear trees on the area it was casted upon.
+*Be careful not to put any of your units into where the spell is casted, as it will damage both your units and enemy units.
 
 ===Crypt Lord===
 
@@ -1309,34 +1537,52 @@ Damages everything in its area of effect by 4% of its base hit points per second
 Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake.
 
 |*LV |*DURATION (HERO)  |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 2 (1) sec. stun |c-3 9 sec. |c-3 100  | 50 damage.  |
-|  2 |c 3 (2) sec. stun |                       80 damage.  |
-|  3 |c 4 (3) sec. stun |                       110 damage. |
+|  1 |c 2 (1) sec. stun |c-3 9 sec. |c-3 100  |c 50 damage.  |
+|  2 |c 3 (2) sec. stun |c                       80 damage.  |
+|  3 |c 4 (3) sec. stun |c                       110 damage. |
+
+TIPS:
+*This is similar to [[Shockwave|Shockwave]], the only difference is that the units are stunned.
+*Impale is best used on enemy Heroes and spellcasters, as it has relatively long stun on higher levels and interrupts spells they are channeling.
+*Impale reveals hidden units such as Shadows if they are affected by the spell.
 
 =====Spiked Carapace=====
 %
 The Crypt Lord forms barbed layers of chitinous armor that increases its defense and returns damage to enemy melee units.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 N/A   |c-3 N/A  | 15% damage returned, +3 armor. |
-|  2 |                                        25% damage returned, +5 armor. |
-|  3 |                                        35% damage returned, +7 armor. |
+|  1 |c-3 N/A          |c-3 N/A   |c-3 N/A  |c 15% damage returned, +3 armor. |
+|  2 |c                                        25% damage returned, +5 armor. |
+|  3 |c                                        35% damage returned, +7 armor. |
+
+TIPS:
+*This passive spell shares similarities with [[Thorns Aura|Thorns Aura]], the only difference is that it adds armor to the Crypt Lord.
 
 =====Carrion Beetles=====
 %
 The Crypt Lord progenerates 1 Carrion Beetle from a target corpse to attack the Crypt Lord's enemies. Beetles are permanent, but only 5 can be controlled at a time.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 UNLIMITED    |c-3 6 sec. |c-3 30   | 140 HP, 8-9 damage.           |
-|  2 |                                         275 HP, 15-18 damage, Burrow. |
-|  3 |                                         410 HP, 22-27 damage, Burrow. |
+|  1 |c-3 UNLIMITED    |c-3 6 sec. |c-3 30   |c 140 HP, 8-9 damage.           |
+|  2 |c                                         275 HP, 15-18 damage, Burrow. |
+|  3 |c                                         410 HP, 22-27 damage, Burrow. |
+
+TIPS:
+*Carrion Beetles is a unique hero spell that stays with the Crypt Lord until it dies. They don't even cost food.
+*You can replace old Carrion Beetles with newer ones as the level of this spell increases. The oldest Carrion Beetle is hard to determine though.
+*Carrion Beetles can use the Burrow skill on levels 2 and 3, which is the same as the Crypt Fiends' Burrow spell as well. If they are replaced while burrowed, the new ones will spawn to the corpse where the Crypt Lord casted it.
 
 =====Locust Swarm (ULTIMATE)=====
 %
 Creates a swarm of angry locusts that bite and tear at nearby enemy units. As they chew the enemy flesh, they convert it into a substance that restores hit points to the Crypt Lord when they return.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 30 sec.        |c 180 sec. |c 150    | 20 locusts, 7 locusts/unit. |
+|  6 |c 30 sec.        |c 180 sec. |c 150    |c 20 locusts, 7 locusts/unit. |
+
+TIPS:
+*Locust Swarm can hit land units and flying units though it cannot damage buildings.
+*This spell is best used on large enemy forces. The more units it hits, the more HP it returns to the Crypt Lord.
+*Coupled with [[Unholy Aura|Unholy Aura]] and [[Vampiric Aura|Vampiric Aura]], the Crypt Lord is a wrecking machine during clashes as it becomes nearly unstoppable.
 
 ==Night Elves==
 
@@ -1394,34 +1640,55 @@ Creates a swarm of angry locusts that bite and tear at nearby enemy units. As th
 Sends a bolt of negative energy that burns a target enemy unit's mana. Burned mana combusts, dealing damage to the target equal to the amount of mana burned.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c 7 sec.  |c-3 50   | Burns 50 MP.  |
-|  2 |c                   6 sec.  |           Burns 100 MP. |
-|  3 |c                   5 sec.  |           Burns 150 MP. |
+|  1 |c-3 N/A          |c 7 sec.  |c-3 50   |c Burns 50 MP.  |
+|  2 |c                   6 sec.  |c           Burns 100 MP. |
+|  3 |c                   5 sec.  |c           Burns 150 MP. |
+
+TIPS:
+*Mana Burn is best used for mana-hungry enemy spellcasters and enemy heroes.
+*Mana Burn can only be used on units with mana, as you cannot cast it units without mana.
+*If the target has mana that is below the mana you can remove, you will only burn that much mana. Use it effectively on enemy units with sufficient mana to burn.
+*Mana Burn cannot be casted on units with spell immunity such as Dryads.
 
 =====Immolation=====
 %
 Engulfs the Demon Hunter in flames, causing damage to nearby enemy land units. Drains mana until deactivated.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST        |*EFFECT |
-|  1 |c-3 N/A          |c-3 N/A   |c-3 35 + 7/sec. | 10 damage/sec. |
-|  2 |                                               15 damage/sec. |
-|  3 |                                               20 damage/sec. |
+|  1 |c-3 N/A          |c-3 N/A   |c-3 35 + 7/sec. |c 10 damage/sec. |
+|  2 |c                                               15 damage/sec. |
+|  3 |c                                               20 damage/sec. |
+
+TIPS:
+*The Demon Hunter is a skilled melee Hero with a great spell to fend off melee units. If the Demon Hunter is ganged up by enemy melee units, use Immolation to deal damage to multiple enemy units at once. It doesn't affect flying units though.
+*Immolation immediately deactivates if the Demon Hunter cannot afford the mana to use.
+*You may deactivate the spell if there are no nearby enemy melee units close to the Demon Hunter. It drains mana as long as it's activated.
+*Using [[Mana Burn|Mana Burn]] along with Immolation whilst in battle with an enemy Hero can turn the tides in your favor, as the enemy hero cannot use spells when its mana cannot afford to use it and can only attack you.
 
 =====Evasion=====
 %
 Gives a percent chance to avoid attacks.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 N/A   |c-3 N/A  | 10% chance enemy misses. |
-|  2 |                                        20% chance enemy misses. |
-|  3 |                                        30% chance enemy misses. |
+|  1 |c-3 N/A          |c-3 N/A   |c-3 N/A  |c 10% chance enemy attacks misses. |
+|  2 |c                                        20% chance enemy attacks misses. |
+|  3 |c                                        30% chance enemy attacks misses. |
+
+TIPS:
+*This passive spell works greatly on the Demon Hunter. At higher levels, enemy units will have a hard time killing the Demon Hunter.
+*The Demon Hunter takes no damage each time the enemy attacks misses.
 
 =====Metamorphosis (ULTIMATE)=====
 %
 Transforms the Demon Hunter into a powerful Demon with a ranged attack and 500 bonus hit points.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 60 sec.        |c 180 sec. |c 150    | +500 HP, +3 HP regen/sec. |
+|  6 |c 60 sec.        |c 180 sec. |c 150    |c +500 HP, +3 HP regen/sec, +60 attack range. |
+
+TIPS:
+*A transformation similar to [[Avatar (ULTIMATE)|Avatar]], the Demon Hunter is at an advantage with a ranged attack.
+*Use the ultimate spell when ambushing an enemy base because it has a fast attack speed.
+*Keep your enemies at bay. Since you become a ranged hero each time you cast this, stay away from melee units who pummel you.
 
 ===Keeper of the Grove===
 
@@ -1475,34 +1742,54 @@ Transforms the Demon Hunter into a powerful Demon with a ranged attack and 500 b
 Causes roots to burst from the ground, immobilizing, disarming and damaging a target enemy temporarily.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c 9 (3) sec.     |c-3 8 sec. |c-3 75   |c-2 Deals 15 damage. |
+|  1 |c 9 (3) sec.     |c-3 8 sec. |c-3 75   |c-2 15 damage/sec. |
 |  2 |c 24 (4) sec.    |
-|  3 |c 36 (5) sec.    |                          Deals 25 damage. |
+|  3 |c 36 (5) sec.    |c                          25 damage/sec. |
+
+TIPS:
+*Entangled units cannot attack but can cast spells.
+*Use this spell if you need to chase enemy heroes retreating away from you. 
+*Entangling Roots is a good spell to focus your units on the target while entangled. The spell is effective on units who doesn't have spells at all.
 
 =====Force of Nature=====
 %
 Converts an area of trees into Treants. Treants have 300 hit points and deal 15-17 damage. Can learn Nature's Blessing.
 
 |*LV |*DURATION (HERO) |*COOLDOWN   |*MP COST |*EFFECT |
-|  1 |c-3 60 sec.      |c-3 20 sec. |c-3 125  | Summons 2 Treants, 300 HP. |
-|  2 |                                          Summons 3 Treants, 300 HP. |
-|  3 |                                          Summons 4 Treants, 300 HP. |
+|  1 |c-3 60 sec.      |c-3 20 sec. |c-3 125  |c Summons 2 Treants, 300 HP. |
+|  2 |c                                          Summons 3 Treants, 300 HP. |
+|  3 |c                                          Summons 4 Treants, 300 HP. |
+
+TIPS:
+*The spell costs a lot to cast but its worth having it. Have Mana Potions ready each time you need to cast this.
+*Treants have fixed stats as each level increases. It only adds more Treants.
+*Conserve trees properly, as no matter how many trees are used to summon Treants, you will only summon that many number of Treants depending on the spell level.
+*You can also use Force of Nature to reach gold mines that are only reached by clearing up trees. They're usually guarded by mid-level or high-level creeps.
 
 =====Thorns Aura=====
 %
 An aura that gives friendly nearby units a damage shield, which returns a percentage of a melee attacker's damage back to it.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  | 10% damage returned. |
-|  2 |                                        20% damage returned. |
-|  3 |                                        30% damage returned. |
+|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  |c 10% damage returned. |
+|  2 |c                                        20% damage returned. |
+|  3 |c                                        30% damage returned. |
+
+TIPS:
+*Shares similarities with [[Spiked Carapace|Spiked Carapace]], without the armor.
+*Get this spell if the Keeper of the Grove is pummeled a lot by your melee enemy heroes.
 
 =====Tranquility (ULTIMATE)=====
 %
 Causes rains of healing energy to pour down in a large area, healing friendly allied units for 20 hit points per second.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  6 |c 30 sec.        |c 60 sec. |c 125    | Heals 20 HP/sec. |
+|  6 |c 30 sec.        |c 60 sec. |c 125    |c Heals 20 HP/sec. |
+
+TIPS:
+*This spell ultimately heals all units near Keeper of the Grove. Gang up your strongest units to the Keeper of the Grove to get them healed.
+*Land units and flying units can be healed as long as they're near the Keeper of the Grove.
+*Tranquility doesn't damage enemy Undead units but heals allied Undead units.
 
 ===Priestess of the Moon===
 
@@ -1560,30 +1847,48 @@ Temporarily summons an Owl Scout, which can be used to scout the map. Can see in
 |  2 |c 90 sec.        |c              75     |
 |  3 |c 120 sec.       |c              50     |
 
+TIPS:
+*Scout is used for scouting unexplored areas and to prevent imminent danger.
+*Scout is casted on trees. If the tree where the Owl Scouts is destroyed, the Owl Scouts remain.
+*Owl Scouts are invulnerable and can be seen by enemies but they cannot attack it.
+
 =====Searing Arrows=====
 %
 Increases the damage of the Priestess' attack by adding fire.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 1 sec. |c-3 8    | +10 damage. |
-|  2 |                                         +20 damage. |
-|  3 |                                         +30 damage. |
+|  1 |c-3 N/A          |c-3 1 sec. |c-3 8    |c +10 damage. |
+|  2 |c                                         +20 damage. |
+|  3 |c                                         +30 damage. |
+
+TIPS:
+*Searing Arrows is an autocast spell that adds damage to the Priestess of the Moon's attacks when it's activated.
+*Each time the Priestess of the Moon attacks while Searing Arrows is activated, mana is reduced.
+*Searing Arrows is automatically deactivated when the Priestess of the Moon runs out of mana.
 
 =====Trueshot Aura=====
 %
 An aura that gives friendly nearby units bonus damage to their ranged attacks.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  | +10% ranged damage. |
-|  2 |                                        +20% ranged damage. |
-|  3 |                                        +30% ranged damage. |
+|  1 |c-3 UNLIMITED    |c-3 N/A   |c-3 N/A  |c +10% ranged damage. |
+|  2 |c                                        +20% ranged damage. |
+|  3 |c                                        +30% ranged damage. |
+
+TIPS:
+*This aura only affects ranged units such as Archers and Hunters.
 
 =====Starfall (ULTIMATE)=====
 %
 Calls down waves of falling stars that damage nearby enemy units. Each wave deals 50 damage.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c 45 sec.        |c 180 sec. |c 200    | 50 damage/wave for 45 sec. |
+|  6 |c 45 sec.        |c 180 sec. |c 200    |c 50 damage/wave. |
+
+TIPS:
+*Use Starfall on large enemy forces. It picks the nearest enemy units including flying units.
+*Starfall can also be used on buildings when ambushing an enemy base.
+*If you can trap a single enemy unit or hero with [[Entangling Roots|Entangling Roots]] and cast this spell, you can deal a hefty damage to that target.
 
 ===Warden===
 
@@ -1638,9 +1943,14 @@ Calls down waves of falling stars that damage nearby enemy units. Each wave deal
 The Warden hurls a flurry of knives, damaging nearby enemies.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  1 |c-3 N/A          |c-3 9 sec. |c-3 100  | 75 damage, max 300.  |
-|  2 |                                         125 damage, max 625. |
-|  3 |                                         190 damage, max 950. |
+|  1 |c-3 N/A          |c-3 9 sec. |c-3 100  |c 75 damage, 300 max damage.  |
+|  2 |c                                         125 damage, 625 max damage. |
+|  3 |c                                         190 damage, 950 max damage. |
+
+TIPS:
+*Use this spell whilst attacking enemy units as it has a good range of dealing damage to other nearby units, not just melee units.
+*Only land units are affected by the spell.
+*Invisible units damaged by the spell remain invisible.
 
 =====Blink=====
 %
@@ -1651,21 +1961,35 @@ Short distance teleportation that allows the Warden to move in and out of combat
 |  2 |c-2 10                                  |
 |  3 |c                  1 sec.     |
 
+TIPS:
+*Use Blink to teleport the Warden to a short distance, such as getting out of a melee battle or to reach a destination faster.
+*Ironically, if you use Blink and you have units following the Warden, they would stop following her.
+*You can use Blink when you are snared but you can't use it when you are stunned.
+*You can also use Blink to cross rivers, gaps or barriers.
+
 =====Shadow Strike=====
 %
-Hurls a poisoned dagger which deals large initial damage, and then deals damage over time. The poisoned unit has its movement speeed slowed for a short duration.
+Hurls a poisoned dagger which deals large initial damage, and then deals damage over time. The poisoned unit has its movement speed slowed for a short duration.
 
 |*LV |*DURATION (HERO) |*COOLDOWN |*MP COST |*EFFECT |
-|  1 |c-3 15 sec.      |c-3 8 sec. |c-3 75  | 75 damage, 10 damage/3 sec.  |
-|  2 |                                        150 damage, 30 damage/3 sec. |
-|  3 |                                        225 damage, 45 damage/3 sec. |
+|  1 |c-3 15 sec.      |c-3 8 sec. |c-3 75  |c 75 damage, -50% movement speed, 10 damage/3 sec.  |
+|  2 |c                                        150 damage, -50% movement speed, 30 damage/3 sec. |
+|  3 |c                                        225 damage, -50% movement speed, 45 damage/3 sec. |
+
+TIPS:
+*Shadow Strike is used when enemy heroes retreat as it not only damages them over time, it impairs their movement speed.
+*Use Shadow Strike on low health units. At higher levels, the units die.
 
 =====Vengeance (ULTIMATE)=====
 %
 Creates a powerful avatar that summons invulnerable spirits from nearby corpses to attack your enemies. When the Avatar of Vengeance dies, the spirits vanish.
 
 |*LV |*DURATION (HERO) |*COOLDOWN  |*MP COST |*EFFECT |
-|  6 |c N/A            |c 180 sec. |c 200    | Summons Avatar of Vengeance. |
+|  6 |c N/A            |c 180 sec. |c 200    |c Summons Avatar of Vengeance. |
+
+TIPS:
+*Although not as strong as [[Big Bad Voodoo (ULTIMATE)|Big Bad Voodoo]], Vengeance uses nearby corpses either from you or your allies to attack enemy forces.
+*Spirits are invulnerable but vanish if Avatar of Vengeance dies.
 
 ==Bonus Campaign Key Names==
 
@@ -1758,4 +2082,4 @@ I would like to thank the following:
 
 =-----=
 '''END OF DOCUMENT'''
-=-=
+=-
