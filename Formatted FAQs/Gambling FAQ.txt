@@ -2,7 +2,8 @@
 ;REMOVE THIS LINE AFTER RECORDING THE UPDATES AND BEFORE SUBMITTING THE GUIDE.
 ;List of changes for Version 1.5 (started on May 8, 2019)
 ;FAQ is now converted into a Formatted FAQ.
-;Contributors have a link associated with them.
+;Added Gambler level gambling skill under Gambling Skill sub-section.
+;Contributors now have a link associated with them.
 ;Fixed indentions of calculations under Wheel of Fortune section.
 ==Introduction==
 
@@ -117,7 +118,7 @@ Well, that's the basics of Blackjack. A mixture of doing the above and a bit of 
 
 Locations: Under the Mulholland Intersection, Blueberry and Downtown Los Santos.
 
-This is easy to learn, but relies mostly on luck to succeed, but not entirely. You start off with 2 choices to make, how much money to bet and which horse to bet on. The horses with shorter odds (lower numbers i.e. 2/1) have a better chance of winning. If your horse comes in first, you win your bet back plus whatever it's odds were as a multiple of your original bet. For example, if you bet $1,000 on a 5/1 horse and it wins, you win your $1,000 back plus an extra $5,000, giving $6,000 in total. Anything other than a victory results in you losing your bet.
+This is easy to learn, but relies mostly on luck to succeed, but not entirely. You start off with 2 choices to make, how much money to bet and which horse to bet on. The horses with shorter odds (lower numbers i.e. 2/1) have a better chance of winning. If your horse comes in first, you win your bet back plus whatever it's odds were as a multiple of your original bet. For example, if you bet $1,000 on a 5/1 horse and it wins, you win your $1,000 back plus an extra $5,000, giving $6,000 in total. Anything other than a victory results in losing your bet.
 
 Note that it's possible to cheat using the ITB machines to gain lots of money fast. All you need to do is go to a machine just after loading a game, bet the max on the horse with the longest odds, and if you lose, just reload again and you don't lose your money. This isn't something I do as I don't like cheating but I know that some people out there want good money fast and this is a good way of earning it. The different denominations you can bet on:
 
@@ -257,13 +258,14 @@ Not only does this skill determine how much you can bet, but it also tells you h
 
 The number of people that are after you is determined by the amount you're in debt by. The maximum being 4 people if you have debts of over $1,000,000. Be on the look out for a black Vincent driving erratically. If you decide to fight them, they'll leave a lot of money when they die. Here are the different levels of each gambling skill:
 
+*Gambler level - your maximum wager and the highest amount you can borrow from casinos increases up to ''$1,000''.
 *Professional level - your maximum wager and the highest amount you can borrow from casinos increases up to ''$10,000''.
 *Hi-roller level - your maximum wager and the highest amount you can borrow from casinos increases up to ''$100,000''.
 *Whale level - your maximum wager and the highest amount you can borrow from casinos increases up to ''$1,000,000''.
 
 ===Luck Skill===
 
-Apart from your gambling skill, your luck skill plays an important role in gambling. Luck skill is related to your gambling skill. The higher it is, the more chances you have in winning. To increase your luck, you must collect the 50 horseshoes that are scattered around Las Venturas. Each horseshoe adds up to your luck skill. Collecting all 50 nets you with 1,000 luck skill.
+Apart from your gambling skill, your luck skill plays an important role in gambling. Luck skill is related to your gambling skill. The higher it is, the more chances you have in winning. To increase your luck, you must collect the 50 horseshoes that are scattered around Las Venturas. Each horseshoe adds up to your luck skill. Collecting all 50 horseshoes nets you with 1,000 luck skill.
 
 ==Frequently Asked Questions==
 
@@ -274,7 +276,7 @@ Apart from your gambling skill, your luck skill plays an important role in gambl
 **A - All you need to do to raise your gambling skill is gamble, it's that simple. The more you gamble, the more you win. Plus, the higher stakes you gamble with, the quicker your skill will increase. It's possible to max out your skill in just a few minutes if you have the money (and the luck).
 
 *Q - Which casinos in San Andreas can I gamble?
-**A - Simply enter in 1 of the three enterable casinos in Las Venturas. These are The Four Dragons (The Strip), Caligula's Palace (The Strip) or The Casino Floor (Redsands West).
+**A - Simply enter in 1 of 3 enterable casinos in Las Venturas. These are ''The Four Dragons (The Strip)'', ''Caligula's Palace (The Strip)'', and ''The Casino Floor (Redsands West)''.
 
 ==Contact Information==
 
@@ -300,8 +302,8 @@ I would like to thank the following:
 
 *To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
 *To Rockstar Games for making the game.
-*To [[<T.Payne>||<T.Payne>]] for providing me a better information about the game [[Wheel of Fortune|Wheel of Fortune]].
-*To [[jlc_alt|jlc_act]] for mentioning that all horses have an equal chance of winning on the ITB machines in the game [[Horse Racing|Horse Racing]].
+*To [[<T.Payne>'s contribution|<T.Payne>]] for providing me a better information about the game [[Wheel of Fortune|Wheel of Fortune]].
+*To [[jlc_alt's contribution|jlc_alt]] for mentioning that all horses have an equal chance of winning on the ITB machines in the game [[Horse Racing|Horse Racing]].
 *To you, as the reader.
 
 =-----=
