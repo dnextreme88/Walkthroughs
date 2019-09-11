@@ -44,7 +44,7 @@ Copyright (c) Blizzard Entertainment.
 **[[Priestess of the Moon|Priestess of the Moon]]: Tyrande Whisperwind
 **[[Warden|Warden]]: Maiev Shadowsong
 
-*''[[Bonus Campaign Key Names|BONUS CAMPAIGN KEY HEROES]]''
+*''[[Bonus Campaign Key Names|BONUS CAMPAIGN KEY NAMES]]''
 **[[Archmage|Archmage]]: Zerx Hydromon
 **[[Blade Master|Blade Master]]: Samuro
 **[[Dread Lord|Dread Lord]]: Talnivarr the Sleeper
@@ -57,10 +57,10 @@ Copyright (c) Blizzard Entertainment.
 *Version 1.3 - Aug 26, 2016
 **Revival. Re-structured the document. Corrected some grammar errors.
 **Changed all section codes so that search is easier.
-**Fixed missing "AUTOCAST" note of Immolation and Carrion Beetles spells.
+**Fixed missing "AUTOCAST" note of [[Immolation|Immolation]] and [[Carrion Beetles|Carrion Beetles]] spells.
 **Removed "Attributes Guide" section. Its content was placed in [[The Attributes|"The Attributes"]] section.
 **Added the following items:
-:: Cairne Bloodhoof (Tauren Chieftain) from the Bonus Campaign Key Heroes list.
+:: Cairne Bloodhoof ([[Tauren Chieftain|Tauren Chieftain]]) under [[Bonus Campaign Key Names|Bonus Campaign Key Names]] section.
 :: Key heroes: Anetheron, Balnazzar, Detheroc, Duke Lionheart, Grom Hellscream, Mal'Ganis, Mephistroth, Varimathras.
 **Renamed the following items:
 :: "Heroes FAQ" to "Hero FAQ".
@@ -72,17 +72,14 @@ Copyright (c) Blizzard Entertainment.
 **Renamed "Universal Spell" spell type to "Auras" in [[Heroes|"Heroes"]] section.
 **Updated questions in [[Frequently Asked Questions|"Frequently Asked Questions"]] section.
 **Added the following items:
-
-=-----=
-*''[[Heroes|HEROES SECTION]]''
-**Common statistics for each hero now has a separate section (to remove redundancy of having to place the same info across all races).
-**Legend note from all 4 playable races.
-**Spells for every hero.
-=-=
+:: Common statistics for each hero now has a separate section (to remove redundancy of having to place the same info across all races).
+:: Legend note from all 4 playable races.
+:: Spells for every hero.
 
 **Interchanged the following items:
-**[[Attribute-increasing items|"Attribute-increasing items"]] and [[Attribute-increasing skills|"Attribute-increasing skills"]] sections.
-**"Cenarius" and "Jaina Proudmoore" sections.
+:: [[Attribute-increasing items|"Attribute-increasing items"]] and [[Attribute-increasing skills|"Attribute-increasing skills"]] sections.
+:: "Cenarius" and "Jaina Proudmoore" sections.
+
 **Removed the following items:
 
 =-----=
