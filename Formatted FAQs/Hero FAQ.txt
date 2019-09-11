@@ -142,18 +142,18 @@ Attributes can be increased in two ways: one is to wear specific items to have i
 
 Another way to increase attributes is to let your heroes wear items dropped by creeps and enemy heroes or bought at shops. Unlike skills, you will have an increased attribute as long as the Hero wears the item.
 
-====Human====
+====Human race====
 
 *Arcane Vault (Orb of Fire)
 **Heroes are able to attack air units if they are melee and has a chance to do splash damage to nearby enemy units.
 **Damage + 5
 
-====Orc====
+====Orc race====
 
 *Spirit Lounge (Orb of Lightning)
 **Heroes are able to attack air units if they are melee and has a chance to dispel magic and slows the movement speed of the enemy for 3 seconds.
 
-====Undead====
+====Undead race====
 
 *Tomb of Relics (Orb of Corruption)
 **Heroes can attack air units if they are melee and has a chance to reduce the armor of enemy units by 5.
@@ -165,7 +165,7 @@ Another way to increase attributes is to let your heroes wear items dropped by c
 *Undead Campaign - Act 7, Part 3 (Orb of Darkness)
 **Heroes are able to attack air units if they are Melee and has a chance to spawn a Dark Minion for 80 seconds.
 
-====Night Elf====
+====Night Elf race====
 
 *Ancient of Wonders (Orb of Venom)
 **Heroes are able to attack air units if they are melee and has a chance to poison enemy units for 10 seconds.
@@ -220,9 +220,9 @@ For skills with an asterisk, here is a rundown of what they mean:
 
 The following skills affect a hero's attributes (as well as the armor and damage):
 
-====Human====
+====Human race====
 
-*Paladin (Devotion Aura)
+*[[Paladin|Paladin]] ([[Devotion Aura|Devotion Aura]])
 **Level 1: Armor + 1.5
 **Level 2: Armor + 3.0
 **Level 3: Armor + 4.5
@@ -230,21 +230,21 @@ The following skills affect a hero's attributes (as well as the armor and damage
 *Priest (Inner Fire)
 **Armor + 5, Damage + 2/''3''
 
-====Orc====
+====Orc race====
 
 *Kodo Beast (War Drums)
 **Blademaster: Damage + 4/''7''
 **Far Seer: Damage + 2/''5''
 **Tauren Chieftain: Damage + 3/''6''
 
-====Undead====
+====Undead race====
 
-*Lich (Frost Armor)
+*[[Lich|Lich]] ([[Frost Armor|Frost Armor]])
 **Level 1: Armor + 3
 **Level 2: Armor + 5
 **Level 3: Armor + 7
 
-====Night Elf====
+====Night Elf race====
 
 *Druid of the Claw (Roar):
 **STR + 6
