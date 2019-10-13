@@ -107,9 +107,9 @@ Version 1.6 - Oct 13, 2019
 **Armor table header in each hero page is now capitalized.
 **Corrected Infernal spell as Inferno.
 **Fixed some grammatical errors.
-**Updated questions in [[Frequently Asked Questions|Frequently Asked Questions]] section.
-**Renamed "Attribute-increasing skills" to [[Attribute-increasing spells|"Attribute-increasing spells"]]. This also meant a change to other texts in the guide referring to spells as skills (applied where appropriate).
 **Optimized hero spell tables.
+**Renamed "Attribute-increasing skills" to [[Attribute-increasing spells|"Attribute-increasing spells"]]. This also meant a change to other texts in the guide referring to spells as skills (applied where appropriate).
+**Updated questions in [[Frequently Asked Questions|Frequently Asked Questions]] section.
 **Removed the following items:
 :: Note "Attack Type: Hero" across all heroes as it's redundant. This is now added to the legend note under [[Heroes|"Heroes"]] sub-section.
 :: Spell type note from all spells except Ultimate spells.

@@ -59,7 +59,6 @@ Copyright (c) Rockstar Games.
 **Added missing Gambler level in [[Gambling Skill|"Gambling Skill"]] sub-section.
 **Contributors now have a link associated with them.
 **Fixed indentions of calculations in [[Wheel of Fortune|"Wheel of Fortune"]] sub-section.
-
 **Updated the following items:
 :: Description of [[Horse Racing|"Horse Racing"]] sub-section with better explanations.
 :: Questions in [[Frequently Asked Questions|"Frequently Asked Questions"]] section.
