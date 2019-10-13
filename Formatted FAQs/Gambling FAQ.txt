@@ -1,0 +1,320 @@
+;format:gf-markup
+==Introduction==
+
+Welcome to my Gambling FAQ. In this FAQ, you'll learn how to play the various different games at the three enterable casinos in Las Venturas, as well as the ITB machines in Los Santos and Blueberry. I will also show you how you can tip the odds in your favour through other means.
+
+By following this guide and with a bit of luck, you should be on your way to earning millions in no time. Well, that's the idea anyway.
+
+Grand Theft Auto: San Andreas is owned by Rockstar Games. All trademarks are subjected to Rockstar Games.
+
+Copyright (c) Rockstar Games.
+
+==Version History==
+
+*Version 1.0 - Jun 1, 2005
+**Submitted the FAQ.
+
+*Version 1.1 - Jun 5, 2009
+**An important note was added to [[Horse Racing|"Horse Racing"]] game, mentioning that all horses have an equal chance of winning on the ITB machines by a submitter named [[jlc_alt's contribution|jlc_alt]]. Thanks!
+**Added the following items:
+:: [[Credits|"Credits"]] section.
+:: "Outro" section.
+:: [[Permitted Sites|"Permitted Sites"]] section.
+
+*Version 1.2 - Jun 23, 2009
+**A better information about the game [[Wheel of Fortune|"Wheel of Fortune"]] was now added thanks to a submitter named [[<T.Payne>'s contribution|<T.Payne>]]. Thanks!
+**Added "About" section.
+**Renamed the following items:
+:: "Outro" to "Closing" section.
+:: "What you can do" to "List of Games" section.
+
+*Version 1.3 - Sep 19, 2016
+**Revival. Re-structured the document. Corrected some grammar errors.
+**Changed all section codes so that search is easier.
+**Updated the description of [[Wheel of Fortune|"Wheel of Fortune"]] sub-section with better explanations.
+**Added the following items:
+:: Betting denominations in [[Horse Racing|"Horse Racing"]] sub-section.
+:: [[Frequently Asked Questions|"Frequently Asked Questions"]] section.
+:: Gambling levels in [[Gambling Skill|"Gambling Skill"]] sub-section.
+:: [[Luck Skill|"Luck Skill"]] sub-section under [[Skills|"Skills"]] section.
+
+**Removed the following items:
+:: "About" section. Its content is placed in the [[Introduction|"Introduction"]] section.
+:: "Closing" section.
+:: "List of Games" section. Its content is placed in the [[Gambling Activities|"Gambling Activities"]] section.
+
+**Renamed the following items:
+:: "Gambling Skill" to [[Skills|"Skills"]] section.
+:: "The Games" to [[Gambling Activities|"Gambling Activities"]] section.
+
+**Sorted the following items:
+:: Betting activities in [[Gambling Activities|"Gambling Activities"]] section.
+:: Betting payouts in [[Roulette|"Roulette"]] sub-section.
+
+*Version 1.4 - Aug 26, 2018
+**Added section code for [[Skills|"Skills"]] section. A matching description is also added.
+
+*Version 1.5 - Oct 13, 2019
+**FAQ is now converted into a Formatted FAQ.
+**Added missing Gambler level in [[Gambling Skill|"Gambling Skill"]] sub-section.
+**Contributors now have a link associated with them.
+**Fixed indentions of calculations in [[Wheel of Fortune|"Wheel of Fortune"]] sub-section.
+
+**Updated the following items:
+:: Description of [[Horse Racing|"Horse Racing"]] sub-section with better explanations.
+:: Questions in [[Frequently Asked Questions|"Frequently Asked Questions"]] section.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Gambling Activities==
+
+There are many different gambling activities you can participate in throughout the state of San Andreas. When you start a new game, the only things you can do are pool and horse betting. My suggestion is that if you have an ounce of pool skill inside you, play a few games and get yourself a few grand to begin with.
+
+===Blackjack===
+
+Locations: Casinos.
+
+This is my favourite game and if you know how to play it, you can make some good money fast here.
+
+The goal is to try to get as close to 21 as you can, without going over 21 (going ''"bust"''). You begin by placing your bet, which can be anything between $1 and $1,000,000 depending on your gambling skill and what table you're on (more on that later). Then the dealer will deal you 2 cards, both face up, and himself 2 cards: 1 face up, 1 face down. You then have 2 basic options, "hit" or "stick". How would you know which to choose?
+
+*Hit - Choose this if you think that you can get away with another card. Remember that the more times you hit, the higher the chance of going bust, which loses the hand automatically.
+*Stick - Choose this if you think that your total is high enough to beat the dealer.
+
+When you have stuck, the dealer will reveal his second card, and will then do the same, hitting until he either beats you, or goes bust. Note that the dealer will always stick when he reaches 17 or higher, and he will always hit on 16 or lower. When deciding on whether or not you should hit or stick, it's important to consider 2 things.
+
+*Consider the cards you have compared to the dealer. For example, if you have a total of 16 and the dealer has a 9, it's wise to hit because the chances are he'll get a 10 or a picture (as there are many more of them than there are ace-9's). However, if he has a 5, then you may want to stick and hope he doesn't beat you.
+*Consider what cards have been dealt recently. For example, if a lot of picture cards have shown in the last few hands, then chances are you'll be given cards of a lower value, so you may want to hit on higher numbers such as 16 or 17 (depending on what the dealer has of course). 
+
+Depending on the cards you've been dealt, you may be given 2 other options. One of them is known as ''"splitting the hand"''. This option is only available if you've been given 2 cards of the same value (i.e. two 3's or two Kings, picture cards must also be the same). If you choose this option, the 2 cards will be "split", thus creating 2 hands. You'll be dealt an extra card on each hand, and you carry on playing as normal, taking each hand in turn. Splitting the hand gives you the chance of doubling your winnings, but be careful because you also double your bet, so you stand to lose more if it goes wrong.
+
+Whether or not you should split depends on which cards you've been given. Here is a quick reference as to when you should and should not split (you must have 2 of the same kind):
+
+*Aces - split (you'll only be given 1 extra card per hand).
+*Twos or Threes - split.
+*Fours or Fives or Sixes - don't split.
+*Sevens or Eights - split.
+*Nines - split (only if the dealer's card is 9 or higher).
+*Tens - don't split (if the dealers card is not a 10 or higher card. If it is, then it's your choice).
+*Jacks or Queens or Kings - don't split.
+
+Another option you'll always be given is called ''"doubling"''. This is when you double your bet, but you'll only be dealt 1 extra card. It's only advisable to do this if your 2 original cards total 9, 10 or 11 and the dealer has a 5 or 6.
+
+If you're dealt an ace, a 10 or a high card, then it's known as a ''"blackjack"'', and you instantly win double your bet, unless the dealer has also been dealt a blackjack, in which case it's a ''"push"'' (a push is when you and the dealer both reach the same total. In this case, you don't win or lose anything). If the dealer gets a blackjack and you don't, you instantly lose.
+
+Note that there are no 5 card tricks on this variation of blackjack. Instead, you are only allowed a maximum of 5 cards in one go, although the number of  times when you need a 6th card will not be many.
+
+Well, that's the basics of Blackjack. A mixture of doing the above and a bit of luck and you should be fine in no time. There are 4 different tables you can play at, differed only by the maximum you can bet on that table:
+
+*$100
+*$1,000
+*$100,000
+*$1,000,000
+
+===Horse Racing===
+
+Locations: Under the Mulholland Intersection in Downtown Los Santos and Montgomery in Red County.
+
+This is the easiest form of gambling to learn, but relies mostly on luck to succeed. You start off with 2 choices to make: how much money to bet and which horse to bet on. The horses with shorter odds (lower numbers i.e. 2/1) have a better chance of winning. If your horse comes in first, you win your bet back plus whatever it's odds were as a multiple of your original bet. For example, if you bet $1,000 on a 5/1 horse and it wins, you win your $1,000 back plus an extra $5,000, giving $6,000 in total. Anything other than a victory results in losing your bet.
+
+Note that it's possible to cheat using the ITB machines to gain lots of money fast. All you need to do is go to a machine just after loading a game, bet the maximum denomination on the horse with the longest odds, and if you lose, just reload again and pretend you never lost. This isn't something I do as I don't like cheating but I know that some people out there want good money fast and this is a good way of earning it. The different denominations you can bet on:
+
+*$5
+*$25
+*$100
+*$250
+*$1,000
+*$5,000
+*$10,000
+
+The $0 denomination is used to reset your bet, in case you made a mistake.
+
+=====jlc_alt's contribution=====
+=--NOTE--=
+I received an e-mail claiming that rather than the horses with shorter odds having more chances of winning, as what happens in real life, all horses have an equal chance of winning on the ITB machines. If this info is indeed true, my suggestion is to always bet on the horse with the longest odds. That way, you have bigger chances of winning more money.
+
+Credit: ''jlc_alt''
+=-=
+
+===Pool===
+
+Locations: Bars and The Casino Floor.
+
+This is the first game I played in San Andreas. There's a bar called "Ten Green Bottles" that's only a couple of block away from CJ's house in Grove Street that you can play. Just take the Greenwood car parked outside and drive it down the road and it will be on the right side after the bridge.
+
+There are 15 balls in this variation of pool: 7 ''"solids"'', 7 ''"stripes"'' and the black ''"8-ball"''. The first person to pot a ball will then have to try and pot all the remaining similar balls (e.g. if you pot a ball first and it's a solid, you have to pot the other solids, and the other player has to pot stripes). When you have done that, you need to pot the 8 ball to win.
+
+You remain at the table until you either don't pot a ball or you foul, then it is your opponent's turn. Ways of fouling include:
+
+*Not hitting a ball.
+*Hitting the wrong type of ball first.
+*No balls hit a cushion.
+*Potting the wrong type of ball.
+
+If you foul, then your opponent can place the white ball anywhere on the table and carries on playing. In some cases, you will incur an automatic loss in the following scenarios:
+
+*If you pot the 8-ball when you're not supposed to.
+*If you pot the white ball at the same time as the 8-ball when you're supposed to.
+
+===Roulette===
+
+Locations: Casinos.
+
+One of the most popular forms of gambling. Just pray that little white ball falls on the number you want. When you reach the table, you have a number of different places you can place your chips. They are summarized below:
+
+*Black or Red - pays 2 times bet.
+*Even or Odd - pays 2 times bet.
+*Low (1-18) or High (19-36) - pays 2 times bet (note that these are separate spaces to the low, med and high mentioned above).
+*Below a column - pays 3 times bet.
+*Low (1-12), Medium (13-24), or High (25-36) - pays 3 times bet.
+*Between two rows - pays 6 times bet.
+*Between four numbers (in a square, e.g. 1,2,4,5) - pays 9 times bet.
+*A row of three - pays 12 times bet.
+*Between two numbers - pays 18 times bet.
+*Single number (including 0) - pays 36 times bet.
+
+Note that if the ball lands on the green 0, then all bets lose except those placed on 0. Like [[Blackjack|Blackjack]], there are 4 different tables you can play at, differed only by the maximum you can bet on that table:
+
+*$100
+*$1,000
+*$100,000
+*$1,000,000
+
+===Slots===
+
+Locations: Casinos.
+
+There isn't really a lot I can say about this. Just walk up to a slot machine, put in your coin and pull the handle. This is pure luck, so if you win anything, congratulations to you!
+
+Typically, this game does not pay out well, so don't come here looking to raise your bank balance.
+
+===Video Poker===
+
+Locations: Casinos and some bars.
+
+The object of this game is to try and get the best combination of card values and/or suits. After you have placed your bet, you're dealt with 5 cards, you then have the opportunity of holding as many cards as you like, and the cards you do not hold are replaced by fresh cards. Your winnings (if any) are then calculated from the 5 cards you have.
+
+Above the 5 cards is a table showing you the different ways of winning:
+
+*Flush - all cards of the same suit.
+*Straight - run of cards in succession (e.g. 2, 3, 4, 5, 6).
+*Jacks or better - pair of picture cards or aces.
+*Full House - 3 cards of the same value and 2 cards of another value (e.g. 3, 3, 6, 6, 6).
+*Royal Flush - 10, J, Q, K, A of the same suit.
+
+===Wheel of Fortune===
+
+Location: Casinos.
+
+This is a fairly simple game. You place your bet on a value and when the wheel stops and points to that value, you win your bet back times the value you placed it on. Betting value ranges from:
+
+*$1
+*$2
+*$5
+*$10
+*$20
+*$40
+
+You can bet on all 6 values. The wheel will stop at 1 value and if there's a bet on that value, you win it back times the value (which is a multiplier). For example, you placed your bet on a $20 value and the bet is $1,000. The wheel stopped at $20, you win $20,000.
+
+If you have more than 1 bet and the wheel stopped on 1 of it, you'll win the bet on that value only times the value and your bets on the rest are discarded. For example, I placed a $500 bet on a $2 value and a $800 on a $10 value. You betted a total of $1,300. The wheel stopped on $10. You won $8,000 but your total is $6,700 (deducted from your initial bet). To better show it off, here's a list of calculations:
+
+Let's assume that we currently have $2,300 in hand.
+
+:: $2 bet: $ 500
+:: $10 bet: $ 800
+%
+:: TOTAL: $1,300
+
+Our current cash should be $1,000. The wheel stopped on $10, we will look at the possible winning wages:
+
+:: $2 bet: $ 500 x 2 = $1,000
+:: $10 bet: $ 800 x 10 = $8,000
+%
+:: TOTAL WAGE: $8,000 - $1,300 = $6,700
+
+=====<T.Payne>'s contribution=====
+=--NOTE--=
+A submitter named <T.Payne> provided me a better information about this game. Here are his exact words in the e-mail I received from him:
+
+"There are 6 numbers you can bet on, 1,2,5,10,20, and the * which equals 40. However much you bet on a certain number you multiply that by the number you bet on, for example you bet 100 dollars on 10 so 10x100=1000, so 1000 is what you earned. Also you are allowed to bet on more than one number (you can bet on all of them if you wanted) but its a little more complicated to understand. For example you bet 10 on every number and it lands on a star so normally you would get 400 but since you lost the other five bets (which were all ten dollars) you lost 50 dollars so you would have earned 350. I hope you can understand what I was trying to say.
+ 
+:: - Also, if you bet 10 on all the numbers and it lands on a 5 you win no money.
+:: - Another thing, the smaller the number the more common it is on the wheel. 1 is common, 2 is relatively common, 5 is still plentiful, and so on."
+
+Credit: ''<T.Payne>''
+=-=
+
+==Skills==
+
+There are 2 skills that affect your skill in gambling. I shall explain them in further detail below.
+
+===Gambling Skill===
+
+Your gambling skill is recorded in your stats page. The higher it is, the more you can bet at games such as Blackjack and Roulette. The only way of increasing your gambling skill is to gamble. The more you gamble and the higher your bets, the more it will increase. Note that this is probably the easiest skill to max out, a good solid 15-20 minutes of max betting should see the skill go all the way to the top.
+
+Not only does this skill determine how much you can bet, but it also tells you how much you can "borrow" from the casinos. If you go below $0, then your money indicator will turn red and into a minus figure. The casino will then send people to hunt you down and kill you whenever you're in Las Venturas and until you go back into the green.
+
+The number of people that are after you is determined by the amount you're in debt by. The maximum being 4 people if you have debts of over $1,000,000. Be on the look out for a black Vincent driving erratically. If you decide to fight them, they'll leave a lot of money when they die. Here are the different levels of each gambling skill:
+
+*Gambler level - your maximum wager and the highest amount you can borrow from casinos increases up to ''$1,000''.
+*Professional level - your maximum wager and the highest amount you can borrow from casinos increases up to ''$10,000''.
+*Hi-roller level - your maximum wager and the highest amount you can borrow from casinos increases up to ''$100,000''.
+*Whale level - your maximum wager and the highest amount you can borrow from casinos increases up to ''$1,000,000''.
+
+===Luck Skill===
+
+Apart from your gambling skill, your luck skill plays an important role in gambling. Luck skill is related to your gambling skill. The higher it is, the more chances you have in winning. To increase your luck, you must collect the 50 horseshoes that are scattered around Las Venturas. Each horseshoe adds up to your luck skill. Collecting all 50 horseshoes nets you with 1,000 luck skill.
+
+==Frequently Asked Questions==
+
+*Q - How do I raise my gambling skill?
+**A - All you need to do to raise your gambling skill is gamble, it's that simple. The more you gamble, the more you win. Plus, the higher stakes you gamble with, the quicker your skill will increase. It's possible to max out your skill in just a few minutes if you have the money (and the luck).
+
+*Q - What is the best way to earn millions of cash fast?
+**A - You can actually earn a lot of money fast early on in the game by [["Horse Racing"|betting on horses]]. You need to have the Johnson House as a safehouse available. After completing the 1st mission, drive over to Downtown Los Santos and look for an Inside Track betting shop (this is near the parking lot where you and your homies split on the previous mission). Once inside, just approach the machine on the left, pick the horse with the highest odds, then bet all your money. This is pure luck, so if your horse loses, simply reload your save then try again. Keep doing this and you'll earn a lot of money in no time.
+
+*Q - What is the maximum gambling amount?
+**A - The maximum you can gamble in any one go is $1,000,000.
+
+*Q - Which casinos in San Andreas can I gamble?
+**A - Simply enter in 1 of 3 enterable casinos in Las Venturas. These are ''The Four Dragons (The Strip)'', ''Caligula's Palace (The Strip)'', and ''The Casino Floor (Redsands West)''.
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"GTA SA: Gambling FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs, SuperCheats and Neoseeker for hosting the FAQ.
+*To Rockstar Games for making the game.
+*To [[<T.Payne>'s contribution|<T.Payne>]] for providing me a better information about the game [[Wheel of Fortune|Wheel of Fortune]].
+*To [[jlc_alt's contribution|jlc_alt]] for mentioning that all horses have an equal chance of winning on the ITB machines in the game [[Horse Racing|Horse Racing]].
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=
