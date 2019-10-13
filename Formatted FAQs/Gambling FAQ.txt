@@ -1,10 +1,4 @@
 ;format:gf-markup
-;REMOVE THIS LINE AFTER RECORDING THE UPDATES AND BEFORE SUBMITTING THE GUIDE.
-;List of changes for Version 1.5 (started on May 8, 2019)
-;FAQ is now converted into a Formatted FAQ.
-;Added Gambler level gambling skill under Gambling Skill sub-section.
-;Contributors now have a link associated with them.
-;Fixed indentions of calculations under Wheel of Fortune section.
 ==Introduction==
 
 Welcome to my Gambling FAQ. In this FAQ, you'll learn how to play the various different games at the three enterable casinos in Las Venturas, as well as the ITB machines in Los Santos and Blueberry. I will also show you how you can tip the odds in your favour through other means.
@@ -59,6 +53,16 @@ Copyright (c) Rockstar Games.
 
 *Version 1.4 - Aug 26, 2018
 **Added section code for [[Skills|"Skills"]] section. A matching description is also added.
+
+*Version 1.5 - Oct 13, 2019
+**FAQ is now converted into a Formatted FAQ.
+**Added missing Gambler level in [[Gambling Skill|"Gambling Skill"]] sub-section.
+**Contributors now have a link associated with them.
+**Fixed indentions of calculations in [[Wheel of Fortune|"Wheel of Fortune"]] sub-section.
+
+**Updated the following items:
+:: Description of [[Horse Racing|"Horse Racing"]] sub-section with better explanations.
+:: Questions in [[Frequently Asked Questions|"Frequently Asked Questions"]] section.
 
 ==Copyright Information==
 
@@ -116,11 +120,11 @@ Well, that's the basics of Blackjack. A mixture of doing the above and a bit of 
 
 ===Horse Racing===
 
-Locations: Under the Mulholland Intersection, Blueberry and Downtown Los Santos.
+Locations: Under the Mulholland Intersection in Downtown Los Santos and Montgomery in Red County.
 
-This is easy to learn, but relies mostly on luck to succeed, but not entirely. You start off with 2 choices to make, how much money to bet and which horse to bet on. The horses with shorter odds (lower numbers i.e. 2/1) have a better chance of winning. If your horse comes in first, you win your bet back plus whatever it's odds were as a multiple of your original bet. For example, if you bet $1,000 on a 5/1 horse and it wins, you win your $1,000 back plus an extra $5,000, giving $6,000 in total. Anything other than a victory results in losing your bet.
+This is the easiest form of gambling to learn, but relies mostly on luck to succeed. You start off with 2 choices to make: how much money to bet and which horse to bet on. The horses with shorter odds (lower numbers i.e. 2/1) have a better chance of winning. If your horse comes in first, you win your bet back plus whatever it's odds were as a multiple of your original bet. For example, if you bet $1,000 on a 5/1 horse and it wins, you win your $1,000 back plus an extra $5,000, giving $6,000 in total. Anything other than a victory results in losing your bet.
 
-Note that it's possible to cheat using the ITB machines to gain lots of money fast. All you need to do is go to a machine just after loading a game, bet the max on the horse with the longest odds, and if you lose, just reload again and you don't lose your money. This isn't something I do as I don't like cheating but I know that some people out there want good money fast and this is a good way of earning it. The different denominations you can bet on:
+Note that it's possible to cheat using the ITB machines to gain lots of money fast. All you need to do is go to a machine just after loading a game, bet the maximum denomination on the horse with the longest odds, and if you lose, just reload again and pretend you never lost. This isn't something I do as I don't like cheating but I know that some people out there want good money fast and this is a good way of earning it. The different denominations you can bet on:
 
 *$5
 *$25
@@ -130,9 +134,11 @@ Note that it's possible to cheat using the ITB machines to gain lots of money fa
 *$5,000
 *$10,000
 
+The $0 denomination is used to reset your bet, in case you made a mistake.
+
 =====jlc_alt's contribution=====
 =--NOTE--=
-I received an e-mail that claimed that rather than the horses with shorter odds having more chance of winning, as happens in real life, all horses have an equal chance of winning on the ITB machines. If this info is indeed true, my suggestion is to always bet on the horse with the longest odds, that way you stand to win more money.
+I received an e-mail claiming that rather than the horses with shorter odds having more chances of winning, as what happens in real life, all horses have an equal chance of winning on the ITB machines. If this info is indeed true, my suggestion is to always bet on the horse with the longest odds. That way, you have bigger chances of winning more money.
 
 Credit: ''jlc_alt''
 =-=
@@ -269,11 +275,14 @@ Apart from your gambling skill, your luck skill plays an important role in gambl
 
 ==Frequently Asked Questions==
 
-*Q - What is the maximum gambling amount?
-**A - The maximum you can gamble in any one go is $1,000,000.
-
 *Q - How do I raise my gambling skill?
 **A - All you need to do to raise your gambling skill is gamble, it's that simple. The more you gamble, the more you win. Plus, the higher stakes you gamble with, the quicker your skill will increase. It's possible to max out your skill in just a few minutes if you have the money (and the luck).
+
+*Q - What is the best way to earn millions of cash fast?
+**A - You can actually earn a lot of money fast early on in the game by [["Horse Racing"|betting on horses]]. You need to have the Johnson House as a safehouse available. After completing the 1st mission, drive over to Downtown Los Santos and look for an Inside Track betting shop (this is near the parking lot where you and your homies split on the previous mission). Once inside, just approach the machine on the left, pick the horse with the highest odds, then bet all your money. This is pure luck, so if your horse loses, simply reload your save then try again. Keep doing this and you'll earn a lot of money in no time.
+
+*Q - What is the maximum gambling amount?
+**A - The maximum you can gamble in any one go is $1,000,000.
 
 *Q - Which casinos in San Andreas can I gamble?
 **A - Simply enter in 1 of 3 enterable casinos in Las Venturas. These are ''The Four Dragons (The Strip)'', ''Caligula's Palace (The Strip)'', and ''The Casino Floor (Redsands West)''.

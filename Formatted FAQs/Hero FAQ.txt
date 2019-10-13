@@ -1,17 +1,7 @@
 ;format:gf-markup
-;REMOVE THIS LINE AFTER RECORDING THE UPDATES AND BEFORE SUBMITTING THE GUIDE.
-;List of changes for Version 1.6 (started on May 7, 2019)
-;FAQ is now converted into a Formatted FAQ.
-;Armor table header in each hero page is now capitalized.
-;Fixed some grammatical errors.
-;Optimized hero spell tables.
-;Removed spell type note from all spells except Ultimate spells.
-;Removed note "Attack Type: Hero" across all heroes as it's redundant. This is now added to the legend note under Heroes sub-section.
-;Added tips for each hero spells.
-;Corrected Infernal spell as Inferno.
-;Updated questions in Frequently Asked Questions section.
 ==Introduction==
-Hi and welcome to my Hero FAQ. This FAQ will concentrate on hero units of the game. I'll be listing valuable information to every hero, such as statistics, hero names, skills and a lot more. It's my second FAQ for the WarCraft series.
+
+Hi and welcome to my Hero FAQ. This FAQ will concentrate on hero units of the game. I'll be listing valuable information to every hero, such as statistics, hero names, spells and a lot more. It's my second FAQ for the WarCraft series.
 
 Warcraft III: The Frozen Throne is owned by Blizzard Entertainment. All trademarks are subjected to Blizzard Entertainment.
 
@@ -28,7 +18,7 @@ Copyright (c) Blizzard Entertainment.
 **The sub-sections of "Attributes Guide" section is added but not yet complete.
 
 *Version 1.2 - Jun 4, 2009
-**Completed "Attributes Guide" section and its 3 sub-sections [[The Attributes|"The Attributes"]], [[Attribute-increasing skills|"Attribute-increasing skills"]] and [[Attribute-increasing items|"Attribute-increasing items"]].
+**Completed "Attributes Guide" section and its 3 sub-sections [[The Attributes|"The Attributes"]], "Attribute-increasing skills" and [[Attribute-increasing items|"Attribute-increasing items"]].
 **Added [[Bonus Campaign Key Names|"Bonus Campaign Key Names"]] section.
 **Added a bunch of heroes:
 
@@ -62,13 +52,14 @@ Copyright (c) Blizzard Entertainment.
 **Added the following items:
 :: Cairne Bloodhoof ([[Tauren Chieftain|Tauren Chieftain]]) under [[Bonus Campaign Key Names|Bonus Campaign Key Names]] section.
 :: Key heroes: Anetheron, Balnazzar, Detheroc, Duke Lionheart, Grom Hellscream, Mal'Ganis, Mephistroth, Varimathras.
+
 **Renamed the following items:
 :: "Heroes FAQ" to "Hero FAQ".
 :: "Summonable" spell type to "Summon".
 
 *Version 1.4 - Jul 15, 2018
 **Fixed "Summonable" note of [[Vengeance|Vengeance]] and [[Summon Water Elemental|Summon Water Elemental]] spells as "Summon".
-**Level of indention in [[Attribute-increasing items|"Attribute-increasing items"]] and [[Attribute-increasing skills|"Attribute-increasing skills"]] sections has been drastically reduced for improved readability.
+**Level of indention in [[Attribute-increasing items|"Attribute-increasing items"]] and "Attribute-increasing skills" sections has been drastically reduced for improved readability.
 **Renamed "Universal Spell" spell type to "Auras" in [[Heroes|"Heroes"]] section.
 **Updated questions in [[Frequently Asked Questions|"Frequently Asked Questions"]] section.
 **Added the following items:
@@ -77,7 +68,7 @@ Copyright (c) Blizzard Entertainment.
 :: Spells for every hero.
 
 **Interchanged the following items:
-:: [[Attribute-increasing items|"Attribute-increasing items"]] and [[Attribute-increasing skills|"Attribute-increasing skills"]] sections.
+:: [[Attribute-increasing items|"Attribute-increasing items"]] and "Attribute-increasing skills" sub-sections.
 :: "Cenarius" and "Jaina Proudmoore" sections.
 
 **Removed the following items:
@@ -110,6 +101,19 @@ Copyright (c) Blizzard Entertainment.
 :: "Other Heroes" section and its sub-sections "Cenarius" and "Jaina Proudmoore". These were redundant and I couldn't complete their stats.
 :: Key hero: Balnazzar.
 
+Version 1.6 - Oct 13, 2019
+**FAQ is now converted into a Formatted FAQ.
+**Added tips for all hero spells.
+**Armor table header in each hero page is now capitalized.
+**Corrected Infernal spell as Inferno.
+**Fixed some grammatical errors.
+**Updated questions in [[Frequently Asked Questions|Frequently Asked Questions]] section.
+**Renamed "Attribute-increasing skills" to [[Attribute-increasing spells|"Attribute-increasing spells"]]. This also meant a change to other texts in the guide referring to spells as skills (applied where appropriate).
+**Optimized hero spell tables.
+**Removed the following items:
+:: Note "Attack Type: Hero" across all heroes as it's redundant. This is now added to the legend note under [[Heroes|"Heroes"]] sub-section.
+:: Spell type note from all spells except Ultimate spells.
+
 ==Copyright Information==
 
 =--IMPORTANT NOTICE: PLEASE READ--=
@@ -136,11 +140,11 @@ In this section, the 3 attributes of the game will be explained here. There will
 **Each point increases mana by 15
 **Each point increases mana regeneration
 
-Attributes can be increased in two ways: one is to wear specific items to have increased attributes while worn or you could use skills too.
+Attributes can be increased in 2 ways: one is to wear specific items that increase attributes while worn or you could use spells too.
 
 ===Attribute-increasing items===
 
-Another way to increase attributes is to let your heroes wear items dropped by creeps and enemy heroes or bought at shops. Unlike skills, you will have an increased attribute as long as the Hero wears the item.
+Another way to increase attributes is to let your heroes wear items dropped by creeps and enemy heroes or bought at shops. Unlike spells, you will have an increased attribute as long as the Hero wears the item.
 
 ====Human race====
 
@@ -211,14 +215,14 @@ Another way to increase attributes is to let your heroes wear items dropped by c
 **AGI + 4
 **INT + 4
 
-===Attribute-increasing skills===
+===Attribute-increasing spells===
 
-For skills with an asterisk, here is a rundown of what they mean:
+Certain spells increase the value of the hero's stats when they are upgraded.
 
 *Upgrades not in BOLD - without any upgrades
 *''Upgrades in BOLD'' - with upgrades
 
-The following skills affect a hero's attributes (as well as the armor and damage):
+The following spells affect a hero's stats (including armor and damage):
 
 ====Human race====
 
@@ -259,9 +263,9 @@ The following skills affect a hero's attributes (as well as the armor and damage
 
 ===Heroes===
 
-This is the main body of the FAQ. You can find all the heroes on each race as well as their statistics here. I classified some spells according to its type. Every hero has an ultimate skill located on the 4th slot. These are powerful skills that are only unlocked when the hero reaches level 6.
+This is the main body of the FAQ. You can find all the heroes on each race as well as their statistics here. I classified some spells according to its type. Every hero has an ultimate spell located on the 4th slot. These are powerful spells that are only unlocked when the hero reaches level 6.
 
-*AURAS - Uncastable spells that supports the Hero as well as the units near it. These spells last and are permanent to the Hero when learned. Most auras fall under the 3rd slot of each Hero's skills.
+*AURAS - Uncastable spells that supports the Hero as well as the units near it. These spells last and are permanent to the Hero when learned. Most auras fall under the 3rd slot of each Hero's spells.
 
 =--Examples--=
 *[[Devotion Aura|Devotion Aura]] ([[Paladin|Paladin]])
@@ -1558,7 +1562,7 @@ The Crypt Lord progenerates 1 Carrion Beetle from a target corpse to attack the 
 |  3 |c                                         410 HP, 22-27 damage, Burrow. |
 
 TIPS:
-*Carrion Beetles can use the Burrow skill on levels 2 and 3, which is the same as the Crypt Fiends' Burrow spell as well. If they are replaced while burrowed, the new ones will spawn to the corpse where the Crypt Lord casted it.
+*Carrion Beetles can use the Burrow spell on levels 2 and 3, which is the same as the Crypt Fiends' Burrow spell as well. If they are replaced while burrowed, the new ones will spawn to the corpse where the Crypt Lord casted it.
 *Carrion Beetles is a unique hero spell that stays with the Crypt Lord until it dies. They don't even cost food.
 *You can replace old Carrion Beetles with newer ones as the level of this spell increases. The oldest Carrion Beetle is hard to determine though.
 
@@ -2019,26 +2023,26 @@ In Bonus Campaign, you will encounter many names of allies, foes and neutral uni
 
 ==Frequently Asked Questions==
 
+*Q - Are hero names randomly generated?
+**A - Yes. Even if you are going to restart the mission, a random name is given to the hero. The list of hero names per hero is found on their respective section.
+
+*Q - Are the Hit Points (HP) of the heroes their maximum HP of that level?
+**A - Yes. Maximum HP of each heroes increases per level. Refer to the table of that specific hero to know how much increase of HP the hero will have per level. However, if you are gonna wear items like "Periapt of Vitality", it will increase your maximum HP as long as your hero wears the item.
+
+*Q - Could I define my own names for the heroes?
+**A - Yes but you cannot do that in a normal game. There are 2 ways to do it. The first method is you can define your own hero names on your custom maps using World Editor. The second method, however, is a .txt file you have to edit but you're gonna need a software to extract it before editing it.
+
 *Q - How many items can hero units carry?
 **A - They can carry up to 6 items.
+
+*Q - There are some heroes that cannot attack air units. Is it possible for them to attack air units using spells?
+**A - Yes. Certain spells such as [[Mountain King|Mountain King]]'s [[Storm Bolt|Storm Bolt]] can hit air units.
 
 *Q - What is the level cap of hero units?
 **A - The level cap is 10 and cannot exceed more than that.
 
 *Q - Why do I see this -> "Night Sight: 80 (180*)"?
-**A - The normal Night Sight of the Night Elves is 80. When you build a Hunter's Hall and upgrade "Ultravision", all Night Elves units you control will have an enhanced Night Vision during night time. When upgraded to Ultravision, their enhanced Night Vision becomes 180.
-
-*Q - There are some heroes that cannot attack air units. Is it possible for them to attack air units using spells?
-**A - Yes. Certain spells such as [[Mountain King|Mountain King]]'s [[Storm Bolt|Storm Bolt]] can hit air units.
-
-*Q - Are the Hit Points (HP) of the heroes their maximum HP of that level?
-**A - Yes. Maximum HP of each heroes increases per level. Refer to the table of that specific hero to know how much increase of HP the hero will have per level. However, if you are gonna wear items like "Periapt of Vitality", it will increase your maximum HP as long as your hero wears the item.
-
-*Q - Are hero names randomly generated?
-**A - Yes. Even if you are going to restart the mission, a random name is given to the hero. The list of hero names per hero is found on their respective section.
-
-*Q - Could I define my own names for the heroes?
-**A - Yes but you cannot do that in a normal game. There are 2 ways to do it. The first method is you can define your own hero names on your custom maps using World Editor. The second method, however, is a .txt file you have to edit but you're gonna need a software to extract it before editing it.
+**A - The normal Night Sight value of Night Elf units is 80. When you build a Hunter's Hall and purchase the ''Ultravision'' upgrade, all Night Elf units you control will have an enhanced Night Vision during night time and their Night Vision becomes 180. This upgrade is unique to the Night Elf race though.
 
 ==Contact Information==
 
