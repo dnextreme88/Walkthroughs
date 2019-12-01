@@ -1,0 +1,1125 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Special Moves FAQ for Grandia III. This guide will cover up all special moves used by the characters in the game as well as how to setup these characters to achieve the best combos. I will also help you achieve some advanced aerial combos that you can use to maximize the combo chain and deal even more damage to your enemies!
+
+With accurate timing and perfect execution of the combos, you'll easily defeat your enemies in no time. Take note that there is no setup for Miranda and Alonso as they leave the party at certain events of the game. Besides, they're pretty easy to use.
+
+Grandia III is owned by Square Enix. All trademarks are subjected to Square Enix.
+
+Copyright (c) Square Enix.
+
+==Version History==
+
+*Version 1.0 - Dec 1, 2019
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Learning Secret Methods==
+
+Secret Methods can be learned for each Special Move up to 5 levels. Each level upgrades a specific attribute to the Special Move. From Power, Range, and Speed. Learning a new Secret Method is done in 2 ways:
+
+*A random use of a Special Move and repeatedly using it.
+*Using a Special Move to its fullest potential (depending on situation).
+
+The second method may seem odd but rest assured that it's possible. I once learned the Ultimate Method for [[Ulf|Ulf]]'s [[Dynamite Rush|Dynamite Rush]] from its initial state in one of my boss battles. I guess it was the right time and place to use it. Other proof of the second method was of the usage of Special Moves with a great area of effect on an enemy party of 1, compared to an enemy party of 5 and higher. Lastly, I had an odd experience using [[Yuki|Yuki]]'s [[Flash|Flash]] 19 times before learning a Secret Method. Either way, it was truly randomized or I simply did not use it in the right time and place.
+
+What is sure about learning Secret Methods is that you'll need to use Special Moves repeatedly to learn them.
+
+''Secret Method Levels''
+*Initial - No Secret Methods learned.
+*Level 1 - (P) Power upgrade.
+*Level 2 - (S) Speed upgrade.
+*Level 3 - (P) Power upgrade.
+*Level 4 - (R) Rate upgrade.
+*Ultimate Method - (P) Power upgrade.
+
+''Upgrade descriptions''
+*(P) Power upgrade - increases effectiveness of a Special Move.
+*(R) Rate upgrade - reduces delay time after executing a Special Move.
+*(S) Speed upgrade - reduces execution time of a Special Move.
+
+==Special Moves==
+
+What are Special Moves? Special Moves are powerful attacks that when executed, the screen tint slightly turns dark, and play out an undisrupted, animation scene.
+
+Acquiring a new Special Move can only be done by raising a character's Special Level. One skill can be learned per Special Level. However, there is no guarantee that with each Special Level UP, a new Special Move will be learned. Also, after raising Special Level, a character must execute an IP Combo command to initiate the final step of learning a new Special Move. If a character does learn a new Special Move, then it will be executed automatically, without using any SP Gauge and added into the character's Special Moves listing.
+
+As a final note, Special Moves are learned at certain Special Levels for each character. Raising a character's Special Level also increases the SP Gauge by 10 SP.
+
+=--Types--=
+*ATK - Attack
+*REC - Recover
+*STR - Strengthen
+=-=
+
+===Yuki===
+
+=-----=
+"Got it!"
+
+"All right! We won!"
+
+"Come on... Were they even trying?
+
+"I'm a pilot, I don't have time for this!"
+=-=
+
+====MOVES====
+
+=====Aerial Slash=====
+
+=-----=
+"Here I go! Hyah!"
+=-=
+
+| SP Level    | 1 (initial)   |
+| Combo       | 1 hit         |
+| SP          | 25            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Hack into the enemy from above. |
+| Power       | **            |
+| Effect      | Cancels enemy attack. |
+
+=====Whirlwind=====
+
+=-----=
+"Feel the bite of my blade! Whirlwind!"
+=-=
+
+| SP Level    | 2             |
+| Combo       | 1 hit         |
+| SP          | 40            |
+| Type        | ATK           |
+| Range       | Circle        |
+| Target      | Enemy         |
+| Element     | Wind          |
+| Description | Conjure up a devastating whirlwind. |
+| Power       | ***           |
+| Effect      | -             |
+
+=====Flash=====
+
+=-----=
+"Hyah! I feel the power! Hrggh!"
+=-=
+
+| SP Level    | 4             |
+| Combo       | -             |
+| SP          | 25            |
+| Type        | STR           |
+| Range       | Self          |
+| Target      | Self          |
+| Element     | -             |
+| Description | Consume the wind's power to move twice as fast. |
+| Power       | -             |
+| Effect      | Combo attack hits are doubled. |
+
+=====Blade Storm=====
+
+=-----=
+"Hyah! Hyah! Hyah! Hyah! Hyah! Take this!"
+=-=
+
+| SP Level    | 6             |
+| Combo       | 10 hits       |
+| SP          | 40            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Wind          |
+| Description | Unleash a flurry of sword strikes. |
+| Power       | ****          |
+| Effect      | Also damages nearby enemies. |
+
+=====Invincible Aura=====
+
+=-----=
+"Hyaaah!
+=-=
+
+| SP Level    | 7             |
+| Combo       | -             |
+| SP          | 75            |
+| Type        | STR           |
+| Range       | Self          |
+| Target      | Self          |
+| Element     | -             |
+| Description | Call upon the spirits for divine protection. |
+| Power       | -             |
+| Effect      | Negates a certain amount of damage. |
+
+=====Dragon Slash=====
+
+=-----=
+"Dragon of Light, lend me your power. Dragon Slash!"
+=-=
+
+| SP Level    | 9             |
+| Combo       | 1 hit         |
+| SP          | 99            |
+| Type        | ATK           |
+| Range       | All           |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Unleash the Dragon King's mighty power. |
+| Power       | ******        |
+| Effect      | -             |
+
+===Miranda===
+
+=-----=
+"Right, I'll give it a try!"
+
+"That's pathetic. Come back when you learn how to fight."
+
+"Why don't you make it easier for everyone and just stay out of the way."
+=-=
+
+====MOVES====
+
+=====Dagger Dash=====
+
+=-----=
+"Get ready for a little slice and dice! Stings a little, doesn't it?"
+=-=
+
+| SP Level    | 1 (initial)   |
+| Combo       | 9 hits        |
+| SP          | 25            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Unleash a series of dagger strikes. |
+| Power       | **            |
+| Effect      | Cancels enemy attack. |
+
+=====Force Slash=====
+
+=-----=
+"You're not even enough for a meal... but I'll fry you up anyways!"
+=-=
+
+| SP Level    | 3 (initial)   |
+| Combo       | Varied        |
+| SP          | 40            |
+| Type        | ATK           |
+| Range       | Fan           |
+| Target      | Enemy         |
+| Element     | Earth         |
+| Description | Send a wave of blade strikes barreling through the ground. |
+| Power       | ***           |
+| Effect      | -             |
+
+===Alfina===
+
+=-----=
+"Stop right there!"
+
+"Heehee. We won! Thank goodness."
+
+"I feel a little guilty."
+
+"See? Told you I could do it if I tried."
+=-=
+
+====MOVES====
+
+=====Comet Spike=====
+
+=-----=
+"Oh Divine Comet, bringer of light... illuminate the darkness!" (disc 1)
+
+"Oh Divine Comet, slice through the pitch black night!" (disc 2)
+=-=
+
+| SP Level    | 1 (initial)   |
+| Combo       | 1 hit         |
+| SP          | 25            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Send forth a burst of comet light. |
+| Power       | **            |
+| Effect      | Cancels enemy attack. |
+
+=====Stun Force=====
+
+=-----=
+"Sorry... this might hurt!" (disc 1)
+
+"I won't hold back!" (disc 2)
+=-=
+
+| SP Level    | 2             |
+| Combo       | 1 hit         |
+| SP          | 30            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Unleash a shocking flash of light. |
+| Power       | *             |
+| Effect      | Paralysis.    |
+
+=====Ripple Shot=====
+
+=-----=
+"Oh Blade of Light, go and strike our enemy! You won't escape!"
+=-=
+
+| SP Level    | 4             |
+| Combo       | 1 hit         |
+| SP          | 40            |
+| Type        | ATK           |
+| Range       | Line          |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Create a ring of light to slice through enemies. |
+| Power       | ***           |
+| Effect      | -             |
+
+=====Holy Circle=====
+
+=-----=
+"Oh, Divine Light. Protect me."
+=-=
+
+| SP Level    | 6             |
+| Combo       | -             |
+| SP          | 60            |
+| Type        | STR           |
+| Range       | Self          |
+| Target      | Self          |
+| Element     | Non-Elemental |
+| Description | Draw forth protection from the spirit of light. |
+| Power       | -             |
+| Effect      | A barrier to ward off enemies. |
+
+=====Energy Drive=====
+
+=-----=
+"Oh nurturing sun, bring courage and love to us all. Now, let's fight!"
+=-=
+
+| SP Level    | 8             |
+| Combo       | -             |
+| SP          | 50            |
+| Type        | REC           |
+| Range       | All           |
+| Target      | Ally          |
+| Element     | Non-Elemental |
+| Description | Offer a prayer to bolster the courage of your allies. |
+| Power       | -             |
+| Effect      | Recovers SP.  |
+
+=====Armageddon=====
+
+=-----=
+"Let your anger and your hate, be absorbed by the Divine Light. Your suffering is over."
+=-=
+
+| SP Level    | Received after Hect leaves party. |
+| Combo       | 1 hit         |
+| SP          | 99            |
+| Type        | ATK           |
+| Range       | All           |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Unleash Hect's flames of judgment. |
+| Power       | ******        |
+| Effect      | Lowers all enemy attributes. |
+
+===Alonso===
+
+=-----=
+"All right, I'll give it a shot."
+
+"If this keeps up, I'll be mobbed to death by fans."
+
+"Another flawless victory! Want my autograph? Get in line!"
+=-=
+
+====MOVES====
+
+=====Thrust Crash=====
+
+=-----=
+"Hyah! Heard something snap there."
+=-=
+
+| SP Level    | 1 (initial)   |
+| Combo       | 2 hits        |
+| SP          | 25            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Rush, jab, and gut the enemy. |
+| Power       | **            |
+| Effect      | Cancels enemy attack. |
+
+=====Lancer Smash=====
+
+=-----=
+"Hyah! Time to get down and dirty! Rawh!"
+=-=
+
+| SP Level    | 3 (initial)   |
+| Combo       | 3 hits        |
+| SP          | 40            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Skewer an enemy in mid-air, then throw it to the ground. |
+| Power       | ***           |
+| Effect      | -             |
+
+===Ulf===
+
+=-----=
+"I've got it!"
+
+"Ha! I didn't even break a sweat."
+
+"Ha! Bring 'em on!"
+=-=
+
+====MOVES====
+
+=====Rockbreaker=====
+
+=-----=
+"This might... sting a little!"
+=-=
+
+| SP Level    | 1 (initial)   |
+| Combo       | 1 hit         |
+| SP          | 19            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Pound an enemy with raw force. |
+| Power       | **            |
+| Effect      | Cancels enemy attack. |
+
+=====Force Wave=====
+
+=-----=
+"Hyah! Force Wave!"
+=-=
+
+| SP Level    | 3 (initial)   |
+| Combo       | 1 hit         |
+| SP          | 23            |
+| Type        | ATK           |
+| Range       | Rim           |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Belt out an explosive yell. |
+| Power       | **            |
+| Effect      | -             |
+
+=====Flame Spike=====
+
+=-----=
+"Hyaaah! Hyah! Flame Spike!"
+=-=
+
+| SP Level    | 5 (initial)   |
+| Combo       | 1 hit         |
+| SP          | 30            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Fire          |
+| Description | Leap up and spike a fireball. |
+| Power       | ****          |
+| Effect      | -             |
+
+=====Bigwheel=====
+
+=-----=
+"Heh, no one can stop me now! Hmph. Hah! What a rush!"
+=-=
+
+| SP Level    | 6             |
+| Combo       | 1 hit         |
+| SP          | 38            |
+| Type        | ATK           |
+| Range       | Line          |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Swiftly roll over enemies. |
+| Power       | **            |
+| Effect      | Cancels enemy attack. |
+
+=====Shadow Warrior=====
+
+=-----=
+"Bet ya can't tell which one is me! Haha! Keep an eye on my shadow."
+=-=
+
+| SP Level    | 7             |
+| Combo       | -             |
+| SP          | 19            |
+| Type        | STR           |
+| Range       | Self          |
+| Target      | Self          |
+| Element     | Non-Elemental |
+| Description | Give your shadow physical form. |
+| Power       | -             |
+| Effect      | It mimics your every move, doubling critical and combo attacks. |
+
+=====Inferno Spike=====
+
+=-----=
+"Hyaaah! Get ready to fry, maggots! Inferno Spike! Hyah!"
+=-=
+
+| SP Level    | 8             |
+| Combo       | 1 hit         |
+| SP          | 45            |
+| Type        | ATK           |
+| Range       | Circle        |
+| Target      | Enemy         |
+| Element     | Fire          |
+| Description | Leap up and hurl an enormous fireball at the enemy. |
+| Power       | ***           |
+| Effect      | -             |
+
+=====Red Lotus=====
+
+=-----=
+"Hyaaah! These flames are scorching hot! Ten thousand degrees of death! Hyaaaah!"
+=-=
+
+| SP Level    | 9             |
+| Combo       | 1 hit         |
+| SP          | 57            |
+| Type        | ATK           |
+| Range       | Line          |
+| Target      | Enemy         |
+| Element     | Fire          |
+| Description | Catapult a ring of crimson flames at the enemy. |
+| Power       | *****         |
+| Effect      | -             |
+
+=====Dynamite Rush=====
+
+=-----=
+"Hyaaah! I'm loaded with... Dynamite! Hyaaah! Ugh. I don't feel so good."
+=-=
+
+| SP Level    | 10            |
+| Combo       | 10 hits       |
+| SP          | 75            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Rip into the enemy with an explosion of energy. |
+| Power       | ******        |
+| Effect      | -             |
+
+===Dahna===
+
+=-----=
+"Oh, I see."
+=-=
+
+====MOVES====
+
+=====Homing Shot=====
+
+=-----=
+"Pick a card. Any card."
+=-=
+
+| SP Level    | 1 (initial)   |
+| Combo       | 1 hit         |
+| SP          | 25            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Fire a barrage of curse cards. |
+| Power       | **            |
+| Effect      | Cancels enemy attack. |
+
+=====Mana Capture=====
+
+=-----=
+"Pardon me, but, would you mind sharing? Heehee. Thanks."
+=-=
+
+| SP Level    | 3 (initial)   |
+| Combo       | 1 hit         |
+| SP          | 40            |
+| Type        | Support       |
+| Range       | Circle        |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Convert life force to mana. |
+| Power       | *             |
+| Effect      | Absorbs MP. |
+
+=====Dancing Cards=====
+
+=-----=
+"Oh Card of Light, here my call. Protect me!"
+=-=
+
+| SP Level    | 7              |
+| Combo       | 4/6/8/10 cards |
+| SP          | 25             |
+| Type        | Support        |
+| Range       | Self           |
+| Target      | Self           |
+| Element     | Non-Elemental  |
+| Description | Summon cards of light for protection. |
+| Power       | -              |
+| Effect      | They will execute counter-attacks. |
+
+=====Mana Spring=====
+
+=-----=
+"Oh endless spring, I call upon thee!"
+=-=
+
+| SP Level    | 8             |
+| Combo       | -             |
+| SP          | 75            |
+| Type        | Support       |
+| Range       | Self          |
+| Target      | Self          |
+| Element     | Non-Elemental |
+| Description | Summon an eternal mana spring. |
+| Power       | -             |
+| Effect      | Reduces mana consumption to 0. |
+
+===Hect===
+
+====MOVES====
+
+=====Crimson Shock=====
+
+=-----=
+"Here I go. Hyah! Was that OK?"
+=-=
+
+| SP Level    | -             |
+| Combo       | 1 hit         |
+| SP          | 40            |
+| Type        | ATK           |
+| Range       | All           |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Overwhelm surrounding enemies. |
+| Power       | *             |
+| Effect      | Cancels enemy attack. |
+
+=====Freeze=====
+
+=-----=
+"Hear me evil-doers, stop! Freeze!"
+=-=
+
+| SP Level    | -             |
+| Combo       | -             |
+| SP          | 75            |
+| Type        | ATK           |
+| Range       | Single        |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Create a powerful barrier. |
+| Power       | -             |
+| Effect      | Continues to damage the enemy overtime and prevents movement. |
+
+=====Armageddon=====
+
+=-----=
+"Let your anger and your hate, be soothed by this divine melody. Your suffering is over."
+=-=  
+
+| SP Level    | -             |
+| Combo       | 1 hit         |
+| SP          | 99            |
+| Type        | ATK           |
+| Range       | All           |
+| Target      | Enemy         |
+| Element     | Non-Elemental |
+| Description | Purify with flames of judgement. |
+| Power       | ******        |
+| Effect      | Lower all enemy attributes. |
+
+==Special Skill Setups==
+
+=--NOTE--=
+This section is only a personal recommendation of how to set up a character's skills, in order to maximize offense, whether it be physical or spiritual. I myself use all my characters offensively, with the exception of [[Alfina|Alfina]], whom I also use for healing purposes.
+=-=
+
+Now, the most common thing to do with setting up magic for characters is to have every one of them have the most powerful spells you could get and equally distributing healing spells, right? Well, I was wrong. Another alternative is assigning a specific element for a character to master. This saves time, money, and effort, and will allow you to focus on the skills (what you should be focusing on to begin with).
+
+However, the only problem with this method is that you'll need that saved time, money, and effort, to put that into playing at the casino for a ''Master Book'' (just 1). Which means that you'll be playing until you earn ''999,999 medals''. But, there's good news! You can find an ''Expert Book'' near the end of the game, use that in place of the Master Book. However, if you don't acquire the Master Book, you can't extract Force Attack to power up either [[Dahna|Dahna]] or [[Ulf|Ulf]].
+
+Assuming you have leveled your characters to their maximum Skill Level (15) and all are level 60 or higher, you'll have no problem eliminating bosses, even Xorn. As a little note, all the setups listed contain Perception and Counter. I find that Perception is far more useful then Super Reflexes, and saves 1 skill slot. Dodging physical attacks for 0 damage and having a chance to damage, cancel, or setup an Aerial Combo, is highly effective compared to taking damage (reduced 50% or not). It's also superior over Endurance.
+
+Just as a reminder, there is only 1 ''Master Book'' obtainable in the game and that's by winning it in the Casino. Later on in the [[Maximizing Aerial Combos||Maximizing Aerial Combos]] section, you'll notice it's an "either-or" situation when choosing who to give the extracted Force Attack skill to ([[Dahna|Dahna]] or [[Ulf|Ulf]]). I've laid out the groundwork to help you decide who to put the skill with. Either way, doing the damage is fun, so there's no right or wrong choice here.
+
+===Yuki - Physical/Offensive/Wind Mastery===
+
+=--SKILLS--=
+*Mighty Blow (body)
+*Warrior's Way (body)
+*Berserker (tech)
+*Fighter's Spirit (body)
+*Life Up (body)
+*Perception (tech)
+*Counter (tech)
+*Jolt Counter (tech)
+*Unshakable Will (body)
+=-=
+
+=--EQUIPMENTS--=
+*Spirit Sword
+*Spirit Armor
+*Warp Shoes
+*Spirit Ring
+*Tempest Egg
+*Slayer Book
+=-=
+
+=--MAGIC--=
+Every Wind spell in your inventory.
+=-=
+
+=--IMPORTANT SPECIAL MOVES--=
+*Aerial Slash
+**Cancels enemy specials.
+*Whirlwind 
+**Used in battles against a large quantity of enemies.
+*Flash
+**Increases combo attack hits, pair it with Berserker. Use Aerial Combos as much possible.
+*Invincible Aura
+**Pair it with Flash.
+*Dragon Slash
+**Used to greatly reduce HP or to finish 1 or more enemies.
+=-=
+
+Now, in order to fully maximize this, you will need [[Yuki|Yuki]]'s [[Flash|Flash]] and another member set up an enemy for an Aerial Combo. First off, all you need is a Slayer Book for [[Yuki|Yuki]]. When in battle, use [[Flash|Flash]] immediately. Not only does it double Combo Attacks, it's for normal and Aerial Combos too as well and a fully-supported Berserker will double the amount, again. For a normal ground combo, [[Yuki|Yuki]] will be doing 12 hits, while for Aerial Combos, he'll be executing 16 hits in all critical damage! You can also combo [[Flash|Flash]] with [[Invincible Aura|Invincible Aura]] for an unstoppable, no holds barred rampage!
+
+Some bosses are hard to knock up in the air, and you will rely on [[Alfina|Alfina]]. Activate [[Alfina|Alfina]]'s [[Holy Circle|Holy Circle]] and let her combo an enemy. Either that, or have her cast Crackle on some of the lesser-than-heavy bosses. Before, during, or immediately after, execute a Combo command for [[Yuki|Yuki]] on the same target. [[Holy Circle|Holy Circle]] knocks down any enemy it touches. Attack while the enemy is falling to the floor and it'll be juggled. For [[Yuki|Yuki]]'s part, attack even further and it'll turn into an Aerial Combo. It's possible to have [[Yuki|Yuki]] rack up between 1-11 hits on the ground before executing another 16 hit combo when an enemy is projected into the air for an Aerial Combo. Maximum potential combo of 27, just from [[Yuki|Yuki]] alone in 1 turn.
+
+Unshakable Will is self-explanatory, [[Yuki|Yuki]] will be undisrupted from executing any action. Perception, Counter, and Jolt work hand-in-hand: dodge and hit. It's another way to further damage an enemy without it being your turn and when [[Yuki|Yuki]] counters, sometimes it will setup the enemy into an Aerial Combo for other party members.
+
+Mighty Blow and Warrior's Way work as enhancers for [[Yuki|Yuki]]. His physical damage and defense will be increased and every counter and Special Move cancel you do will leave an enemy in the dust. Fighter's Spirit is there just to aid your Spirit Sword in recovering SP for more [[Dragon Slash|Dragon Slash]], [[Flash|Flash]] or [[Invincible Aura|Invincible Aura]].
+
+If your still wondering what [[Yuki|Yuki]]'s purposes are in battle, there's only one: Attack.
+
+What's left to say about [[Yuki|Yuki]] is that use all seeds on [[Yuki|Yuki]]! Not to mention, use them only when he's low on SP. If you're facing bosses with a massive amount of HP, then start off using [[Dragon Slash|Dragon Slash]] (if you can) until your SP Gauge runs low. Only then should you use the strategy provided above. Lastly, if you picked up the ''Bond of Trust'', please use this for [[Yuki|Yuki]] whenever possible. It never goes away when used, so take advantage of it.
+
+===Alfina/Hect - Spiritual/Support/Water Mastery===
+
+=--SKILLS--=
+''Set 1''
+*Magica Exsorcista (mind)
+*Meditation (mind)
+*Water Mastery (mind)
+*Guru's Way (mind)
+*Perception (tech)
+*Counter (tech)
+
+''Additional skills for Hect'':
+*Absorb Magic (mind)
+*Magic Up (mind)
+
+''Set 2''
+*Magica Exsorcista (mind)
+*Berserker (tech)
+*Perception (tech)
+*Counter (tech)
+*Water Mastery (mind)
+
+''Additional skills for Hect'':
+*Guru's Way (mind)
+*Absorb Magic (mind)
+=-=
+
+=--EQUIPMENTS--=
+''For both characters'':
+*Divine Charm
+*Lake Egg
+*Divine Book
+
+''For Alfina'':
+*Spirit Staff or Staff of Isis
+*Maiden's Dress
+*Mysterious Clogs 
+
+''For Hect'':
+*Baton of Light
+*Hect's Dress
+*Hect's Shoes
+=-=
+
+=--MAGIC--=
+Every Water spell in your inventory.
+=-=
+
+=--IMPORTANT SPECIAL MOVES--=
+*Comet Spike
+**Cancels enemy specials.
+*Holy Circle
+**Used to set-up Aerial Combos and to buy time for healing or executing other actions. Also used to disrupt enemies and inflict minor damage.
+*Ripple Shot
+**Used in battles against a large quantity of enemies.
+*Energy Drove
+**Restores the entire party's SP gauge.
+
+''Shared special moves with Hect'':
+*Armageddon
+**Used to greatly reduce HP and lower attributes of all enemies or to finish 1 or more enemies.
+
+''Special moves only Hect can execute'':
+*Crimson Shock
+**Cancels enemy specials. Also used in battles against a large quantity of enemies.
+*Freeze
+**Disables an enemy and inflict additional damage.
+=-=
+
+As mentioned above with [[Yuki - Physical/Offensive/Wind Mastery|Yuki's strategy]], [[Alfina|Alfina]]'s main purposes fall under 3 areas.
+
+*Casting either Diamond Dust, Crackle Fang, or Absolute Zero to cancel and damage enemies.
+*Heal.
+*Setting-up and chaining Aerial Combos. Use either Crackle to cancel/damage/juggle an enemy or Holy Barrier to chain/damage/combo an enemy.
+
+You'll be using [[Alfina|Alfina]] to heal the party most of the time but only if you either didn't level your characters past level 60 or avoided every single optional encounter in the game. With [[Hect|Hect]], however, you'll find yourself canceling attacks.
+
+To cover the basics of [[Alfina|Alfina]]'s and [[Hect|Hect]]'s layout, Magica Exsorcista, Meditation, and Guru's Way will always be in either setup. Magica Exsorcista cancels enemy attacks, Meditation will be synergetic. Every time [[Alfina|Alfina]] guards against an offensive magic spell, she regains MP from guarding and absorbing MP from the damage inflicted. Guru's Way is simply to increase magic damage and resistance.
+
+As for the offensive skill set, cast [[Holy Circle|Holy Circle]] and combo everything that moves to setup Aerial Combos. Easier said than done.
+
+===Ulf - Physical/Offensive/Fire Mastery===
+
+=--SKILLS--=
+''Set 1: with Force Attack''
+*Force Attack (body)
+*Warrior's Way (body)
+*Berserker (tech)
+*Life Up (body)
+*Perception (tech)
+*Counter (tech)
+*Jolt Counter (tech)
+
+''Set 2: without Force Attack''
+*Mighty Blow (body)
+*Warrior's Way (body)
+*Berserker (tech)
+*Fighter's Spirit (body)
+*Life Up (body)
+*Perception (tech)
+*Counter (tech)
+*Unshakable Will (body)
+=-=
+
+=--EQUIPMENTS--=
+*Rashik's Hammer
+*Phalanx
+*Ninja Slippers
+*Golden Ring
+*Volcano Egg
+*Slayer Book
+=-=
+
+=--MAGIC--=
+Every Fire spell in your inventory.
+=-=
+
+=--IMPORTANT SPECIAL MOVES--=
+*Rockbreaker
+**Cancels enemy specials.
+*Shadow Warrior
+**Increases combo attack hits, pair it with Berserker and use Aerial Combos as much possible.
+*Bigwheel
+**Used in battles against a large quantity of enemies. Also used to cancel multiple enemies.
+*Inferno Spike
+**Used in battles against a large quantity of enemies.
+*Red Lotus
+**Used in battles against a large quantity of enemies.
+*Dynamite Rush
+**Used to greatly reduce HP or finish an enemy.
+=-=
+
+[[Ulf|Ulf]]'s main purposes are as follows:
+
+*Heavy offense. Includes using [[Dynamite Rush|Dynamite Rush]] and when stocked on SP or Heaven's Gate or Galactic Bang if low on SP.
+*Offensive support. Includes canceling enemy attacks, stalling an enemy with [[Shadow Warrior|Shadow Warrior]], or attacking multiple targets with [[Red Lotus|Red Lotus]] or [[Bigwheel|Bigwheel]] (if canceling attacks are needed).
+
+[[Ulf|Ulf]]'s purpose in battle is the same as [[Yuki|Yuki]]'s. The only difference is that he can either play as an offensive support or an entire entity of offense by himself. The secret lies within [[Ulf|Ulf]]'s [[Shadow Warrior|Shadow Warrior]], where [[Yuki|Yuki]]'s [[Flash|Flash]] falls behind. Since [[Ulf|Ulf]]'s [[Shadow Warrior|Shadow Warrior]] doubles combo attack hits and criticals as well. In this regard, [[Ulf|Ulf]] has the highest attack power of all the characters in the game. With the Slayer Book maxing out Body Type skills, Force Attack will increase the amount of times criticals are hit, from 1 to 4. Activate [[Shadow Warrior|Shadow Warrior]] and now you have 8 criticals for the price of 1 turn. Not to mention [[Ulf|Ulf]] can keep up with [[Yuki|Yuki]] when it comes to combo damage. [[Shadow Warrior|Shadow Warrior]] and Berserker will max out [[Ulf|Ulf]]'s normal combo for up to 12 hits in 1 turn!
+
+[[Ulf|Ulf]]'s Aerial Finish contains 2 hits (though it cannot be chained). The first hit roughly multiplies [[Ulf|Ulf]]'s attack 5 times, and the second hit roughly multiplies it by 10 times. Activate [[Shadow Warrior|Shadow Warrior]] and you'll be dishing out 2 hits for the first hit and the second hit will be the amount of 1 hit multiplied by 10, doubled!
+
+For those who didn't acquire the ''Master Book (999,999 Medals)'', you can use [[Ulf|Ulf]] as you would [[Yuki|Yuki]]. The advantage for [[Ulf|Ulf]], though, lies with ''Rashik's Hammer'' (if you managed to picked it up). With SP Cost reduced by 25%, and Fighter's Spirit packing in SP regeneration, bosses will have a tough time dealing with numerous casts of [[Dynamite Rush|Dynamite Rush]] (especially if you have [[Alfina|Alfina]] using an [[Energy Drive|Energy Drive]] with the Ultimate Secret Method learned).
+
+It's quite possible to execute an [[Advanced Aerial Combo 1|8-hit critical and Aerial Combo in 1 turn]]. Although this is highly difficult to achieve.
+
+===Dahna - Physical/Support/Earth Mastery===
+
+=--SKILLS--=
+''Set 1: with Force Attack''
+*Force Attack (body)
+*Berserker (tech)
+*Warrior's Way (body)
+*Perception (tech)
+*Counter (tech)
+
+''Set 2: without Force Attack''
+*Prayer (mind)
+*Meditation (mind)
+*Earth Mastery (mind)
+*Water Mastery (mind)
+*Perception (tech)
+*Counter (tech)
+=-=
+
+=--EQUIPMENTS--=
+*Power Cards (use Sublime Cards if you don't have Force Attack)
+*Sage's Robe
+*Mysterious Clogs
+*Anne's Necklace
+*Gravity Egg (use Holy Egg instead if you don't have Force Attack)
+*Expert Book or Master Book
+=-=
+
+=--MAGIC--=
+Every Earth spell in your inventory.
+=-=
+
+=--IMPORTANT SPECIAL MOVES--=
+*Homing Shot
+**Cancels enemy specials.
+*Mana Capture
+**Used in battles against a large quantity of enemies. Also regains MP.
+*Dancing Cards 
+**Where the fun truly begins.
+*Mana Spring
+**Use this to deal endless amounts of spells. Simple as that.
+=-=
+
+[[Dahna||Dahna]]'s purposes are as follows:
+
+*Offensive support. Setup Aerial Combos with Critical command and [[Dancing Cards|Dancing Cards]]. Use Gravity to raise potential of other party members' Special Moves and attack spells.
+*Support. Resurrect fallen members and use healing items or spells while Crystal Wall is active.
+
+Assuming that you got a Master Book and burned it down to extract a Force Attack, you're in for a treat. If you didn't get a Force Attack, you're missing out on most of the fun in clobbering a boss with a 1-chain Aerial Combo.
+
+As you can see, [[Dahna||Dahna]] is a support character. However, like [[Alfina||Alfina]], this doesn't mean she can't dish it out either. She has a good arsenal of skills with her: Berserker, Perception, Counter, and Warrior's Way.
+
+Warrior's Way will optimize her potential to deal damage by physical attacks. The resistance comes as a plus to aid [[Dahna||Dahna]]'s already low innate defenses.
+
+Force Attack comes into play with the use of a Critical command. [[Dancing Cards|Dancing Cards]] will not strike unless [[Dahna||Dahna]] is either attacked, or she attacks with a critical, but not with a combo. If you've learned the Ultimate Secret Method for Dancing Cards (9 [[Dancing Cards|Dancing Cards]]), stacked with the Power Cards (+180 ATK), have Force Attack, and the Expert Book to max out Body Type skills, casted with Crystal Wall... you'll be reckless!
+
+Do remember that [[Dancing Cards|Dancing Cards]] only consumes 25 SP. Have Earth Mastery lower Crystal Wall's MP cost to 50, max out [[Dahna||Dahna]]'s Special Level, and use [[Alfina||Alfina]]'s [[Energy Surge|Energy Surge]] on the party when SP is low and you'll have an excellent supply of SP to use for the entire party.
+
+However, if you don't have Force Attack, then you'll have to play [[Dahna||Dahna]] as you would with [[Alfina/Hect - Spiritual/Support/Water Mastery|Alfina and Hect]]. Only this time, you use less offensive spells and more Gravity to optimize area effective Special Moves and spells (such as [[Ulf|Ulf]]'s [[Red Lotus|Red Lotus]] or the Absolute Zero). You'll also be using Resurrection every once and a while when you feel like reserving Revival Potions/Elixirs or just don't have any.
+
+==Maximizing Aerial Combos==
+
+This section will hep you maximize and execute advanced Aerial Combos to achieve high damage using every character. All of the examples are done with the following assumptions:
+
+*Characters are equipped with the specified books, skills, and footwear that allows warp movement. 
+*You have learned all of the characters' [[Special Moves|Special Moves]].
+*You have learned the Ultimate Secret Methods for all Special Moves for all characters.
+
+Keep in mind that pulling off these combos will not only take precise timing, but also luck. They can be done at the beginning of a battle, as long as the random arrangement of your characters' IP Symbols fall in order and are distanced accurately apart. Please take note that hits from [[Dahna||Dahna]]'s [[Dancing Cards|Dancing Cards]] will not count towards the Combo Counter (don't worry if you cannot reach pass a 60-hit Aerial Combo). I have also listed the total amount of hits landed for every types of combos.
+
+All combos listed below needs the following items:
+*Golden Feather
+*Platinum Feather
+
+===Advanced Aerial Combo 1===
+
+Characters and Skills:
+
+*Yuki - Berserker
+*Alfina - Berserker
+*Ulf - Berserker
+*Dahna - Berserker, Force Attack
+
+IP Arrangement:
+
+*Yuki at (COM).
+*Ulf is between Yuki and Alfina.
+*Dahna is slightly before Alfina.
+*Alfina is moderate distance after Yuki.
+*ENEMY A is positioned anywhere.
+
+Combo Steps:
+
+=--PRE-REQUISITES--=
+*Must have [[Yuki|Yuki]]'s [[Flash|Flash]] activated.
+*Must have [[Alfina|Alfina]]'s [[Holy Circle|Holy Circle]] activated.
+*Must have [[Dahna|Dahna]]'s [[Dancing Cards|Dancing Cards]] activated.
+*Must have [[Ulf|Ulf]]'s [[Shadow Warrior|Shadow Warrior]] activated.
+=-=
+#Have Yuki combo ENEMY A.
+#Have Ulf combo ENEMY A.
+#Have Alfina combo ENEMY A.
+#Have Dahna critical ENEMY A.
+
+Scenario:
+
+*Yuki at 4-hit combo, Ulf begins combo.
+*Yuki at 6-hit combo, Ulf at 4-hit combo, Alfina begins combo, Dahna begins critical.
+*Yuki at 8-hit combo, Ulf at 8-hit combo, Alfina at 2-hit combo, Dahna launches critical.
+*9 [[Dancing Cards|Dancing Cards]] hit, followed by Dahna's critical, Yuki at 10-hit combo, Ulf at 10-hit combo, Alfina at 4-hit combo, Dahna's critical hits.
+*ENEMY A is knocked into the air, Yuki performs Swallow Slash 16-hit combo, followed by Alfina's Mana Stinger 8-hit combo, followed by Ulf's "You're Finished!" 3-hit combo.
+
+:: Normal Combo: 33
+:: Critical Combo: 4
+:: Aerial Combo: 27
+%
+:: TOTAL COMBO: 64
+
+===Advanced Aerial Combo 2===
+
+Characters and Skills:
+
+*Yuki - Berserker
+*Alfina - Berserker
+*Ulf - Berserker
+*Dahna - Berserker, Force Attack, Perception, Counter
+
+IP Arrangement:
+
+*Yuki, at (ACT) or (COM).
+*Alfina, at (ACT).
+*Dahna is at a moderate distance from (COM).
+*Ulf is slightly behind Dahna.
+*ENEMY B is positioned anywhere.
+*ENEMY A is at a slight distance from (COM).
+
+Combo Steps:
+
+=--PRE-REQUISITES--=
+*Must have [[Yuki|Yuki]]'s [[Flash|Flash]] activated.
+*Must have [[Dahna|Dahna]]'s [[Dancing Cards|Dancing Cards]] activated.
+*Must have [[Ulf|Ulf]]'s [[Shadow Warrior|Shadow Warrior]] activated.
+*Must have at least 2 enemies on screen.
+*Must have 1 enemy with moderate HP (ENEMY B).
+*Must have the other enemy target [[Dahna|Dahna]] (ENEMY A).
+*Must have ENEMY A execute a Normal Attack.
+=-=
+#Have Yuki and Alfina combo ENEMY B.
+#Have ENEMY A attack Dahna.
+#Hope Dahna dodges and counterattacks.
+#Hope ENEMY B is killed by this time.
+
+Scenario:
+
+*Yuki and Alfina combo ENEMY B.
+*ENEMY A prepares to attack Dahna.
+*ENEMY A attacks Dahna.
+*Dahna dodges and counterattacks with [[Dancing Cards|Dancing Cards]]. At the same time, ENEMY B is killed and Yuki and Alfina have not executed their entire combo.
+*ENEMY A is knocked into the air, Yuki performs Swallow Slash 16-hit combo, followed by Alfina's Mana Stinger 8-hit combo.
+*While ENEMY A is still in the air, Dahna reaches (COM). Choose the Combo command and Dahna performs Gatling Shot.
+*While ENEMY A is still in the air, Ulf reaches (COM). Choose the Combo command and Ulf performs "You're Finished!".
+
+:: Normal Combo: 9
+:: Critical Combo: 4
+:: Aerial Combo: 35
+%
+:: TOTAL COMBO: 48
+
+===Advanced Aerial Combo 3===
+
+Characters and Skills:
+
+*Yuki - Berserker
+*Alfina - Berserker
+*Ulf - Berserker, Force Attack, Perception, Counter
+*Dahna - Berserker
+
+IP Arrangement:
+
+*Yuki, at (ACT) or (COM).
+*Alfina, at (ACT).
+*Dahna, at (ACT).
+*Ulf is at a moderate distance from (COM).
+*ENEMY B is positioned anywhere.
+*ENEMY A is at a slight distance from (COM).
+
+Combo Steps:
+
+=--PRE-REQUISITES--=
+*Must have [[Yuki|Yuki]]'s [[Flash|Flash]] activated.
+*Must have [[Ulf|Ulf]]'s [[Shadow Warrior|Shadow Warrior]] activated.
+*Must have at least 2 enemies on screen.
+*Must have 1 enemy with moderate HP (ENEMY B).
+*Must have the other enemy target [[Ulf|Ulf]] (ENEMY A).
+*Must have ENEMY A execute a Normal Attack.
+=-=
+#Have Yuki, Alfina, and Dahna combo ENEMY B.
+#Have ENEMY A attack Ulf.
+#Hope Ulf dodges and counterattacks.
+#Hope ENEMY B is killed by this time.
+
+Scenario:
+
+*Yuki, Alfina, and Dahna combo ENEMY B.
+*ENEMY A attacks Ulf.
+*Ulf dodges and counterattacks. At the same time, ENEMY B is killed and Yuki, Alfina, and Dahna, have not executed their entire combo.
+*ENEMY A is knocked into the air, Yuki performs Swallow Slash 16-hit combo, followed by Alfina's Mana Stinger 8-hit combo, followed by Dahna's Gatling Shot.
+*While ENEMY A is still in the air, Ulf reaches (COM). Choose the Combo command and Ulf performs "You're Finished!".
+
+:: Normal Combo: 0
+:: Critical Combo: 8
+:: Aerial Combo: 35
+%
+:: TOTAL COMBO: 43
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Special Moves FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Square Enix for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=

@@ -1,0 +1,351 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Boss FAQ for Gauntlet: Dark Legacy. This FAQ will help people understand more about bosses and help them fight it. I will guide you on how to beat the bosses as well as list down where to find the respective legendary weapons to make each boss battle much easier. I will give out tips on boss attacks and what to do during the battle.
+
+Gauntlet: Dark Legacy is owned by Midway Games. All trademarks are subjected to Midway Games.
+
+Copyright (c) Midway Games.
+
+==Version History==
+
+*Version 1.0 - Dec 1, 2019
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Legendary Weapons==
+
+Before we get started, let me explain how legendary weapons work. Legendary weapons are powerful items that are used on bosses that greatly deal a huge amount of damage, making the boss battle a lot easier. Legendary weapons are scattered throughout the entire game but not all bosses have a legendary weapon associated with them (there is no legendary weapon used against [[True Skorne|True Skorne]] and [[Garm|Garm]]).
+
+You will know that the legendary weapon is in the area if there is a short cutscene when entering that area. Keep this in mind. Also, there's no order in facing the bosses, since I faced the bosses in the level I stated in each boss section. You can face them at the recommended level stated if you desire. Here is a list of the legendary weapons as well as where to find them:
+
+*Book of Protection - found under a cage, but you must activate 2 levers to open the cage and lift it up in the Sky Shipyards of Sky Dominion. Used against [[Lich|Lich]].
+*Ice Axe - found behind an icy wall and after lowering the drawbridge in the Castle Barracks of Castle Stronghold. Used against [[Dragon|Dragon]].
+*Scimitar of Decapitation - found below a huge tree stump, but you must activate a lever to make it rise in the Gnarled Branches of Forest Realm. Used against [[Chimera|Chimera]].
+*Javelin of Blinding - found under a platform in the Volcanic Cavern of Mountain Kingdom. Used against [[Plague Fiend|Plague Fiend]].
+*Toxic Bellows - found in a sarcophagus behind a huge wall in the Mystic Pyramid of Desert Lands. Used against [[Spider Queen|Spider Queen]].
+*Lamp of Dark Obstruction - found inside a cave in the Erupting Fissure of Ice Domain. Used against [[Genie|Genie]].
+*Parchment of Fire - found in a two-sided statue after draining the fire in the pool in the Haunted Cemetary of Forsaken Province. Used against [[Yeti|Yeti]].
+*Lantern of Revelation - found in a viewing deck after lowering a floating platform in the Haunted Grounds of Dream World. Used against [[Shadow Wraith|Shadow Wraith]].
+*Soul Savior - found after lowering the chandelier in the middle of a room in the Desecrated Temple of Desecrated Temple. Used against [[Skorne|Skorne]].
+
+==Bosses==
+ 
+===Lich===
+
+=-----=
+Area: Lich's Crypt
+
+Recommended level: 35
+
+Legendary Weapon: Book of Protection
+
+Items: Any amulet, Turbo Boost
+
+Difficulty without legendary weapon: 4
+
+Difficulty with legendary weapon: 3
+=-=
+
+Big, fast guy we're dealing with here. He has a lot of attacks and most of them involve with his axe. If you come have the Book of Protection, a light ray shines down on the Lich, reducing his health significantly. This makes the battle easier. If you're using a melee hero, watch out for his Spin attack, as it damages you if you're too close to the Lich. The other annoying attack you should watch out for is his Skeletal Hand attack, where multiple hands will keep you in place, making you unable to move.
+
+When he is defeated, there will be 4 bronze coins and 1 silver coin to pick up, giving you a total of ''3,000 gold''. Green light will shine out of the Lich's face then a giant skeletal hand jumps out of the floor to where the Lich is standing. The hand chases the Lich as he hastily crawls, grabs him then pulls him down, sending him back to the underworld, where only the Lich's head remains.
+
+====Attacks====
+*Choke: Lich grabs a hero and begins to strangle them with his immense strength.
+*Ground Breaker: Lich slams his axe onto the ground causing the ground to break and produce deadly green energy.
+*Ground Pound: Lich jumps, causing a shockwave when he lands damaging surrounding heroes.
+*Maggot Spit: Lich spits some of his own rotting flesh on to the ground with poisonous maggots, creating a Generator that spawns maggots.
+*Skeletal Hand: Lich uses his necromancy powers to summon a giant skeletal hand from the ground beneath the hero, slowing them down and making them unable to move.
+*Skull: Lich picks up one of the skulls laying on the ground in the crypt and throws it at a hero. There are times that he throws multiple skulls.
+*Spin: Lich spins in place while holding his axe outward.
+*Taunt: Lich will sometimes draw a line with his axe and say in a raspy voice, "Come here."
+ 
+===Dragon===
+
+=-----=
+Area: Dragon's Lair
+
+Recommended level: 32
+
+Legendary Weapon: Ice Axe
+
+Items: 3-Way Shot
+
+Difficulty without legendary weapon: 3
+
+Difficulty with legendary weapon: 1
+=-=
+
+Probably the easiest boss in the game. As you can see, this boss is very big which means that most of your attacks should hit him unless it goes way off. Start off with a full turbo, unleash it on him, then get the 3-Way shot to totally kill him. If you have the Ice Axe, it will freeze the Dragon for several seconds and takes a chunk of its health. Now he is vulnerable to your powerful attacks. The Dragon's basic attack is its Fireball attack. One slow and one fast. Hide behind the magma rocks which, if you're lucky, will prevent the fireballs from hitting you but only for 3 times. It will also block the Dragon's Ground Pound attack which is annoying and will always hit unless you hide behind the magma rocks. Don't get too close to him or he will attack you with his claw. Also, watch out for his Fire Breath attack as well. Overall he isn't too tough, you just need to get the hang of dodging the fireballs he spits.
+
+When it is defeated, there will be 5 silver coins to pick up for ''5,000 gold''. The Dragon roars then falls to the ground and its body is burned completely.
+
+====Attacks====
+*Claw: The Dragon will slash at the hero with its claws if the hero gets close enough.
+*Fire Breath: The Dragon breathes fire from left to right.
+*Fireball: The Dragon shoots 1 or 2 balls of fire at the hero. If its 1 fireball, it heads directly to the hero, otherwise it goes on either side.
+*Ground Pound: The Dragon uses 1 claw to hit the ground and sends out a shockwave. This attack can be dodged if the hero is behind a rock.
+*Wing Wave: The Dragon flaps its wings and knocks the hero down. The hero will be knocked down whether they are behind a rock or not.
+
+===Chimera===
+
+=-----=
+Area: Chimera's Keep
+
+Recommended level: 45
+
+Legendary Weapon: Scimitar of Decapitation
+
+Items: 3-Way Shot
+
+Difficulty without legendary weapon: 4
+
+Difficulty with legendary weapon: 2
+=-=
+
+The Chimera has 3 heads, each resembling a Gargoyle species and you'll have to destroy all of them! If you have the Scimitar of Decapitation, it will either cut off the Lion head (middle head) or severely damage all 3 heads depending on where you use it. The Chimera's ultimate attack is its Triple Breath attack which is undodgeable. However, without 1 of the heads, it will disable that. All 3 heads are lousy shooters so you should be able to dodge it's Elemental Breath and Elemental Bolt easily. It also doesn't have a lot of health and with the 3-Way Shot, you should be able to defeat this boss with ease. Quite a good money-making boss.
+
+When it is defeated, there will be 2 bronze coins, 1 silver coin and 1 gold coin to pick up, giving you a total of ''7,000 gold''. A vicious roar is heard from the Chimera and it slowly moves back. It looks up then falls down the castle.
+
+====Attacks====
+*Elemental Bolt: A head launches a bolt of their chosen element. This could either be fire, electric or acid.
+*Elemental Breath: The head fires a breath weapon, which damages and causes knockdown, much like that of a Gargoyle.
+*Triple Bolt: All three heads launch a simultaneous bolt.
+*Triple Breath: All three heads breath at once. This cannot be dodged.
+
+===Plague Fiend===
+
+=-----=
+Area: Vat of the Plague Fiend
+
+Recommended level: 38
+
+Legendary Weapon: Javelin of Blinding
+
+Items: Light Amulet
+
+Difficulty without legendary weapon: 6
+
+Difficulty with legendary weapon: 4
+=-=
+
+For this huge lump of toxic waste with 6 arms and 1 eye, he is durable! The Javelin of Blinding will spear his only eye, making him attack aimlessly for a short period of time. Use your amulet and your pet (you should have one by now) to attack him like crazy, but stay away from him as well! He has some average acid shots, but his main problem comes from his Slime Tentacle attack, which is undodgeable. Stay away from the toxic pipes, as there are times the Plague Fiend will dive under the toxic and splash some toxic waste onto you if you're near the pipes! At a high level, you can just go and attack aimlessly on him.
+
+When it is defeated, there will be 4 silver coins and 1 gold coin to pick up, giving you a total of ''9,000 gold''. The Plague Fiend gets sucked down through it's drain then to its demise.
+
+====Attacks====
+*Slime Ball: The Plague Fiend spits a sphere of his own toxic slime.
+*Slime Dive: The Plague Fiend dives into the vat, splashing the area near the pipes with toxic goo.
+*Slime Tentacle: The Plague Fiend forms a tentacle from his own toxic slime and sweeps it from left to right or vice-versa.
+
+===Spider Queen===
+
+=-----=
+Area: The Web of the Queen Spider
+
+Recommended level: 62
+
+Legendary Weapon: Toxic Bellows
+
+Items: 3-Way Shot, Growth Potion
+
+Difficulty without legendary weapon: 8
+
+Difficulty with legendary weapon: 6
+=-=
+
+She is fast and the damage that she does quickly adds up. The Toxic Bellows will poison the Spider Queen and drain a fair amount of life from her. Now it's time to use your best attacks at this time before she charges at you. Before she does that though, she will basically shoot acid shots at you which is easy to dodge. However, once she does her charge, things start getting messy. She will start whipping you over and over again. Try to be fast and outlast her. Other than those attacks, she can also summon up spiders. Defeat them fast. You will most likely need food in the middle of battle, so the good thing is there's some ham in the middle of the room. I recommend having a 6,500+ health at the start of battle. She gives excellent experience, so if you're up for it, she will make a good training boss.
+
+When she is defeated, there will be 4 gold coins to pick up for ''10,500 gold''. The Spider Queen falls down to her own web as part of the web she is standing on rips apart.
+
+====Attacks====
+*Crack with whip - The Spider Queen charges at the hero and whips you.
+*Kick - The Spider Queen kicks you using her frontal legs. Used in close range.
+*Slash - The Spider Queen quickly uses her whip to lunge at you in a forward motion.
+*Spit goo - The Spider Queen shoots acid at the hero.
+*Spit spider nests - The Spider Queen creates a Generator that spawn spiders to fight for her.
+
+===Genie===
+
+=-----=
+Area: Genie's Sanctum
+
+Recommended level: 58
+
+Legendary Weapon: Lamp of Dark Obstruction
+
+Items: 3-Way Shot, Light Amulet
+
+Difficulty without legendary weapon: 7
+
+Difficulty with legendary weapon: 5
+=-=
+
+At those levels, he is tough. However, with the Lamp of Dark Obstruction, the Genie will be blinded and temporarily misses his attacks. The Genie has a Laser Eye attack and Laser Sweep attacks which fire annoying lasers at you. Watch out for his tornado, it hurts! His Rock Fall attack is just as bad as well, however it's easier to dodge. If you aren't fast enough, the Genie will summon multiple small green swordfighters. These guys are annoying so defeat them fast unless the Genie goes crazy summoning them. There's a Light Amulet and some ham to get in this battle but don't get too close to the Genie or he will slash at you.
+
+When he is defeated, there will be 2 bronze coins, 1 silver coin, and 2 gold coins to pick up, giving you a total of ''12,000 gold''. The Genie cries a vicious roar as he is slowly getting sucked by his own lamp. After a while, he completely disintegrates.
+
+====Attacks====
+*Laser Eye - The Genie hurls a single laser at the hero. This is hard to dodge.
+*Laser Sweep - The Genie shoots laser in a sweeping motion.
+*Rock Fall - The Genie roars as rocks fall from the ceiling above.
+*Swing Swords - The Genie slashes the hero in close range using either the left or right sword.
+*Tornado - The Genie swings his swords swiftly that creates tornadoes hurled at the hero. Green tornadoes summon mini genies.
+
+===Yeti===
+
+=-----=
+Area: Yeti's Cavern
+
+Recommended level: 70
+
+Legendary Weapon: Parchment of Fire
+
+Items: Fire Amulet, Invulnerability Potion
+
+Difficulty without legendary weapon: 8
+
+Difficulty with legendary weapon: 5
+=-=
+
+The Parchment of Fire will engulf the Yeti's icy body in flames and reduce a chunk of his health. With this legendary weapon and a fire amulet, you can totally show him the heat! However, the Yeti's still no joke and he's a beefy guy so it will take long before you actually kill him. His main attacks are Ice Boulder and Rolling Ice, where he utilizes hurling a chunk of ice towards you. He does it in 2 ways: a) he can punch the wall and an ice boulder will bounce or b) he can create one and roll it towards you! Not really hard to avoid. Use the ice pillars he creates if he starts sending shockwaves at you.
+
+When he is defeated, there will be 3 silver coins and 2 gold coins to pick up, giving you a total of ''13,000 gold''. The Yeti roars, kneels to the ground and disintegrates into smaller pieces of ice.
+
+====Attacks====
+*Breathe Ice - The Yeti breathes ice in a sweeping motion.
+*Chomp - The Yeti forcefully grabs the hero, bites you then throws you back.
+*Ground Pound - The Yeti slams the ground and sends shockwaves as well as creating pillars of ice near the hero. He either uses his fists or jumps to slam the ground.
+*Ice Boulder - The Yeti punches the nearest wall and an ice boulder will come out bouncing towards the hero.
+*Rolling Ice - The Yeti creates an ice boulder and rolls it towards the hero.
+*Slash - The Yeti uses his huge claws to lunge you in a sweeping motion on close range.
+ 
+===Shadow Wraith===
+
+=-----=
+Area: Wraith's Haunt
+
+Recommended level: 78
+
+Legendary Weapon: Lantern of Revelation
+
+Items: 3-Way Shot, Amulet, Growth Potion, Turbo Boost
+
+Difficulty without legendary weapon: 9
+
+Difficulty with legendary weapon: 7
+=-=
+
+This guy is a pain and his attacks can do over 150 damage! The Lantern of Revelation will drain away his health and temporarily stops the Shadow Wraith from tossing shadow orbs at the hero. This will make the battle a little easier for you. The Shadow Wraith has a lot of attacks, but the one you should really watch out for is his Shadow Blade attack because it is very fast and has a long range. He also has numerous other attacks: Throw Shadow Orbs which is fast, and if you get too close, he will use his Blade Spin attack more often. You should definitely start off with a full turbo and also grab a full turbo charger nearby. With the items mentioned above, he shouldn't last long as he doesn't have as much HP as the [[Yeti|Yeti]].
+
+When he is defeated, there will be 3 gold coins to pick up for ''15,000 gold''. The void suddenly becomes stronger, as the Shadow Wraith is pulled by its force. He clings to the nearby columns but succumbs to the wind and vanishes.
+
+====Attacks====
+*Blade Spin - The Shadow Wraith spins his multiple arms in a circular motion to deal damage.
+*Shadow Blade - The Shadow Wraith lunges with his long dark arms in a sweeping motion or in a forward motion.
+*Shoot Tentacles - The Shadow Wraith channels then releases green tentacles at the hero.
+*Shoot Snakes - The Shadow Wraith releases a horde of pixelated snakes in multiple directions.
+*Throw Shadow Orbs - The Shadow Wraith hurls a dark energy at the hero.
+
+===Skorne===
+
+=-----=
+Area: Altar of Skorne
+
+Recommended level: 80
+
+Legendary Weapon: Soul Savior
+
+Items: none
+
+Difficulty without legendary weapon: 6
+
+Difficulty with legendary weapon: 5
+=-=
+
+Not very tough for a boss like him, Skorne is one of the last bosses of the game. The Soul Savior will take away 1/4 of his health and prevents the hero from getting hit by his spells. Just stay away near him and keep attacking. Skorne has some powerful shots which he will do most of the time, but at level 80 you should be able to easily withstand them.
+
+When he is defeated, he won't drop any coins. Instead, he'll drop 4 equipments and you have to choose one: helmet, mask, left gauntlet, right gauntlet. These equipments don't last long on you so make the most out of it. Skorne will be consumed with fire and then drown below it.
+
+===True Skorne===
+
+=-----=
+Area: Throne of Skorne
+
+Recommended level: 85
+
+Items: Fire Amulet, Invulnerability Potion
+
+Difficulty: 8
+=-=
+
+The main difficulty here is actually surviving the underworld, as it is extremely hard. You need to have the Fire Amulet for Skorne's 2nd form which you can retrieve from the Lava Golem before facing this boss. At this point, there are no more legendary weapons so you'll have to come prepared for this boss battle. Try to have 6,000+ HP when you reach True Skorne and level 85 is like the minimum level to fight him. True Skorne is harder but nearly the same as [[Skorne|his 1st form]] since he basically uses the same attacks however they obviously do more damage. He has a Clap attack that when paired with his Fire Blast attack, they deal a lot of damage! Anyways, there's a 99.99% chance that you don't have one of [[Skorne|Skorne]]'s equipment at this point which you have gotten by defeating him last time, but you might if you wasted no time at all and totally ran through the Underworld without getting hit over 3 times. You might need Invulnerability to get past the creatures. [[Skorne|Skorne]] just lost his armor which means he's easier to kill this time. Watch out for his Fire Ray attack, especially the thicker ray that comes from his body because it deals more damage than the lighter one.
+
+Once defeated, True Skorne will seemingly lay unconscious, tries to lunge at you then completely disintegrates.
+
+====Attacks====
+*Clap - True Skorne claps his fists to form a fiery shockwave and sends them to the hero.
+*Darts - True Skorne flaps his wings and releases flame darts from his body.
+*Fire Blast = True Skorne sears the hero with a flame blast.
+*Fire Ray - True Skorne blasts a ray of fire onto the hero. Another version of this attack comes from his body, which has thicker ray and deals more damage.
+
+===Garm===
+
+=-----=
+Area: Garm's Citadel
+
+Recommended level: 99
+
+Items: 3-Way Shot, Amulet, Growth Potion, Invulnerability Potion
+
+Difficulty: 7
+=-=
+
+Most people have thought about how tough Garm is, but at level 99 with 999 strength, armor, magic, and speed (you should have gotten those powerups) and at a full 9999 health, he isn't that hard. Garm has about 13 parts, well, at least I think he does because he has too many parts to defeat. Everytime you defeat a part, 2 sorcerers that looks like Garm will spawn out of the rock. Kill them then dodge their Skull Rush attack which they'll transform into when they die. This attack does 200+ damage when hit, so you have to watch out.
+
+Once all parts have been defeated, Garm will crumble into pieces and the real Garm inside will fall down and turn into purple goo. Congratulate yourself for defeating the final boss, the ultimate evil Garm!
+
+====Attacks====
+*Shockwave - Garm clasps his hands and sends a purple shockwave.
+*Skull Rush - Garm's clones transform into a powerful and deadly skulls that charge into the hero upon death.
+*Throw Energy Spheres - Garm conjues a purple sphere and immediately hurls it at a hero.
+*Thunder Bolt - Garm releases a flurry of thunder bolts into the area around him.
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"GDL: Boss FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Midway Games for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=
