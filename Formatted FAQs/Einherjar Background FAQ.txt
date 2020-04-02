@@ -1,0 +1,929 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Einherjar Background FAQ for Valkyrie Profile 2: Silmeria. I created the guide to help readers understand how Einherjars work in the Valkyrie Profile universe. Einherjars first appeared on Valkyrie Profile: Lenneth (simply Valkyrie Profile on the PS1 version) and are portrayed strongly, each Einherjar had short scenes showing how they died (which were often heart-warming scenes). In Silmeria, they do not have these scenes but had a more interesting story because they are more involved in the game\'s storyline than Lenneth.
+
+Valkyrie Profile 2: Silmeria is owned by Tri-Ace. All trademarks are subjected to Tri-Ace.
+
+Copyright (c) Tri-Ace.
+
+==Version History==
+
+*Version 1.0 - Apr 2, 2020
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Recorded History==
+
+===Aaron===
+''"Stick together and charge!"''
+
+=-----=
+Age: 28
+
+Born: 553 C.C.
+
+Died: 581 C.C.
+
+Bio: A captain of the Knights of the Bloodsword, crown defenders of the Arkdain Kingdom that once spanned the continent\'s northwest. Even though he began to realize the king was eccentric, he was loyal to his duty as a knight and continued to wage war against the king\'s brother\'s troops. In 581 C.C., he killed a captain of the king\'s brother\'s troops, the Knights of the White Lily, in one-on-one melee. However, after the war, he refused treatment for his wounds and passed away quietly.
+=-=
+
+===Adonis===
+''"I'll kill you all."''
+
+=-----=
+Age: 28
+
+Born: 553 C.C.
+
+Died: 581 C.C.
+
+Bio: Formerly a stray mercenary. Adonis participated in the War of Camille Hill, where he became one of the Seventeen Commanders of Camille and earned the nickname "Black Blade Adonis". He often did not fight for a particular side, but he would often strike a deal with the troops of the area he happened to be in. It is said that he once destroyed troops he sided with just two days prior. People regarded him as one of the strongest warriors of the time. He sided with the Rosetta Dynasty, which once existed in the south of the continent, after the War of Camille Hill. He led the Eclipse Troop of the Knights of the Sun. He was part of the invading troops during the Lassen Invasion. After a fierce duel, he was beheaded by Warrior Princess Celes, another one of the Seventeen Commanders.
+=-=
+
+===Aegis===
+''"Who the hell do you beasts think you\'re fighting?"''
+
+=-----=
+Age: 28
+
+Born: 390 C.C.
+
+Died: 418 C.C.
+
+Bio: A sorcerer from Solde. Although originally a Dipan soldier, Aegis become widely known because of his extraordinary contribution in the battle against the Principality of Paltierre, which once existed in the northeast of the continent. A master at reading the ocean, it was said he could take on any numbers of enemies at sea. However, despite being undefeatable on the water he was not so invincible in it, as he could not swim. While skirmishing with pirates in 418 C.C., he fell into the water and drowned at sea.
+=-=
+
+===Alm===
+''"You sleep now, and never awake..."''
+
+=-----=
+Age: 38
+
+Born: 563 C.C.
+
+Died: 601 C.C.
+
+Bio: The second prince of the Principality of Paltierre, which once ruled in the northeastern region of the continent. Alm was the son of Dragon Scale Sigmund, one of the Seventeen Commanders of Camille. His eyes were like his father\'s - similar to those of a dragon. He was known for his vast knowledge of magic. When his brother and father left for the mainland in 581 C.C. for the Year-Long War, he stayed to keep the country in order. In the Mist of Niflheim that began in 599 C.C., he commanded a regiment and fought off the undead invading the country. During one of the ensuing battles, he was attacked and killed by the underworld\'s dragon king.
+=-=
+
+===Arcana===
+''"Forward, forward!! Keep pushing forward!!!"''
+
+=-----=
+Age: 19
+
+Born: 705 C.C.
+
+Died: 724 C.C.
+
+Bio: Raised in the desert town of Kalstad, Arcana was one of the heroes who saved the town from Crell Monferaigne, a kingdom trying to spread its power over the continent. With her superior knowledge of weather patterns, she managed to avoid battles during the disadvantageous rainy season, and kept the Crell Monferaigne troops from taking the town. In 724 C.C. during the Fourth Kalstad Invasion, she suffered a deep wound and died in the arms of her most-trusted friend. Her death came at a young age, and it is said that even the Crell Monferaigne battalion mourned her death.
+=-=
+
+===Atrasia===
+''"Those who cannot save themselves cannot save others."''
+
+=-----=
+Age: 25
+
+Born: 308 C.C.
+
+Died: 333 C.C.
+
+Bio: A member of the Tehm, a small tribe from the north of the continent. The tribe excelled in the ability to handle horses. They rode as fast as the wind and flew over mountains like birds. Tehm tribal custom calls for a Protector, one who is sacrificed for the blessings of the gods. However, the Protector of the time broke the laws of purity by bearing a child. Atrasia was this Protector. Without a Protector, the tribe was attacked by a group of undead and wiped out. Atrasia managed to escape to a nearby town with her child, but died of exhaustion and physical injuries.
+=-=
+
+===Celes===
+''"Smash the silver chains that bind thee to life!!"''
+
+=-----=
+Age: 27
+
+Born: 556 C.C.
+
+Died: 583 C.C.
+
+Bio: Celes led the troops of Dipan in the War of Camille Hill from 573 C.C. to 576 C.C. Her myriad battle tactics earned her a position as one of the Seventeen Commanders of Camille, and also earned her the moniker "Warrior Princess Celes." After the war, she married the lord of Lassen and lived a peaceful life. However, in 581 C.C., the Rosetta Dynasty, a power existing in the south continent, launched an invasion that resulted in her capture while her husband was away. This battle, known as the Lassen Invasion, was the cause of the Year-Long War, which ended with the whole continent\'s involvement. Celes participated in this war as Eclipse General of the Knights of the Sun. They fought against Dipan\'s navy, which was said to be ten times the size of their army. Near the end of the Year-Long War, she was wounded at the Battle of Rosetta by her birth sister Phyress, Queen of Dipan. She died two years later as a result of the wound.
+=-=
+
+===Chrystie===
+''"Well, I\'m sure we\'ll be okay... maybe."''
+
+=-----=
+Age: Unknown
+
+Born: 583 C.C.
+
+Died: Unknown
+
+Bio: The only daughter to King Cyphel of Paltierre. Paltierre once existed in the northeast of the continent. In 598 C.C., Chrystie left the country to pursue a minstrel who happened to drop by the palace. In 599 C.C., during the three year Mist of Niflheim, she and the minstrel traveled to many lands to seal and destroy the undead. However, she never returned to her country even after the door to Niflheim was closed. She merely disappeared, never to be seen again.
+=-=
+
+===Circe===
+''"Might makes right. Think about that."''
+
+=-----=
+Age: 24
+
+Born: 634 C.C.
+
+Died: 658 C.C.
+
+Bio: From the mines in the northwestern region of the continent. Circe was both a warrior and a legendary swordsmith. Using the Secret Law of Principles, it was said her swords could cut through the hardest of rock, and her armor could repel even the sharpest of arrows. One of the founders of Villnore, she died in battle at the age of 24 before she could pass on her knowledge of the Secret Law.
+=-=
+
+===Crescent===
+''"All set? Weapons ready!?"''
+
+=-----=
+Age: Unknown
+
+Born: 562 C.C.
+
+Died: Unknown
+
+Bio: An aristocrat from Gerabellum. Crescent was only ten years old when the neighboring ciry suddenly attacked in 572 C.C. She managed to escape with the help of a Mercenary. This sudden attack began an era of war from what would later be called the War of Camille Hill, a battle that lasted four years. However, because of her young age, Crescent was merely used as a bargaining chip by the kingdom for political purposes. After the war, she returned home, only to find her stepmother still holding reign over her father\'s land. The one she once called mother threatened her. She realized the attack itself was her stepmother\'s plot and exacted revenge. Afterwards, she and her heroic mercenary traveled the world. In 580 C.C., she enlisted with the Rosetta Dynasty, a power that once existed in the south of the continent. She joined the royal guard, the Knights of the Sun, and was appointed Meridian General. In 581 C.C., she joined the Year-Long War. She vanished after the Battle of Artolia Pass. Her body was never found.
+=-=
+
+===Dyn===
+''"You will never break through our guard of steel!"''
+
+=-----=
+Age: Unknown
+
+Born: 582 C.C.
+
+Died: Unknown
+
+Bio: A warrior priest for Dipan. Dyn was one of the heroes that became legendary for his contribution during the Mist of Niflheim (Beginning in 599 C.C.). According to town minstrels, he risked his life to close the passage between Niflheim and Midgard.
+=-=
+
+===Ehlen===
+''"I shall never retreat, never!!"''
+
+=-----=
+Age: 32
+
+Born: 549 C.C.
+
+Died: 581 C.C.
+
+Bio: - Formerly working as a mercenary mainly in the Gerabellum region, Ehlen was part of the Gerabellum Army in the War of Camille Hill that began in 572 C.C. His name was often found at the top of the list of the Seventeen Commanders of Camille, which included only the mightiest warriors. He was a fighter who never gave up, and had been through much in his lifetime. People looked at him with awe and fear. Thus he was given the nickname "Demigod Ehlen". He wandered the land after the war, but in 580 C.C., he sided with the Rosetta Dynasty, which once existed in the south of the continent. He was appointed as Horizon General of the royal guard, Knights of the Sun, and participated in the Year-Long War, which began the year after. He demonstrated his amazing fighting skills during the war as he held his own against the two major powers- Paltierre and Dipan. However, during the battle of Artolia Pass, he gave his life to protect his friends from an ambush by the Undead.
+=-=
+
+===Ehrde===
+''"You didn\'t want to die? Too bad."''
+
+=-----=
+Age: 26
+
+Born: 551 C.C.
+
+Died: 581 C.C.
+
+Bio: Ehrde was appointed the Twilight General of the Knights of the Sun of the Rosetta Dynasty during the Year-Long War that began in 581 C.C. It was he who captured the feared Warrior Princess Celes during Lassen\'s Invasions. He stayed in Lassen and fought against the Arkdain troops from the northeast of the continent. However, after Artolia Pass to the east was overtaken by Paltierre forces, his troops became isolated. Although he fought valiantly, he lost his life. Ehrde not only achieved fame as a general, but also carried out many espionage missions for Rosetta. It is rumored that he was directly involved in the assassination of the king of Arkdain.
+=-=
+
+===Falx===
+''"I\'ll watch our backs! Now go!"''
+
+=-----=
+Age: 25
+
+Born: 350 C.C.
+
+Died: 375 C.C.
+
+Bio: An adventurer from the outskirts of Gerabellum. Blaming the undead for the death of his parents, Falx spent his entire life seeking vengeance by defeating Brahms, the Lord of the Undead. Falx not only excelled in wielding a sword, but also used his knowledge of contraptions and sorcery to his advantage in battles. After his extraordinary fighting ability skills finally caught Brahms\' eye, he soon lost his life.
+=-=
+
+===Farant===
+''"Teamwork wins it!!"''
+
+=-----=
+Age: 27
+
+Born: 554 C.C.
+
+Died: 581 C.C.
+
+Bio: Farant hailed from Lassen, a town in the southwest of the continent. Farant created an organization which consisted of the remaining soldiers from the troops that participated in the Year-Long War from 581 C.C. The organization was formed to resist any powers that might try to assume control over Lassen. His troops used guerilla tactics and were victorious with only 100 soldiers against an army of 5000. Even the generals of the Rosetta Dynasty, which ruled over Lassen, feared Farant\'s power and asked for reinforcements to help with this matter. During the Battle of Artolia Pass, near the end of the Year-Long War, he commanded a feint operation. Although the plan was a success, he was killed by the Meridian General of the Knights of the Sun. He died without ever seeing Lassen liberated.
+=-=
+
+===Fraudir===
+''"We shouldn\'t waste time. Finish this quickly."''
+
+=-----=
+Age: 25
+
+Born: 556 C.C.
+
+Died: 581 C.C.
+
+Bio: A Captain of the Knights of the White Lily, Count Leon\'s royal guard. Count Leon was the younger sibling of the King of Arkdain. The Arkdain Kingdom once existed in the continent\'s northwest. In 578 C.C., Fraudir accompanied the Count in revolting against the King and his corrupt ways. In the battles known as the Arkdain Uprising that raged until 581 C.C., she fought as Count Leon\'s right-hand guard. After invading central Arkdain, she faced a captain of the Knights of the Bloodsword in a duel. She lost her life without the chance to unsheathe her sword. However, she died with a content look on her face, knowing the Count had succeeded in achieving his goal.
+=-=
+
+===Gerald===
+''"Our will cannot be broken so easily."''
+
+=-----=
+Age: 25
+
+Born: 464 C.C.
+
+Died: 489 C.C.
+
+Bio: A warrior from Nethov, a town vital to the Principality of Paltierre, a power that ruled in the northeast of the continent. Gerald was one of the many who volunteered to slay a dragon - a menace that often appeared near town. He and 99 other volunteers charged into the dragon\'s den, ready for a fight. As his sword plunged into the dragon\'s chest, a fountain of poisonous blood spurted from the wound, killing not only the soldiers in the area, but all living creatures in the Nethov region.
+=-=
+
+===Guilm===
+''"Let\'s go! I will clear the way!"''
+
+=-----=
+Age: 35
+
+Born: 546 C.C.
+
+Died: 581 C.C.
+
+Bio: Guilm participated in the War of Camille Hill to aid Queen Celes, the leader of the Dipan Army. He was considered one of the Seventeen Commanders, and was given the nickname "Baron Blade Guilm". After the war, he resigned from his position as general and served his country as a mere soldier. However, during Lassen\'s Invasions six years later, he participated in the battle alongside Queen Celes\'s sister, Queen Phyress. In 581 C.C., during the Battle of Rosetta near the end of the Year - Long War, he laid down his life to recover the life of a friend he had lost.
+=-=
+
+===Jessica===
+''"I am sorry, I am not ready for my journey to end."''
+
+=-----=
+Age: 23
+
+Born: 445 C.C.
+
+Died: 468 C.C.
+
+Bio: Raised by a merchant family in the Nethov region. A girl of such prosperous upbringing should never have been exposed to the brutishness of the world, but one day her destiny took a sudden turn. Her father, the wealthiest man in town, was ensnared in a trap that cost him his entire fortune- and his life. Her fiance broke off their engagement when her house went bankrupt. Faced with starvation, Jessica decided to become an adventurer. In 468 C.C., she came across an enormous gemstone while adventuring through some ruins. Unaware that the stone sealed the spirit of an evil dragon, she removed it from its resting place.
+=-=
+
+===Khanon===
+''"Kill \'em!"''
+
+=-----=
+Age: 42
+
+Born: 539 C.C.
+
+Died: 581 C.C.
+
+Bio: Originally a mere lord of a small region of Gorhla, Khanon began to make frequent appearances in Arkdain after several casualties in the War of Camille Hill that began in 575 C.C. He eventually gained enough power to make decisions concerning state affairs. He created a neutral clerical faction that opposed both parties that caused the War of Camille Hill, the king\'s and his brother\'s. At the same time, he created the Division of the Sacred Cross, a troop with a church. This inalienable right gave his clergical faction solid political ground. In 581 C.C. Khanon was shot in the heart with an arrow while being anointed in the lake temple in the southwest region of the Arkdain Kingdom.
+=-=
+
+===Kraad===
+''"If your interests clash, war is the only answer."''
+
+=-----=
+Age: 32
+
+Born: 630 C.C.
+
+Died: 662 C.C.
+
+Bio: Hailing from a remote village on the north side of the continent, Kraad was one of the original founders of Villnore. They say his sword arm sliced enemies armor and all, while his steel-like body could repeal speeding arrows. It is said that Villnore\'s first king gave Kraad his own sword and armor after gazing upon his battered arms, as repeated battles during the founding had taken their toll. Three years after the country was founded, Kraad was struck by a poison arrow while putting down a rebellion, ultimately leading to his death.
+=-=
+
+===Lwyn===
+''"Let\'s put on a show!"''
+
+=-----=
+Age: 22
+
+Born: 324 C.C.
+
+Died: 346 C.C.
+
+Bio: A member of Truth, a band of treasure hunters spanning the entire continent. A treasure hunter through and through, Lwyn traveled with her father from a young age, slaying numerous monsters and discovering countless relics and ruins. She was last heard from in 346 C.C., in the desert region to the south of Artolia Pass. She disappeared soon after reporting to Truth Headquarters regarding her discovery of an ancient dynasty\'s royal tomb.
+=-=
+
+===Lydia===
+''"I will strike the target."''
+
+=-----=
+Age: 21
+
+Born: 748 C.C.
+
+Died: 769 C.C.
+
+Bio: The daughter of a Queen of Crell Monferaigne. Lydia suffered shame and disdain, as she was not the legitimate daughter of the king. To find her purpose in life, she trained hard and demonstrated great skill on the battlefield from a young age. However, her younger brother-in-law, Prince Cain, was jealous of her skills as a warrior and hired a group of thieves to kill her. Although she died at a young age, her prowess as an archer was legendary. It is said that during one battle, she was able to save an ally by disarming an enemy one hundred meters away.
+=-=
+
+===Lylia===
+''"I will be strong!"''
+
+=-----=
+Age: 22
+
+Born: 730 C.C.
+
+Died: 752 C.C.
+
+Bio: The daughter of a lord in Crell Monferaigne, Lylia was a holy child who received the blessings of Frei at birth. In 746 C.C., she was about to marry into the royal family, but ran out in the middle of the ceremony. Despite a thorough search for the new queen, she was nowhere to be found. Time passed, and people began to forget she ever existed. However, six years later in 752 C.C., mayhem broke out when she was spotted in the Salerno region. She returned to Crell Monferaigne, but in a fragile mental state. Awhile after her return, she threw herself from atop the castle walls in front of the king.
+=-=
+
+===Masato===
+''"This might be trouble!"''
+
+=-----=
+Age: 23
+
+Born: 658 C.C.
+
+Died: 681 C.C.
+
+Bio: Masato hailed from a nameless island far to the southwest of the continent. Not only did Masato excel at magic, but he was also able to perform the secret art of inscribing runes to create barriers. He devised a plan to assassinate the tyrant who ruled at the time, but was betrayed by his best friend. He crossed the ocean to flee from his pursuers. After reaching the continent, he lived a peaceful life, while chasing away the undead who attacked villages. However, his body began to wither as a repercussion of a failed spell. He eventually died, his body reduced to a mere skeleton.
+=-=
+
+===Millidia===
+''"I only wish to be free..."''
+
+=-----=
+Age: 29
+
+Born: 773 C.C.
+
+Died: 802 C.C.
+
+Bio: Millidia lived a simple life in Gerabellum with her elder sister. Her entire life changed when her sister caught the eye of their lord. From then on, she was able to live the life she had only dreamed of- finally, shelter, and an abundance of food. However, unaccustomed to luxury, she requested to live in a house in the corner of town where she spent her days living a simple life. Shortly thereafter, she began to notice changes in her sister. Perhaps because her sister was not used to living in luxury, or maybe because she wanted to erase her past, her sister began showing disdain towards the poor. With the passing of her husband, her sister\'s attitude towards the poor only became worse. She disowned Millidia as her sister and even went as far as to burn the poor area of the town they once inhabited. She switched places with her sister to stop her from doing such horrible things with some help from the Thieves\' Guild. Once she began governing the country, there was nothing but peace in Gerabellum. In 802 C.C., for some unknown reason, she set fire to the thieves' hideout and she burned herself to death with half the guild. The real cause of her death was covered up. The general public was told she died in a fire at the theater.
+=-=
+
+===Mithra===
+''"Be calm! Do not show weakness..."''
+
+=-----=
+Age: 34
+
+Born: 112 C.C.
+
+Died: 146 C.C.
+
+Bio: Led the military of Fraelgard, a country that existed on the island south of the continent from 80 C.C. to 234 C.C. It is said Mithra was behind the construction of hidden fortresses at key points on the island that fended off would-be invaders from the continent. However, a mistake by a subordinate raised suspicions of treason against the king during a battle in 145 C.C. Mithra was left to die on the battlefield and eventually captured. For the entire year he was held captive in a dungeon, Mithra was subjected to unspeakable tortures, yet never spoke a word. When his corpse was later delivered to Fraelgard without eyes, ears or tongue, the king is said to have broken down in tears at his own shameful folly.
+=-=
+
+===Phyress===
+''"Ta da!!"''
+
+=-----=
+Age: 58
+
+Born: 564 C.C.
+
+Died: 622 C.C.
+
+Bio: A former queen of Dipan. Phyress participated in the Year-Long War which began in 581 C.C., with only two comrades. The was a heroine in the Battle of Paltierre, the Arkdain uprising, the Battle of Artolia pass and the Battle of Rosetta. Were it not for her the surrounding four powers would have been unable to completely contain Rosetta. During the Battle of Rosetta near the end of the Year-Long War, she lost her arm and decided to give up her warrior life. She married her childhood friend King Cyphel of Paltierre. She supported her husband governing the country, but in 622 C.C. she caught an endemic disease and passed away. Mourning his wife, the king of Paltierre died five years later. Phyress had possessed the skill and knowledge of a great bowyer. She also compiled the writings of alchemy scattered throughout the continent to create the Tome of Truths.
+=-=
+
+===Psoron===
+''"Things are getting interesting!"''
+
+=-----=
+Age: 27
+
+Born: 423 C.C.
+
+Died: 450 C.C.
+
+Bio: A genius sorcerer from the Principality of Paltierre, which once existed in the northeast of the continent. Psoron created Fire Storm, the most widely used offensive magic spell, and Guard Reinforce, one of the most basic defensive magic spells. He was the court sorcerer for the king of Paltierre. After creating these two magic spells to fight the undead, he disappeared. More than half the magic spells in existence would not have been, were it not for the creation of Psoron\'s two basic spells.
+=-=
+
+===Rasheeka===
+''"Fine. If you want to die, come and get it!"''
+
+=-----=
+Age: 20
+
+Born: 704 C.C.
+
+Died: 724 C.C.
+
+Bio: From the desert town of Kalstad. Rasheeka was one of the several heroes who protected the town from the spreading forces of the powerful Crell Monferaigne. With her knowledge of the land and by controlling the water supply, she managed to protect the town from the colossal Crell Monferaigne army. In 724 C.C., she received a fatal wound during the Fourth Kalstad Invasion and died in the arms of her lover. When the Crell Monferaigne army later heard of her demise, they immediately regretted missing the opportunity to take Kalstad.
+=-=
+
+===Richelle===
+''"I believe in us... In our strength..."''
+
+=-----=
+Age: 27
+
+Born: 550 C.C.
+
+Died: 577 C.C.
+
+Bio: A captain of the White Lily, Count Leon\'s royal guard. The Count\'s domain was the western territory of what was once the Arkdain Kingdom, located in the northeast of the continent. Richelle was one of Camille\'s renowned "Seventeen Commanders" in the war of Camille Hill, and was later dubbed "Richelle of the Simmering Samite." In 574 C.C., under orders from the Count, Richelle fought in the War of Camille Hill. Her superior swordsmanship saved a defensive line from the brink of collapse and drove the enemy back into the mountains, resulting in victory. She commanded the frontline patrols for two years following the war and was eventually ordered home in 577 C.C. However, on the way home, the entire guard went missing after visiting a town in the Gorlha region.
+=-=
+
+===Roland===
+''"Foward soldiers, and crush the foe!"''
+
+=-----=
+Age: 29.
+
+Born: 548 C.C.
+
+Died: 577 C.C.
+
+Bio: Captain of the Knights of the Bloodsword, crown defenders of the Arkdain Kingdom that once spanned the continent\'s northwest. Roland was one of Camille\'s renowned Seventeen Commanders in the War of Camille Hill, and was later dubbed, "Roland of the Thundercry". In 574 C.C., by order of the king of Arkdain, Roland fought in the War of Camille Hill. His unparalleled strategic command saved a defensive line from the brink of collapse and drone the enemy back into the mountains. He commanded the frontline patrols for two years following the war and was eventually ordered home in 577 C.C. However, he went missing and was last reported seen in the Gorlha region.
+=-=
+
+===Seluvia===
+''"O gods! Give me courage!!"''
+
+=-----=
+Age: Unknown
+
+Born: 573 C.C.
+
+Died: Unknown
+
+Bio: Raised in Rand, a small town along Artolia Pass. During the Year-Long War that began in 581 C.C., Rand was attacked by an opposition group. These groups had rapidly increased in number due to the decrease of public safety. Seluvia was Rand\'s lone survivor. He was rescued by a woman who later went on to become Queen Phyress of the Principality of Paltierre. In 593 C.C., he disappeared, fearing that his existence would cause a war to breakout among the heirs to the throne. He then became a minstrel and traveled many lands, sealing the undead along the way.
+=-=
+
+===Sha-kon===
+''"They were good! I\'d like to mass-produce them."''
+
+=-----=
+Age: 23
+
+Born: 627 C.C.
+
+Died: 650 C.C.
+
+Bio: Hails from a nameless island far to the southwest of the continent. Clever with her hands, Sha-kon was the creator of mechanical dolls with various complex components. She traveled alone to the continent in hope of obtaining necromancy that enabled one to control a dead soul. Her desire was to fill her dolls with these souls, bringing them to life. After a long and painful journey, she succeeded in learning the spell. As a result of much experimentation, she managed to create a doll with a soul... or so she thought. Her final creation was merely a doll that used the soul as energy for mobility.
+=-=
+
+===Sophalla===
+''Stay cool. We can\'t afford to throw away victory..."''
+
+=-----=
+Age: 24
+
+Born: 772 C.C.
+
+Died: 796 C.C.
+
+Bio: Sophalla grew up in a poor neighborhood of Gerabellum. Sophalla was raised as an assassin by a Thieves\' Guild, but caught the eye of a local lord and she married at 16. Her life changed completely as she became a member of the upper class overnight. However, unable to erase her past, she received letters of threat and blackmail from the guild. After coming clean about her past to the lord, they devised a plan to destroy the guild. However, in 790 C.C., the lord was assassinated by a member of the guild. After this incident, Sophalla continued to fight the guild on her own. In 792 C.C., she was kidnapped by the guild, who crushed her throat and sold her as a slave.
+=-=
+
+===Sylphide===
+''"We fight battle upon battle, will peace ever come?"''
+
+=-----=
+Age: 32
+
+Born: 567 C.C.
+
+Died: 599 C.C.
+
+Bio: An attendant of Dipan\'s Queen Phyress for as long as she can remember, Sylphide stood by the queen\'s side unquestioningly and ended up fighting in the Year-Long War that raged across the continent. Though not suited for war, the healing magic she wielded is said to have saved Queen Phyress from myriad dangers. Sylphide almost lost her life near the war\'s end in the Battle of Rosetta, but was rescued from the clutches of death by a companion. Upon her return, she spent her days quietly in Dipan\'s chapel, but she was found murdered by the undead during the Mist of Niflheim - the dark ages that began in 599 C.C.
+=-=
+
+===Tyrith===
+''"What the heck happened!?"''
+
+=-----=
+Age: 23
+
+Born: 639 C.C.
+
+Died: 659 C.C.
+
+Bio: Raised in Lassen, a town in the southwest of the continent. Tyrith claimed to be the descendent of the Warrior Princess Celes, a heroine who lived more than 100 years ago. She sided with Arkdain which once existed in the northwest of the continent, and contributed tremendously in the battle against Villnore. She became as famous and as strong, if not stronger, than Celes, giving her soldiers courage to fight even at their most exhausted. In 658 C.C., during the Battle of the Lake Temple, the Villnore army\'s strategic plans sank the temple, killing Tyrith in the process. Although she claimed she was related to General Celes, she was actually a mere merchant\'s daughter.
+=-=
+
+===Woltar===
+''"Ugly, ugly..."''
+
+=-----=
+Age: 28
+
+Born: 724 C.C.
+
+Died: 752 C.C.
+
+Bio: A ruthless alchemist who kidnapped the Queen of Crell Monferaigne in 746 C.C. Hiding out in the hinterland of Salerno, Woltar was rumored to have spent his days and nights engrossed in horrifying experiments. However, in 752 C.C. he was found and punished by officers from Crell Monferaigne. A month after the queen was rescued from her prison, she took her own life by throwing herself from atop the castle wall.
+=-=
+
+===Xehnon===
+''"Death is no great thing... Just a fleeting pain..."''
+
+=-----=
+Age: 24
+
+Born: 562 C.C.
+
+Died: 586 C.C.
+
+Bio: Xehnon was a servant of the Rosetta Dynasty, a dynasty that once existed in the south of the continent in 578 C.C. He accidentally got a hold of a divine book, The Manuscript of Manifestation, and became possessed by its strong, godly powers. Under its spell, he managed to become the court sorcerer to get close to the king of Rosetta. Eventually, he was able to persuade the king to invade the rest of the continent. Xehnon was possessed for three and a half years, until the book was burned by Queen Phyress of Dipan. Once freed, he began searching the lands for a means to rectify the state the world was in, but in 586 C.C., he was attacked and killed by a group of rioters.
+=-=
+
+===Zunde===
+''"Showtime!"''
+
+=-----=
+Age: 22
+
+Born: 754 C.C.
+
+Died: 776 C.C.
+
+Bio: An adventurer from Quiryl, a small town near Loahm Hill. Zunde became famous for discovering the legendary sword Grand Sting, in an old shrine he passed on his journey. Later, as he and his friends traveled through Camille Hill, he received a request to slay the monsters in the area. He set out full of confidence, never to be heard from again.
+=-=
+
+==Actual History==
+
+===The Beginning Years===
+
+In the year 80 C.C, the military nation of Fraelgard was erected on an island to the south of the main continent. 
+
+Thirty two years later in 112 C.C, Mithra was born and became the commander of the Fraelgard army later in his life. He was a loyal and powerful leader that led the construction of hidden fortresses to fend off invaders from Fraelgard. A mistake made by one of his subordinates, however, caused Mithra to be captured by a rival nation where he was tortured to spill secrets about his nation and king. The king who ordered Mithra\'s death on the battlefield was in shock when Mithra\'s body was delivered to Fraelgard a year later in 146 C.C. with no eyes, ears, or tongue.
+
+Centuries later in 308 C.C, Atrasia was born in the village of Tehm, which laid to the north of the main continent of Midgard. The tribe of Tehm could live in peace as long as they sacrificed a Protector to receive blessings from the gods, as per their customs.
+
+In 324 C.C, Lwyn was born in Kalstad and joined the treasure hunting guild called Truth, alongside her father. Together, the two of them have slain many monsters and discovered many artifacts as well.
+
+The custom of Tehm called for a pure Protector to be sacrificed, but Atrasia, the Protector at the time, gave birth to a child. Her child died and a saddened Atrasia ventured to Nifelhiem to retrieve her child\'s soul. She was successful but she broke the laws that Tehm and the gods had agreed upon. Odin, angered by this action, allowed a group of undead to attack and destroy the village. Atrasia was able to escape to a nearby town with her child, but died from exhaustion and severe wounds in 333 C.C.
+
+Thirteen years later, in 346 C.C, Lwyn died after she told Truth about finding a royal tomb in the Sahma Desert.
+
+Four years passed and Falx was born on the outskirts of Gerabellum in 350 C.C. When he was young, the undead killed his parents and Falx vowed to have revenge against them. He practiced his swordplay as well as his magic skills to be able to fight against the undead. This, combined with his intelligence, made Falx one of the most dangerous undead hunters in history. In 375 C.C., Falx found Brahms\' Castle and met with the Lord of the Undead. He challenged Brahms to a fight to the death, but lost.
+
+In 390 C.C., Aegis was born in Solde and became a revered naval commander throughout the lands due to his ability to read the ocean. Sometime before he became a naval commander, Aegis sacrificed his ability to swim in exchange for the ability to read the water to some water nymphs. In a battle against some pirates that were pillaging Solde, Aegis was knocked into the water and drowned in 418 C.C.
+
+Five years later, in 423 C.C., Psoron was born in Paltierre and became a scholar that invented the magic spells Fire Storm and Guard Reinforce to combat the undead. Because of this feat, Psoron became the court sorcerer for the king of Paltierre.
+
+In 445 C.C., Jessica was born in Nethov to an aristocratic family. 
+
+Five years later in 450 C.C, Psoron died due to unknown reasons.
+
+Jessica led a great life with her father\'s wealth. Once she became of age, she was engaged to be married, but her father lost all the family\'s money and his life. Her fiance called off the wedding and Jessica was left all alone. At this time, it is presumed that Jessica was with her fiance\'s child, whom would grow to be Gerald. She gave birth to Gerald in 464 C.C. With sword in hand, Jessica became an adventurer to take care of herself and Gerald. In 468 C.C., Odin placed the sealed location of an ancient dragon in some ruins and dispersed a rumor regarding an enormous gemstone in said ruins. Jessica heard of the rumor and went after it. Unfortunately, when she came into contact with the gemstone, the dragon emerged from the seal and killed Jessica.
+
+Once released from its resting place, the evil dragon tortured the town of Nethov for years and years. Gerald, a concerned town citizen and Jessica\'s son, gathered a group of 99 warriors and headed for the ruins, which had now become the dragon\'s den. In the brutal fight, Gerald was able to strike the dragon in its chest, but unbeknownst to him, the dragon had poisonous blood. The blood spewed from its body and killed Gerald, the warriors, and decayed all the living things in the Nethov region. Thus, the town of Nethov was turned into a swamp in the year 489 C.C.
+
+===The Age of Turmoil===
+
+Fifty years later, many of the more famous Einherjar we know were born, starting with...
+
+Khanon was born in 539 C.C. in Gorhla.
+
+Guilm was born in 546 C.C. in Dipan.
+
+Roland was born in 548 C.C. in Arkdain.
+
+Ehlen was born in 549 C.C. in Gerabellum.
+
+Richelle was born in 550 C.C. in Arkdain.
+
+Adonis was born in 553 C.C., as well as Aaron, who was born in Arkdain.
+
+Farant was born in 554 C.C. in Lassen.
+
+Ehrde was born in 555 C.C. in an unknown region.
+
+Celes was born in 556 C.C in the Royal Castle of Dipan as a princess and Fraudir was born in Arkdain.
+
+Xehnon was born in 562 C.C. in Rosetta and Crescent is born in Gerabellum. Crescent is born into an aristocratic family, but her mother dies and her father remarries.
+
+Alm was born in 563 C.C. in the Pincipality of Paltierre as a prince.
+
+Phyress was born in 564 C.C. in the Royal Castle of Dipan as a princess.
+
+Sylphide was born in 567 C.C. in Dipan and became Phyress\' attendant at a young age.
+
+In 572 C.C., when Crescent was 10 years old, a nearby nation sought to overtake Gerabellum. To appease this nation, Crescent\'s stepmother used Crescent and her family as a bargaining chip. Along the way to the nation, Crescent\'s family was killed by bandits, but Gerald stepped in and saved Crescent. For saving her life and with no one else to turn to, Crescent followed Ehlen and learns how to fight from him. Due to the overtaking of Gerabellum, the War of Camille Hill begins to take root.
+
+Gerabellum\'s own army kept the invading country from taking over, with Ehlen being the most prominent member of the Gerabellan army, earning him the title Demigod Ehlen. Adonis also participated in the war as a stray mercenary and became known as Black Blade Adonis.
+
+The first nation to join with Gerabellum is Paltierre, led by Dragon Scale Sigmund, the king of Paltierre.
+
+The second nation to join is Dipan. In 573 C.C., Celes and Guilm, serving as Celes\' second in command, join the war with the army of Dipan. Celes becomes known as Warrior Princess Celes and Guilm is known as Baron Blade Guilm. Seluvia is born in the town of Rand as well during this year.
+
+A year later in 574 C.C., Arkdain joins up and the king of Arkdain sends Roland and the army of Arkdain, the Knights of the Bloodsword, to participate in the war. Richelle is also sent by Count Leon, the younger brother of the king of Arkdain, to join the war along with his royal guard, the White Lily . Both Roland of the Thundercry and Richelle of the Simmering Sanmite aided in the protection of an important defensive line in the war with their expert swordsmanship, gaining them a spot as two of the Seventeen Commanders.
+
+Sometime during the war, Lassen also joins the war. It is presumed that the lord of Lassen joins the war as a commander and becomes close to Celes.
+
+In 575 C.C., the War of Camille Hill begins. The Kingdom of Dipan, the Principality of Paltierre, the Arkdain Kingdom, and Lassen fight together.
+
+In 576, Celes retreats from the war and goes home, as well as the lord of Lassen. Celes marries the lord and retires from fighting.
+
+One year later in 577 C.C., the king of Arkdain and Count Leon call back Roland and Richelle from the frontlines. On their way back, they passed through the Gorhla region, where they were killed. Khanon, the lord of Gorhla at the time, denied partaking in this incident. Childhood friends Aaron and Fraudir were called in by both brothers to take over Roland\'s and Richelle\'s position, respectively.
+
+Khanon, the ruler of Gorhla started to visit the king of Arkdain more often due to the casualties from the war. Eventually, he had enough power to decide on stately affairs.
+
+In 578 C.C., Xehnon, a scholar of Rosetta came into contact with an ancient tome called the Manuscript of Manifestation. This tome took control over Xehnon, but imparted him with great intelligence. Eventually, he became the court sorcerer to the king of Rosetta and gained control over him akin to Khanon.
+
+The Manuscript of Manifestation, although powerful, was left behind by Odin to wreak havoc upon the land of Midgard.
+
+After 4 long years of fighting, the War of Camille comes to an end in 579 C.C., and every nation went their separate ways. At this time, Crescent also returns home to her house in Gerabellum, only to learn that it was her stepmother that initiated the attack against her and her family. Her stepmother gave the bandits that murdered her family the route by which they were traveling to the rival nation. She kills her stepmother and she and Ehlen take leave of Gerabellum.
+
+Peace, although gained, was lost in this same year as well in the Arkdain Kingdom. Khanon had finally gained the king\'s trust and influenced him to fight against his little brother, Count Leon. The Knights of the Bloosword and the White Lilies were once again thrust into a war, although not against a common enemy, but against each other. This civil war was known as the Arkdain Uprising. Using this war to his advantage, Khanon was able to create his own neutral clerical faction that opposed both the king and his brother. With an army, the Division of the Sacred Cross, Khanon now had a nation of his own in the making, soon to be complete...
+
+In 580 C.C., Crescent and Ehlen both joined the army of the ever growing nation of Rosetta, the Knights of the Sun. Xehnon recruited them along their travels with his lofty ideals and both were made into generals of the army. Ehlen became the Horizon General and Crescent becomes the Meridian General. Adonis and Ehrde also become the Eclipse General and Twilight General, respectively.
+
+Perhaps the most important year in the history of Midgard before Alicia\'s time would have to have been 581 C.C. A major event called the Year Long War took place at this time, and Phyress, the Princess of Dipan, becomes the most prominent member of this war.
+
+In the beginning of the year, Princess Phyress of Dipan, Sylphide, and Guilm begin traveling throughout the world. Although it doesn\'t state the time in any sources, these three characters were involved in a battle called the Battle of Paltierre. Later, they were pulled into the Arkdain Uprising, although there are no sources that say which army they fought for.
+
+For Khanon, things were about to end very soon. Once he got coronated as Pope of his clerical faction, he\'d be on equal grounds, politically, to a kingdom. In Audoula Lake Temple, as Khanon was being anointed as a Pope, Twilight General Ehrde shot a poisoned arrow through his heart and Khanon died without realizing his dreams.
+
+Back in Arkdain, the forces of the king of Arkdain and Count Leon come into contact in central Arkdain. The Arkdain Uprising ends with Count Leon\'s forces seizing the capital. Still loyal to his king, Aaron, captain of the Knights of Bloodsword, challenged Fraudir, captain of the White Lily, to a duel. After a long match, an exhausted Fraudir sheathed her sword and allowed Aaron to kill her. The war had been won and she had no reason to kill her childhood friend, so Fraudir accepted death. To respect Fraudir\'s wishes, Aaron didn\'t receive treatment for his wounds and he died a few days later.
+
+Xehnon, still under the Manuscript\'s control, ignites the flames of war by having the king of Rosetta send Adonis and Ehrde to capture Celes while the lord of Lassen is away.
+
+In her stately home in Lassen, Queen Celes is confronted by Adonis and Ehrde. A duel commences between Adonis and Celes, with Celes being the victor by decapitating Adonis\' head. Tired from the fight, Queen Celes is kidnapped by Ehrde and he flees to Rosetta. This action, called the Lassen Invasion, began the dreaded Year Long War.
+
+In the same fashion that he used to recruit Crescent and Ehlen, Xehnon explained his goal of the war to Celes. His goal was to unite the continent together to fight against the oppressive rule of the gods in Asgard. Believing in him, Celes joins the Knights of the Sun and takes over Adonis\' title and position as Eclipse General.
+
+The generals are now scattered throughout the land. Ehlen and his brigade head to Paltierre, Ehrde remains in Lassen to defend it from being seized, Crescent stays in Rosetta to act as backup to any of the generals that need it, and Celes heads off towards her hometown of Dipan via sea, fighting its navy along the way.
+
+Phyress, still traveling with Sylphide and Guilm, decides to take care of the brewing problem. She calls a meeting with Paltierre, the resistance forces in Lassen, and Arkdain, uniting them to fight against Rosetta. They develop a strategy that utilizes the resistance forces of Lassen as a decoy and the other nations as interceptors.
+
+The leader of the resistance in Lassen, Farant, uses guerilla tactics with a band of 100 troops to defeat much of Ehrde\'s 5,000 soldiers. Ehrde calls for backup and Crescent replies, as well as Ehlen. When Crescent arrives, Farant leads her troops to Artolia Pass and the turning point of the war occurs here. Crescent challenges Farant to a duel and ends up killing him.
+
+However, this battle was part of Phyress\' plan to overtake Lassen. With Crescent\'s troops in Artolia Pass, Paltierre and Arkdain invade the captured Lassen and defeat Ehrde and his remaining soldiers. Ehlen, who comes to Artolia Pass to save Crescent\'s troops is confronted and killed by the undead. Shortly after, Crescent disappears.
+
+Rand, a small town near the Artolian Pass, was taken and destroyed by the opposing force, with Seluvia being the only survivor. Phyress finds Seluvia and adopts him.
+
+Now, all that was left to do was to defeat Rosetta to put an end to the war. The 4 nations of Dipan, Paltierre, Arkdain, and Lassen, still united, head off to Rosetta to put an end to the madness. The nations surround Rosetta and a the Battle of Rosetta takes place.
+
+In the midst of the battle, Sylphide is killed by enemy troops, pregnant with a child at the time. Guilm, saddened by this, sacrifices his life to bring Sylphide back to life.
+
+The two sisters, Celes and Phyress, encounter each other again, although this time not as sisters, but as enemies. A dreaded duel ensues with Phyress losing an arm to Celes\' sword and Celes taking an incurable wound from Phyress\' arrow.
+
+With Celes severely injured, Phyress takes off into the castle of Rosetta. In the depths of its halls, Phyress encounters Xehnon and notices the Manuscript of Manifestation Xehnon holds. She burns the tome, resulting in Xehnon\'s release from the dreaded curse. Thus, the Year Long War comes to an end. All nations return back home and Phyress marries King Cyphel of Paltierre.
+
+===The Mists of Niflheim===
+
+A year later in 582 C.C., Sylphide gives birth to Dyn in Dipan, and another year later in 583 C.C., Phyress gives birth to Chrystie. During this year, Celes also dies from the wound she sustained from her sister.
+
+In 586 C.C., Xehnon, who was in the midst of restoring the ravaged nation, was killed by bandits.
+
+Nine years pass and Seluvia leaves the Principality of Paltierre and becomes a bard. As a possible heir to the throne, Seluvia gets scared of a fight breaking out between the other heirs, so he leaves to avoid such a problem. Chrystie follows after him 5 years later, also leaving as a bard.
+
+In 599 C.C., Hel, the Queen of the Underworld, seeks to torment the humans on Midgard and releases a slew of undead and demons out of her domain. For three years the world is covered in a darkness that becomes known as the Mists of Niflheim. Sylphide is killed by the undead while Dyn is away. When Dyn learns of her death, he seeks revenge for Sylphide and sets out to find and seal the portal to the underworld.
+
+In 601 C.C., the undead dragon lord of the underworld terrorizes Paltierre. Prince Alm attempts to destroy it, but ends up getting killed.
+
+On his journey, Dyn meets up with Seluvia and Chrystie. Together, the three of them travel Midgard, slaying the undead and looking for the portal to the underworld. A year later in 602 C.C., they locate the portal and successfully seal it. Unfortunately, Dyn gets stuck on the other side with Hel and her minions. She tortures Dyn until he dies, while Seluvia and Chrystie sing praises about him throughout Midgard. The two of them disappear from the annals of history after this incident...
+
+Twenty years pass and Phyress dies to an illness. Five years after her death, Cyphel also passes away, and Paltierre falls without a prince or princess to succeed to the throne. During this year, 627 C.C., Sha-kon is born on an island to the southwest of the main continent.
+
+===The Age of Restoration===
+
+Three years later in 630 C.C., Kraad is born, followed by Circe four years later. In 639 C.C., Tyrith is born in Lassen.
+
+As an only child, Sha-kon grew up lonely. Using her magnificent intelligence, Sha-kon started creating golems to keep her company. Still, the golems she created were but mindless beings, so all of her work resulted to nothing. Sha-kon started getting interested in affixing souls to golems in order to make them lifelike, but when she did go through with the research, she discovered something new: golems could use souls as a source of energy too. The golem she created with the soul disappointed her, but she did not have a chance to fix her mistakes, for the people in her town accused her of practicing witchcraft and she was executed in 650 C.C.
+
+In 658 C.C., Kraad and Circe helped in the founding of Villnore. However, a rebellion led by Tyrith, a warrior claiming to be a descendant of Celes, caused major problems for them. Circe, who was a famed blacksmith, created powerful weapons and sturdy armors for Kraad, her husband, to fight against the rebellion. Tyrith, leading the army of Arkdain, fought against Villnore and Circe was killed in battle in 658 C.C. Masato was also born at this time. Using strategic tactics, Kraad led the Villnorian army against the rebellion led by Tyrith to Audoula Lake Temple and destroyed the main portion. Tyrith and most of her troops died in 659 C.C. Even after Tyrith\'s death, a portion of the rebellion remained and in 662 C.C., Kraad was shot by a poisoned arrow.
+
+Years went by and Masato became a powerful sorcerer. However, during his time, a corrupt tyrant ruled over his homeland and Masato joined the rebellion to defeat the government. He was betrayed by his friend during the war and he fled from his homeland to the main continent. On the main continent, he was rescued by villagers from a nearby village, and repaid their kindness by fighting against the undeads that plagued them. During one of his fights, he accidentally struck himself with one of his own spells. Shortly after, Masato withered away in 681 C.C.
+
+Twenty three years afterwards, Rasheeka was born in Kalstad. A year later, Arcana was born. Both of the girls became good friends and powerful warriors. Throughout their lifetimes, their hometown of Kalstad was victim of 4 attacks by the Crell Monferaigne army. However, Rasheeka, Arcana, and another hero from Kalstad managed to stop all 4 attacks. With Arcana\'s knowledge of weather patterns and Rasheeka\'s knowledge of the land and water, both girls were able to stay the Crell Monferaigne army. In the Fourth Invasion of Kalstad in 624 C.C., both of them were killed, but were revered by the Crell Monferaigne army for their efforts. Thus, a truce was created between the 2 nations. Woltar was also born in the Salerno region at this time.
+
+In 730 C.C., Lylia was born into an aristocratic family. When she turned 16 years old, Lylia captured the eye of the king of Crell Monferaigne and was about to marry into the royal family. However, she was already in love with Woltar, so during the wedding ceremony, Woltar created chaos by appearing in the ceremony and snatching Lylia. The two fled to Woltar\'s hideout in the Salerno region and both were happy together. They had a daughter, Lydia, in 748 C.C., and lived together with her until 752 C.C. When Lydia was 4 years old, Lylia was spotted in the Salerno region by a Crellian and her location was given to the Crell Monferaigne royal family. Taking immediate action, the royal family dispatched soldiers to retrieve her. When the soldiers found her, they killed Woltar and dragged Lylia and Lydia back to Crell Monferaigne.
+
+After witnessing that tragic event, Lylia turned mad. She was no longer of a sane mental position. A month later, atop the rooftop of the castle walls, Lylia jumped from the rooftop in front of the king. Two years later in 754 C.C., Zunde was born in a town called Quiryl, near the Loahm Hill.
+
+Lydia, who was now fatherless, motherless, and not of the royal family\'s blood, was subjected to shame and ridicule from her peers and subjects alike. To prove herself worthy, Lydia trained hard with the bow and arrow, becoming one of the most renowned archers in the history of Midgard. But her jealous brother-in-law, Cain, hired bandits to kill her in 769 C.C. His jealously stemmed from the fact that the king of Crell Monferainge was planning to make her the next ruler, even though she was a bastard child, due to Cain\'s ineptitude as a prince. He was shortly killed afterwards for this action.
+
+Sophalla was born three years later in 772 C.C. in Gerabellum, with her younger sister, Millidia, borne a year later in 773 C.C.
+
+Three years later, Zunde and his friends were traveling through Camille Hill, when they received a request to dispatch some monsters in the area. The adventurers set forth and were never heard from again...
+
+After Sophalla\'s and Millidia\'s parents died, Sophalla had to take care of her sister. She joined the Thieves\' Guild, a guild that specialized in stealing and assassinations, and was trained as an assassin. Sophalla used the money she earned to take care of both her sister and the under-privileged kids, though none knew how she was making money.
+
+When Sophalla turned 16, she caught the lord of Gerabellum\'s eye and shortly after, they married. Sophalla went from rags to riches in the blink of an eye and she invited Millidia to the royal family. Unaccustomed to such a lifestyle, Millidia returned back to the slums. Due to her sudden increase in status, the Thieves\' Guild started sending blackmail to Sophalla. Unable to hide her past anymore, she came clean to her husband, and together, both fought against the Thieves\' Guild.
+
+Angered by her actions, the Thieves\' Guild managed to kill the lord of Gerabellum, leaving a frustrated and angry Sophalla to destroy the Thieves\' Guild members, disguised as regular houses in the slums of Gerabellum. She even disowned Millidia as her sister in order to protect her.
+
+In Millidia\'s eyes, however, this sudden action looked like Sophalla being consumed by power and wanting to erase her past by attacking the poor, harmless people of the slums. Using her naivete, the Thieves\' Guild devised a plan to swap Sophalla with Millidia to stop her from attacking the slums. Millidia agreed and the plan went into effect shortly after.
+
+The Thieves\' Guild captured Sophalla, crushed her throat, and sold her to slavery. Millidia was then thrusted into Sophalla\'s position as ruler of  Gerabellum. In 796 C.C., Sophalla died, still in the clutches of slavery.
+
+Six long years passed until Millidia finally figured out the truth. Surprised and ashamed, Millidia gathered the leaders of the guild together in their hideout to have a meeting. She then proceeded to set the hideout on fire, killing the leaders, some of its members, and herself. This event was disguised as a theater fire.
+
+==Conversations==
+;those with extra spaces are corrected already and verified.
+
+===Adonis & Crescent===
+Adonis: Hey princess! Aren\'t you going to hide behind Ehlen like you always do?
+
+Crescent: Go to hell!
+
+===Ehlen & Adonis===
+Ehlen: It\'s been a long time, Adonis. You can think what you will, but I never hated you.
+
+Adonis: The sight of you makes me sick! Stay out of my face!
+
+===Xehnon & Adonis===
+Xehnon: It\'s been a long time, Adonis.
+
+Adonis: What a fool I was! To think I served someone who was so weak!
+
+===Adonis & Celes===
+Adonis: It\'s you... I made a mistake last time... Never again!
+
+Celes: I beat you because of the vagaries of fate. Who knows what would have happened if you won?
+
+===Adonis & Circe===
+Adonis: Why don\'t you forge me a sword? Only I can wield it as it should.
+
+Circe: Nothing has changed. I forge weapons for only one warrior. None other has the strength to wield them.
+
+===Falx & Brahms===
+Falx: Brahms!
+Brahms: Hmm... You are the rat I caught in my castle. Do you wish to challenge me again?
+Falx: You say that again, and I will make you regret it!
+
+===Zunde & Falx===
+Zunde: Right! Now why don\'t you leave this to me?
+Falx: You damned fool! Don\'t you know your own strength!?
+
+===Jessica & Gerald===
+Jessica: How you have grown!
+Gerald: By the gods, you look just like your mother!
+
+===Ehlen & Crescent===
+Ehlen: What will you do? Will we fight together again?
+Crescent: I will stand by you till death divides us again!
+
+===Farant & Crescent===
+Farant: General Crescent. The blow you struck that time caused much pain. Do not look at me like that, I accuse you of nothing, I assure you.
+
+===Xehnon & Crescent===
+Xehnon: Crescent, you paid me many great services in our old life.
+Crescent: Not at all, I only followed Ehlen.
+
+===Xehnon & Ehlen===
+Xehnon: Ehlen, you paid me many great services in our old life.
+Ehlen: You do not need to thank me. I fought for the same thing you did.
+
+===Ehlen & Celes===
+Ehlen: I do not believe that I had the honor of meeting you in our former lives.
+Celes: It was not until the war began that I joined you and your allies.
+
+===Adonis & Ehrde===
+Adonis: Ah, Ehrde! Together we will be strong!
+Ehrde: Do not talk to me!
+Adonis: You have not changed!
+
+===Adonis & Tyrith===
+Adonis: An impostor!? Damn you too!
+
+===Ehrde & Farant===
+Ehrde: You!? You are one of the Einherjar!? When it came to fleeing, you were always the fastest.
+Farant: It is indeed true that we never once beat you, but remember, we never lost either.
+
+===Xehnon & Ehrde===
+Xehnon: Assassination is bad for the soul...
+Ehrde: Maybe I should start with you!
+
+===Khanon & Ehrde===
+Khanon: You! It was you who destroyed all of my plans!
+Ehrde: It was a real shame... What was it like to be struck down at your moment of glory?
+
+===Richelle & Khanon===
+Richelle: Is that you!? How dare you show your face before me!?
+Khanon: I think, Lady Richelle, that there has been some misunderstanding. Do you have proof that I was involved in that incident?
+
+===Khanon & Roland===
+Khanon: Ah, general Roland! If not for your magnificent death, the kingdom of
+Arkdain would not have fallen into chaos. \'Twas inevitable...
+Roland: Yes. And thanks to that chaos, you managed to claw your way up to the throne of the high priest! You vicious dog!
+
+===Fraudir & Khanon===
+Fraudir: Khanon, you devil! You fooled the king, you brought suffering to the people and chaos to the kingdom! I shall never forgive you!
+Khanon: \'Twas you who rebelled, Fraudir, yet you dare accuse me of bringing suffering to the people!? Do not make me laugh!
+
+===Aaron & Khanon===
+Aaron: Khanon! Answer me! What did you do to our king!?
+Khanon: Such a long time ago. I assure you I did nothing! That poor, sad king just went mad all on his own.
+
+===Aaron & Roland===
+Aaron: Please forgive me! I could not save the king...
+Roland: Aaron, shame is not yours... You fought hard.
+
+===Aaron & Fraudir===
+Aaron: I am sorry, Fraudir. I have no right to show my face to you...
+Fraudir: Not at all. You were always stubborn, even as a child. But this time, we will be together till the end!
+
+===Guilm & Celes===
+Guilm: This is just like the old days!
+Celes: Yes! With you in our party, I know my back is covered!
+
+===Sylphide & Guilm===
+Sylphide: I promise I will not be a burden to you this time, so please let me
+stay by your side!
+Guilm: I told you not to worry about that! I only did what I wanted to do.
+
+===Guilm & Sylphide===
+Guilm: So, we have been blessed with a son. I am glad.
+Sylphide: Yes, he has grown into a fine young man. Just like his father.
+
+===Dyn & Sylphide===
+Dyn: Forgive me my mother, if only I had come back in time...
+Sylphide: Compared to the whole world, my life is of little value. You did the right thing. I am proud of you.
+
+Dyn: Mother, I am sorry but I cannot think of that man as father.
+Sylphide: I am sorry Dyn. I do not want to be any more of a burden to "that man."
+
+===Dyn & Guilm===
+Dyn: Warrior Guilm... Had it not been for you, my mother would have died. I would never have been. I thank thee.
+Guilm: You have grown strong! You remind me of when I was young!
+
+===Dyn & Chrystie===
+Dyn: You again... It seems we have been cursed to meet again and again.
+Chrystie: Oh shut it! You think I want to be fighting next to you!?
+
+===Seluvia & Chrystie===
+Seluvia: Hmm? Chrystie?
+Chrystie: Lord Seluvia! We are together again!
+
+===Phyress & Chrystie===
+Phyress: What made you so cruel? You just left without warning!
+Chrystie: Mother!? So it *is* you!
+
+===Phyress & Dyn===
+Phyress: Phyress: If you are his son, it must have happened when we traveled 
+together on that journey, but when?
+
+===Guilm & Phyress===
+Guilm: My lady, my queen, my princess... what should I call you?
+Phyress: It is all ancient history, now. Call me whatever you like.
+
+===Phyress & Celes===
+Phyress: Hey sister!
+Celes: No words of reproach? You have not changed.
+Phyress: At the time it was kind of a pain, but look at me... And thanks to you I get to be reborn young.
+
+===Phyress & Khanon===
+Khanon: Hmph. If it isn't Dipan\'s own tomboy...
+Phyress: Well, everyone in my family was the same. Must be in our blood.
+
+===Woltar & Sha-kon===
+Woltar: You are the trickster who seals human souls inside the bodies of dolls... You do not seem the type.
+Sha-kon: Those who have power are the same wherever you go. Perhaps you and I are no different.
+
+===Arcana & Rasheeka===
+Arcana: Hey, we are together again, just like the old days!
+Rasheeka: Yes... like the old days!
+
+===Lylia & Woltar===
+Lylia: I prayed a thousand times that we might one day be reunited.
+Woltar: I too, my love. We must thank the fickleness of fate.
+
+===Lydia & Lylia===
+Lydia: Father and I were victims of your selfishness. You just did as you pleased. I shall never, ever forgive you.
+Lylia: Lydia...
+
+===Woltar & Lydia===
+Woltar: Is that Lydia? You have grown mighty. I am sorry I did not protect you from everything that you have suffered.
+Lydia: Father...
+
+===Millidia & Sophalla===
+Millidia: My sister... I am sorry... (sob) I am so sorry!
+Sophalla: Silly child...
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Einherjar Background FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Tri-Ace for making the game.
+*To Eclesis, for his Einherjar List FAQ as it helped me uncover most of the Einherjars\' real past.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=
