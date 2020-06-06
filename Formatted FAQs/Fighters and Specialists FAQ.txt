@@ -1,0 +1,277 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Fighters and Specialists FAQ. This guide will cover details on how to get the available companions you can tag along during your adventure in the world of Far Cry 5. This will cover the [[Fighters|fighters]], and [[Specialists|specialists]] you can recruit to join your roster.
+
+Far Cry 5 is owned by Ubisoft. All trademarks are subjected to Ubisoft.
+
+Copyright (c) Ubisoft.
+
+==Version History==
+
+*Version 1.0 - Jun 6, 2020
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==General Background==
+
+===What you need to know===
+
+In Far Cry 5, you can have companions assist you as you explore and liberate Hope County. To have the ability to recruit companions, simply complete the story mission ''A Glimmer of Hope'' by simply following the objectives while inside Dutch's Bunker. After exiting the bunker, you will get a radio call from Dutch telling you that someone was kidnapped along the island. This will start the story mission ''Guns For Hire''. Simply complete the mission and you can recruit the first [[Fighters|fighter]] you liberated.
+
+Throughout Hope County, you will encounter more of these [[Fighters|fighters]] and [[Specialists|specialists]]. [[Fighters|Fighters]] are recruited by simply liberating them from the cultists (eg. saving them from a cultist van or saving them while tied up in the middle of the road with cultists around) whereas the [[Specialists|specialists]] can be recruited after completing the missions tied to them.
+
+When your companions die, they will be unavailable to be recruited for 20 minutes in-game time and it decreases while in-game, including pausing the game or on the game menu. You can track their timer by selecting their avatars ([[Specialists|Specialists]] have unique avatars) on the Roster menu.
+
+You can check out the ''8-Bit Pizza Bar'' in the ''Henbane River'' region to see your [[Fighters|fighters]] (only those currently assigned on your roster) and [[Specialists|specialists]] hanging out together. Of course, if you have not completed the respective mission of a [[Specialists|specialist]], you will not see them here. The only exception to these are the ''Fangs for Hire'' ([[Boomer|Boomer]], [[Cheeseburger|Cheeseburger]] or [[Peaches|Peaches]]). You can even listen to their hilarious conversations, though they will always have the same dialogue.
+
+===Adding more companions===
+
+By default, you can only have 1 companion following you at any time but can have a maximum of up to 2 companions. To have 2 companions following you at the same time, you must first recruit 3 different [[Fighters|fighters]] to unlock the ''Leadership'' sub-perk. This is found under the Leader Perk of the Perks menu. Now, purchase the perk for 6 perk points so that you can recruit up to 2 companions to fight by your side.
+
+Take note that if you play in co-op with a friend, you can only use 1 companion at a time. You use 2 companions on single player.
+
+===Controls===
+
+Your companions can do a lot of things not just following you around. If you have not acquired the [[Adding more companions|Leadership perk]] yet, your companion will always be assigned to the 1st slot, which can be controlled using the ''G button'' (on default settings). With the perk, you gain access to the 2nd slot, which can be controlled using the ''H button'' (on default settings).
+
+The following commands are things that your companions can do:
+
+*Attack a target - press the G button or the H button. If you are crouched and are hidden, they will try to sneak at the target as you do whereas if you are not hidden, they will engage the target normally.
+*Assist in attacking target while in a vehicle - this will be automatic. Your companions will open fire once an enemy is in sight while you are driving using any air, land, or sea vehicles.
+*Drive a boat, car or helicopter for you - aim at the driver seat of a boat, car or helicopter and they will drive it for you. When you see a ''Commandeer'' command, simply press the G button or H button to command them to drive. If you have a waypoint set on your map, they will automatically drive to that location.
+*Follow you around - simply hold the G button or the H button. If you are in a boat, car or helicopter, they may not follow you automatically so you may have to get out and get in again.
+*Move to a specific location - aim at a certain location and simply press the G button or H button. They will stay to that location until given another command. However, if you fast travel to another location, they will automatically follow you. If you point at a ladder, they will climb to it and remain in place once they got up.
+*Revive you - this will be automatic. However, there are instances that they may not go and revive you due to incoming fire from cultists. Note that if you don't have any companion with you, you automatically die and have to restart from your last checkpoint.
+
+If you need to stop them from a certain action, just let them do another command or let them follow you.
+
+==Fighters==
+
+Fighters are randomly-generated companions found across Hope County. Their appearances, classes, names, perks and weapons are random. Because of this, they do not have an any avatars associated with them, just the icons of the weapons they wield are used to identify them.
+
+You may recruit up to 3 fighters on your roster. Once recruited, they are added to the ''Fighters'' section of the Roster menu. Unlike [[Specialists|specialists]], you can remove fighters or unassign them from your team by hovering to their avatars and pressing the ''F button''.
+
+When recruiting fighters, their perks are not automatically unlocked. To unlock the first perk, you must achieve ''5 kills'' with that fighter. To unlock the second perk, you must achieve ''12 kills'' with that fighter. Perks are unlocked randomly and these are listed under the [[Fighter Perks|Fighter Perks section]].
+
+===Fighter Classes===
+
+The following is a list of classes they can possess. Each class uses different tools for combat.
+
+*Heavy - Carries a Machine Gun, such as the M60.
+*Long Range - Carries Bows or Sniper Rifles, such as the Compound Bow or AR-CL.
+*Melee - Carries melee weapons, such as a Baseball Bat, and Pipe.
+*RPG - Carries an RPG-7 and a machine pistol.
+*Soldier - Carries Assault Rifles, such as an AR-C.
+
+===Fighter Perks===
+
+The following is a list of perks that your [[Fighters|fighters]] randomly obtain. Note that they will not have the same perk twice.
+
+*Back Up - Will revive themselves when downed.
+*Field Surgeon - Will fully revive your health when downed.
+*Fortitude - Will draw attention and take more damage.
+*Herbalist - Will grab plant life when not in combat.
+*Hoarder - Will allow you to carry more ammo.
+*Hot Buckshot - Shotgun blasts might start a fire.
+*Intimidator - Will lay down fire that scares the enemy.
+*Mechanic - Will repair the vehicle you drive.
+*No Tracks - Will make you untrackable in tall grass.
+*Power Hitter - Melee attacks might send enemies flying.
+*Quick Recovery - Will take less time to recover health.
+*Recycler - Will hand over recovered ammo after some kills.
+*Sharpshooter - Will snipe less often but be deadlier.
+*Spotter - Will tag enemies at the start of combat.
+*Thick Skin - Will be more resilient to damage.
+*Veterinarian - Will revive Fangs for Hire.
+*Vulture - Will find extra stuff when looting a body.
+
+==Specialists==
+
+Unlike [[Fighters|fighters]], most specialists have unique perks and the perks are automatically unlocked once you finish their respective story missions. They will be listed under the ''Specialists'' section of the Roster menu.
+
+You can purchase their respective Leader perks for 4 perk points that will significantly reduce their reviving time.
+
+Your Fangs for Hire ([[Boomer|Boomer]], [[Cheeseburger|Cheeseburger]] or [[Peaches|Peaches]]) cannot ride with you on any air, land, or sea vehicles.
+
+===Adelaide Drubman===
+
+=-----=
+Class: Pilot
+
+Title: "The Chopper Queen"
+
+Location: Drubman Marina (Henbane River)
+
+To acquire: Liberate the outpost from the cultists first. After liberating, talk to Adelaide Drubman and complete the story mission ''Friendly Skies''.
+
+Perks:
+*Call a Chopper - Will provide air support and deliver a helicopter.
+*Less Reload - Guns + Big Magazine = More Shooting.
+=-=
+
+===Boomer===
+
+=-----=
+Class: Scout
+
+Title: "The Good Boy"
+
+Location: Rae-Rae's Pumpkin Farm (Holland Valley)
+
+To acquire: Liberate the Central Radio Tower outpost from the cultists first. Dutch will radio you about the mission. Complete the story mission ''Man\'s Best Friend''.
+
+Perks:
+*Pointer - Will tag all enemies nearby.
+*Retriever - Will sometimes fetch a weapon after an attack.
+=-=
+
+===Cheeseburger===
+
+=-----=
+Class: Heavy
+
+Title: "The Fearsome Grizzly"
+
+Location: F.A.N.G. Center (Whitetail Mountains)
+
+To acquire: Liberate the outpost from the cultists first. After liberating, talk to Wade and complete the story mission ''A Right to Bear Arms''.
+
+Perks:
+*Bear Arms - Will exercise his right to attack.
+*Cross to Bear - Will draw focus during combat.
+=-=
+
+===Grace Armstrong===
+
+=-----=
+Class: Sniper
+
+Title: "The Sharp-Shooting Hero"
+
+Location: Lamb of God Church (Holland Valley)
+
+To acquire: Travel to the church and clear the area of cultists first. Talk to Grace Armstrong and complete the story mission ''Grace Under Fire''.
+
+Perks:
+*Boom Boom - Her sniper shots will scare enemies.
+*Friendly Sight - Her laser sight is easier to distinguish.
+=-=
+
+===Hurk Drubman Jr.===
+
+=-----=
+Class: RPG
+
+Title: "Just Dangerously Stupid"
+
+Location: Fort Drubman (Whitetail Mountains)
+
+To acquire: Travel to the house. Talk to Hurk Drubman Sr. and complete the story mission ''The Prodigal Son''.
+
+Perks:
+*Heat Seeker - RPGs will track air and land vehicles.
+*Junk It - RPGs on vehicles are more destructive.
+=-=
+
+===Jess Black===
+
+=-----=
+Class: Hunter
+
+Title: "The Master Huntress"
+
+Location: Baron Lumber Mill (Whitetail Mountains)
+
+To acquire: Liberate the outpost from the cultists first. After liberating, talk to Jess Black and complete the story mission ''A Dish Served Cold''.
+
+Perks:
+*Concealment - Enemies will have a harder time detecting her.
+*Feral Friendly - Wild animals see her as one of their own.
+=-=
+
+===Nick Rye===
+
+=-----=
+Class: Pilot
+
+Title: "The King of the Skies"
+
+Location: Rye & Sons Aviation (Holland Valley)
+
+To acquire: Travel to the hangar. Talk to Nick Rye and complete the story mission ''Wingman''.
+
+Perks:
+*Bomb's Away - You want a bomb? He'll drop it.
+*Light 'Em Up - You want a strafing run? Look out.
+=-=
+
+===Peaches===
+
+=-----=
+Class: Stealth
+
+Title: "The Feline Powerhouse"
+
+Location: Peaches Taxidermy (Henbane River)
+
+To acquire: Travel to the taxidermy house. Talk to Miss Mable and complete the story mission ''Here Kitty, Kitty''.
+
+Perks:
+*Pounce - Will silently takedown an enemy.
+*Stalk - Will stay hidden when moving through grass.
+=-=
+
+===Sharky Boshaw===
+
+=-----=
+Class: Heavy Flamer
+
+Title: "The Pyrotechnics Phenom"
+
+Location: Moonflower Trailer Park (Henbane River)
+
+To acquire: Travel to the trailer park. Talk to Sharky Boshaw and complete the story mission ''Burn, Baby, Burn!''.
+
+Perks:
+*Fire It Up - Attacks will have an extra spark to it.
+*Shatterproof - Resistant to most explosions and impact.
+=-=
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Far Cry 5: Fighters and Specialists FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Ubisoft for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=

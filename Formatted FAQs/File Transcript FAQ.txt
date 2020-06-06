@@ -1,0 +1,2956 @@
+﻿;format:gf-markup
+==Introduction==
+
+Hi and welcome to my File Transcript FAQ for Far Cry 5. This guide will simply list the contents of what each file says and where these files are located in the game. It's worth reading the notes if you come across them throughout your adventures in Hope County as they provide lore and background to the events surrounding Hope County and the cultist movement. I copied the contents of these verbatim, meaning, to how they are worded when viewing these documents, with the exception of some notes as they contain profanity.
+
+With such a vast content of documents to read, I tried my best to get through every location in the game and look at every corner to find any documents I could find. Should I miss some, please help me out and indicate the name of the note, its location and the content of the note (verbatim, word-for-word including capitalization if possible) by sending an email which can be found at the [[Contact Information|Contact Information]] section.
+
+Far Cry 5 is owned by Ubisoft. All trademarks are subjected to Ubisoft.
+
+Copyright (c) Ubisoft.
+
+==Version History==
+
+*Version 1.0 - Jun 6, 2020
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Dutch Island==
+
+===Central Radio Tower===
+
+====Park Service Memo====
+
+Location: Found in Dutch's Island in Central Radio Tower. Go inside the warehouse. The note is found beside the door leading to the antenna.
+
+=-----=
+Some of the Eden's Gate followers were spotted in the Silver Lake region again. They've been told time and again they have no permit to build here, yet we've reports of them constructing some kind of small structures. Also, they have been trespassing near the old Roosevelt property. We might need a sterner hand in getting them out of here safely.
+=-=
+
+===Dutch's Bunker===
+
+====FAITH - THE SIREN====
+
+Location: Found in Dutch's Island in Dutch's Bunker. The note is located on the east part of the wooden cardboard on the room where Dutch is waiting for you.
+
+=-----=
+Don't know how she's related — seems like she just showed up one day...
+
+She'll spin you a sob story, but Faith is a LIAR and a MANIPULATOR. She'll poison your mind with BLISS if you give her the chance.
+
+Anyone who goes wandering into the Henbane River winds up either dead or "WALKING THE PATH" to become of one of those brain-dead ANGELS doing all the cult's hard labor.
+=-=
+
+====Hope County Chronicle Letter====
+
+Location: Found in Dutch's Island in Dutch's Bunker, on a short bookcase under an old William & Coleman poster immediately to the player's right as they enter the barracks-style room.
+
+=-----=
+October 13, 2014
+
+Dear Mr. Roosevelt,
+
+I'd like to interview you about your recent altercation with government officials over your right to collect rainwater. My understanding is you had applied for a permit, but it was overturned, leading to your nights in jail and ongoing court case.
+
+I'd like to confirm your official statements to the court, that, "Water is a God-given right," and, "The government's stealing our resources out from under us! It's up to us to defend our individual rights and liberties!" Also, did you really tell the judge "Yeah, you bet your lily-white ass I'm in contempt of you!"?
+
+Please let me know if you'll go on the record.
+
+Jeb Boydt, HOPE COUNTY CHRONICLE
+=-=
+
+====JACOB SEED - THE SOLDIER====
+
+Location: Found in Dutch's Island in Dutch's Bunker. The note is located on the west part of the wooden cardboard on the room where Dutch is waiting for you.
+
+=-----=
+Oldest brother of the Seeds. In charge of TRAINING their militia up in the Whitetail Mountains.
+
+Only thing he believes in is "SACRIFICE THE WEAK." Seems to be running a few psychological experiments up north — all sorts of nightmare stories about people turning on one another at the drop of a hat...
+
+Has been linked to the creation of the monster wolves up north the cult calls JUDGES.
+=-=
+
+====JOHN SEED - THE BAPTIST====
+
+Location: Found in Dutch's Island in Dutch's Bunker. The note is located on the south part of the wooden cardboard on the room where Dutch is waiting for you.
+
+=-----=
+Youngest of the Seed brothers and maybe the most sadistic.
+
+In charge of "recruiting for the cult — MARKING, CLEANSING, CONFESSION, ATONEMENT... those are the four steps he puts everyone through to become a member of Eden's Gate — if they survive.
+
+John tells everyone to accept "THE POWER OF YES" as a way to get his followers to do whatever the f*ck he wants. Grade A psychopath.
+=-=
+
+====JOSEPH SEED - THE FATHER====
+
+Location: Found in Dutch's Island in Dutch's Bunker. The note is located on the north part of the wooden cardboard on the room where Dutch is waiting for you.
+
+=-----=
+Leader of the Project at Eden's Gate. He believes a great "COLLAPSE" is coming, and thinks of himself as a modern-day Noah.
+
+Thinks God speaks to him -- told him to SAVE AS MANY SOULS AS HE CAN. Now that he's started the Reaping, his followers are willing to die for him.
+
+He's had his people build three massive BUNKERS to protect themselves when his "PROPHECY" comes true... The guy is an absolute nutjob.
+=-=
+
+====Local Fights To Use Water====
+
+Location: Found in Dutch's Island in Dutch's Bunker. Found on the kitchen near the white chair.
+
+=-----=
+Richard "Dutch" Roosevelt served two nights in jail for contempt of court after contesting his right to collect rainwater in what the state has defined as a reservoir.
+
+"Mr. Roosevelt has operated this rainwater collection without a proper permit, in flagrant violation of Montana laws," said the Water Resource Department deputy director, Edwin Garcia. Mr. Roosevelt is contesting the charges.
+=-=
+
+==Henbane River==
+
+===Abercrombie Residence===
+
+====Abercrombie's Note====
+
+Location: Found in Henbane River in Abercrombie Residence. Move through the back of the house and find the back door. The note is found near the back door.
+
+=-----=
+To everyone looking for me,
+
+The end of the world is coming. The global financial system is going to fall apart and the only person preparing for it is Joseph Seed.
+
+The Project doesn't talk in financial terms, but it's the Collapse all the same. Real estate will plummet, businesses will fail, no one's going to regulate anything... and Eden's Gate knows the real cause of all this: Greed. It's the root of all our problems. For once, I've met like-minded people.
+
+They're hunkering down until it all blows over. If you care for your future, you'll join us.
+
+- Melvin Adams Abercrombie
+=-=
+
+====Nadine's to-do list====
+
+Location: Found in Henbane River in Abercrombie Residence. Look for an underground bunker near the house. Descend and you will find the note near the sink and blender to your right.
+
+=-----=
+1. Move out of Grampa Melvin's basement.
+
+2. Make my way to Grampa Colin's place.
+
+3. Find the comics he promised me.
+
+3a. Ty not to get killed by the cult.
+=-=
+
+===Bright Warden Radon Spa===
+
+====Angel Instructions====
+
+Location: Found in Henbane River in Bright Warden Radon Spa. The note is found just before the mine entrance beside the broken door.
+
+=-----=
+I think the Angels like being next to all the best stuff down here. They're happy to stay down here and guard it in the damp, bless their hides. It's like a cupboard that defends itself.
+
+So don't fret about leaving Angels to guard our stash. Lord knows there can always be more Angels.
+=-=
+
+===Drubman Marina===
+
+====Marina Note====
+
+Location: Found in Henbane River in Drubman Marina. Go inside the open warehouse and move to the back room. The note is located to one of the tables inside this room.
+
+=-----=
+Marina Plan Wishlist
+
+"If at first you don't succeed take the tax loss." - Kirk Kirkpatrick
+
+20 suites - exclusive, luxurious, not over capacity for lake
+
+Color scheme: soft pink? (millenials love it) Not too much just accents
+
+1 mini-yacht, 5 small rentable fishing boats
+
+Hire 5 seasonal fish/hike guides so the yuppies don't die on property
+
+Scuba??? Is anything good down there? If no sink something, mermaid bones or some sh*t
+
+Mini-spa: massage a must, waxing, skin treatment (mineral clay bullsh*t)
+
+Equipment and souvenir store (incl. discreet "toy" store for vacationers)
+
+n*de beach area? check landscaping costs
+
+2+ star dining resto, locovore etc. plus avocado toast, Xan's smoothies
+=-=
+
+===Eden's Altar===
+
+====Priestess Note====
+
+Location: Found in Henbane River in Eden's Altar. The note is found on a table just before the shrine you can destroy here.
+
+=-----=
+Our new angels may be lost when they first enter the Bliss.
+
+Welcome them.
+
+Guide them.
+
+Give them their calling.
+
+You are an extension of Faith and she is counting on you.
+=-=
+
+===Eden's Gate Outreach Center===
+
+====The Path====
+
+Location: Found in Henbane River in Eden's Gate Outreach Center. Go inside the building and look for a white table with cultist books.
+
+=-----=
+Faith's Path is finally prepared to received the devoted. It's a last hope for weary and stubborn spirits, a holy walk to strip away the concerns of the flesh and reveal the Bliss waiting for every one who follows Faith.
+
+With the Path ready, now everyone will have a chance at salvation.
+=-=
+
+===Feeney's Residence===
+
+====Feeney's note====
+
+Location: Found in Henbane River in Feeney's Residence. Look for a bunker and descend down. The note is found on a double-deck bed.
+
+=-----=
+The techs seem excited about a new strain. I'll be at the Conservatory soon to confirm. Might finally be the one I give my name to. We'll have to celebrate privately rather than in the spotlight of academic publishing I suppose.
+
+I also want to celebrate winning our bet. I'll find some good whisky. Keep the bunk warm.
+
+--Feeney
+=-=
+
+===Grimalkin Radon Mine===
+
+====Legal Draft====
+
+Location: Found in Henbane River in Grimalkin Radon Mine. The note is found on top of black boxes on the opened mine during the side mission ''"Blood Dragon 3"''.
+
+=-----=
+No humans were harmed in the making of this film. What you see are exceptional special effects employing body doubles we code-named "angels."
+
+They are 100% excluded from any human rights commission coverage.
+
+This film is in full compliance with board regulations etc etc. (Get lawyer to jazz up lingo.)
+
+Sincerely,
+
+Guy Marvel
+=-=
+
+====Permit Denied====
+
+Location: Found in Henbane River in Grimalkin Radon Mine. Look for the first house you see that is located on the right. The note is found near a "Far Cry Blood Dragon Poster".
+
+=-----=
+Mr. Marvel,
+
+This letter is to inform you that your request to film at the Grimalkin Radon Mine has been refused.
+
+Your application contained insufficient administrative information for our response to be considered.
+
+Furthermore, the Commission cannot approve requests which may endganer the lives of any professionals engaged in filming.
+
+As the location remains radioactive, we cannot condone prolonged exposure of workers to its environment.
+
+We invite you to propose alternative sites within Hope County for your project.
+
+Regards,
+
+The Hope County Film Commission
+=-=
+
+===Henbane River Station===
+
+====Scribbled Reminder====
+
+Location: Found in Henbane River in Henbane River Station. Check the 2nd cargo. The note is sitting on top of the crate.
+
+=-----=
+I'd been homeless once before. Kinda broke the seal on that side of life. Figured when the cult went coocoo bananas I could pick it back up.
+
+No one's gonna "reap" from me if I don't have anything to reap right? They'll just leave me alone.
+
+They just want things, they don't want people. Just gonna. Write that down to remember.
+
+They just want things, they don't want me.
+
+Just things.
+=-=
+
+===Hollyhock Saloon===
+
+====S.O.S.====
+
+Location: Found in Henbane River in Hollyhock Saloon. The note is located on the far end of the structure, sitting on the couch.
+
+=-----=
+The marina has a beautiful lady in danger there and I can't help her by myself so please if you read this go and save Adelaide and I'll pay you in smoothies and tanning oil for life!
+
+btw I'm Xander please help me too
+=-=
+
+===Hope County Jail===
+
+====Earl's notes====
+
+Location: Found in Henbane River in Hope County Jail. Go to the back entrance of the jail and use the door to enter the premises. The note is found on a brown table just before the main hall of the jail cells.
+
+=-----=
+Doc Lindsey confirms: NO REVERSAL for angels. No clear process now. Pilgrimage sometime but not always. Sometimes resstance, sometimes civilians. Ritual/tradition break-down under stress conditions? New priorities? No rumors. Means unpredictable point of no return.
+
+Same message: Freeing people must be #1 priority.
+=-=
+
+====Note for Virgil====
+
+Location: Found in Henbane River in Hope County Jail. Go to Virgil's office, which is near the infirmary room and check his scrapboard for the note.
+
+=-----=
+Dad,
+
+Can I borrow like $100? Or even $80. Just until payday. It's for baseball. Yes I paid the registration fee but this is for extra stuff I didn't know about.
+
+I forgot to tell you I'm gonna try and keep playing. I can pay it back soon.
+
+Thanks,
+
+Ethan
+=-=
+
+====Vet's notepad====
+
+Location: Found in Henbane River in Hope County Jail. Enter the jail and just walk up straight all the way to the infirmary. Go to the back room of the infirmary and you will see a table on the right with the note on it.
+
+=-----=
+The roadkill test confirmed my worst fear. I don't think a mind can be recovered once it's been overexposed to the agent. Note to self: write up detailed findings later.
+
+I need to do more research to be sure. Maybe if I can't cure the angels I can do something else to help them. Or us.
+
+I'll need more samples of the agent, and biological material it's affected. I have to try. As overwhelming as the day-to-day cases are, this is something I can do. I know it.
+=-=
+
+===Horned Serpent Cave===
+
+====Grieving Note====
+
+Location: Found in Henbane River in Horned Serpent Cave. Found inside the cave after reading the [[Prepper's Note - The Angel's Grave|Prepper Stash note for The Angel's Grave mission]].
+
+=-----=
+Lana, Christ in heaven what they did to you.
+
+The fact they could make you believe all that nonsense, make you forget yourself so hard.
+
+Forget your own name? How, Lana? What did he say to you? What kind of f*cking dirtbag blood ritual could make you think your name was "Faith"?
+
+Doesn't matter how, I guess.
+
+He told you you were special, but in the end he threw your body in here to disintegrate in the boiling muck, like a common Angel.
+=-=
+
+===Johnson Residence===
+
+====Johnson Residence Note====
+
+Location: Found in Henbane River in Johnson Residence. The note is attached to a brown door at the side of the house.
+
+=-----=
+Anybody who reads this,
+
+We're with Joseph's people now, so don't worry about us. He traded our mortgage and credit debts for three square meals a day and a job to do. Not a bad trade if you ask us.
+
+Don't judge a book by its cover, they'll give you a good deal if you join up. So what if you can't take your photo albums and all that? You got your memories inside your head and whatever faith you got inside your heart.
+
+Hope to see you at Eden's Gate.
+
+--The Johnsons
+=-=
+
+===King's Hot Springs Hotel===
+
+====Dirty Crumpled Letter====
+
+Location: Found in Henbane River in King's Hot Springs Hotel. Go up the 3rd floor of the hotel and look for a room with a "Staff Only" signage. The note is found near a laundry basket, next to a ladder.
+
+=-----=
+You're not the first one, Selena.
+
+You're not the first woman he's used up and thrown away.
+
+For years I'd been hearing this Faith Seed was tall as her brother, with black hair. Couldn't miss her.
+
+And then I saw you in one of their trucks last week, yellow hair in the breeze, and heard them calling you Faith.
+
+He thinks he can just SWAP YOU OUT. Like you don't got a brain of your own.
+
+God knows who you are, and so do you.
+
+Selena, I love you.
+
+Don't lose yourself to this.
+=-=
+
+====From a Ghost Hunter====
+
+Location: Found in Henbane River in King's Hot Springs Hotel. Simply walk up to the reception desk and the note is found there.
+
+=-----=
+An act of God took the lives of 16 people in this very hotel and they want me to believe there isn't a SINGLE GHOST HERE.
+
+Sure.
+
+This whole county is completely eerie. There's even this wacky cult that owns some of the businesses. Funny little dudes and dudettes.
+
+Hot Springs Hotel is just dripping with paranormal activity - the ectoplasm is even manifesting as mist!
+
+I can't believe no one else in my circles has stumbled on this place. I bet you I can get on TV if I contact the right people!
+
+Who am I gonna call?
+=-=
+
+===Lorna's Truck Stop===
+
+====Hear the Word (Lorna's Truck Stop)====
+
+Location: Found in Henbane River in Lorna's Truck Stop. Go inside the store and look for pizza stacks inside. The note is beside them. This note is slightly different from the other [[Hear the Word|Hear the Word note found on multiple locations]] as it has slight alterations.
+
+=-----=
+The path to Eden is clear to those who have faith.
+
+Join our Priestess at this shrine to hear Joseph's word.
+
+Together, we will return to the Garden.
+=-=
+
+===McClean Residence===
+
+====Granddad's note====
+
+Location: Found in Henbane River in McClean Residence. Look for a bunker at the backyard of the house. Enter and the note will be found near the sink.
+
+=-----=
+Hey kiddo,
+
+If anything happens to me, I want you to grab my old lighter and go find Old Red. He'll know what to do. We were in 'Nam together.
+
+You stay by him, and you'll be all right.
+
+I love you.
+
+Gramps
+=-=
+
+====Husband's note====
+
+Location: Found in Henbane River in McClean Residence. Look for a bunker at the backyard of the house. Enter and the note will be found on the table to your right. This note is right after the [[Granddad's note|Granddad's note]].
+
+=-----=
+Brent,
+
+We're leaving. Forget the bunker. Eden's Gate knows exactly where we are.
+
+The cult tried to recruit me for the third time. Again, they want me to fly one of their planes and target civilians. Even suggested they might have a problem with law enforcement.
+
+This time, they're forcing me to join in exchange for your safety, given that you join them too and cooperate. No one's allowed to threaten my husband.
+
+That's as far as it goes. We can still prepare fo the next world war. Just not here.
+
+Your Superman,
+
+Travis
+=-=
+
+===Misty River Gas===
+
+====Gas Station Note====
+
+Location: Found in Henbane River in Misty River Gas. Go inside the store and the note will be found on the counter next to the cash register.
+
+=-----=
+Dear Mr. McDevitt,
+
+We've received complaints that your Misty River Gas location--a subsidiary of Golden Valley Gas--has been seen with a mounted machine gun on the roof.
+
+It's damaging our corporate identity and our reputation as the leading oil company in Montana.
+
+Please remove all mounted weapons at your location immediately. Failure to do so will result in the revocation of your license as a franchise owner.
+
+Regards,
+
+Laurie-Anne Finney
+
+Representative of Golden Valley Gas
+=-=
+
+===Moonflower Trailer Park===
+
+====Call-In Script====
+
+Location: Found in Henbane River in Moonflower Trailer Park. Look for a school bus in this area and go to the laundry room where this bus is pointing at. The note is on top of the washing machine.
+
+=-----=
+ASK TO BE ANONNYMUS
+
+DON'T SAY YOUR NAME
+
+Hey I am a big fan of your show thank you. My question is is it okay if you have a crush on an aunt related by marriage not blood, and if it is how do you tell her it is okay? She is an incredible sexy lady and I don't want to freak her out but I have a romantic rival and need to act fast thanks. Big fan of your show.
+
+Serious.
+=-=
+
+===O'Hara's Haunted House===
+
+====Clown thoughts====
+
+Location: Found in Henbane River in O'Hara's Haunted House. After reading the [[O'Hara's note: - O'Hara's Haunted House|Prepper Stash note for O'Hara's Haunted House mission]], get inside the barn and make your way through the simple maze. Once you reach the top, look for a small couch and the note will be sitting there.
+
+=-----=
+you have the fear of god you need the fear of THE DEVIL you need to FEAR It
+
+you take a young person and take their body and mind
+
+you use their empty corpses to find more young people whose bodies you can steal no no NO no no
+
+you will wish your mind was scooped out of your body because when IT is through with your bodies YOU WON'T WANT THEM ANYMORE.
+=-=
+
+===Peaches Taxidermy===
+
+====Civilian Note====
+
+Location: Found in Henbane River in Peaches Taxidermy. Enter the house and immediately turn right. The note will be on the table.
+
+=-----=
+Miss Mable,
+
+Long-time admirer of your work here. Dunno if you know mine. Happy to introduce you. How's your healthcare? Cause if you need anything for your heart or joints or whatever, I can hook you up. I went to college for several semesters. So you know, it's safe.
+
+For you I only I got one asking price: if I kick it before you do, I want to be immortalized. Stuff me! We can talk about pose and final resting place and all that later. Think of how cool it'd be!
+
+Let me know if you're interested. I got some good stuff for rheumatism.. or epilepsy, or cancer, or anxiety. Just in case.
+
+--Aaron--Mr. Kirby (uh, ask for Tweak)
+=-=
+
+===Prosperity===
+
+====Tweak's notes #1====
+
+Location: Found in Henbane River in Prosperity. This is the first of four files of the same name. Look for a wooden bench with 2 mannequins and a guitar. The note is in front of the guitar and beside the mannequins.
+
+=-----=
+Stuff to say to dad next time I see him.
+
+You think this is all about Hamlet but that's only 35.3% of it
+
+I as the student but I'm gonna be the master. I'm closer than ever to ondoing your sh*t
+
+You were mean to mom and I understand why she left you
+
+The trip to Canada fixed nothing
+
+Even if the world is ending that's no excuse mannequins
+
+I will Nuremberg your ass so fast
+=-=
+
+====Tweak's notes #2====
+
+Location: Found in Henbane River in Prosperity. This is the second of four files of the same name. Go inside the Town Hall and the note is found on the fridge as you enter.
+
+=-----=
+Wtf did dad make? Feels kinda like datura but less dry mouth/tachycardia/anxiety and more hallucinations/calm. Higher OD threshold too for sure. Modified jimson weed + additive in refinement? What parts of plant do they use? Consequence of aerosol? Tried tincture leaves + seeds extracted in alcohol, effects similar but not right 100%. More hyoscyamine maybe.
+
+Experiment 22 inconclusive.
+=-=
+
+====Tweak's notes #3====
+
+Location: Found in Henbane River in Prosperity. This is the third of four files of the same name. This note is found on the room left of where you found the [[Tweak's notes #2|second Tweak note]].
+
+=-----=
+Peggie Facts
+
+--Doomsday cult
+
+--Militarized
+
+--Mind-control drugs
+
+--Beard fetish
+
+--Some locals, some out-of-towners
+
+Weaknesses = ???
+
+Same as anybody else. No Bliss withdrawal?
+
+Strat: Hide the f*ck out, make your sh*t, hide your sh*t, and wait.
+=-=
+
+====Tweak's notes #4====
+
+Location: Found in Henbane River in Prosperity. This is the fourth of four files of the same name. Move to the other room, opposite of where you found the [[Tweak's notes #3|third Tweak note]]. The note is found on the sink.
+
+=-----=
+Betty Betty Betty Betty
+
+...where do I begin? A is for Aaron, and B is for Betty but unfortunately it's also for Brad
+
+Brad, I thought we were mates, pals, blood-brothers, bros
+
+I don't hate you - well, only sometimes - it's just that Betty was my first friend when we moved here.
+
+I couldn't help crushing on her
+
+I know why you fell for her, obv, but it's like a needle full of ketamine to the heart
+
+I mean I want you to be happy but I kinda want for me to be happy more
+
+we'll have to talk about this soon
+
+maybe I can convince Brad to be a superwarrior and take out the cult and die a hero and then--
+=-=
+
+===Sacred Skies Youth Camp===
+
+====Devoted's letter====
+
+Location: Found in Henbane River in Sacred Skies Youth Camp. Go inside one of the enterable cabins northeast of the greenhouse. The note is found near the sink to your left.
+
+=-----=
+August, 2009
+
+Alana,
+
+I went to this place as a little kid and it was HORRIBLE. Campers drank when the counsellors weren't looking. Kids bullied each other all damned day - I swear no one's as vicious as children.
+
+But now? I've never felt so welcome in all my life. So appreciated as I am.
+
+It's a youth group called Eden's Gate. There's no place like it on Earth. I promise you.
+
+Come join! We'll be campers together all over again.
+
+Write me soon,
+
+Ian
+=-=
+
+===Seeley's Cabin===
+
+====Do Not Disturb====
+
+Location: Found in Henbane River in Seeley's Cabin. Look for a black door around the cabin and the note is attached to it.
+
+=-----=
+A cult doesn't look like a cult when you sign up that's the whole point. Remember that when you say I brought this on myself. I signed up, sure, but I changed my mind and changing my mind is my god-given American right. If they want to hunt me down they can try. They can f*ck*ng try.
+=-=
+
+====Moose Psychology====
+
+Location: Found in Henbane River in Seeley's Cabin. Look for the bunker at the backyard of the house. Descend and the note is found on the double-deck bed to your right.
+
+=-----=
+Way back when, this moose went all nutty and started running headlong as fast as it could towards a moving train. Guess the conductor wasn't in the mood for mooseberry jam but he has no idea what to do.
+
+This moose is sprinting it's massive lumpy body towards a moving train.
+
+For no reason. Nothing's chasing it. It's just running because something misfired in its big brain.
+
+So I'm about to see some carnage I did not sign up for when the conductor pulls the train's whistle. It's just loud and sudden enough for the moose to toss its head and start sprinting back into the woods.
+
+I've been running headlong into a moving train called Eden's Gate and it's time I get out while I still can.
+=-=
+
+===Sinclair Residence===
+
+====Cookbook application====
+
+Location: Found in Henbane River in Sinclair Residence. Go inside the house. Find the note on the kitchen.
+
+=-----=
+Dear sir or madam,
+
+Here is my revised manuscript for FRANKIE SINCLAIR'S FRENCH FOODSTUFFS MADE EASY.
+
+I'll have you know my cooking delights hundreds of dozens of people at King's Hot Springs Hotel.
+
+I got the letter that said not to submit again, but you guys are my top choice.
+
+I know you'll love it this time.
+
+Bon appetite!
+
+Chef Frankie
+=-=
+
+===Tanami Residence===
+
+====Roy's plans====
+
+Location: Found in Henbane River in Tanami Residence. After reading the [[Prepper's Note - Shipwreck|Prepper Stash note for Shipwreck mission]], follow the objectives until you reach the bunker. The note is found on a workbench on the last room near the ladder.
+
+=-----=
+My bunker's useless. I have no choice, I gotta make a run for it. I've heard rumors that someone's started a kind of militia in the mountains up north. Maybe I'll head that way.
+
+If you're readin' this, and you can find your way into my stash, help yourself.
+=-=
+
+===Throne of Mercy Church===
+
+====A Confession====
+
+Location: Found in Henbane River in Throne of Mercy Church. Upon entering the church, make a left and the note will be on the table on the far end of this room.
+
+=-----=
+I just wanted to be special.
+
+When Joseph came into my life, I felt like you'd given me a true gift, Lord.
+
+That a man who talks to you would bring me in on your holy conversation..?
+
+And so I took the name that you gave me, Lord, through Joseph: "Faith".
+
+And I am a woman made anew.
+
+But now, I'm ashamed to say, even though I carry this name, my devotion to the Project is... plagued. By Doubt.
+
+What do I do? I know you will forgive me, dear Lord. I don't know if Joseph will.
+=-=
+
+==Holland Valley==
+
+===Adams Ranch===
+
+====Adams Note====
+
+Location: Found in Holland Valley in Adams Ranch. Look for a small brown shed just after the first house you see upon entering the area and the note is just beside the door.
+
+=-----=
+Stranger, if you want to win an argument with a peggie, I've got something up in the barn's second floor that'll win them over to your side every time.
+
+Good luck.
+=-=
+
+===Armstrong Residence===
+
+====A note in cursive====
+
+Location: Found in Holland Valley in Armstrong Residence. After reading the [[Prepper's Note - Fox Hole|Prepper Stash note for Fox Hole mission]], get into the bunker of the ruined house. The note is located on the end table near the bed.
+
+=-----=
+Grace,
+
+We turned Afghanistan into a place people can't come back from.
+
+You ate up every war story I ever fed you. Didn't think you'd follow me.
+
+But you did. Followed so close you surpassed me.
+
+You're a better shot, a better soldier. You're a better athlete and you've got medals to prove it.
+
+You had to fight the same war I did. I never wanted that.
+
+But I'm so proud of you. I couldn't say it to your face.
+
+Turns out I'm not as brave a soldier as I thought.
+
+- Dad
+=-=
+
+===Boyd Residence===
+
+====A note from Joseph====
+
+Location: Found in Holland Valley in Boyd Residence. Look for the bedroom inside the house and the note will be on the end table just near the bed.
+
+=-----=
+After your wife and child left this Earth we feared for your life. We feared that you had let the weakness overtake you. But you did not. You became the hunter and not the hunted. You gave up sin. You gave up vice and all the evil that had overrun your life. We put our hands upon you and together we took away your sin. We cut it from your chest, just as every member here has also given up their sin.
+=-=
+
+====Boyd's Confession====
+
+Location: Found in Holland Valley in Boyd Residence. Look for the bunker near a small brown shed. Descend and look for the note on the table to your right.
+
+=-----=
+The Father once told me "No one believes death is coming until the moment it does. And most still refuse to believe it even then." But after everything I witnessed with Mary May and her brother, I believe it.
+
+God forgive me.
+=-=
+
+===Dodd's Dumps===
+
+====Dodd's Note====
+
+Location: Found in Holland Valley in Dodd's Dumps. It is found on the door inside the warehouse. You must turn on the power to get inside.
+
+=-----=
+By now I'm in Cuba. Less red tape bullsh*t and no goddamn Seed family! I'll put my megadump where people appreciate it!
+
+Take whatever you want, I got my insurance claim already. f*ck this country.
+
+-- Dodd
+=-=
+
+===Dodd Residence===
+
+====Dodd's Manifesto====
+
+Location: Found in Holland Valley in Dodd Residence. The note is found inside the house. Look for two red flashlights on the bar counter.
+
+=-----=
+The uncreative person classifies something as "junk" when they can no longer see a use for it. A person possessing a creative mind will never draw the line between useful item and junk item.
+
+Things are useFULL, not useLESS!
+
+The concept of things being disposable is the only thing manufactured in our world. It was created by capitalists and corporations!
+
+EVERYTHING CAN BE USED TO CREATE SOMETHING ELSE!
+=-=
+
+===Doverspike Compound===
+
+====Doverspike note====
+
+Location: Found in Holland Valley in Doverspike Compound. After reading the [[Prepper's Note - D.I.Y. and D.O.A.|Prepper Stash note for D.I.Y. and D.O.A. mission]], go inside the house and open the hatch to get inside the bunker. The note is found on one of the doors on this bunker.
+
+=-----=
+Les, baby. I don't know what those idiots from Hilgard Electric were so uptight about. You don't need a "degree" in "electrical engineering" or anything else. You an' me built this bunker with our bare hands.
+
+Safety hazard my entire ass.
+
+Didn't I get a smoke detector and a sprinkler system from Red's place last month? We're gonna be fine down here.
+=-=
+
+===Dupree Residence===
+
+====Tommy Dupree's Diary====
+
+Location: Found in Holland Valley in Dupree Residence. Find the bunker at the backyard of the house. Descend and the note is found on the sink to your left.
+
+=-----=
+I DISCOVERED SOMETHING BIG.
+
+Eden's Gate bought the fertilizer plant I been working at. May have eaten the odd handful of product. Got a taste for it.
+
+One day it tasted different - made me all loopy. Then it hit me: Eden's Gate is spikin the manure!
+
+They fired my ass after catching me with my mouth full.
+
+But I KNOW they're up to no good. I gotta warn people!
+
+Just... how do I tell the town... without telling them about... my cravings.
+=-=
+
+===Fall's End===
+
+====A note from Mary May's father====
+
+Location: Found in Holland Valley in Fall's End. Enter the Leased Lager bar and the note is on found on the table just in front of the bar counter.
+
+=-----=
+Mary May.
+
+Promise me 3 things:
+
+- Don't join Eden's Gate
+
+- Don't let them close down the bar
+
+- Don't let them take The Widowmaker
+
+Please remember that no matter how bad a day is, you get a brand new one at midnight. I love you.
+
+Pa
+=-=
+
+====Culinary War Journal====
+
+Location: Found in Holland Valley in Fall's End. Enter the Leased Lager bar and go around the back of the counter to find the kitchen. The note is near the stove.
+
+=-----=
+Fall's End is free, but Eden's Gate stole most of the town's food.
+
+Gotta hand it to the bastard: John made a brilliant tactical move.
+
+Without proper nutrition, we won't have the energy to fight. Sounds like an afterthought, until you feel the pain of hunger. It's a hindrance, and adrenaline can onnly fuel you for so long.
+
+I'm sure I can scavenge some scraps and provide something of substance for a little while, but there's a difference between being full and being sated. It's phsychological.
+
+I need to bring back the Testy Festy. It's the only way to guarantee both a full belly and a fighting spirit.
+=-=
+
+====Mechanic's note====
+
+Location: Found in Holland Valley in Fall's End. Look for the Fall's End Garage and enter the garage. The note is found on a worktable just below the "Aparicio" banner.
+
+=-----=
+We're stopping work. No more repairs, not even an oil check.
+
+John's been around with his Chosen.
+
+Don't worry about your job. I'm not firing anybody over this. I'll pay you what I can in the meantime, but stay safe.
+
+If that means being at the garage, fine. If that means being at home, that's fine too. Just don't come around because you think you have to. Something's up.
+=-=
+
+====Perfumed letter====
+
+Location: Found in Holland Valley in Fall's End. Enter the church and the note will be found on the floor just before the altar.
+
+=-----=
+I'm sorry that I'm having such a hard time lately putting this all behind me. I just don't know how to move forward. It's so hard when I hear from you, and it's harder when I don't. I feel like I'm just waiting for that day when I can see you again - but then what? It'll be back to the same old thing. I really want things to be okay, except I can't figure out what that is for me. And I don't expect you to know. All I know is that what we have isn't love. And it has to stop.
+
+-Joy
+=-=
+
+====Prep List====
+
+Location: Found in Holland Valley in Fall's End. Look for a house just opposite of Fall's End Garage. The note is on the table to the left after entering the house.
+
+=-----=
+Standard ISO shipping container
+
+Air
+
+-Filtration System/Exchanger
+
+Food
+
+-1100 MREs (3 Years worth + 5 emergency)
+
+-500 Canned Non Perishables
+
+Water
+
+-4 X 16 Gallon Rain Barrels
+
+-2 X 2 Gallon Gravity Fed Water Filter
+
+Warmth
+
+-8 Lamps, 20 Gallons of Kerosene, 2000 matchsticks.
+
+-Heavy Duty Clothing
+
+First Aid/Hygiene
+
+-3 Year Supply of Kits
+
+Energy
+
+-2 Years Worth of All Battery Types
+
+-LED Flashlights
+
+Weapons/Tools
+
+-Machete, Firearm + Cleaning Solvents and Oils
+=-=
+
+===Fillmore Residence===
+
+====Thoughts on a Nation====
+
+Location: Found in Holland Valley in Fillmore Residence. Look for a small brown shed and enter the bunker. The note will be on the double-deck bed on your left immediately upon descending.
+
+=-----=
+After spending so long in a literal prison, you'd think American life would feel...different. Land of the FREE and all that. I got back here and some religious nut was midway through buying my house out from under me. And I fought for that.
+
+I fought for some "John Seed" j*ck*ss to have the "freedom" to legally take my sh*t from me just because some money's changing hands. You can bet I'll never see a dime.
+
+Only thing I brought back from 'Nam was a goddamned lighter. Can't stand the sight of it. Maybe it can do one last thing for me though. Before I go.
+=-=
+
+===Gardenview Orchards===
+
+====Orchard Manager's Note====
+
+Location: Found in Holland Valley in Gardenview Orchards. Look for a wooden house. This note is located near a hose.
+
+=-----=
+Hey everybody,
+
+This is a bumper crop! I've never seen so many apples.
+
+Ten years worth of blood, sweat and tears has led us to this. We're talkin' record profits.
+
+Let's pick 'em quick, ship 'em out, then we'll have a party with all the cider you can drink, on us.
+
+Things are finally going right for Gardenview!
+
+-- Doug & Debbie
+=-=
+
+===Grain Elevator===
+
+====Warehouse Key====
+
+Location: Found in Holland Valley in Grain Elevator. The note is found at the back of one of the white warehouses in this area.
+
+=-----=
+The warehouse is to remain locked and access is limited. If you need to get inside you can find the key by the workshop tent, but check with the Baptist before using it. We can't afford to be careless around The Widowmaker.
+=-=
+
+===Harris Residence===
+
+====Strange Business in Holland Valley====
+
+Location: Found in Holland Valley in Harris Residence. Enter the bunker at the back of the house. Descend and you will find this note on the left double-deck bed near a guitar.
+
+=-----=
+I never had much faith in the system but this is ridiculous.
+
+When I was growing up the local owned their businesses. One of the perks of living way out here is that no big corporations have their fingers in our sh*t. Nowadays this Seed family owns almost every damned thing in the valley. Moved in silently like a cancer. That family's just about as nice and friendly as the biggest oil corporation you can imagine.
+
+Might as well move back to Misoula.
+=-=
+
+===Hope County Clinic===
+
+====House Call Report====
+
+Location: Found in Holland Valley in Hope County Clinic. Enter the clinic through the main door and go to the first room on your right. The note will be found near the computer.
+
+=-----=
+PATIENT: ZIP KUPKA
+
+Affliction(s): Blockage caused by foreign objects.
+
+Treatment: Removal of foreign objects from lower body cavity
+
+Notes:
+
+Foreign Object #1: small rolled American flag
+
+Foreign Object #2: small "Lady Liberty" statue of liberty action figure (Limited Edition)
+
+Foreign Object #3: small rolled copy of the U.S. Constitution
+
+All items were removed and returned to Mr. Kupka. Health Insurance Approved Treatment? No
+
+Patient will be billed.
+=-=
+
+====Pregnancy Checkup: Week 36====
+
+Location: Found in Holland Valley in Hope County Clinic. After reading the [[House Call Report|House Call Report]] note, exit the room. Take the next room on your left and look for a table on the right. The note will be there. This note is referring to Kim giving birth after completing the side mission ''"Special Delivery"''.
+
+=-----=
+PATIENT: KIMIKO RYE
+
+Weight: 159 lbs.
+
+Blood Pressure: 140/90 mmHg (HIGH)
+
+Fetus Measurement: 28cm
+
+Fetus Heart rate: 150 bpm
+
+Urine Sample Provided
+
+Pelvic Exam: Cervix dilation normal
+
+Notes: Patient is feeling added stress from Eden's Gate's recent actions.
+
+Her husband's stress level with the same issue seems to be impacting her.
+
+Recommended meditation and breathing exercises.
+=-=
+
+====Referral Form====
+
+Location: Found in Holland Valley in Hope County Clinic. The note is just on the other end of the room of the [[Pregnancy Checkup: Week 36|Pregnancy Checkup: Week 36]] note.
+
+=-----=
+PATIENT: MARY MAY FAIRGRAVE
+
+Affliction(s): Bumps, nodules, irritations, and swelling of the skin.
+
+Persistent allergic reaction and infection of the skin caused by a tattoo.
+
+Traces of cobalt, chromium, and cadmium found in ink. Patient is allergic to all three.
+
+Recommended Treatment: Non-Cosmetic Tattoo Removal
+
+Notes:
+
+Cortisone injections have been administered for temporary pain relieve.
+
+The tattoo was forcefully administered. Consistent with other Eden's Gate tattoos.
+
+Health Insurance Approved Treatment? Yes
+
+Patient will not be billed.
+=-=
+
+===Howard Cabin===
+
+====Niesha's note====
+
+Location: Found in Holland Valley in Howard Cabin. Look for a bunker outside the house. Descend and the note is found on the sink to your right.
+
+=-----=
+I can't carry around the guilt anymore. For years I just put it in a box in the back of my heart but it ate away at everything. It changed me.
+
+I need to confess. I need to be heard and...forgiven and absolved.
+
+But I also can't go to prison. I can't I can't I can't I won't I'll die there.
+
+This John Seed man said all I'd have to do is say yes. I could confess, and have this weight off me, and never have to be behind bars.
+
+I'm seeing him tomorrow then. God. I can't wait.
+=-=
+
+===John's Gate===
+
+====Reaping Instructions====
+
+Location: Found in Holland Valley in John's Gate. After reading the [[Soul Demographics|Soul Demographics]] note from the guardhouse, turn left and go into the small warehouse filled with Cultist crates. The note is found beside a ladder to the right.
+
+=-----=
+The FIVE step process:
+
+1. Unload supplies in this drop off zone.
+
+2. Categorize and add supplies to crates.
+
+3. Stack crates and load them into he elevator, no more than twelve at a time.
+
+4. Send crates to lower levels where they will be divided and stored accordingly.
+
+5. Ensure reaping vehicle is empty and fueled for the next run.
+=-=
+
+====Soul Demographics====
+
+Location: Found in Holland Valley in John's Gate. After exiting the bunker during a story mission, turn right and go into the small guardhouse to the left. The note is found near the desktop computer.
+
+=-----=
+The following is important to remember when selecting souls to be saved:
+
+CLEAN SOULS
+
+This is a must. If a soul is tainted by this corrupt world, look into the person's eyes, see if that soul can be redeemed. Each soul must go through the cleansing before being brought to the bunker.
+
+CLEAR MINDS
+
+We need people with intelligence, skills, and talents. Most of all, they must show they can dedicate themselves to building a better world.
+
+ABLE BODIES
+
+Take the healthy. Take the strong. Take the young. Today's children will be tomorrow's mothers and fathers.
+=-=
+
+====Your Question====
+
+Location: Found in Holland Valley in John's Gate. On the last room before exiting the bunker during a story mission, find the left stairs and look for a long wooden brown table near it. The note is on the table.
+
+=-----=
+Terry. My answer is no. I don't think it's hypocritical. To paraphrase Paul the Apostle in Romans Chapter 7, "You know, I do things I don't want to do. The things I should do, I don't do." Everyone's human, and that's why I don't want to put myself on a pedestal. I don't ever want to get back up there again. I'd rather be here with all of you and the new souls in this bunker.
+
+JOHN SEED
+=-=
+
+===Lamb of God Church===
+
+====Apology to God====
+
+Location: Found in Holland Valley in Lamb of God Church. Enter the church and head to the room on the left. The note is beside a plant on one of the brown tables on the room.
+
+=-----=
+Lord, forgive me. For thirty-two years, I have tried to serve you: to protect your house and use it to teach. It seems I no longer can. The people of Eden's Gate want to take the church from me.
+
+They say they are doing your work, but I do not agree with their methods. They misinterpret the Word of God.
+
+There is nothing left for me here. The pews are empty. The candles bear no flames.
+
+I am too old and frail to stop this madness.
+
+Abandoning your house brings me great shame, but alas, I have no other choice.
+
+Father Brian
+=-=
+
+===Laurel Residence===
+
+====Laurel note====
+
+Location: Found in Holland Valley in Laurel Residence. Look for a small brown shed just behind the house and the note is found near the hose.
+
+=-----=
+Wifey.
+
+We're not gonna drain the bunker in time. I packed up the car with supplies, we'll have to run before the cult gets here.
+
+We'll have to leave whatever's down there. Doubt the Peggies can hold their breath long enough to get their hands on the key to the shed.
+
+- Hubby
+=-=
+
+===Miller Residence===
+
+====Miller's note====
+
+Location: Found in Holland Valley in Miller Residence. Look for a bunker near the white shed at the backyard of the house. Descend and the note will be found on the sink.
+
+=-----=
+Funny how it's always the little blowtorch that makes the peggies talk. Think I have all the info I need now. I'll share: They seem to be taking reaped people to the east first, to brainwash them. If you're missing family, you might try there. I'm going to go find them. Might be the last thing I do, but that's ok.
+=-=
+
+===Old Silo===
+
+====A warning====
+
+Location: Found in Holland Valley in Old Silo. Destroy the lock of the ladder and ascend the latter. The note is found on the brown table on the middle once you got up.
+
+=-----=
+I saw them take Fall's End. I see them taking the Valley.
+
+They say the end of the world is here, and they might be right.
+
+I'm going to get out of the county while I still have time.
+
+If you're reading this, then you're not safe. No one is going to be safe ever again.
+=-=
+
+===Rae-Rae's Pumpkin Farm===
+
+====Letter from Rae-Rae====
+
+Location: Found in Holland Valley in Rae-Rae's Pumpkin Farm. Go inside the house and look for a room. It is sitting near a lamp.
+
+=-----=
+Russell,
+
+Please read this. Eden's Gate has been hounding me for our land ever since you left. Then, the other day, some of them came to the house and told use we've been marked. They said that Ryan was gonna get taken into their Project and that Boomer was gonna be given to a fella named Jacob up North.
+
+Look, I know we've had our differences, but you've left me to be the only one looking out for our boy, and I've decided that I'm standing my ground. There's no way I'm letting those bastards break up our family.
+
+Whatever happens, I hope you understand.
+
+Rae-Rae
+=-=
+
+====Mommy's Plan====
+
+Location: Found in Holland Valley in Rae-Rae's Pumpkin Farm. Look for the garage and the note is sitting on the workbench near a pistol.
+
+=-----=
+Ryan,
+
+If you're reading this, then you followed mommy's plan just like we practiced.
+
+That's my boy! Now take these supplies and head for the woods, and remember, if mommy doesn't show up after three hours, head South and don't look back.
+
+And don't forget to switch the safety of the gun to OFF. 
+
+Very important.
+
+Love you to pieces,
+
+Mom
+=-=
+
+===Redler Residence===
+
+====Thank you note====
+
+Location: Found in Holland Valley in Redler Residence. The note is found inside the house. Look for the bar counter.
+
+=-----=
+Uncle Red,
+
+Thank you for being with my father at the end. I know it meant a lot to him. He always talked about you and the rest of his old squad. He may never have said it, but I know he loved you guys like brothers.
+=-=
+
+===Reservoir Construction Yard===
+
+====Bliss Storage Note====
+
+Location: Found in Holland Valley in Reservoir Construction Yard. Look for the white warehouse and the note will be near the gate.
+
+=-----=
+Brothers,
+
+It's time to pull the tanks from storage. We'll begin gradually adding the Bliss to the water reservoir, starting with ten tanks per day for one week, and adjusting accordingly based on the effects.
+
+This process will be long and grueling, but we must remain patient and optimistic. It will work.
+
+We will save the lives of those who cannot save their own.
+
+This is what the Father wants.
+=-=
+
+===Rye and Sons Aviation===
+
+====Ad copy====
+
+Location: Found in Holland Valley in Rye and Sons Aviation. The note is found in the bar counter.
+
+=-----=
+Rye and Sons Aviation has been family owned and operated for almost 7 decades.
+
+We offer a full menu of aviation services:
+
+Agriculture Services: (Dusting, Fertilizing, Seeding, and Spraying of herbicides/pesticides.)
+
+Training: (High quality pilot training for private aviation, classes on theoretical/practical aspects of flying, and Personalized service.)
+
+Travel Services: (Chartered flights)
+
+Delivery Services: (100% guaranteed package delivery)
+
+Recreational Services: (Aerial Tours)
+=-=
+
+===Sawyer Residence===
+
+====Kompromat====
+
+Location: Found in Holland Valley in Sawyer Residence. Look for a bunker near the house. Descend and the note is found on a double-deck bed to your right.
+
+=-----=
+Dmitri -
+
+You've got the only hard copy of the tape that exists in the world. We're hiding you in plain sight in America. We've found a little religious extremist group in the northwest. They're armed but small time. Should be the perfect cover to shake that CIA assassin on your tail.
+
+Lay low until we contact you.
+
+- G. Voronina
+=-=
+
+===Seed Boat Launch===
+
+====Bliss manifest====
+
+Location: Found in Holland Valley in Seed Boat Launch. The note is found outside just behind the small barn and next to a wheelbarrow.
+
+=-----=
+Shipment #47 E-WALKING
+
+5 barrels bliss (diluted 20%)
+
+25 packets bliss seeds (dried)
+
+10 bouquets bliss flowers
+
+Delivery to: Seed Boat Launch
+
+Delivery from: Jessop Estate
+=-=
+
+===Sergey's Place===
+
+====Hobo's Note====
+
+Location: Found in Holland Valley in Sergey's Place. Go inside the large container an the note is found on the bed next to a guitar.
+
+=-----=
+Living without worldly possessions ain't what it's cracked up to be
+
+I ain't achieved enlightenment once. Not once!
+
+Honestly, it's getting cold again and I don't think I can survive another Montana winter without a roof over my head.
+
+Them Eden's Gate folks have come by twice now and I can't help but think it's time to just take the free food, clothing, and roof.
+
+All I gotta do is smile and nod through the winter, then I'll just move on down the road. Easy peasy.
+=-=
+
+===Silver Lake Trailer Park===
+
+====Callan Family Note====
+
+Location: Found in Holland Valley in Silver Lake Trailer Park. Look for a house without a bedroom and the note is found on top of a dresser.
+
+=-----=
+Hey Karen
+
+The cult has us really scared but we're still not sure about what we're gonna do.
+
+The Haglunts wanna run, but we feel bad ditching everyone in a time of crisis. Mr. Hausercatt wants to stay and fight, but we're not fighters. We don't wanna die.
+
+After mass, we're going to ask Pastor Jerome for advice. He always seem to know what to do with these Eden's Gate types.
+
+--Elliott & Danielle & Sammy
+=-=
+
+====Haglunt Family Note====
+
+Location: Found in Holland Valley in Silver Lake Trailer Park. Look for the leftmost house at the very end of the park. The note is attached to a scrapboard.
+
+=-----=
+Karen & Benny,
+
+John's scared us. We're taking whatever we can find at the dock and we're leaving.
+
+There's money on the table to cover next month's rent. When things get back to normal, we'll come back.
+
+Promise.
+
+Please stay stafe.
+
+--The Haglunts
+=-=
+
+====Manager's Note====
+
+Location: Found in Holland Valley in Silver Lake Trailer Park. It is found in a desk on the first house on the right after you spoke to Merle Briggs on this location.
+
+=-----=
+To All Tenants,
+
+We understand that John's reached out to some of you, in a possibly threatening manner, but that don't change the fact RENT STILL NEEDS TO BE PAID.
+
+It's not the first time the Peggies have made threats against us. Nothing bad has ever happened and nothing bad ever will.
+
+--Karen & Benny
+
+aka The Management
+=-=
+
+====Mr. Hausercatt's note====
+
+Location: Found in Holland Valley in Silver Lake Trailer Park. Go inside the house and look for the living room. The note is found on the green couch.
+
+=-----=
+Karen & Benny,
+
+F*CK JOHN SEED!
+
+That maniac can't intimidate me.
+
+Anyone who wants to help me defend this flophouse just needs to check the shed or under the boxes out back. You'll get what you need.
+
+With love,
+
+Mr. Hausercatt
+=-=
+
+===Sunrise Farm===
+
+====Farmer's Note====
+
+Location: Found in Holland Valley in Sunrise Farm. Upon entering the farm, look for a small grocery stall and a mini cafeteria-like setup behind it. The note is on one of the tables.
+
+=-----=
+Here's the hard truth: Sunrise Farm was going under, and without the help of the generous Seed Family, we'd have closed down.
+
+I know that some of us in the community have our differences with the Project at Eden's Gate, but I'm hopin' we can look past that.
+
+Nothin's gonna change 'round here. We still run the place, and Joseph's just like our new landlord. Everything's gonna be fine!
+
+Sincerely,
+
+"Big" Mike & Chandra
+=-=
+
+===US Auto===
+
+====Death Wish Invoice====
+
+Location: Found in Holland Valley in US Auto. Look for the Weapon Shop and go inside the house behind it. Examine the scrapboard for the note.
+
+=-----=
+Armor Plated Panels
+
+Bullet Resistant Glass
+
+Run Flats + Bullet Resistant Tires
+
+Reinforced Floor
+
+M60 Machine Gun
+
+Custom Paint Job
+
+Total - $62,500.00
+\\+ Installation
+
+$5000.00
+
+Grand Total - $67.500
+
+Receipt made out to: Merle Briggs
+=-=
+
+==Whitetail Mountains==
+
+===Baron Lumber Mill===
+
+====Locked Gear====
+
+Location: Found in Whitetail Mountains in Baron Lumber Mill. Look for a huge warehouse with a message that says "RESIST" in blue paint. Get inside one of the windows on the second floor. The note is found on the table on the middle of the room.
+
+=-----=
+Gary
+
+I've gathered all the gear we stripped off the prisoners and put it in the trailer office for safe keeping. Let me know when the truck is here to pick it up and I'll unlock it for you.
+
+Chris
+=-=
+
+===Breakthrough Camp===
+
+====Notice of Closure====
+
+Location: Found in Whitetail Mountains in Breakthrough Camp. From the arch entrance, go through the first cabin on the right. THe note is found on the refrigerator.
+
+=-----=
+We regret to say that the Breakthrough Camp is closing its doors. For us, teaching the next generation our ways and the ways of the forest was our passion, but due to circumstances beyond our control we simply can't continue to put these children at risk.
+
+While we have always called the Whitetail Mountains our home, recent events have made it impossible to guarantee the safety of the children in our care.
+
+We hope to return one day, but until then: Giga-waabamin menawaa
+=-=
+
+===Cooper Cabin===
+
+====Cooper Cabin Emergency Procedures====
+
+Location: Found in Whitetail Mountains in Cooper Cabin. Go inside the cabin and the note is found near an electric stove. There is another note with the same content below the cabin, on a small shed near the lake.
+
+=-----=
+In case of emergency Cooper Cabin is equipped with a nearby storm bunker. Simply climb down and pull the door shut. Remain in the bunker until the emergency is over.
+
+Old Sun Outfitters.
+=-=
+
+===Dansky Cabin===
+
+====Dicky Dansky's Manuscript====
+
+Location: Found in Whitetail Mountains in Dansky Cabin. Look for a small brown shed outside of the cabin and the note is found there.
+
+=-----=
+For me, my obsession with Bigfoot started when I was a teenager. I had a summer job as a counsellor at a nearby camp. I was in charge of looking after a bunch of 12 year-olds, take them hiking, canoeing, and generally try to keep them alive. We also went out into the woods to do some backpacking and camping out in the wilderness. I'll never forget what I saw that night. We had set up camp deep in the woods and were just about finished our dinner when we heard something large move through the underbrush. At first we worried it could be a bear, but what we saw that night wasn't any like any bear I've ever seen....
+=-=
+
+====Journal Entry #419====
+
+Location: Found in Whitetail Mountains in Dansky Cabin. After reading the [[Handwritten note - Gone Squatchin'|Prepper Stash note for Gone Squatchin' mission]], make your way to the vantage point. The note is found at the very end of the ledge. 
+
+=-----=
+I can't believe it! I heard it! A genuine sasquatch call! I'm sure it's from a cave I've seen on the nearby cliffs. I've got a feeling that today is going to be the day that I come face to face with the squatch itself!
+=-=
+
+===Elk Jaw Lodge===
+
+====Cult Procedures====
+
+Location: Found in Whitetail Mountains in Elk Jaw Lodge. Look for a small guardhouse and the note is found below the sign that says "INFORMATION".
+
+=-----=
+It is important to follow these steps when checking if an animal is good for conversion.
+
+1) Injuries — Check the animal for any visible open wounds or signs of distress. If the injuries are relatively minor then treat with an antiseptic and continue to step 2. If the wounds are severe or could cause infection then the animal must be destroyed.
+
+2) Age — Select only fully grown wolves (2 years or older). If they are too young or too old then they must be destroyed.
+
+3) Aggressiveness — Those animals that show aggressive traits seem to have a better chance to survive the conversion process. If the wolf shows no aggressive traits then they should be destroyed.
+
+Doc
+=-=
+
+===F.A.N.G. Center===
+
+====FANG Center Feeding Times====
+
+Location: Found in Whitetail Mountains in F.A.N.G. Center. The note is located on one of the warehouses.
+
+=-----=
+Skunk - 10:00 am
+
+Wolves - 11:00 am
+
+Cougar - 1:00 pm
+
+Cheeseburger - 12:00 pm and 6:00 pm
+
+Wolverine - 2:00 pm
+
+Eagles - 3:00 pm
+=-=
+
+====History of Cheeseburger the Bear====
+
+Location: Found in Whitetail Mountains in F.A.N.G. Center. Go inside the mini convenience store and the note is found near the green door.
+
+=-----=
+We found Cheeseburger as a young cub in the dumpster behind a local restaurant. He was an orphan, his mother shot by poachers and left for dead. He was brought to the FANG Center where he was bottle fed and nurtured back to health. While he is kept to a strict diet of berries and fish, from time to time we'll sneak him his favorite snack: cheeseburgers.
+
+Now because of his emotional attachment to humans he could never be released back into the wild. Instead, he has become one of the most beloved residents of the Center.
+=-=
+
+===Fort Drubman===
+
+===="Drubman for Senator" flyer====
+
+Location: Found in Whitetail Mountains in Fort Drubman. The note is located on a white table on the entrance.
+
+=-----=
+Are you tired of all those fat cats down in D.C. that do nothing but raise taxes and not much else? Well, now's your time to give it to the man and put one of our own in power!
+
+List of Accomplishments:
+
+1) Has zero DUI convictions
+
+2) Has never run for Senate before
+
+3) Kept his house, his car, and over half his assets during the divorce
+
+4) Has never been caught cheating on his wife
+
+If you want a friend in high places. Vote Hurk Sr. for Senator!
+=-=
+
+====The Cult of Hurk====
+
+Location: Found in Whitetail Mountains in Fort Drubman. Look for a small tent with an American flag on it. The note is on the table below the flag.
+
+=-----=
+To be a member of the Cult of Hurk you have to
+
+1. F*ck*ng Rock it all the time
+
+2. Slam back 7 brews in under 5 minutes
+
+3. Be named Hurk
+=-=
+
+===Grand View Hotel===
+
+====Cult Indoctrination Process====
+
+Location: Found in Whitetail Mountains in Grand View Hotel. On the second floor, look for 2 statues of a bear and a wolf. Get to the area where they are looking at and the note is found on one of the wooden shelves to the right.
+
+=-----=
+When a new prospect is brought in follow these procedures:
+
+1) Remove any jewelry, including watches, rings, and necklaces.
+
+2) Strap them into the chairs, make sure the restraints are done up tightly.
+
+3) Wheel them into one of the prepared rooms.
+
+4) Give them their first dose, see chart for exact amounts depending on weight.
+
+5) Start the music and the slideshow.
+
+6) Check in every 2-3 hours to see if they need an additional dose.
+=-=
+
+====Cult Sermon====
+
+Location: Found in Whitetail Mountains in Grand View Hotel. The note is located on the first floor, on the center wooden table near the cash register.
+
+=-----=
+To pass through the Gate you must SACRIFICE something of yourself, to let go of the past and fully embrace your future with the Father. It has to have meaning. What is it that is keeping you here? What is it that anchors you, that prevents you from giving yourself freely to the Father? Is it your husband, your wife, your child? Maybe your brother, or mother? Once you have rid yourself of the shackes of your old life then you can open your heart to the Father's voice.
+=-=
+
+====List of washouts====
+
+Location: Found in Whitetail Mountains in Grand View Hotel. On the first floor, find the front desk. The note is near the cash register and the computer monitor.
+
+=-----=
+H. McCalkin - For someone who was supposed to join the 3rd marines, she sure didn't last long in the trials.
+
+M. Barnes - Completed all trials, but unable to complete the sacrifice. Executed.
+
+B. Bauer - Showed promise, but ended up failing the second trial.
+
+M. Hrziwnatzki - Failed after the first trial. Wasn't Eden's Gate material.
+
+K. Kotevich - Completed all the trials successfully, but was unable to complete the final sacrifice and had to be terminated.
+
+N. Khavari - Completed the second trial but executed trying to escape the compound.
+
+S. Ure - Executed after refusing to participate in the trials for the third time.
+
+R. Flaherty - Failed to complete the third trial.
+=-=
+
+===Jacob's Armory===
+
+====Jacob's Manifesto====
+
+Location: Found in Whitetail Mountains in Jacob's Armory. Found during the mission ''"Casualties of War"''. The note is placed on a wooden pedestal in front of Joseph's picture.
+
+=-----=
+Our Father, my brother, has seen the end of the world, and we're not ready. No one is ready. We have polluted our minds by letting the pathetic sycophants that run our government support those that can't help themselves. They are our anchors, holding us back.
+
+We spend so much effort to lift them up that instead they are dragging us down. It is time we cut the chaff from the wheat, to cull the herd, once and for all.
+=-=
+
+===Jefferson Lookout Tower===
+
+====Cult troop movement====
+
+Location: Found in Whitetail Mountains in Jefferson Lookout Tower. The note is found on the room of the tower next to 2 piles of garbage bags.
+
+=-----=
+9:37 - 3 hunters, all with bows. Followed by two of those "Judge" beasts of theirs.
+
+11:21 - 2 on ATVs, armed with rifles.
+
+13:55 - 3 on foot, well armed, escorting prisoners, heading North.
+
+17:04 - 1 ATV on trail, heading East.
+
+21:23 - 4 on foot, with 1 Judge.
+=-=
+
+===Loresca Residence===
+
+====Loresca Residence Note====
+
+Location: Found in Whitetail Mountains in Loresca Residence. Look for the garage and a workbench. The note is on the workbench.
+
+=-----=
+Hey Mike,
+
+Knew you'd come after me. You're picking the wrong side, buddy.
+
+I miss being a SAR as much as you do but Joseph is the wrong person to take orders from. There's a group up north, supposed to be real skilled. They could use trained people like me. And like you.
+
+Don't make this into some Fox and the Hound bullsh*t. If I see you wearing their colors I WILL shoot. But I'm hoping you'll wise up before then.
+
+I miss you, man.
+
+--Jay
+=-=
+
+===MCA Mobile Lab===
+
+====Journal Entry - Day 134====
+
+Location: Found in Whitetail Mountains in MCA Mobile Lab. The note is found outside the tent beside the trailer. You can read [[Journal Entry - Day 140|another journal entry note]] that is inside the tent behind this note.
+
+=-----=
+Eli, one of those Whitetail Militia, came by last night. He was trying to convince us to get out of Hope County, that these "Eden's Gate" people meant us harm, I told him that our work here wasn't finished, that it would still be a few days before we could leave. He said "for such smart folks we were acting like a bunch of idiots" and stormed off.
+
+I'm pretty sure he's just paranoid like all the other folks in this park. I mean, who would come after a bunch of conservationists?
+=-=
+
+====Journal Entry - Day 137====
+
+Location: Found in Whitetail Mountains in MCA Mobile Lab. The note is found outside the tent beside the trailer. Look for a table with an electric stove on it.
+
+=-----=
+It's been two days and still no sign of Howie. He went out for some samples and never came back, and now there's some strange howling from deep in the forest. I'm starting to worry that Eli was right and we should've left when we had that chance. I've seen more of these Eden's Gate people driving around in their white trucks, but we stay hidden anytime they come this way. Bailey and Kent want to try and make a run for it. With the increased Cult presence I don't know if we'd make it. Godammit, I'm a scientist, I'm not cut out for this.
+=-=
+
+====Journal Entry - Day 139====
+
+Location: Found in Whitetail Mountains in MCA Mobile Lab. The note is found on a table just before the trailer.
+
+=-----=
+We were attacked last night by ... something. They got Kent first, dragged him away to who knows where. Bailey got bit on the leg, it looks pretty bad. We'll try to get to a hospital in the morning. Not sure what attacked us. I'd guess it's some sort of canis loupus, but they've been changed somehow. From the red markings on the forehead I'm pretty sure whatever did that it's man-made, but what sort of chemical/biological compound could produce such a result? I have some theories but I'll need better samples to figure this out.
+=-=
+
+====Journal Entry - Day 140====
+
+Location: Found in Whitetail Mountains in MCA Mobile Lab. The note is found inside the tent beside the trailer, near a small laptop. This is just behind the [[Journal Entry - Day 134|journal entry note]] you found on the outer table.
+
+=-----=
+I had to bury Bailey today. The bite must've nicked an artery or something... she lost so much blood. I was with her in the end... I was there, holding her hand, and then she was gone. I know I'm not much of a soldier, but I'm not going to let their deaths be in vain.
+
+I might not be good with a gun, but I can help Eli and his Whitetails another way. I'm going to science the sh*t out of these... what did Eli call them? "Judges". With the right data, I can make a difference... all these deaths won't be for nothing.
+=-=
+
+===McNeill Residence===
+
+====Research Notes====
+
+Location: Found in Whitetail Mountains in McNeill Residence. Destroy the boarded planks on one of the windows at the back of the house and enter inside. Look for a workbench and the note is there.
+
+=-----=
+While the Canis Lupis seems to be the best candidate for augmentation, I suggest testing our formula on other species to see if we can't get a similar result. Here is my short list of potential candidates:
+
+1) Moose - Alces alces
+
+2) Cougar - Puma concolor
+
+3) Bear - Ursa Arctos Horribilis
+
+The nearby FANG Center has a tamed bear we could use if we can get our hands on it.
+=-=
+
+===Nelson Residence===
+
+====Fisherman's Note====
+
+Location: Found in Whitetail Mountains in Nelson Residence. Go inside the trailer. Look for a white table. The note is sitting on top of it.
+
+=-----=
+Cult took everything I ever loved. Only stuff they didn't get was what I stashed in the cave across the river. If I'm gonna die so soon, that means all that really mattered during my time on earth was enjoying myself.
+
+I'll be out there, fishing in the peace, until I can't no more. Hedonism at its best.
+=-=
+
+===Old Sun Outfitters===
+
+====Closing notice====
+
+Location: Found in Whitetail Mountains in Old Sun Outfitters. The note is found on a red door.
+
+=-----=
+We regret to inform you that Old Sun Outfitters will be closed for the foreseeable future. The atmosphere in this county has become so toxic that it is no longer safe for me and my family to stay.
+=-=
+
+===PIN-K0 Radio Station===
+
+====Helicopter Patrol Schedule====
+
+Location: Found in Whitetail Mountains in PIN-K0 Radio Station. Go to the top floor of the warehouse. The note is located between two laptops. This note is referring to the patrol convoy on the side mission ''"Mountain Armed Convoy"''.
+
+=-----=
+Helicopter A1 "Archangel" — Follow the Moccasin River to Silver Lake
+
+Helicopter B5 "Messenger" — Patrol the main road, escort any prisoner trucks
+
+Helicopter D2 "Holy Sword" — Escort any Bliss shipments coming up from the south
+
+Report any contact with Whitetail Militia immediately 
+=-=
+
+====Whitetail Sightings====
+
+Location: Found in Whitetail Mountains in PIN-K0 Radio Station. Go to the top floor of the warehouse. The note is near a telephone and a radio.
+
+=-----=
+6:30 Main Road — Attack on road block.
+
+10:45 Near Cooper Cabin — Ambush one of our patrols.
+
+12:30 Found two Judges killed — arrow wounds.
+
+4:15 Ambushed a Whitetail truck on the road — No survivors.
+
+7:00 Hunter patrol found in Silver Lake.
+
+9:45 Helicopter patrol shot at Whitetail boats on the lake.
+
+11:00 Repelled an attack on the Radar Station — 4 dead, killed 2 Whitetails.
+
+2:00 Killed a lone scout near the falls.
+=-=
+
+===Redtail Cabin===
+
+====Quickly written note====
+
+Location: Found in Whitetail Mountains in Redtail Cabin. The note is found inside the cabin, in one of the counters.
+
+=-----=
+Eli
+
+We can't stay anymore, it's too dangerous with all these cult patrols around. I'm taking my family and we're leaving tonight. That stuff I was holding on for you is outside, in the usual spot underground. Sorry, Eli, but I have to think about what's best for my family.
+
+- Neil
+=-=
+
+===Snowshoe Lake===
+
+====Bo's Ingredient List====
+
+Location: Found in Whitetail Mountains in Snowshoe Lake. Trek the mountains during the side mission ''"Nature Provides"''. The note is beside a dead guy.
+
+=-----=
+Eagle feathers from the highest peak
+
+Bones from a big old fish at the bottom of the lake
+
+Bring these back and I'll craft something special for you.
+=-=
+
+===Whitetail Park Ranger Station===
+
+====Ammunition Manifest / Ranger Official Letterhead====
+
+Location: Found in Whitetail Mountains in Whitetail Park Ranger Station. These 2 notes are separate but have the same content. Look for the cabins inside this area and the notes are found on the counter of each of these cabins.
+
+=-----=
+Rifle ammunition — 4 skids, 12 boxes each skids
+
+Pistol ammunition — 12 boxes
+
+Grenades — 3 cases, 12 each
+
+Mortars — 1 case
+=-=
+
+===Whitetail Park Visitor Center===
+
+====Bliss shipment schedule====
+
+Location: Found in Whitetail Mountains in Whitetail Park Visitor Center. Go inside the Souvenir Shop room. Look for the counter and the note is found beside the cash register.
+
+=-----=
+Monday: 2 skids to Grandview Hotel
+
+Tuesday: 1 Skid to Baron Lumber Mill
+
+Thursday: 2 Skids to Elk Jaw Lodge
+
+Saturday: 1 Skid to Baron Lumber Mill
+=-=
+
+===Wolf's Den===
+
+====Note from Eli====
+
+Location: Found in Whitetail Mountains in Wolf's Den. Look for the control room, where you will talk to Eli for the first time and the note is found near one of the security TVs.
+
+=-----=
+As you've seen things have been getting pretty nasty out there. Wheaty and I have hidden stashes of equipment and supplies throughout the woods. If you're caught wanting, feel free to take what you need. Whitetails gotta watch each others backs.
+
+- Eli
+=-=
+
+====Whitetail Oath====
+
+Location: Found in Whitetail Mountains in Wolf's Den. Look for the control room, where you will talk to Eli for the first time and the note is found near a map attached to wall close to one of the doors.
+
+=-----=
+The Whitetails are born free.
+
+We will do whatever it takes to survive.
+
+We will never leave a man behind.
+
+We will resist, until we are free from tyranny.
+=-=
+
+====Whitetail Radio Playlist====
+
+Location: Found in Whitetail Mountains in Wolf's Den. Look for the control room, where you will talk to Eli for the first time and the note is found on a table near a yellow box. This note is referring to the playlist of Wheaty's radio station after completing the side mission ''"Turn the Tables"''.
+
+=-----=
+Do it again
+
+All or Nothing
+
+Piece of Me
+
+We're Nuclear
+
+Dirty Sunshine
+
+Two Feet
+
+Here Comes Trouble
+
+Wake Up
+
+Pig Time Rush
+
+Quack Attack
+
+Walks Like A Duck
+
+Black Gold
+=-=
+
+==Miscellaneous Notes==
+
+The notes here fit the category if they meet any of the following criteria:
+
+*Notes that are found in multiple locations but have the same title.
+*Notes that are found on the same location but have the same title.
+
+===Chemist note===
+
+====Chemist note (Eden's Gate Greenhouse)====
+
+Location: Found in Holland Valley in Eden's Gate Greenhouse. Enter the first tent to your left upon entering this area and you will see the note attached to a wooden platform inside.
+
+=-----=
+The flowers have taken to the Henbane River well. Acres and acres of land are now flush with our special crops.
+
+It's time for us to expand our gardens into the Holland Valley. With hard work, and the grace of God, we'll turn the whole county into an ocean of Bliss. And then no living creature need ever know fear again.
+
+It's a lofty dream, but the Father believes in you. I know we can do it!
+=-=
+
+====Chemist note (Jessop's Observatory)====
+
+Location: Found in Henbane River in Jessop's Observatory. Go to the 2nd floor of the observatory and you will find the note on the table near the electric fan.
+
+=-----=
+Samples 7, 9, and 12 from this week are ready for Dr. Feeny's analysis. Watch the dates on the labels so we won't have a repeat of last week.
+
+Tidy the workspace before he comes. His expertise makes him irreplaceable. His standards are fair so we need to meet them.
+=-=
+
+===Chemist's Note===
+
+====Chemist's Note #1====
+
+Location: Found in Henbane River in Nolan's Fly Shop. This is the first of two files of the [[Chemist's Note #2|same name]] found on the same location. Look for a boarded house near the shop. It's near the watchtower. Go inside after destroying the plywood and the note is on the table.
+
+=-----=
+The processed flowers we received from the camp have to be distilled into something better.
+
+We've repurposed an old brewery, a place made for gluttony, addiction, a springboard for sin.
+
+The Bliss cleanses our souls, and the Project cleanses the real world.
+
+All is as it should be.
+=-=
+
+====Chemist's Note #2====
+
+Location: Found in Henbane River in Nolan's Fly Shop. This is the second of two files of the [[Chemist's Note #1|same name]] found on the same location. Found during the side mission ''"Our Better Angels"'', you must get the key to the basement of the shop. Simply descend down and go straight all the way. The note is located on one of the tables to the north of the last room.
+
+=-----=
+If I wasn't convinced of divine science before I surely am now.
+
+Bliss, a chemical compound, made from God's good Earth, makes such perfect workers of the Angels.
+
+Any other person... and I use that word sparingly with Angels, would get sick of all that repetitive labour. Angels are happy to carry Bliss barrels from the brewery, everywhere, back and forth, all damned day. Divine chemical. Just divine.
+=-=
+
+====Chemist's Note (Gethsemane Greenhouse)====
+
+Location: Found in Henbane River in Gethsemane Greenhouse. Look for a black door near the compound and the note is attached to it.
+
+=-----=
+The more potent the flower, the brighter the Bliss.
+
+At Faith's word, I've been propagating a new breed of flowers that'll speed the Angel-making process up like nobody's business.
+
+Protect these flowers well.
+
+Praise Faith, Praise the Father.
+=-=
+
+====Chemist's Note (Whistling Beaver Brewery)====
+
+Location: Found in Henbane River in Whistling Beaver Brewery. This note is found on a separate location compared to the [[Chemist's note #1|first Chemist note]] and the [[Chemist's note #2|second Chemist note]] on Nolan's Fly Shop. Go to the warehouse and look for a white table. The note is found there.
+
+=-----=
+Powdered Bliss is only made by Faith's private chemists in her Gate.
+
+Liquid Bliss has a better Resurrection rate for the Angels saturated with it.
+
+Sure, the powdered stuff is more powerful, but you knock a body down on that stuff it's not getting up. Angels need LIQUID Bliss because only liquid can reliably get them back on their feet.
+
+Trust in Faith, trust in the Angels.
+=-=
+
+===Cult Note===
+
+====Cult Note (Catamount Mines)====
+
+Location: Found in Holland Valley in Catamount Mines. It is near one of the boxes you'll rig with explosives during the side mission ''"Blow Their Mine"''.
+
+=-----=
+There's a big fridge in a dumpster out back. It's really weird. Think I'm gonna use it for target practice later. Take some potshots at the freezer door.
+=-=
+
+====Cult Note (Deep North Irrigation Reservoir)====
+
+Location: Found in Holland Valley in Deep North Irrigation Reservoir. It is found on the other side of the bridge, after reading the [[Prepper's Note - Long Range Lockpick|Prepper Stash note for Long Range Lockpick mission]].
+
+=-----=
+Some sinner's locked the door. I can't break into it from this side. I'm gonna go across the water and try and shoot the lock off. It's a one in a million shot, but I got what it takes.
+=-=
+
+====Cult Note (Deer Tiger Mine)====
+
+Location: Found in Henbane River in Deer Tiger Mine. The note is inside a small shed just beside the tower.
+
+=-----=
+Bliss is allocated to certain places for a REASON. It's vital we keep the Bliss we need for after the Collapse separate from the Bliss we're using for Angels and the water supply.
+
+If someone comes round asking for a few spare barrels, always get word from Faith first.
+
+And keep an eye on whoever's asking.
+=-=
+
+====Cult Note (Elk Jaw Lodge)====
+
+Location: Found in Whitetail Mountains in Elk Jaw Lodge. Inside the cabin, look for the counter on the main entrance. The note is found there next to the TV.
+
+=-----=
+Hey Bill
+
+That stuff you asked me to hold on to, it's locked up in the radio room. It was the only place I thought would be safe enough. Just come find me if you need the key.
+
+- Peter
+=-=
+
+====Cult Note (Grain Elevator)====
+
+Location: Found in Holland Valley in Grain Elevator. This note is found just before one of the doors to a house and behind the [[Resistance Note - Vespiary|Prepper Stash note for Vespiary mission]].
+
+=-----=
+We have to take control of this place, but there's a heathen with a sniper rifle making our lives hell. Watch yourselves.
+=-=
+
+====Cult Note (Kay-Nine Kennels)====
+
+Location: Found in Holland Valley in Kay-Nine Kennels. The note is attached to a door of a small house, across the burned and ruined house upon entering the area.
+
+=-----=
+My brother only wants the dogs that are worthy. Sort the wheat from the chaff, then send the strongest ones to the North.
+
+-John
+=-=
+
+====Cult Note (Kestrel Cabin)====
+
+Location: Found in Whitetail Mountains in Kestrel Cabin. The note is found on the red door of the cabin.
+
+=-----=
+To all you so called Whitetail Militia, this is your final warning.
+
+We have been tolerant of your presence, but the Father only has so much patience for unbelievers. You can try to hide in your cabins, but we will find you.
+
+Either you join us of your own free will or you will be butchered, one by one if we have to.
+=-=
+
+====Cult Note (McCoy Cabin)====
+
+Location: Found in Henbane River in McCoy Cabin. Go inside the house and locate the fireplace. The note is on top of it.
+
+=-----=
+The New World is going to be a blissful one. Have you SEEN all the good Bliss has done to this world, even at the end of it's life?
+
+We'll need plenty of it in the world to come, since we don't even know if we'll be able to grow our plants in the dirt when we can finally come out of the Herald's Gates. We need to save these barrels for the collapse. There are enough in circulation for the Angels, the water, the animals.
+
+This batch goes to the bunkers. Guard it well.
+=-=
+
+====Cult Note (Sacred Skies Youth Camp)====
+
+Location: Found in Henbane River in Sacred Skies Youth Camp. Go inside the greenhouse and the note is found at the back of one of the plants.
+
+=-----=
+God sent those Christian campers to this place to sanctify the soil.
+
+Children living here, sleeping here, singing praises to God all those years ago, strengthened the soil.
+
+I'd bet my soul on it.
+
+We were always meant to sow our crop here. Don't forget that.
+
+Guard this land like it is the cornerstone of Eden itself.
+=-=
+
+====Cult Note (Silver Lake Summer Camp)====
+
+Location: Found in Henbane River in Silver Lake Summer Camp. The note is attached to a wooden board of the house, under an "INFORMATION" signage.
+
+=-----=
+We'll send these dogs to Jacob up north and he'll whip 'em into shape. Or turn 'em into food for the Judges.
+=-=
+
+====Cult Note (Steele Farm)====
+
+Location: Found in Holland Valley in Steel Farm. The note is hung to a door, on the trailer car near the house.
+
+=-----=
+Here hangs a sinner by the name of ALEX. He and his friends came to Hope County with the idea to expose us.
+
+Despite this, the Father forgave him, and chose to save him. How did Alex repay this kindness? By a misguided attempt to free other devoted and lead them through this tunnel.
+
+John's wrath was swift, and the Chosen brought this tunnel down around them. Let this be a lesson for you all.
+
+Don't be like Alex.
+=-=
+
+====Cult Note (Strickland Farm)====
+
+Location: Found in Holland Valley in Strickland Farm. It is inside a metal box just ouside the farm.
+
+=-----=
+Say YES or what happened to the Stricklands will happen to YOU.
+=-=
+
+====Cult Note (Sunrise Farm)====
+
+Location: Found in Holland Valley in Sunrise Farm. Enter the barn and the note is sitting on the middle crate of the barn.
+
+=-----=
+Agenda this week: Hurry the harvest. John needs to run a convoy soon so we'd better have those baskets ready. Remember, our survival depends on having all this food safe in John's Gate before the Collapse.
+=-=
+
+====Cult Note (Wellington Residence)====
+
+Location: Found in Holland Valley in Wellington Residence. Go inside the house and look for a searchlight. The note is found behind it.
+
+=-----=
+You asked, Faith answered.
+
+Send these Angels down below to deal with the sinners hiding out in the mine.
+=-=
+
+===Cult Orders===
+
+====Cult Orders (Green-Busch Fertilizer Co.)====
+
+Location: Found in Holland Valley in Green-Busch Fertilizer Co. Get inside the fertilizer store warehouse and look for a computer desk with a monitor. The note is beside the monitor.
+
+=-----=
+The Bliss is flourishing in the East. It's time to introduce it in the Valley.
+
+We're getting regular shipments via the River, and we've appropriated silos across the region to store our special fertilizer.
+
+Take care when filling the silos, you know how sensitive the Bliss can be to heat.
+
+Joseph's going to be so proud of us.
+=-=
+
+====Cult Orders (Howling Cave)====
+
+Location: Found in Henbane River in Howling Cave. The note is located on a giant area where the cultists have caged the wolves in.
+
+=-----=
+Walk around the animal and do an initial visual check. It is imperative you get this data BEFORE subject is sedated and shipped to the Lodge.
+
+Wounds — Are there any visible and open wounds?
+
+Temperament — Is the animal still aggressive, or are they lethargic?
+
+Age — How old is the animal? Remember, too young or too old and the treatment won't take.
+
+Make sure this information is given to the Scientists at the Lodge upon delivery.
+=-=
+
+====Cult Orders (The Misery)====
+
+Location: Found in Henbane River in The Misery. The note is found on the workbench on top of the boat.
+
+=-----=
+I know this is hard. It hurts to hurt. But we're giving the unbelievers a last chance to tell us how to save our project, to save everything.
+
+They want to help. They just need pain to give them permission to betray the people they think are their friends.
+
+Don't worry, the bliss will wash away your pain when you've finished serving the Father this way.
+
+With love,
+
+Your Priestess
+=-=
+
+====Cult Orders (Rae-Rae's Pumpkin Farm)====
+
+Location: Found in Holland Valley in Rae-Rae's Pumpkin Farm. Look for the cage where the dog is.
+
+=-----=
+This dog's a champion. Send it to our stronghold across the street and have it shipped North. We'll let my brother decide how strong it really is.
+
+- John
+=-=
+
+====Cult Orders (US Auto)====
+
+Location: Found in Holland Valley in US Auto. It is located on the garage.
+
+=-----=
+Brothers and sisters,
+
+Now that we've occupied this garage we must immediately turn our attention toward our defenses.
+
+Half of us will bolster our convoys while the other half will begin work on The Revelator.
+
+This specialized truck will serve as a powerful deterrent to those who oppose The Father.
+
+If we're to have any chance of protecting the devoted from the Resistance, we need to get The Revelator on the road as quickly as possible.
+=-=
+
+===Cult Shrine===
+
+Location: This note is found on two locations of Dutch's Island: Forest Research Station and Johnson Lookout Tower.
+
+=-----=
+The Reaping has begun. The Father has commanded us to raise these shrines throughout the region to spread his word.
+
+Once it is built, the sinners will try to deface it. We must defend these structures at all costs.
+
+We build these shrines so the Father's wisdom will take root and grow.
+
+For Eden's Gate.
+=-=
+
+===Handwritten Note===
+
+====Handwritten Note (Lansdowne Airstrip)====
+
+Location: Found in Whitetail Mountains in Lansdowne Airstrip. The note is attached to the white door of the hangar.
+
+=-----=
+Russ,
+
+There's something rotting up there on the roof. I saw one of them eagles perched on the nearby radio tower with something in its claws the other day. Pretty sure it glided over and dropped that sucker and now it's baking up there in the sun. You're going to have to find some way up there and clean it up.
+
+Ben
+=-=
+
+====Handwritten Note (McNeill Residence)====
+
+Location: Found in Whitetail Mountains in McNeill Residence. Look for a cabin just outside the house and go inside. The note is found on the table to your left upon entering, just below the Cougar Baseball Card collectible.
+
+=-----=
+Hey Jackson, mind holding on to my stuff for a bit? I'm heading out on a patrol and don't have space to take it with me. I'll swing by on my way back to the Chalet.
+
+Spencer
+=-=
+
+====Handwritten Note (Osprey Cabin)====
+
+Location: Found in Whitetail Mountains in Osprey Cabin. Go inside the cabin and the note is found on the refrigerator.
+
+=-----=
+Dan
+
+You have to understand, we just couldn't wait any longer. Those damn Eden's Gate people came again, and we knew this was our last chance to get out of here alive. Remember that place we talked about? If we make it past the checkpoints that's where we'll meet up.
+
+I pray to God you're okay, and we'll see you soon.
+
+- Cindy
+=-=
+
+====Handwritten Note (Wolf's Den)====
+
+Location: Found in Whitetail Mountains in Wolf's Den. After reading the [[Whitetail Oath|Whitetail Oath]] note, go inside the room near it. The note is found on one of the washing machines.
+
+=-----=
+Tammy
+
+I know you don't understand, and I forgive you. You listened to the Father's words, but you didn't really hear them. Eden's Gate has shown me exactly what I've been missing in my life: a purpose. Thanks to the Father I know now what I need to do, what I need to become. I would have preferred to have taken this journey with you, but now I know that can't be.
+
+We all have to make sacrifices.
+
+Love always - Mark
+=-=
+
+===Hear the Word===
+
+Location: Found in multiple locations of Henbane River: Barlow's Residence, Can of Worms Fishing Store, Deep North Water Treatment Plant, Eden's Gate Outreach Center, Harrison Lookout Tower, Henbane River Station, King's Hot Springs Hotel, McCoy Cabin, Prosperity, Sacred Skies Youth Camp, Throne of Mercy Church, Whistling Beaver Brewery.
+
+=-----=
+The path to Eden is clear to those who have Faith.
+
+Join her priestess at this shrine to hear Joseph's word.
+
+Together, we will return to the Garden.
+=-=
+
+===Help Wanted Flyer===
+
+Location: This note is found on two locations of Henbane River: Can of Worms Fishing Store and Tanami Residence.
+
+=-----=
+If you see a giant wooden cross near Silver lake, look around it for a direction:
+
+North-South-East-West
+
+If you swim in that direction, you'll find a barrel of whisky underwater. I'll pay you a good finder's fee if you find them all.
+
+For more info, come to the Can of Worms fishing store and talk to Sherri.
+=-=
+
+===Letter to Dutch===
+
+====Letter to Dutch #1====
+
+Location: Found in Dutch's Island in Dutch's Bunker. This is the first of two files [[Letter to Dutch #2|of the same name]]. This is found on a table in a barracks-like room with a number of bunk beds near the opened notebooks on the table.
+
+=-----=
+April 27, 2015
+
+Dad,
+
+I got your message. Good to hear they're dropping the charges. We'll try to come out for part of the summer—Ricky wants to show you how he's riding without training wheels—but Anne's got a lot of work at the college.
+
+I know how much it means to you, so we'll try... only, please lay off the homeschooling talk, okay? It's not right for me or Anne, and the school in South Street is one of the best.
+
+And let's keep the "prepping" activity to a minimum. I know Ricky loves it, but it freaks Anne out.
+
+Talk soon,
+
+Robbie
+=-=
+
+====Letter to Dutch #2====
+
+Location: Found in Dutch's Island in Dutch's Bunker. This is the second of two files [[Letter to Dutch #1|of the same name]]. This is found on top of the main workbench in Dutch's locked armory, and can only be accessed after taking Dutch's key from his safe.
+
+=-----=
+Jan 20, 2016
+
+Dad, we aren't gonna be visiting anymore. Last time was the last straw.
+
+We said we didn't want Ricky shooting, but you just won't listen. He could have killed himself!
+
+My son isn't going to grow up thinking the end of the world was right around the corner. He's five and he's having nightmares about nuclear war! What the f*ck is wrong with you? I thought we were past this, but you never change.
+
+Anne's taken a job down in Texas, and I'll be able to find work down there easy. I won't be sending you our address.
+
+I'm sorry, Dad. I hope someday you can find the help you need.
+
+Robbie
+=-=
+
+===Reaping Orders===
+
+Location: This note is found on a couple of locations in Holland Valley: Bradbury Farm, Copperhead Rail Yard, Doverspike Compound, Dupree Residence, Eden's Gate Greenhouse, Fall's End, Gardenview Ciderworks, Gardenview Orchards, Golden Valley Gas, Purpletop Telecom Tower.
+
+=-----=
+The Collapse is upon us.
+
+John wants us to pack as much as the Bliss-infused fertiliser as we can into this silo.
+
+Be careful when you handle it, it's very explosive.
+
+Together we will march to Eden's Gate!
+=-=
+
+===Resistance Note===
+
+====Resistance Note #1====
+
+Location: Found in Holland Valley in Wellington Residence. This is the first of two files of the [[Resistance Note #2|same name]] found on the same location. After reading the [[Prepper's Note - Fire in the Hole|Prepper Stash note for Fire in the Hole mission]], look for the underground entrance by destroying one of the wooden blocks inside the house. Follow this path until you reach a ravine. The note will be found next to a wooden block.
+
+=-----=
+I don't think these bastards can swim, we should blow the wall open, fill this hole with water.
+=-=
+
+====Resistance Note #2====
+
+Location: Found in Holland Valley in Wellington Residence. This is the second of two files of the [[Resistance Note #1|same name]] found on the same location. This note is found on the far end of the mine, on a makeshift table near a pillow.
+
+=-----=
+The cult must have followed us to this mine.
+
+We threw up some makeshift barricades and dug in for a firefight, but they sent down... I don't know who or what these Peggies are, but they're monsters.
+
+We keep shootin' them, but they keep getting back up. We can't call for help down here.
+
+God help us all.
+=-=
+
+====Resistance Note (Dead Man's Mill)====
+
+Location: Found in Henbane River in Dead Man's Mill. After reading the [[Prepper's Note - Dead Man's Treasure|Prepper Stash note for Dead Man's Treasure mission]], follow the objectives until you reach the cave. The note is found on the bed once you found the prepper stash.
+
+=-----=
+I stayed at my post for a while. No action. Leaders are being paranoid, all this place needs to guard it is those bones there (I didn't do it).
+
+I'm heading back to the County Jail. If you're against Eden's Gate and looking for safety that's a good place to start.
+=-=
+
+===Slightly charred note===
+
+====Slightly charred note (Elliot Residence)====
+
+Location: Found in Whitetail Mountains in Elliot Residence. Go inside the house and immediately turn right. The note is found on the dresser table.
+
+=-----=
+I know you warned us, but now it's too late. We thought we could handle it, but we had no idea the resources that Jacob would bring to bear. But we will not give up. This is our land, by God, and no one, not the Government, the army and sure as hell not some religious nutcase is going to drive us off. If nothing else we'll take as many of them with us as we can.
+
+Ryan Elliot
+=-=
+
+====Slightly charred note (The Grill Streak)====
+
+Location: Found in Whitetail Mountains in The Grill Streak. It is found on a green table near the red van.
+
+=-----=
+Let it be known that you have been judged and found guilty in the eyes of the Father. You have continued to supply our enemies with food and supplies from your restaurant even after we have warned you not to. You can expect the full wrath of Eden's Gate to fall upon you, your family, and everything you own.
+
+The fire will cleanse your soul.
+=-=
+
+===Unsent Letter===
+
+====Unsent letter (Drubman Marina)====
+
+Location: Found in Henbane River in Drubman Marina. The note is located at the back of the closed Drubman Marina store.
+
+=-----=
+Dear Mr. Hurk Sr.,
+
+This letter is a apology because of how I crashed your dredge thing and sleep with your ex-wife. I am sorry for the dredge but not the other thing. No hard feelings. You get free smoothies when Addie opens the new marina and you
+
+can get all the vitamins you need for life. We good? Remember anger is a choice.
+
+Cheers,
+
+Xander
+=-=
+
+====Unsent letter (Holmes Residence)====
+
+Location: Found in Cult Compound in Holmes Residence. Enter the trailer through the green door at the back and the note is found on a brown table near some notebooks.
+
+=-----=
+Dear Matt,
+
+I'm so sorry we couldn't convince you and Ann to make the big move and join us out here. I think you would have found the air bracing, and the quiet mornings restful for the mind.
+
+And of course Father Joseph's words are food for the soul. Maybe bring the kids out later in the year. I'm sure the quads would love it, and Marty is old enough to join Jacob's training program.
+
+May the Father bless you.
+
+Jody Holmes
+=-=
+
+====Unsent letter (Nolan's Fly Shop)====
+
+Location: Found in Henbane River in Nolan's Fly Shop. Go inside the store and look for a telephone behind the counter. The note is beside it.
+
+=-----=
+Kids,
+
+Don't worry about me. I've got family here. A new family caled Eden's Gate. One day you can join me. Faith showed me that selling her my shop would set me free from my stresses.
+
+It's honest work, with people who look out for each other.
+
+Don't you fret.
+
+Nolan.
+=-=
+
+===Zip's Newsletter===
+
+====Zip's Newsletter (8-Bit Pizza Bar)====
+
+Location: Found in Holland Valley in 8-Bit Pizza Bar. Go inside the bar and the note is found on the bar counter, next to a set of mugs.
+
+=-----=
+It's not just the food. They're brainwashing through entertainment too. Movies, TV, Video Games. Why do you think everything is the same? Everything a sequel? It's all propaganda. Amongst the goblins there's a think tank of 7 ultra liberals that write everything. They create templates and then send them out to companies. The companies will then plug in their corporate mascots, add in some product placement, and sell you the same thing you watched last week only slightly different. The Furious TransAvengers Wars 8 or what have you. If someone tells you they're a Hollywood screenwriter you punch that liar in their goddamn mouth.
+=-=
+
+====Zip's Newsletter (Puma Mine)====
+
+Location: Found in Henbane River in Puma Mine. Found on a table inside the house.
+
+=-----=
+Notice anything funny when you're out in the woods? No baby animals. The Bliss has turned all animals homosexual. Dogs, cats, woodland creatures, and farm animals alike. Even the god damn frogs. None of them are reproducing anymore and it's havin' all kinds of side effects. Wolves are attacking humans. Steers are becoming super aggro, and the frogs....the frogs are having massive org**s. And before you got bent out of shape, I've got no problem with homosexuals. My brother is a homo. He's a great man with a wonderful family. There is nothing wrong with homosexuality, but there is something wrong with pumpin' chemicals into the air that turns ALL animals gay. It's unnatural. I can't go to the swimming hole anymore because it's a god damn gay bathhouse for frogs. These peggie demons must be stopped.
+=-=
+
+====Zip's Newsletter (St. Isidore School)====
+
+Location: Found in Holland Valley in St. Isidore School. Go inside the school bus and the note is just beside the driver's seat upon entering the main entrance.
+
+=-----=
+Let me ask you something. You see any kids around here? Don't you think that's strange? I've been talkin' about it for years, but nobody listens. You know why that is? Baby Farms. It's all the rage in silicon valley. They're growing baies just to harvest them for body parts. I've seen it with my own eyes. Elon Musk has his personal farm half hour north of here. Terrifying stuff. Even worse is what they do with the unhealthy babies. The unhealthy ones are sent to the pits. The ultra elite love to gamble on baby pit fights. They attach little scalpels to their tiny hands and the babies have a Battle Royale until only one stands. I wouldn't have believed it myself, if I didn't discover the boxscores coded in Oprah's book club. Those poor poor babies.
+=-=
+
+==Prepper Stash Note Transcripts==
+
+The following sub-sections are transcripts of notes for Prepper Stash missions.
+
+===Prepper Stash (Dutch's Island)===
+
+====Prepper's Note - Sunken Funds====
+
+Location: Found at Dutch Island in Silver Lake Boathouse. It is inside a metal box hung by the small brown shed of the pump house situated above the boathouse.
+
+=-----=
+Hey Mike,
+
+I tried to get into the underground stash, but a pipe burst and flooded everything. I have no idea what's still salvageable.
+
+We need juice to run the pump to drain the water. I know the power switch is in the boathouse, but it's locked and you didn't leave me the key, so I'll leave that to you.
+
+- Garrett
+=-=
+
+===Prepper Stash (Henbane River)===
+
+====O'Hara's note: - O'Hara's Haunted House====
+
+Location: Found in Henbane River in O'Hara's Haunted House. Look for a "LIVE HORROR SHOW" signage. The arrow below the signage is pointing to the note, which is near a locked door.
+
+=-----=
+I've been enjoying the show, watching everyone in the county tear each other to pieces.
+
+I've left some treats at the top of the barn for anyone brave enough to go through my haunted house.
+=-=
+
+====Prepper's Note - Animal Control====
+
+Location: Found in Henbane River in Howling Cave. Look for two blue boxes outside of the cave and the note will be there.
+
+=-----=
+There's always a squad of cultists taking wolves from Howling Cave.
+
+They've got a lot of good gear in there. I think someone oughtta get the jump on 'ere and steal it.
+=-=
+
+====Prepper's Note - Dead Man's Treasure====
+
+Location: Found in Henbane River in Dead Man's Mill. Look for a rock just before the entrance to the house.
+
+=-----=
+To any cougars reading this:
+
+Me and my buddy stashed some goodies in a cave behind the waterfall.
+
+To get inside you'll have to stop flow and GRAPPLE down.
+=-=
+
+====Prepper's Note - Getaway====
+
+Location: Found in Henbane River in McCallough's Garage. Go inside the garage and look for a cash register. The note is found beside it.
+
+=-----=
+Can't say I didn't warn you. Cult's gone nuts, but I've been ready with a bug out plan for ages.
+
+I put my best gear in my best car and I'm gettin' the f*ck outta here.
+
+Nobody can call me selfish though - left ya'll some stuf to fight the cult with, and my second-best car: The Midnight Ride
+
+Damned if I remember where I left the key. It's in the garage somewhere.
+
+Good luck, chumps!
+
+Steve
+=-=
+
+====Prepper's Note - Overwatch====
+
+Location: Found in Henbane River in Taft Lookout Tower. Go up the tower and the note is near a pile of blue boxes.
+
+=-----=
+A squad of The Resistance went to set up camp on top of Raptor Peak. But I haven't heard from them in a while. I hope they're doing okay, it's a dangerous climb.
+=-=
+
+====Prepper's Note - Pooper Scooper====
+
+Location: Found in Henbane River in Silver Lake Summer Camp. The note is attached to a wooden billboard just before the house.
+
+=-----=
+The Peggies took over this summer camp. The cabins are full of their stuff, and they're rounding up dogs.
+
+I can't fight them by myself, but I did the next best thing:
+
+I stole the master key to all the cabins and fed it to one of the dogs inside the main building.
+
+If they want to access their stash again, they'll have to wait until the dog sh*ts it back out!
+=-=
+
+====Prepper's Note - Shipwreck====
+
+Location: Found in Henbane River in Tanami Residence. Look for two blue boxes near the house for the note.
+
+=-----=
+My bunker's compromised, some *sshat drove a f*ck*ng dredge into it.
+
+I tried to get it loose, but every time I touch the controls, it just digs a deeper hole.
+
+Last thing I need is a bunch of peggies swimming in to steal my sh*t.
+=-=
+
+====Prepper's Note - The Angel's Grave====
+
+Location: Found in Henbane River in Horned Serpent Cave. The note is found just right before the mine entrance.
+
+=-----=
+To anyone reading this:
+
+I've seen the Peggies get rid of dead Angels by dropping them in the crevasse on top of this hill. Someone could use that samem opening to drop into the cave and steal the gear they've got stashed in there.
+=-=
+
+====Resistance Note - Side Effects====
+
+Location: Found in Henbane River in Bright Warden Radon Spa. The note is found outside the mine entrance, near a bench sitting on top of a blue box.
+
+=-----=
+Back in the day, this place was a radon health mine. (Look it up online.)
+
+Nowadays, the cult's hiding some of their sh*t in it. If I was braver, I'd raid it for supplies.
+
+If you wanna go in that creepy old place, then the power should still be working if you can find a switch or a generator inside.
+=-=
+
+===Prepper Stash (Holland Valley)===
+
+====Prepper's Note - D.I.Y. and D.O.A.====
+
+Location: Found in Holland Valley in Doverspike Compound. Look for the small brown shed outside of the big house and the note is just found outside of it.
+
+=-----=
+Hey you stupid cultist f*ck!
+
+You'll never get into my bunker.
+
+It's impregnable, I built it myself.
+
+But even if you do, you'll never get back out again.
+=-=
+
+====Prepper's Note - Deep Dive====
+
+Location: Found in Holland Valley in Laurel Residence. The note is found on the counter in the kitchen of the house.
+
+=-----=
+My darling hubby,
+
+The bunker's flooded... AGAIN!
+
+We were gonna use the stuff in there to help The Resistance.
+
+Where'd you put the shed key? I'll go turn on the water pump.
+
+Wifey
+=-=
+
+====Prepper's Note - Dumpster Diving====
+
+Location: Found in Holland Valley in Dodd's Dumps. It is sitting near the entrance to one of the houses.
+
+=-----=
+Dodd's nowhere to be found. I'm sure he won't mind if we stash some stuff in the back office.
+
+Power's not hooked up quite right, so watch your step if you turn it on.
+=-=
+
+====Prepper's Note - Fire in the Hole====
+
+Location: Found in Holland Valley in Wellington Residence. The note is sitting on a huge rock just before the house.
+
+=-----=
+Stan,
+
+We found a bunch of dynamite in the old mine under the house.
+
+If you're reading this, then we've already gone down to get it. We're gonna see about setting up a weapons cache or something down there.
+=-=
+
+====Prepper's Note - Fox Hole====
+
+Location: Found in Holland Valley in Armstrong Residence. Go behind the ruined house and look for the note on the middle near the barrel.
+
+=-----=
+Grace is already out there, takin' the fight to the Peggies.
+
+She's got a lot of gear stashed in the bunker under her house.
+
+We have to find a way down there so the cult doesn't get it first.
+=-=
+
+====Prepper's Note - High Tension====
+
+Location: Found in Holland Valley in Lincoln Lookout Tower. It is inside a metal box just ouside the tower.
+
+=-----=
+Mr. Strickland,
+
+Everything's all set up. When the cult attacks your farm, say the word and I'll ride the ziplines all the way down to our stash and help you out.
+
+We gotta have each other's backs.
+=-=
+
+====Prepper's Note - Long Range Lockpick====
+
+Location: Found in Holland Valley in Deep North Irrigation Reservoir. It is found just before the bridge near the road.
+
+=-----=
+The cult's tampering with the water.
+
+I locked myself in to stop them, there's no way to open this door from the outside.
+=-=
+
+====Prepper's Note - Man Cave====
+
+Location: Found in Holland Valley in Sunrise Threshing. Look for a dead guy on the field and the note is just beside him.
+
+=-----=
+To whoever is out there fighting the cult:
+
+The Peggies took everything from me. My farm. My wife.
+
+Everything I have left is hidden here. There's a secret entrance to my bunker and garage.
+
+Use what's inside to make those f*ckers pay.
+
+-- Big Mike.
+=-=
+
+====Prepper's Note - Playing With Fire====
+
+Location: Found in Holland Valley in Hope County Jail Bus. The note is inside the bus.
+
+=-----=
+Jack -
+
+Cult finally went crazy. Well, more crazy.
+
+Let's hide our good sh*t inside the big pipe.
+
+I'll meet you there. Watch out for bears!
+
+- Howard
+=-=
+
+====Prepper's Note - Swingers====
+
+Location: Found in Holland Valley in Bridge of Tears. Look for a brown crate just near the bridge.
+
+=-----=
+Me and my buddies raided some Peggie supplies.
+
+We hid the gear in the bridge supports.
+
+You'll need a good GRAPPLING HOOK to get to it.
+=-=
+
+====Resistance Note - Vespiary====
+
+Location: Found in Holland Valley in Grain Elevator. Look for two brown crates near the entrance.
+
+=-----=
+If you're reading this and you're a Peggie, I've got you in my sights. :)
+
+If you're Resistance, come on up and see me in the grain elevator.
+
+I got some goodies you can use against the cult.
+
+Just watch your step as you come up. I got a lot of little friends who don't wanna be disturbed.
+=-=
+
+===Prepper Stash (Whitetail Mountains)===
+
+====Cult Orders - The Holdouts====
+
+Location: Found in Whitetail Mountains in Elliot Residence. Look for some body bags piled together near the entrance of the house and the note will be found on top of two blue containers.
+
+=-----=
+Tanner,
+
+Got orders from Jacob to remove Elliot and his family from their house. They've been a thorn in our *ss for far too long.
+
+Make sure you check their bunker, they could be hiding in there. Use whatever means necessary.
+
+- Billy
+=-=
+
+====Handwritten note - Gone Squatchin'====
+
+Location: Found in Whitetail Mountains in Dansky Cabin. The note is found near the locked door of the cabin.
+
+=-----=
+Sorry I locked you out, but I just couldn't wait, I heard some noises outside the cabin and just had to follow. If you need your gear, just head north along the trail, I'm up at the old lookout. I've got a feeling our hunt is over soon and we'll have proof of that squatch once and for all! Get the drams ready!
+
+Dicky Dansky
+=-=
+
+====Handwritten note - Hangar Pains====
+
+Location: Found in Whitetail Mountains in Lansdowne Airstrip. Go back behind the hangar and the note is found near an impassable door.
+
+=-----=
+For f*ck's sake Russ, you broke the damn generator again. How the hell am I supposed to open the door and get the plane out now?
+
+I'm off to get Shep to come and fix it. And I swear to God that if you left the skylight open again I'm going to fire your *ss.
+
+- Ben
+=-=
+
+====Handwritten note - Mayday====
+
+Location: Found in Whitetail Mountains in Rattlesnake Trail Bridge. The note is on the bridge next to the waterfall.
+
+=-----=
+Eli has tasked me with finding a way to get the message out. The cult controls all communications, not to mention all the bridges in and out.
+
+Our only hope is to fly out before they are able to control the skies as well. I've got my gear with me, I plan on leaving tonight under cover of darkness.
+
+Wish me luck.
+
+-Kyle
+=-=
+
+====Handwritten note - Unwelcome Guest====
+
+Location: Found in Whitetail Mountains in Frank's Cabin. The note is found near the locked door of the cabin.
+
+=-----=
+To: Shep
+
+Damn thief got into my cabin, nearly got my stash. I'm off to track that b*st*rd down. Meanwhile see what you can do with the lock.
+
+I'll be damned if this is going to happen again.
+
+-Hardcastle
+=-=
+
+====Hastily written note - Cliffhanger====
+
+Location: Found in Whitetail Mountains in Ozhigwan Falls. Look for a dead body and a truck below the waterfalls. The note will be near them.
+
+=-----=
+Ian,
+
+My dear, if you're reading this you must think I've abandoned you. The crash knocked you out cold, and nothing I did could wake you up. I didn't want to leave you, but I have to go find help. The Cult's watching the roads but I think there's a way up by the falls. There's no way I can carry the lockbox but I got the key with me so those f*ck*rs can't open it.
+
+Don't worry, I'll be back soon.
+
+Love always, Ted
+=-=
+
+====Salvage Permit - Salvage Rites====
+
+Location: Found in Whitetail Mountains in Salvage Camp. It is sitting on top of the black box next to the tent.
+
+=-----=
+NAME OF APPLICANT: Thomson Salvage & Recovery
+
+LOCATION: Silver Lake, Montana
+
+DESCRIPTION: Small Cessna, submerged
+
+NOTES: "The Spirit" along with pilot Fred Tanner went down March 8, 2013
+
+Recovered a lockbox from the fuselage. Key to lockbox still missing.
+=-=
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Far Cry 5: File Transcript FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Ubisoft for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=

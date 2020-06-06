@@ -1,0 +1,501 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my GM Mode FAQ for WWE Smackdown vs RAW 2007. This guide aims to provide an in-depth detail of how GM Mode works for this version of the WWE game. There are 3 iterations of the original mode (not counting the Universe mode from SVR 2011 onwards, as it's slightly different) and by far, SVR 2007 has the best GM Mode compared to SVR 2006 and SVR 2008.
+
+WWE Smackdown vs RAW 2007 is owned by THQ. All trademarks are subjected to THQ.
+
+Copyright (c) THQ.
+
+==Version History==
+
+*Version 1.0 - Jun 6, 2020
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Tips==
+
+I will list the general tips here in order for you to dominate the opposing GM and get the GM of the Year award by the end of Wrestlemania.
+
+*At the start of the mode, you can either pick to use the original WWE roster or to draft your own roster. Depending on your playstyle, your option will play a vital role to your success in managing your show and beating the other GM for brand supremacy. Personally, I suggest drafting your own roster so that you can assign their contracts to when you'd like them to end. When using the WWE roster, all superstars starts out with 5 weeks in contract. It doesn't make any difference though, because you'll still be spending and keeping your roster in tiptop shape as you see fit.
+*During cross-branded PPV events (Summerslam, Survivor Series, Royal Rumble and WrestleMania), always beat the opposing GM in cross-branded matches. If you really want to be called the GM of the Year, you really have to make sure you will not lose to the opposing GM in terms of brand supremacy, right?
+*Identify the superstars you're really comfortable playing as. Each show has an exclusive title that can only be competed with the specific weight class. If you prefer playing male superstars often, go for Smackdown as it has the Cruiserweight title, only competed by light heavyweights and cruiserweights. If you prefer playing with female superstars, go for RAW as it has the Women's title, only competed by female superstars with a weight class of featherweight.
+*On your own PPVs, use the specialty matches (eg. Hell in a Cell) as much as you can. They do not just garner higher ratings, but they are only available to PPVs and are not available on your weekly shows.
+*Plan on which superstar you're building up. If you opt for Smackdown, you need to build the cruiserweight division so that they are in par with the highest popular cruiserweight of the game, Rey Mysterio. Let your cruiserweights win matches every week until you get to a point where the Cruiserweight is as prestigious as the other 3 titles of Smackdown. Book handicap matches and do it alternately every week.
+*Switch up your matches weekly. Do not put the same match type on the same match slot every week. For example, if you have a TLC match on your main event, switch it up to a Hardcore or Steel Cage next week. Make your matches varied and exciting.
+*Use your superstars' match specialties. Superstars like Edge, Matt Hardy, Rob Van Dam, among others, specialize in certain match types. If you let them win on their special match, you increase their popularity significantly each time you do so. Note that after each PPV, match specialties will change. If superstars do not often compete in their specialty matches, they lose it.
+
+==GM of the Year award==
+
+Getting the GM of the Year award isn't hard but it's challenging. If you've been taking notes of the tips in the [[Tips|previous section]], you'll win the most fans by the time Wrestlemania season ends. To get the award, you need to have more fans than the opposing GM. You have to play GM Mode on your own to nab the trophy though.
+
+By unlocking the GM of the Year award once, you'll be rewarded with the following:
+
+*$100,000 cash
+*[[Cost|Cost]] and [[Trades|Trades]] under [[Options|Options section]] will be unlocked.
+*GM of the Year trophy to be found in your Locker Room.
+
+Before getting the award, you can do an optional task to get a [[Franchise tag|franchise tag]].
+
+==Franchise tag==
+
+At Wrestlemania, you'll be booked against the opposing GM in 1-on-1 tournaments. 
+
+*Match 1: Steel Cage
+*Match 2: Hardcore
+*Match 3: Parking Lot Brawl
+
+Winning the tournament nabs you a ''franchise tag'', which lets you exempt a superstar on your roster on the post-Wrestlemania draft. It's optional but it's helpful if you want to, say keep Undertaker on Smackdown or Trish Stratus on RAW. In addition to that, current champions are exempted too. Keep this in mind, if you want certain superstars to be kept from your roster and avoid getting drafted from the other brand.
+
+==Schedule==
+
+Book your matches here. You can see the entire calendar of the year (and mind you, they did make a mistake on March only having 30 days when in reality, there's 31 days of it. I believe this has something to do with keeping their calendar accurately for coding purposes everytime you finish the year).
+
+In a match card, you can change between your main show and the secondary show by pressing the L1 button. Change a slot with other matches/promos by pressing the O button. Matches provide different cost and fatigue level. After selecting a match, you can select its participants as well as make it a title match. There are things to consider when booking a title match.
+
+*Non-world titles can only be contested to the top 15 contenders based on the [[Power25|Power 25 rankings]] of their respective brand. Contenders not in the top 15 cannot contend for a title shot.
+*The Cruiserweight title can only be contested to superstars whose weight classes are cruiserweight or light heavyweight.
+*The Women's title can only be contested to divas whose weight class is featherweight. In this sense, divas are only relegated to competing for this title only.
+*The World Heavyweight and the WWE championships can only be contested to the top 5 contenders based on the [[Power25|Power 25 rankings]]. If these titles are vacant, the participants must still be in the top 5 rankings of their respective brand.
+*You cannot book a title match if the champions are not in the match or you booked an incorrect match type (eg. you cannot book a World Heavyweight title match during a Normal Tag match).
+
+You can view past results of [[RAW Results|RAW]], [[SmackDown Results|Smackdown]] and [[PPV Results|PPVs]] but you cannot view what your opposing GM is booking for the current week (unless you're playing with a friend, you can simply check it out using the L1 and R1 buttons to switch over to the other show).
+
+===Main Show===
+
+Each brand has 6 matches and 2 promos every week to use. You may leave them vacant but if you really want to beat the opposing GM and get that [[GM of the Year award|GM of the Year award]], you want to make sure that each slot is occupied. Don't fret, as even the computer-controlled GM tends to leave their match slots vacant too but think smarter than him and make sure to occupy all your slots to maximize the efficiency of your roster.
+
+====Promos====
+
+=====New Superstar=====
+*Description: Build Hype for the first appearance of a newly acquired Superstar.
+*Notes: This promo can only be selected if you hire someone from the [[Free Agency|Free Agency pool]]. From how I see it, if the superstar loses on its 1st week on the show, its popularity won't decrease. Other than that, it's pretty pointless.
+
+=====Rivalry (in place of a match)=====
+*Description: Build hype for an ongoing rivalry in place of a match.
+*Notes: You can use this promo if you need to book a title match for that angry superstar (who is in a rivalry) to satisfy his needs to be in a title match. That's where I usually use this promo for.
+
+=====Inactive Superstar=====
+*Description: Rest a Superstar while maintaining their popularity.
+*Notes: Use this promo if you need to rest a superstar due to high fatigue or to view superstars not booked in a match for the week. I usually use it for the latter, so that I don't have to go and [[View Roster|view my roster]] every now and then.
+
+=====Dirty/Clean Turn=====
+*Description: Startle the crowd by changing a Superstar's match tactic.
+*Notes: It simply changes the alignment of your superstar from dirty to clean and vice-versa. Useful if you need to [[Rivalries|create a rivalry]] with specific superstars.
+
+=====Interview Space=====
+*Description: Interview a Superstar backstage to increase their popularity and add a boost to their match rating.
+*Notes: One of the promos I use frequently, this promo helps in boosting a match rating by .5 stars. Plus, if you have a superstar on a huge winning streak (preferably more than 6 wins straight), there will be a guaranteed increase in popularity. In addition, this boosts that superstar's [[Mic Skill|mic skill]], which is a stat found if you view its own superstar information under [[View Roster|View Roster section]]. Use this on a superstar who you think will win.
+
+=====Tag Team Hype=====
+*Description: Gain EXP for a stable on your roster.
+*Notes: Another useless promo. This promo checks stables that are created under Create a WWE Stable mode and see if you have a team on your roster matching it on that mode. The EXP is used to increase their tag team attributes though (also set on the same mode mentioned).
+
+=====Rivalry Attack=====
+*Description: Attack a Superstar involved in a rivalry to boost their popularity at the cost of losing fatigue.
+*Notes: Another promo good for boosting someone's popularity. If you use this in conjunction with the [[Interview Space|interview space]] promo on the same superstar, you'll get even more increase in popularity.
+
+=====Advertising Promo=====
+*Description: Run a commercial for advertising. All profits will be received the following week.
+*Notes: Useful if you're low on cash. Yes, and if you do, you'll also get an email notifying you about it. Your ad revenue will be reflected on the [[Financials|Financials section]]. Be careful of running this promo, as it is detrimental in losing fans for the week.
+
+=====Merchandise Sponsorship=====
+*Description: Promote the sale of WWE merchandise.
+*Notes: Almost the same as [[Advertising Promo|advertising promo]], only that your profits are varied.
+
+=====PPV Hype=====
+*Description: Build hype for an upcoming PPV event.
+*Notes: Use the promo if you need to hype your own PPV or any of the 4 dual-branded PPVs (Summerslam, Survivor Series, Royal Rumble, Wrestlemania). It's best to use it a few days before the actual PPV. It doesn't generate fans though.
+
+=====Interference Promotion=====
+*Description: Send a Superstar to the other show to cause trouble.
+*Notes: One of the promos I also frequently use, use the promo if you need to make a mess on the opposing show. Interferences are usually 50/50 and there will always be an article on the [[News|News section]] about interferences on either show. If the interference is successful, a random rivalry from the opposing show will end prematurely (sometimes it doesn't, it depends if you use up all 10 slots for [[Rivalries|rivalries]].)
+
+=====Slander Promotion=====
+*Description: Attempt to steal fans from the other show by starting rumors on-air.
+*Notes: Use this promo if you need to try your luck on getting fans from the other show. Useful if you're low on fans based on the data from the [[Fan Support|Fan Support section]]. A quick tip though, use this promo if you think you can counter-program the opposing GM with better matches that week. It would make sense.
+
+=====DIVA Bikini Contest=====
+*Description: Select two Divas to participate in a bikini contest. The winner will be awarded a boost in popularity.
+*Notes: Not much to say on this. You don't actually know who would win but you will notice a change in popularity for whoever wins in this contest.
+
+=====Comeback Reminder=====
+*Description: Maintain the popularity of an injured Superstar during their recovery period.
+*Notes: Use this on an injured superstar who's been out for a long time. Injured superstars with a lengthy period of recovery starts decreasing in popularity as weeks go by. If you need to keep them from doing such, use the promo.
+
+=====Title Match Hype=====
+*Description: Build up excitement for a title match.
+*Notes: Useful if there are title matches booked for the week. I usually book the title matches in the main event and have this promo occupying the 2nd promo slot for optimum efficiency.
+
+===Secondary Shows===
+
+Aside from the main show, you get another show that runs first before the actual show starts. Each brand has 3 matches for the secondary show. RAW has Heat while Smackdown has Velocity. The only caveat is that you cannot book specialty matches here (such as Tables, TLC etc.), cannot have title matches and has no promo slots. The shows are usually meant for CAWs and unpopular wrestlers to build up wins before being booked to the main show. Your [[Rivalries|rivalries]] must always be on the [[Main Show|main show]] and putting them in a match on your secondary show (and they do not have a match on the main show) will prematurely end the rivalry. You can leave this empty though it's highly recommended to have at least 1 match here every week.
+
+===Pay Per Views===
+
+Aside from booking weekly shows, there are PPVs that each show will compete in. Pay Per Views (PPVs) usually garner high fan interest, so it's always best to book title matches on these shows. To maximize that, make sure to not leave any matches on the main show vacant. Other than that, you have access to special matches that can only be booked on PPVs such as:
+
+*Battle Royal
+*Hell in a Cell
+*Ironman
+*Last Man Standing
+*Special Referee
+
+The following are PPVs specific to each brand as well as the cross-branded PPVs where both brands will have to book their matches at.
+
+|*EVENT                   |*BRAND             |*DATE         |
+| Backlash                | RAW               | April 28     |
+| Judgment Day            | Smackdown         | May 26       |
+| Vengeance               | RAW               | June 30      |
+| The Great American Bash | Smackdown         | July 28      |
+| Summerslam              | RAW and Smackdown | August 18    |
+| Unforgiven              | RAW               | September 22 |
+| No Mercy                | Smackdown         | October 13   |
+| Taboo Tuesday           | RAW               | November 3   |
+| Survivor Series         | RAW and Smackdown | November 24  |
+| Armageddon              | Smackdown         | December 22  |
+| New Year's Revolution   | RAW               | January 5    |
+| Royal Rumble            | RAW and Smackdown | January 26   |
+| No Way Out              | Smackdown         | February 23  |
+| WrestleMania            | RAW and Smackdown | March 30     |
+
+Unforgiven and Armageddon are special PPVs because the main event card of these PPVs are fixed. Unforgiven gets the ''Elimination Chamber'' match while Armageddon gets the ''Buried Alive'' match.
+
+==E-Mail==
+
+View your emails sent in by your brand's commentator (Tazz for Smackdown or J.R. for RAW), superstars, opposing GM and even Vince McMahon himself. Check your emails regularly as this is where you'll be given tips from time-to-time as well as inform you of which superstars have their contract expiring (they will email you 1 week before their contract expires).
+
+==Rosters==
+
+===View Roster===
+
+Manage your roster here. You can check their morale status, popularity, fatigue levels, contract remaining and injuries. You can also checkout their individual information such as attributes, EXP, overall, popularity, specialty match types, mic skill, injury frequency, weight class, current title, hometown and match records.
+
+Press the X button to access the contract negotiation screen. Then select how long you will add to the superstar's contract. It ranges from 5 weeks, 3 months, 6 months, 9 months and 1 year. You may release the superstar from contract by selecting the ''Release Superstar'' option. Use this if you need some cash. Releasing superstars are reflected from your [[Financials|financial report]] that is generated after the week is over. The maximum length of contract a superstar can have is around ''252 weeks'' (and that's 4 years of GM mode lol).
+
+====Injury====
+
+From time to time, superstars will get injured if they've been used sparingly weekly. Specialty matches such as tables, TLC etc. provide more fatigue than regular match types. There are 2 types of injuries:
+
+*Minor injury - superstar can still compete but there is a risk of turning it into a serious injury if you let the superstar compete.
+*Serious injury - superstar cannot compete and will be sidelined for a couple of weeks.
+
+When there is an injury, an [[E-Mail|email will be sent]] to notify you of the injury, whether it's a minor one or a serious one. A superstar with a serious injury cannot be booked on your shows until the time has passed when he's ready to return. If you want to maintain the popularity of this injured superstar, use the [[Comeback Reminder|Comeback Reminder]] promo every once in a while.
+
+There's a way to tell how frequent a superstar gets injuries, and this varies for every superstar. This is determined from the ''Injury Frequency'' stat of the superstar of their respective superstar information page. Based on my observation, superstars who are under the [[Free Agency|Free Agency pool]] have lesser injury frequency (yeah, that makes sense) whereas superstars on each of the brands have higher injury frequency. This stat goes higher if the superstar gets injuries more often.
+
+====Morale====
+
+Checking the morale status of your superstars is important in keeping them happy. This is what makes GM Mode exciting and challenging.
+
+Morale can be turned off and will always be Happy if you set [[Superstar Morale|Superstar Morale]] to ''OFF'' under [[Options|Options section]]. Below are some of the morale status of the superstars and what triggers it ranked according to happiness level.
+
+*Happy
+**If the superstar is injured, they'll stay as happy (that's somehow sarcastic lol).
+**The superstar is very satisfied. You fulfilled your obligiations in keeping this superstar happy.
+*Content
+**The superstar has lost 3 matches in a row.
+**The superstar needs contract negotiations. Usually asked if they have been on a winning streak.
+**The superstar wants to wrestle for the week and is happy to be given time off. Usually asked if the superstar hasn't been booked for 2 weeks.
+**The superstar wants to contend for a title shot. Superstars who are not in the top 15 of the [[Power25|Power 25 rankings]] usually don't ask for this.
+*Unsatisfied
+**The superstar has lost 5 matches in a row.
+**The superstar hasn't been in a title shot for a long time.
+*Upset
+**The superstar has lost 7 matches in a row.
+**The superstar needs contract negotiations. Usually asked if they have been on a winning streak. Quite furious.
+**There is a potential chance that the superstar may transfer from the other show (if there is still a slot left).
+
+====Mic Skill====
+
+Another interesting thing about GM Mode is a stat called ''Mic Skill''. Similar to the ''Injury Frequency'' stat from the [[Injury|Injury section]], I find this very interesting. This stat apparently increases when the superstar is frequently selected in an [[Interview Space|Interview Space]] promo. Every superstar starts with 1 star of Mic Skill stat and increases as the superstar is frequently involved in the aforementioned promo. The skill gradually decreases over time though.
+
+===Current Champions===
+
+View your current champions here. A title can only be vacated if the champion is injured and will be out of action for 5 weeks and more. You can override this and vacate titles when you want by setting [[Title|Title]] to ''OFF'' under [[Options|Options section]].
+
+===Rivalries===
+
+One of the core aspects of GM Mode, rivalries help boost ratings and make your opponent GM scurry away as you fight for brand domination until WrestleMania. You'll be spending most of your time maintaining and creating rivalries to outwit the other GM. You can have a maximum of 10 rivalries. [[Storyline Writers|Storylines are available for purchase]] but you get 6 storylines at the start for free. I suggest you buy more, as these aren't enough.
+
+To create a rivalry, select an open slot. Pick a storyline, the participants and how long should the rivalry last. If you want an indefinite rivalry, where rivalries don't last, set [[Rivalry Length|Rivalry Length]] to ''OFF'' under [[Options|Options section]].
+
+All rivalries, including rivalries that require team (eg. Faction, Patriotism Tag Team etc.) need at least either one Clean/Dirty superstar and the rest as the opposite. For example, I pick the storyline of Team Canada and pits the team of Bret Hart and Jim Neidhart (Bret Hart is clean and Jim Neidhart is dirty) to have a rivalry with The Rock and Mankind (both are dirty). That's 1 clean superstar and 3 dirty superstars, they'll still be accepted.
+
+As the weeks goes by, there will be a thumbs up next to the rivalry slot to signify how well the rivalry is going.
+
+*1 thumbs up - the rivalry is doing good. 1st - 4th week.
+*2 thumbs up - the rivalry is doing well. 5th - 9th week.
+*3 thumbs up - the rivalry is doing great. 10th week onwards.
+
+You'll also be getting a thumbs down if the fans start to think that the rivalry is going stale and boring. In such cases, you may need to end the rivalry prematurely as it's detrimental to decrease match ratings and lose fans. Based on my multiple playthroughs, I have never made a rivalry exciting beyond the 13th week. By that time, I get a thumbs down. So I usually set up my rivalries to last up until the 11th week at most.
+
+Storylines are unique and have specific requirements. Refer to the [[Storyline Writers|Storyline Writers section]] to see what storylines are best suited for the rivalries you'll be creating.
+
+===Propose Trades===
+
+You can propose a trade with the opposing GM here. A maximum of 3 slots per trade is allowed. If you're playing with a friend, he/she must accept the trade via [[E-Mail|Email]]. When making a trade to the opposing GM, take note of the following consequences:
+
+*Any existing [[Rivalries|rivalries]] will end prematurely.
+*Currently booked matches for superstars that were traded to the other brand will be gone. You have to book again.
+*If the superstar is a champion, the title will be vacated immediately.
+*[[Injury|Injuries]] will be carried over. If you're playing with an computer-controlled GM, the injury will be gone a week later after the trade (which is quite a magic. Probably the game's way of making your life harder beating the AI GM).
+*The [[Morale|superstar's morale]] will be reset back to ''Happy'' no matter what his/her current morale is.
+
+If you're playing against an computer-controlled GM, you can always have the other GM accept your trades by setting the [[Trades|Trades]] to ''OFF'' under [[Options|Options section]].
+
+===Free Agency===
+
+You can hire superstars here. Superstars can be hired from either show and can even be hired while booking a PPV. Take note that each brand can hold a maximum of 20 superstars on their roster.
+
+===Storyline Writers===
+
+The first name represents the names if you're running the Smackdown show whereas the second names represents writers from Raw.
+
+=====Jennie Ann Mark / Grahm Baker=====
+
+Cost: $10,000 (though it's available from the start).
+
+|*STORYLINE NAME    |*RATING |*DESCRIPTION |*NOTES |
+| Jealous Friend    | *      | -           | -     |
+| Stalker           | ***    | -           | You need 2 male superstars (one clean and one dirty) and a diva (clean/dirty). |
+| Ungrateful Rookie | **     | -           | -     |
+
+=====Eugene Park / Amir Kalil=====
+
+Cost: $20,000 (though it's available from the start).
+
+|*STORYLINE NAME |*RATING |*DESCRIPTION |*NOTES |
+| Jealous Friend | *      | -           | -     |
+| Legend Killer  | *****  | -           | 1 legend and 1 regular superstar. WWE legends are represented by their high popularity and are neither on the [[Free Agency|Free Agency]] nor are [[Edit Available Roster|available on the roster]] by default. |
+| Outnumbered    | ***    | -           | 3 male superstars or 3 divas. |
+
+=====Frank Bowen / Keith Kirby=====
+
+Cost: $110,000
+
+|*STORYLINE NAME      |*RATING |*DESCRIPTION |*NOTES |
+| Faction             | ****   | The Faction story is a one-on-three conflict between one team of dirty Superstar(s) and one team of clean Superstar(s). | -     |
+| Patriotism          | ****   | The Patriotism story is a one-on-one conflict between a USA born Superstar versus a Foreign born Superstar. | Foreign born superstars refer to wrestlers whose hometowns are not states from the US (eg. Canada, Dudleyville, England, Germany, India, Ireland, Italy, Japan, Mexico, Parts Unknown, Scotland, The Carribean, The Isle of Samoa). |
+| Patriotism Tag Team | ****   | The Patriotism Tag Team story is a one-on-one conflict between a USA born team versus a Foreign born team. | Same as above, except there must be 4 superstars between USA vs. a foreign team. |
+
+=====Bryan Williams / Cory Ledesma=====
+
+Cost: $120,000
+
+|*STORYLINE NAME       |*RATING |*DESCRIPTION |*NOTES |
+| Kidnapping           | ****   | The Kidnapping story is between two male Superstars and one Diva in distress. | -     |
+| Returning Legend     | *****  | A Legend returns to the ring in this story between one WWE Legend and one WWE Superstar. | -     |
+| Battle of the Titans | ****   | This one-on-one story can only involve superstars who are in the heavyweight or super-heavyweight classes. | You can only have rivalries with superstars whose weight classes are heavyweight, super heavyweight or ultra heavyweight. |
+
+=====Joshua Paik / Colin Mack=====
+
+Cost: $80,000
+
+|*STORYLINE NAME      |*RATING |*DESCRIPTION |*NOTES |
+| David vs. Goliath   | ****   | This one-on-one story involves a cruiserweight Superstar versus a heavyweight or super-heavyweight Superstar. | One superstar must be a cruiserweight or a light heavyweight against a heavyweight, super heavyweight or ultra heavyweight. |
+| Cheating Girlfriend | *****  | The Cheating Girlfriend story is between two male Superstars and one cheating Diva. | -     |
+| Freak Show          | *      | This classic story is about the beast versus the beauty. You must have one clean Superstar against one dirty Superstar. | -     |
+
+=====Jodie Geiselman / Chris Folino=====
+
+Cost: $30,000
+
+|*STORYLINE NAME         |*RATING |*DESCRIPTION |*NOTES |
+| Betrayal               | *      | This classic story is about the betrayal of one clean Superstar and one dirty Superstar. | -     |
+| No Respect             | **     | The No Respect story is a tag team conflict between one team of dirty Superstars and one team of clean Superstars. | -     |
+| Winning a Diva's Heart | ***    | The Winning a Diva's Heart story involves two male Superstars and one Diva. | -     |
+
+=====Aaron Ruben / Nakamura=====
+
+Cost: $50,000
+
+|*STORYLINE NAME         |*RATING |*DESCRIPTION |*NOTES |
+| Humiliation            | *      | This classic story is about the humiliation of one Superstar over another in this one-on-one match-up. | -     |
+| Loser Leaves the Brand | *****  | The loser of the final match in this one-on-one storyline will be forced to leave their respective show. | Ending this rivalry prematurely will not let the loser of the rivalry leave the brand. |
+| Trashed Locker Room    | *      | The Trashed Locker Room story is a conflict between one clean Superstar and one dirty Superstar. | -     |
+
+=====Togiya / Nicholas Kerley=====
+
+Cost: $70,000
+
+|*STORYLINE NAME         |*RATING |*DESCRIPTION |*NOTES |
+| Greatest of All Time   | *****  | The Greatest of All Time story is a WWE Legend specific story between one clean Legend and one dirty Legend. | -     |
+| Injury Revenge         | ***    | This classic story is about seeking revenge between one clean Superstar and one dirty Superstar. | -     |
+| Cruiserweights Collide | **     | This cruiserweight specific story is a classic one-on-one battle between one clean cruiserweight and one dirty cruiserweight. | You can only have rivalries with superstars whose weight classes are cruiserweight or light heavyweight. |
+
+=====Joshua Rowley / Mike Spray=====
+
+Cost: $40,000
+
+|*STORYLINE NAME           |*RATING |*DESCRIPTION |*NOTES |
+| Against All Odds         | ***    | The Against All Odds story is a tag team conflict between one team of cruiserweight Superstars versus heavyweight Superstars. | -     |
+| Student Turns on Teacher | ***    | This classic story is about the student turning on their teacher. You must have one clean Superstar against one dirty Superstar. | -     |
+| GM Kiss Up               | **     | The General Manager can't solve all your problems in this one-on-one match-up between a clean Superstar and a dirty Superstar. | -     |
+
+=====Arai / Joe Pearson=====
+
+Cost: $90,000
+
+|*STORYLINE NAME    |*RATING |*DESCRIPTION |*NOTES |
+| Diva Faction      | ***    | The Diva Faction story is a one-on-three conflict between one team of dirty Diva(s) and one team of clean Diva(s). | -     |
+| Classy vs. Trashy | ***    | This classic story is a bitter disagreement between one clean Diva and one dirty Diva. | -     |
+| Diva Jealousy     | ***    | The Diva Jealous story is a one-on-two conflict between one team of dirty Diva(s) and one team of clean Diva(s). | -     |
+
+=====Dan Ryan / Jeremy Kilichowski=====
+
+Cost: $100,000
+
+|*STORYLINE NAME       |*RATING |*DESCRIPTION |*NOTES |
+| Divas Team Up        | **     | The Divas Team Up story is a Diva Tag Team storyline between a team of dirty Divas and a team of clean Divas. | -     |
+| Number One Contender | ****   | This story decides who is the rightful number one contender. Superstars in this story must be in the top 10 of the Power 25. | -     |
+| Hungry Challenger    | ****   | The hungry challenger gets his shot at the title. You must have one top 10 Superstar versus one champion. | -     |
+
+=====Josh Kimmel / Amin Razi=====
+
+Cost: $60,000
+
+|*STORYLINE NAME      |*RATING |*DESCRIPTION |*NOTES |
+| Undisputed Champion | *****  | There is only one undisputed champion in this storyline. You must match-up one champion versus another champion. | You can only book current champions prior to picking this storyline. |
+| Wealthy vs. Poor    | *      | Richer get richer and the poorer get poorer in this classic story between one dirty Superstar versus one clean Superstar. | -     |
+| Team Canada         | ***    | One team of Canadian born Superstars battles another Tag Team for the pride of Canada. | You can use superstars like Bret Hart, Edge, Jim Neidhart or Trish Stratus for this storyline. |
+
+===Customize Attributes===
+
+You can edit the attributes of your superstars here, which is a mix from Smackdown, RAW and superstars in the [[Free Agency|Free Agency]]. Take note that changes here are only in effect for GM Mode, as there won't be any changes in other modes of the game. Also, there are limitations to each attribute that a superstar will have, depending on their weight class (Featherweight, Cruiserweight, Light Heavyweight, Heavyweight, Super Heavyweight, Ultra Heavyweight)
+
+===Edit Available Roster===
+
+As the name implies, you can manage all playable superstars here for use in GM Mode, with the exception of Jerry Lawler, Tazz and Shane McMahon. If the superstar is currently in the [[Free Agency|Free Agency pool]], their status will be listed as ''ON'' whereas if they aren't, it will be OFF. If you change the status of a superstar currently in the Free Agency pool to OFF, they'll automatically be listed unavailable. However, if you make superstars available when their status is ''OFF'', they'll be available next week (this doesn't count PPVs).
+
+==Reports==
+
+===PPV Results===
+
+View the previous PPV's results. If you're playing against a computer-controlled GM, you view the last PPV your brand had (or a cross-branded PPV, whichever finished recently. If you want to view the PPV results of the other brand, just go to [[Schedule|Schedule]] and select any of his PPVs.
+
+===SmackDown Results===
+
+View the results of the previous edition of Smackdown.
+
+===RAW Results===
+
+View the results of the previous edition of RAW.
+
+===Fan Support===
+
+View the graph of the fanbase from each brand. Each brand starts the game with 5,000,000 viewers. Fan support is detrimental to get the [[GM of the Year award|GM of the Year award]]. It's crucial that before Wrestlemania, you should be able to get the most fans versus the opposing brand to nab the award.
+
+===Tazz's/J.R.'s Reports===
+
+View advice from your brand's commentator. The name of this area depends on which brand you're on. Tazz if you're running Smackdown or J.R. if you're running RAW. Basically, these are tips on how to run GM Mode. Though I opt not to put the transcript of each advice, I have already covered some [[Tips|tips in the appropriate section]].
+
+===Financials===
+
+View the financial reports from your show here. This area is weekly updated and is more on the accounting side of things. I'm pretty amazed how the developers made such complexity though.
+
+===Power25===
+
+View the top 25 superstars from either brand. Switch tabs by using the L1 button to view the top 15 superstars from Smackdown and R1 button to view the top 15 superstars from RAW. Use the left D-pad button to view the previous week's rankings and the right D-pad button to view the next week's rankings. Superstars under a stable are ranked together, which is based on their median popularity (at the start of the 1st week), winning streak and popularity. Superstars who are not on stables or does not have their partner from the same brand they're in are ranked individually.
+
+The main purpose of the Power 25 rankings is to see who is in contention for title shots. It's important to always check your superstar rankings from your own brand by switching over to that tab. Superstars not on the top 15 of your brand cannot get a title shot as they need to earn it and beat other superstars before them. If you want your superstars to contend for a title match despite not being the top 15 of the rankings, set [[Title|Title]] to ''OFF'' under [[Options|Options section]].
+
+==News==
+
+Read generated news articles from the previous week. Articles range through a variety of content such as:
+
+*Injuries
+*New champions
+*New contract negotiations
+*New superstar signings
+*[[PPV Results|PPV results]]
+*Rivalries that reached over 10 weeks
+*Rumors (using the [[Slander Promotion|Slander Promotion]] promo, either successful or unsuccessful)
+*Successful title defenses
+*[[Propose Trades|Successful trades with the opposing GM]]
+*Superstar interferences to opposing brand (using the [[Interference Promotion|Interference Promotion]] promo, either successful or unsuccessful)
+*[[Edit Available Roster|Superstar retirements]]
+*Superstars on a losing/winning streak
+*[[Free Agency|Superstars signing in to WWE]]
+*Upcoming PPVs
+*Wrestlemania draft results
+
+Navigate through the mini-website by using the left and right d-pad buttons. Read an article by pressing the X button. The articles here are pretty interesting and it's worthwhile to take note of the content that is generated here every week. For example, you can see how many fans have switched over for that week and the number of fanbase each brand currently has.
+
+==Options==
+
+Configure the settings for your GM Mode experience here. Select the Exit option at the bottom to accept the changes. If you press the back button (triangle), the changes won't be applied.
+
+===MatchMaking===
+
+This is an interesting setting. The applied setting takes effect next week. Unlike other options, this has the following choices:
+
+*''Balanced'' - if you want to generate a balanced booking match card every week. This setting can randomly generate title matches where applicable.
+*''Blank Match Card'' - if you want a clean booking match card every week. Use this if you always want to start booking your match from scratch weekly.
+*''Re-Run'' - if you want to copy the previous week's booking match card. Use this if you need to keep track of the previous card and book different matches for every match slots weekly.
+
+===Injuries===
+
+Set to ON if you want injuries to occur on superstars. Injuries only occur if the fatigue level is way too high after competing in a match. Set to OFF if you want to disable injury occurence.
+
+===Superstar Morale===
+
+Set to ON if you want to play without having to worry about the morale of superstars. Set to OFF if you want the superstar morales to be always ''Happy''.
+
+===Title===
+
+Set to ON if you want titles to be vacated only if the champion is injured. Set to OFF if you want titles to be vacated at any given time as well as let any superstar contend for title matches even if they're not in the top 15 of the [[Power25|Power 25 rankings]]. Note that divas can only compete for the Women's title, whereas cruiserweights and light heavyweights can only compete for the Cruiserweight title even if this setting is OFF.
+
+===Rivalry Length===
+
+Set to ON if you want [[Rivalries|rivalries]] to last as long as you like. Set to OFF if you want rivalries to be indefinite (you will have to end them yourself).
+
+===Cost===
+
+Set to ON if you want to play with the use of money. Set to OFF if you want to have unlimited cash. This option is locked until you get the [[GM of the Year award|GM of the Year award]].
+
+===Trades===
+
+Set to ON if you want the AI to accept trades that are favorable to him. Set to OFF if you want the AI to always accept the trade. This option is locked until you get the [[GM of the Year award|GM of the Year award]].
+
+==Save==
+
+Saves your game. Simple as that. You can only have one instance of GM Mode save at a time. If you create a new one, you will overwrite the previous instance so be careful.
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"GM Mode FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To THQ for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=
