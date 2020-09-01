@@ -1,0 +1,252 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Tech List FAQ for Phantasy Star II. This guide will list the available techs in the game. It will detail the different techs on how to acquire them, which characters learn these techs, what is the effect of each tech etc. For those unfamiliar with Phantasy Star, the word "'''Tech'''" is the Phantasy Star's other word for "'''magic'''" or "'''spell'''" in other RPG games so don't be confused.
+
+Phantasy Star II is owned by Sega. All trademarks are subjected to Sega.
+
+Copyright (c) Sega.
+
+==Version History==
+
+*Version 1.0 - Sep 1, 2020
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==How to use Techs==
+
+If you wish to view all the techs your character can use, open up the MENU, select STRNG, choose your character, then hit the C button. There will be two tables. The left table holds the techs you can use outside of battle while the right table holds the techs you can use during battle.
+
+To use a tech outside of battle, open up the MENU, select TECH, choose your character, and select their tech. Certain techs will not appear outside of battle.
+
+To use a tech in battle, select STGY, select ORDR, select the character whose tech you wish to use, then select the second icon (blue magic-looking thing), and pick which tech you want to use. If you have selected an attack tech, your tech will be cast until the end of the battle. If you have selected a healing or defensive tech, your tech will be cast until the effect is achieved. Certain techs will not appear in battle.
+
+==Tech List==
+
+Most techs can not be acquired from outside resources (with the exception of [[Musik - Special Tech|Musik]]). Techs can only be learned by gaining levels. All characters in Phantasy Star II are level 1 by default.
+
+Tech names are not obvious, there is no fire tech, but there is an equivalent tech for that effect. There are no numbered ranks for each strength of tech. Instead, prefixes are used. No prefix is the weakest. Some of the following prefixes are:
+
+*Gi-prefix - is medium in strength.
+*Na-prefix - is the strongest techs when it comes to strength.
+*Sa-prefix - these techs usually indicate a group effect, though the names of the techs often change slightly and can be misleading. 
+
+It's always advisable to use a high-strength tech rather than a number of low-strength techs on groups of enemies. Same theory applies to group over standard techs.
+
+Techs consume ''Tech Points'' or ''TP'' in gameplay. When you gain a level, you will gain more tech points, with the exception of Rudo. When you run out of points or have insufficient points to cast a tech, you won't be able to use it. There are no items within the game that restore TP. TP can only be restored by returning to a hospital in town and through healing. For this reason, you should try to have the Item equivalent of certain Techs in your inventory, just in case.
+
+Not all attack techs are created equally. Some are general and will do damage to anything. Other techs are specific to Bio-monsters and Robots. Bio-monsters are what you fight until the Dam portion of the game whereas Robots begin appearing during the Dam section. Bio-monsters return when you fly to Dezo.
+
+All characters do not learn the same techs. For example, [[Amy Sage|Amy]] leans heavily toward healing techs, [[Hugh Thompson|Hugh]] relies on bio-monster attacking techs, and [[Josh Kain|Kain]] relies on robot attacking techs. Know where you are in the game and where you will be going as you choose your team. While Techs are not necessary to the game, they will give you an advantage at times.
+
+Techs primarily do a set amount of damage or healing. This number is connected to the ''MENTAL rating'' of that character in relation to the enemy. To find a character's mental rating, open up the MENU, select STRNG then choose your character. It is not known at this time whether certain techs are more effective on one enemy over another.
+
+Techs will be listed by character. Techs will be presented in the following format:
+
+*TECH - it's original name and if they have another name, this will be written in parenthesis.
+*TP USED - number of TP consumed when used.
+*USAGE - where the tech can be used. You can use it either during battle or outside of battles.
+*TYPE - the type of tech.
+*LEARNED AT - the level at which the character learns the tech.
+*EFFECT - what the tech does.
+*ITEM - the item equivalent of the tech. It's better to have the item equivalent if you do not have the tech yet.
+
+===Musik - Special Tech===
+
+A special tech called Musik cannot be learned by gaining levels, unlike those learned explained in the [[Tech List|Tech List]] section. To get this special tech, talk to ''Ustvestia'' in ''Oputa''. It costs 2,000 meseta for male characters and 5,000 meseta for female characters (there's a reason for this, but I leave it up to you to research why). As a precaution, do not teach it to Rudo because he cannot use useful techs. I haven't tried to teach him Musik. Know this when you use him, but remember his combat skills are the best in the game.
+
+When using Musik, you used up 3 TP and what it does is it simply plays the piano that opens the ''Control Tower'' (which is the first dungeon in the second act of the game). This can only be used outside battle.
+
+===Amy Sage===
+
+Unique Techs:
+*Defensive Tech - DEBAN, SANER, SASHU, SHU.
+*Healing Tech - GISAR (GISARES), NARES, NASAR (NASARES), SAR (SARES).
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED AT |*EFFECT |*ITEM |
+|c DEBAN |c 4      |c Battle |c Defensive Tech |c Level 4 |c All characters are temporarily protected by a shield. Shield reduces enemy tech damage. |c Snow Crown |
+|c GISAR (GISARES) |c 29      |c Battle and Non-battle |c Healing Tech |c Level 27 |c All characters heal 60 HP. |c N/A |
+|c NARES |c 13      |c Battle and Non-battle |c Healing Tech |c Level 15 |c One character's HP is fully restored. |c N/A |
+|c NASAR (NASARES) |c 53      |c Battle and Non-battle |c Healing Tech |c Level 30 |c All characters' HP is fully restored. |c N/A |
+|c SANER |c 6      |c Battle |c Defensive Tech |c Level 25 |c All characters have their agility increased temporarily. |c Color Scarf |
+|c SAR (SARES) |c 13      |c Battle and Non-battle |c Healing Tech |c Level 9 |c All characters' HP heal 20 HP. |c N/A |
+|c SASHU |c 8      |c Battle |c Defensive Tech |c Level 15 |c All characters have their defense increased temporarily. |c Snow Crown |
+|c SHU |c 3      |c Battle |c Defensive Tech |c Level 2 |c One character has their defense increased temporarily. |c Snow Crown |
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED AT |*EFFECT |*ITEM |
+|c ANTI |c 2      |c Non-battle |c Healing Tech |c Level 5 |c Short for Antidote. One character has poison status removed. |c Antidote |
+|c FOI |c 2      |c Battle |c Attack Tech |c Level 1 |c Weak fire attack. One enemy loses 12-18 HP. |c Fire Staff |
+|c GIGRA |c 12      |c Battle |c Attack Tech |c Level 50 |c Medium gravity attack. All enemies lose 32-44 HP. |c N/A |
+|c GIRES |c 7      |c Battle and Non-battle |c Healing Tech |c Level 6 |c One character heals 60 HP. |c Aegis, Amber Robe, Crescegear, Truth Slvs |
+|c GRA |c 8      |c Battle |c Attack Tech |c Level 40 |c Weak gravity attack. All enemies lose 16-24 HP. |c Crystanish, Crystcape, Crystchest |
+|c NASAK |c 1      |c Battle and Non-battle |c Healing Tech |c Level 12 |c All characters heal all HP, but caster dies. |c N/A |
+|c RES |c 3      |c Battle and Non-battle |c Healing Tech |c Level 1 |c Short for Restore. One character heals 20 HP. |c N/A |
+|c REVER |c 30      |c Non-battle |c Healing Tech |c Level 27 |c Reverses death. If the character is already alive, heals all HP instead. |c N/A |
+|c SAK |c 1      |c Battle and Non-battle |c Healing Tech |c Level 10 |c One character heals all HP, but caster dies. |c N/A |
+
+===Anna Zirski===
+
+Unique Techs:
+*Defensive Tech - NER, SHIFT.
+*Healing Tech - FANBI.
+ 
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED AT |*EFFECT |*ITEM |
+|c FANBI |c 2      |c Battle |c Healing Tech |c Level 16 |c Drains HP from one bio-monster. |c Antidote |
+|c NER |c 2      |c Battle |c Defensive Tech |c Level 5 |c One character has their agility increased temporarily. |c N/A |
+|c SHIFT |c 5      |c Battle |c Defensive Tech |c Level 8 |c Anna's attack power is increased temporarily. |c N/A |
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED AT |*EFFECT |*ITEM |
+|c FOI |c 2      |c Battle |c Attack Tech |c Level 1 |c Weak fire attack. One enemy loses 12-18 HP. |c Fire Staff |
+|c ZAN |c 4      |c Battle |c Attack Tech |c Level 32 |c Weak wind attack. One enemy group loses 14-20 HP. |c Wind Scarf |
+
+===Hugh Thompson===
+
+Unique Techs:
+*Attack Techs (Bio-monster) - DORAN, GEN, RIMIT, SAGEN, SAVOL, SHINB, SHIZA, VOL.
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED AT |*EFFECT |*ITEM |
+|c DORAN |c 2      |c Battle |c Attack Tech (Bio-monster) |c Level 3 |c One bio-monster is "confused". |c N/A |
+|c GEN |c 1      |c Battle |c Attack Tech (Bio-monster) |c Level 3 |c One bio-monster loses 15-20 HP. |c N/A |
+|c RIMIT |c 3      |c Battle |c Attack Tech (Bio-monster) |c Level 2 |c One bio-monster is temporarily paralyzed. |c N/A |
+|c SAGEN |c 3      |c Battle |c Attack Tech (Bio-monster) |c Level 5 |c All bio-monsters lose 15-20 HP. |c N/A |
+|c SAVOL |c 16      |c Battle |c Attack Tech (Bio-monster) |c Level 24 |c One group of bio-monsters may be killed. |c N/A |
+|c SHINB |c 4      |c Battle |c Attack Tech (Bio-monster) |c Level 5 |c One bio-monster may run away. |c Gr Sleeves |
+|c SHIZA |c 6      |c Battle |c Attack Tech (Bio-monster) |c Level 6 |c One bio-monster is "silenced", cannot use techs. |c N/A |
+|c VOL |c 8      |c Battle |c Attack Tech (Bio-monster) |c Level 15 |c One bio-monster may be killed. |c N/A |
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED AT |*EFFECT |*ITEM |
+|c FOI |c 2      |c Battle |c Attack Tech |c Level 1 |c Weak fire attack. One enemy loses 12-18 HP. |c Fire Staff |
+|c GIFOI |c 6      |c Battle |c Attack Tech |c Level 12 |c Medium fire attack. One enemy loses 30-40 HP. |c N/A |
+|c GIGRA |c 12      |c Battle |c Attack Tech |c Level 33 |c Medium gravity attack. All enemies lose 32-44 HP. |c N/A |
+|c GIRES |c 7      |c Battle and Non-battle |c Healing Tech |c Level 30 |c One character heals 60 HP. |c Aegis, Amber Robe, Crescegear, Truth Slvs |
+|c GIZAN |c 7      |c Battle |c Attack Tech |c Level 36 |c Medium wind attack. One enemy group loses 24-36 HP. |c Storm Gear |
+|c GRA |c 8      |c Battle |c Attack Tech |c Level 27 |c Weak gravity attack. All enemies lose 16-24 HP. |c Crystanish, Crystcape, Crystchest |
+|c RES |c 3      |c Battle and Non-battle |c Healing Tech |c Level 8 |c Short for Restore. One character heals 20 HP. |c N/A |
+|c ZAN |c 4      |c Battle |c Attack Tech |c Level 18 |c Weak wind attack. One enemy group loses 14-20 HP. |c Wind Scarf |
+
+===Josh Kain===
+
+Unique Techs:
+*Attack Techs (Robot) - BROSE, CONTE, EIJIA, FORSA, GAJ, GIGAJ, GISAG (GISAGAJ), NAGAJ, NASAG (NASAGAJ), RIMET, SAG (SAGAJ).
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED AT |*EFFECT |*ITEM |
+|c BROSE |c 8      |c Battle |c Attack Tech (Robot) |c Level 26 |c One robot may be killed. |c N/A |
+|c CONTE |c 8      |c Battle |c Attack Tech (Robot) |c Level 9 |c One robot is "silenced", cannot use techs. |c N/A |
+|c EIJIA |c 4      |c Battle |c Attack Tech (Robot) |c Level 4 |c One group of robots loses 20-25 HP. |c N/A |
+|c FORSA |c 1      |c Battle |c Attack Tech (Robot) |c Level 1 |c One robot is "confused". |c N/A |
+|c GAJ |c 1      |c Battle |c Attack Tech (Robot) |c Level 7 |c One robot loses 20-25 HP. |c N/A |
+|c GIGAJ |c 5      |c Battle |c Attack Tech (Robot) |c Level 10 |c One robot loses 55-65 HP. |c N/A |
+|c GISAG (GISAGAJ) |c 15      |c Battle |c Attack Tech (Robot) |c Level 21 |c All robots lose 50-60 HP. |c N/A |
+|c NAGAJ |c 15      |c Battle |c Attack Tech (Robot) |c Level 17 |c One robot loses 145-160 HP. |c N/A |
+|c NASAG (NASAGAJ) |c 27      |c Battle |c Attack Tech (Robot) |c Level 28 |c All robots lose 140-160 HP. |c N/A |
+|c RIMET |c 3      |c Battle |c Attack Tech (Robot) |c Level 7 |c One robot is temporarily paralyzed. |c N/A |
+|c SAG (SAGAJ) |c 3      |c Battle |c Attack Tech (Robot) |c Level 13 |c All robots lose 16-24 HP. |c N/A |
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED AT |*EFFECT |*ITEM |
+|c FOI |c 2      |c Battle |c Attack Tech |c Level 1 |c Weak fire attack. One enemy loses 12-18 HP. |c Fire Staff |
+|c GRA |c 8      |c Battle |c Attack Tech |c Level 14 |c Weak gravity attack. All enemies lose 16-24 HP. |c Crystanish, Crystcape, Crystchest |
+|c GIZAN |c 7      |c Battle |c Attack Tech |c Level 31 |c Medium wind attack. One enemy group loses 24-36 HP. |c Storm Gear |
+|c ZAN |c 4      |c Battle |c Attack Tech |c Level 10 |c Weak wind attack. One enemy group loses 14-20 HP. |c Wind Scarf |
+
+===Nei===
+
+Unique Techs: N/A
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED BY |*EFFECT |*ITEM |
+|c ANTI |c 2      |c Non-battle |c Healing Tech |c Level 16 |c Short for Antidote. One character has poison status removed. |c Antidote |
+|c NASAK |c 1      |c Battle and Non-battle |c Healing Tech |c Level 24 |c All characters heal all HP, but caster dies. |c N/A |
+|c RES |c 3      |c Battle and Non-battle |c Healing Tech |c Level 1 |c Short for Restore. One character heals 20 HP. |c N/A |
+|c SAK |c 1      |c Battle and Non-battle |c Healing Tech |c Level 20 |c One character heals all HP, but caster dies. |c N/A |
+
+===Rolf===
+
+Unique Techs:
+*Attack Techs - GITHU (GITSU), MEGID, NAFOI, NATHU (NATSU), TSU.
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED AT |*EFFECT |*ITEM |
+|c GITHU (GITSU) |c 13      |c Battle |c Attack Tech |c Level 11 |c Medium light attack. One enemy loses 85-95 HP. |c N/A |
+|c MEGID |c 55      |c Battle |c Attack Tech |c Level 35 |c Each character except Rolf loses 1/2 of their HP, and the sum of that is what the enemy is dealt. |c N/A |
+|c NAFOI |c 12      |c Battle |c Attack Tech |c Level 14 |c Strong fire attack. One enemy loses 125-150 HP. |c N/A |
+|c NATHU (NATSU) |c 20      |c Battle |c Attack Tech |c Level 20 |c Strong light attack. One enemy loses 150-175 HP. |c N/A |
+|c TSU |c 6      |c Battle |c Attack Tech |c Level 5 |c Weak light attack. One enemy loses 24-32 HP. |c N/A |
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED BY |*EFFECT |*ITEM |
+|c FOI |c 2      |c Battle |c Attack Tech |c Level 1 |c Weak fire attack. One enemy loses 12-18 HP. |c Fire Staff |
+|c GIFOI |c 6      |c Battle |c Attack Tech |c Level 5 |c Medium fire attack. One enemy loses 30-40 HP. |c N/A |
+|c GIGRA |c 12      |c Battle |c Attack Tech |c Level 27 |c Medium gravity attack. All enemies lose 32-44 HP. |c N/A |
+|c GIRES |c 7      |c Battle and Non-battle |c Healing Tech |c Level 16 |c One character heals 60 HP. |c Aegis, Amber Robe, Crescegear, Truth Slvs |
+|c GIZAN |c 7      |c Battle |c Attack Tech |c Level 16 |c Medium wind attack. One enemy group loses 24-36 HP. |c Storm Gear |
+|c GRA |c 8      |c Battle |c Attack Tech |c Level 10 |c Weak gravity attack. All enemies lose 16-24 HP. |c Crystanish, Crystcape, Crystchest |
+|c HINAS |c 8      |c Non-battle |c Map Tech |c Level 7 |c Teleports you outside of the dungeon. |c Escapipe |
+|c NAZAN |c 11      |c Battle |c Attack Tech |c Level 24 |c Strong wind attack. All enemies lose 100-120 HP. |c N/A |
+|c RES |c 3      |c Battle and Non-battle |c Healing Tech |c Level 8 |c Short for Restore. One character heals 20 HP. |c N/A |
+|c REVER |c 30      |c Non-battle |c Healing Tech |c Level 30 |c Reverses death. If the character is already alive, heals all HP instead. |c N/A |
+|c RYUKA |c 8      |c Non-battle |c Map Tech |c Level 4 |c Teleports you to the town you last saved in. If no town has been saved in, you will return to your house in PASEO or the SPACEPORT on Dezo. If you saved using the Visiphone, you will be returned to PASEO. |c Telepipe |
+|c ZAN |c 4      |c Battle |c Attack Tech |c Level 7 |c Weak wind attack. One enemy group loses 14-20 HP. |c Wind Scarf |
+
+===Shir Gold===
+
+Unique Techs:
+*Attack Techs - NAGRA.
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED AT |*EFFECT |*ITEM |
+|c NAGRA |c 20      |c Battle |c Attack Tech |c Level 45 |c Strong gravity attack. All enemies lose 64-78 HP. |c N/A |
+
+|*TECH |*TP USED |*USAGE |*TYPE |*LEARNED AT |*EFFECT |*ITEM |
+|c FOI |c 2      |c Battle |c Attack Tech |c Level 1 |c Weak fire attack. One enemy loses 12-18 HP. |c Fire Staff |
+|c GIFOI |c 6      |c Battle |c Attack Tech |c Level 15 |c Medium fire attack. One enemy loses 30-40 HP. |c N/A |
+|c GIGRA |c 12      |c Battle |c Attack Tech |c Level 36 |c Medium gravity attack. All enemies lose 32-44 HP. |c N/A |
+|c GIRES |c 7      |c Battle and Non-battle |c Healing Tech |c Level 30 |c One character heals 60 HP. |c Aegis, Amber Robe, Crescegear, Truth Slvs |
+|c GIZAN |c 7      |c Battle |c Attack Tech |c Level 27 |c Medium wind attack. One enemy group loses 24-36 HP. |c Storm Gear |
+|c GRA |c 8      |c Battle |c Attack Tech |c Level 24 |c Weak gravity attack. All enemies lose 16-24 HP. |c Crystanish, Crystcape, Crystchest |
+|c HINAS |c 8      |c Non-battle |c Map Tech |c Level 9 |c Teleports you outside of the dungeon. |c Escapipe |
+|c NAZAN |c 11      |c Battle |c Attack Tech |c Level 33 |c Strong wind attack. All enemies lose 100-120 HP. |c N/A |
+|c RES |c 3      |c Battle and Non-battle |c Healing Tech |c Level 12 |c Short for Restore. One character heals 20 HP. |c N/A |
+|c RYUKA |c 8      |c Non-battle |c Map Tech |c Level 6 |c Teleports you to the town you last saved in. If no town has been saved in, you will return to your house in PASEO or the SPACEPORT on Dezo. If you saved using the Visiphone, you will be returned to PASEO. |c Telepipe |
+|c ZAN |c 4      |c Battle |c Attack Tech |c Level 18 |c Weak wind attack. One enemy group loses 14-20 HP. |c Wind Scarf |
+
+==Frequently Asked Questions==
+
+*Q - Shouldn't it be THU instead of TSU?
+**A - It depends. Some would argue that the THU implies thunder. In Phantasy Star IV, WAT is short for water, RES is short for restore, ANTI is short for antidote etc. I kept TSU as it is because it was the base spell, the origin from which the others came, and tried to follow that same idea through the rest of the '''renaming''' process.
+
+*Q - What is your opinion on the best tech for each of the characters?
+**A - It really depends on what you're using them for. Rolf is the best all-around tech user. Nei is not much because you have no choice for most of the game and the fact that she has a limited tech list. Amy is the best healer/defender. Hugh is useful for the first and last third of the game. His counterpart, Kain, is useful in the middle third. Anna, you don't really use for techs anyway, as her techs are often too specific and somewhat useless. Shir is nearly the same as Rolf and is probably made almost entirely redundant because you have Rolf all the time. Usually, I go through the end with Amy, Anna, Rolf, and Rudo. That's one weak tech user and a non-tech user included.
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Tech List FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Sega for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=
