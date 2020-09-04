@@ -12,6 +12,9 @@ Copyright (c) Capcom.
 *Version 1.0 - Sep 1, 2020
 **Submitted the FAQ.
 
+*Version 1.1 - Sep 4, 2020
+**Added a new section for the [[Secret Message|secret message transcript]] after watching a video on YouTube that contains a hidden file after getting all the other epilogue files. Big thanks to Klarden as I never knew about this.
+
 ==Copyright Information==
 
 =--IMPORTANT NOTICE: PLEASE READ--=
@@ -23,7 +26,7 @@ Copyright (c) dnextreme88
 
 ==The Epilogue Files==
 
-The epilogue files were added to Resident Evil 3: Nemesis as a means of closing the door on Raccoon City.  This was late 1999 and Code: Veronica hadn't quite been introduced yet, while the concept of Outbreak was years away from completion.  Thus, this set of follow-ups focused primarily on the loose ends from Nemesis, RE2, and the original RE1.
+The epilogue files were added to Resident Evil 3: Nemesis as a means of closing the door on Raccoon City. This was late 1999 and Code: Veronica hadn't quite been introduced yet, while the concept of Outbreak was years away from completion. Thus, this set of follow-ups focused primarily on the loose ends from Nemesis, RE2, and the original RE1.
 
 There were 8 files in all. Each time you complete the game in ''Hard Mode'', assuming you used the same block of data, a new file would be unlocked, regardless of any ranking during gameplay or usage of items opened up by the Mercenaries mini-game.
 
@@ -93,6 +96,17 @@ A woman looks at herself in the mirror. She used be called Ada Wong... But this 
 "Once again, only you survived, Mr. Death," the chopper pilot speaks with a cold bitterness. "Always, only you, survive, Mr. Death," the pilot continues. But Hunk does not respond to the pilot. He doesn't care. "The Death cannot die...," the survivor thinks to himself with a warm smile...
 =-=
 
+===Secret Message===
+
+A secret isn't anymore a secret, isn't it? You will get this secret message after unlocking the last epilogue file.
+Credit: ''Klarden''
+
+=-----=
+The Raccoon City menace has come to its ultimate conclusion. Nevertheless, as long as their insidious research continues, the terror of Umbrella Inc. shall live on forever...
+
+THANK YOU FOR PLAYING
+=-=
+
 ==Contact Information==
 
 If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
@@ -117,6 +131,7 @@ I would like to thank the following:
 
 *To GameFAQs and SuperCheats for hosting the FAQ.
 *To Capcom for making the game.
+*To Klarden for providing the [[Secret Message|Secret Message]] transcript.
 *To you, as the reader.
 
 =-----=
