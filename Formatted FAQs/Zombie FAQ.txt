@@ -1,0 +1,299 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Zombie FAQ for Dying Light. This guide will provide detailed information about the different enemies you will encounter in the game, the zombies that roam the city of Harran. Most of the information detailed in the FAQ are provided by contributors of the Dying Light wiki, especially the statistics of each zombie as well as the [[Blue Volatiles|Blue Volatile]] (which is a rare occurence of the regular [[Volatiles|Volatiles]] encountered at night, to which I never knew these Blue variants exist in the game) while some are my findings based on my time playing the game.
+
+I started playing Dying Light on the PC version since July 2020 though I initially played the game on the PS4 version back when there were no patches delivered for the game yet. I bought the game at a discounted price this year and I am surprised with how much the game has evolved with numerous patches and updates made during the time I haven't played it in such a long time.
+
+Dying Light is owned by Techland. All trademarks are subjected to Techland.
+
+Copyright (c) Techland.
+
+==Version History==
+
+*Version 1.0 - Oct 24, 2020
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==The Infected==
+
+The Infected were normal men and women who contracted the Harran virus that spread through the entire city of Harran. They possess reduced higher brain function, and subsequently infect any uninfected targets around them on sight, mainly with their arms or through biting them. The combat system in Dying Light allows the player to cut or break an Infected's arm or knock them down, which will prevent it from using that specific limb to attack the player.
+
+The biology for common infected is similar to humans. When you strike at the zombies with a blunt weapon, you can see that their bones are structured normally, proving that the common Infected are normal. The Harran virus will alter the infected's biology when the sun goes down, increasing their motor co-ordination and sensory capabilities to make them deadly hunters. The special infected are a different story: the Harran virus causes severe mutations, from the UV-vulnerable [[Volatiles|Volatiles]] to the muscle-altered [[Demolishers|Demolishers]]. Mutations must be either really slow to create something this mutated, or the mutations are fast but use massive amounts of energy to generate new cells.
+
+The Infected have a behavior that mainly depends on the Day/Night cycle. During the day, the Infected are sluggish, cumbersome, and lack the ability to climb and run after the player (with the exception of [[Virals|Virals]]), which enables the player to move more freely around the environment. During the night, the Infected tend to be stronger and more agile, thus making it more dangerous for the player to roam around freely.
+
+==Biters==
+
+=--INFORMATION--=
+*First Encountered - Awakening story quest.
+*Aggression - 9/10
+*Speed - 1/10
+*Threat - 7/10
+=-=
+
+Biters are the most common type of Infected throughout Harran. You can typically see them at just about every corner you can find them in.
+
+Biters are most dangerous in groups where their slow speed is less of a disadvantage. Biters are also fairly quiet at a distance and can be difficult to spot in darker or noisier areas, but can be heard by their heavy breathing and moaning when up close. If hit by weapons crafted with the fire element, they will light on fire. [[Toxic Biters|Toxic Biters]] will explode, causing a small amount of poison damage to the player and attract the attention of other infected.
+
+Some Biters can occasionally be seen holding simple melee weapons such as hammers, wrenches, pipes, and police batons, etc. Infected [[Police Officer Biters|police officers]], [[Industrial Worker Biters|industrial workers]] and even some of [[Rais' Thug Biters|Rais's men]] can be seen still carrying these tools. Biters will throw these weapons at the player or other survivors if they are at a distance, and will attempt to hit their target with them at close range, causing a larger amount of damage than their standard attack. Biters will often drop these tools after being knocked down, however.
+
+During the night, Biters have a chance to roar to alert nearby [[Volatiles|Volatiles]], the sound they emit is very similar to a [[Goons|Goon]]'s roar when attacking. They will also spontaneously mutate into [[Night Walkers|Night Walkers]].
+
+Power XP rewards (depending on the type of Biter):
+*50
+*125
+*200
+*400
+
+===Flame Biters===
+
+While still remained ignited, this type of Biter is able to walk around and without dying from the fire. They will set fire to any flammable liquid or objects they walk near, and will deal fire damage to the player if they come into contact with them. Their flames can however be extinguished by hitting them with a ''Conducting Liquid''.
+
+===Industrial Worker Biters===
+
+These Biters wear tough rubber suits similar to [[Goons|Goons]]. They have nearly twice as much health as regular Biters, and are noticeably tougher to kill. They carry tools such as hammers, wrenches and pipes and will use them as melee weapons. They are only found in specific industrial areas, such as the warehouses in the slums.
+
+===Military Biters===
+
+Members of Harran's military forces that have turned, and are noted for wearing a light green uniform as well as standing a fair bit taller than normal biters. In the fields, they are fairly resilient and on par with a [[Rais' Thug Biters|Rais's Thug Biter]] in terms of health. They are commonly found in the Infamy bridge (which is located on the east side of the map in the slums).
+
+===Police Officer Biters===
+
+An infected cop, they are found at the military checkpoint on the other side of the mainland bridge, or in certain areas of Old Town like the police station which are affiliated with law enforcement. They carry police batons and will use them as melee weapons.
+
+Police officer biters will react to a dropkick as if it were a standard kick and they cannot be killed with takedowns - except for drop attacks. This is because of the police hat they often wear, the same applies to [[Gas Tanks|Gas Tanks]], however they can still be knocked down.
+
+===Rais' Thug Biters===
+
+Former members of Rais' gang who have been turned into Biters, they begin to appear all over Harran once the player reaches Old Town. Like the [[Industrial Worker Biters|industrial workers]], they have almost twice as much health as regular Biters and as a result, they are harder to kill. They also sometimes carry melee weapons.
+
+===Scientist Biters===
+
+A scientist of the Forever Foundation, these are mainly encountered in the Forever Foundation research lab during the ''The Clinic'' story quest. Despite having been infected for several weeks and behaving like other Biters, they do not show the usual physical signs of decay and are similar in appearance to [[Virals|Virals]]. This may be due to having been preserved due to spending the outbreak in the air-conditioned underground lab. Despite wearing face masks, they can still perform the bite attack.
+
+===Toxic Biters===
+
+These Biters emit a cloud of greenish gas, and deal toxic damage to the player if they are in close proximity. If these Biters are caught on fire they will detonate emitting a toxic cloud which inflicts low damage over time and will also attract [[Virals|Virals]]. Toxic Biters will also tend to vomit as a death animation and can cause acidic damage over time if the player comes in very close contact with it. Furthermore, their attacks can deal acidic damage over time.
+
+==Bolters==
+
+=--INFORMATION--=
+*First Encountered - Airdrop story quest.
+*Aggression - 0/10
+*Speed - 9/10
+*Threat - 3/10
+=-=
+
+The Bolter is an uncommon Infected that is noted for being one of two types of Infected that doesn't attack the player (the other being the [[Screamers|Screamers]]), but rather flees when he is near one. It is also noted for having green lumps covering its body that glow. Protected by [[Volatiles|Volatiles]] at night, Bolters are very prone to attacks and can be easily killed. Killing a Bolter will always alert nearby [[Night Walkers|Night Walkers]] and [[Volatiles|Volatiles]] in the vicinity, initiating a night pursuit.
+
+During the ''Siblings'' story quest, it is revealed that Bolters are actually infected that have consumed a bait that Dr. Zere has planted as an experiment sometime during the outbreak. Bolters are found in certain areas in the game after completion of the story quest. The Quartermaster at The Tower will highlight areas on your map of known Bolter hunting grounds. They are located by the blue skull seen on both the mini-map and the map itself.
+
+If Bolters are alerted by the player's presence, they will run immediately and it's hard for the player to reach them due to their enormous agility. It is advisable to use ranged weapons or kill them immediately when alerted to avoid them from fleeing, as it's impossible for the player to be in par with their agility when chasing them. Sneaking up on them from behind is always a good solution, because [[Volatiles|Volatiles]] are most likely a few meters away from Bolters and will only be alerted when you've hit one. They are the weakest type of Infected as they will take only a few hits from a melee weapon before dying. An item called ''Bolter Tissues'' can be looted from their corpses which can be used to craft one of the most powerful weapon blueprints in the game.
+
+==Bombers==
+
+=--INFORMATION--=
+*First Encountered - Pact with Rais story quest.
+*Aggression - 8/10
+*Speed - 4/10
+*Threat - 6/10
+=-=
+
+This particular type of Infected is noted for its exposed organs and its shambling jog. Its behavior is not unlike common Infected, like [[Biters|Biters]], but one major difference between it and them is that the Bomber picks up speed and begins to convulse whenever non-infected humans are within proximity.
+
+Whether this Infected type manages to get close enough to the player or is shot from a distance, the result always ends with the infected type's body exploding, blinding the player with its coagulated blood. Bombers not only explodes when in the vicinity of another player but also will explode if the player is within its view but cannot reach him. There is a 3-meter blast radius of an explosion by a Bomber, which is relatively short as the player's level progresses. Due to its loud noise, the explosion calls in nearby [[Virals|Virals]], who would usually appear in groups of 2 - 4. When encountered in a horde, they make formidable support to other Infected, as they can be used as a siren to lure zombies into the area.
+
+When encountering these type of Infected, it's better to run away from it and fire a bullet at its stomach for it to explode or get on top of a high platform and simply wait for them to explode. Hitting them with a melee weapon in close combat guarantees an explosion and will kill the player on low levels.
+
+==Demolishers==
+
+=--INFORMATION--=
+*First Encountered - The Pit story quest.
+*Aggression - 10/10
+*Speed - 3/10
+*Threat - 9/10
+=-=
+
+The Demolisher is the largest Infected around Harran. Its strengths lies in its ability to break down walls and lift and toss vehicles across far distances. When a Demolisher spots the player, it will charge at them. There battering ram-like charge inflicts a huge damage, and can stagger the player to the ground for a few seconds, making it easy pickings for other nearby zombies to attack the player. However, the Demolisher is quite slow and can be easily avoided prior to its charge.
+
+The Demolisher is made due to a failed development of the virus. Physically, the Demolisher is big but almost as intelligent as the [[Biters|Biters]]. Its attacks have longer windup compared to its smaller kind, making for an easier time dodging and even creates opportunity for one to lure the Demolisher's attacks to disperse nearby Biter groups. Also, if a group of infected are chasing the player, with little timing and positioning one can lure them into the Demolisher's car toss attack as the player dodges it.
+
+They only appear in Old Town, with the exception of the boss battle in Rais' Stadium in the Slums during the ''The Pit'' story quest .
+
+==Gas Tanks==
+
+=--INFORMATION--=
+*First Encountered - N/A
+*Aggression - 4/10
+*Speed - 1/10
+*Threat - 6/10
+=-=
+
+A unique [[Toxic Biters|Toxic Biter]] variant, Gas Tanks are seen wearing yellow hazmat suits with an explosive oxygen tank on their back. Their enclosed suits prevent them from biting, but also protect them from fire and dismemberment. Like the [[Toxic Biters|Toxic Biter]], it shares it's death animation with it vomiting, but can be killed when the oxygen tank is hit and explodes in mid-air. It can also be killed if the player deals enough damage, assuming the tank isn't hit during combat.
+
+Gas Tanks were initially part of a special cleanup unit that was sent into the city of Harran and were subsequently killed. Many of the Gas Tanks roam the city, still in their hazmat suits.
+
+Gas Tanks are just as slow as the [[Biters|Biters]]. However, unlike other Infected, Gas Tanks have red oxygen tanks on their back that can be set off when hit. Since the Gas Tanks cannot remove their helmets, their hazmat suits prevent them from biting, but also makes them fireproof, and can still attack with their fists. Their hazmat suits also protect them from dismemberment and decapitation, and make them much more resistant to being knocked down by melee strikes.
+
+Gas Tanks are able to undergo a rapid and sudden transformation during the night similar to [[Biters|Biters]]. When a Gas Tank turns into his [[Night Walkers|Night Walker]] variant, he will attempt to suicide himself into the player just like a [[Bombers|Bomber]].
+
+Power XP reward: ?
+
+==Goons==
+
+=--INFORMATION--=
+*First Encountered - First Assignment story quest.
+*Aggression - 4/10
+*Speed - 7/10
+*Threat - 5/10
+=-=
+
+A physically large and strong Infected that towers at roughly 8 feet tall, Goons carry a heavy rebar (typically a section of concrete with rebar acting as a handle) which it uses to smash into the ground and swing at the player. It can also use its left arm to bat the survivors away, which works as a secondary attack. Goons are much stronger than the regular Infected, but moves very slow and lacks the ability to climb or hop to small ledges.
+
+Swings from the Goon's rebar is very slow and he takes a while to gather his strength before swinging again, leaving him open to attack or time for the player to get away. If the player is caught in the rebar's radius, they will be swung away and will cause damage depending on how near the player is to the Goon. Like a [[Demolishers|Demolisher]], Goons may accidentally kill other Infected drawn to the sound and can be used to the player's advantage. Goons tend to react quickly with each melee hit from the player. It's advisable to steer away when it is about to slam its rebar into the ground before unleashing a flurry of melee hits to its thick body.
+
+Goons come in 3 different ranks, which begin to appear as the player progresses through the game. Each successive rank of Goon has more health, and the shockwave from when they slam their rebar into the ground has a larger radius, with the Rank 3 Goon's shockwave having a radius of nearly 20 feet.
+*Rank 1 - wears an orange rubber industrial worker's uniform and is first encountered in the ''First Assignment'' story quest. 
+*Rank 2 - wears a black firefighter's outfit and is first encountered in the volatile nest skyscraper in the ''Siblings'' story quest.
+*Rank 3 - this Goon is shirtless with black pants and is missing much of its skin, exposing its muscles. A green variant exists in the Slums, after completing ''The Pit'' story quest. They appear once the player reaches Old Town.
+
+Power XP reward: ?
+
+==Night Walkers==
+
+=--INFORMATION--=
+*First Encountered - Awakening story quest.
+*Aggression - ?
+*Speed - ?
+*Threat - ?
+=-=
+
+These zombies are a transformation of [[Biters|Biters]] during the night and are equally as fast as [[Virals|Virals]]. It takes a few seconds for the mutation to occur, during which this type of Infected will spasm and emit yellow vapors. Night Walkers initiate pursuit when they see a player or are hit, similar to [[Volatiles|Volatiles]] and [[Blue Volatiles|Blue Volatiles]]. They alert all nearby [[Volatiles|Volatiles]] and [[Blue Volatiles|Blue Volatiles]] that will accompany in the pursuit of the player. Because of this, they are a threat to the player when encountered but they are as weak as [[Biters|Biters]] when fought. Unlike them, they attack similar to [[Virals|Virals]], which make them a complicated type of Infected encountered throughout Harran.
+
+Night Walkers are transformed in the following scenarios:
+*Loud noises - such as the roaring of nearby [[Biters|Biters]] and explosions.
+*Player pursuit - The player is running away from the pursuit of [[Volatiles|Volatiles]], [[Blue Volatiles|Blue Volatiles]] or other Night Walkers and passes by [[Biters|Biters]].
+*Random instances - such as transformation at different times during the night.
+
+==Screamers==
+
+=--INFORMATION--=
+*First Encountered - ?
+*Aggression - 1/10
+*Speed - 8/10
+*Threat - 8/10
+=-=
+
+Screamers are probably the most uncommon Infected throughout Harran. Screamers don't typically exhibit aggressive behaviour, as they don't attack the player directly (similar to [[Bolters|Bolters]]). Rather, they use their deafening scream to attract zombies to their location to fight the player instead.
+
+Screamers are infected children whose screams disorient the player's vision and renders them unable to fight. The player will also continuously take low but progressive amounts of damage if within its screaming range. Presumably, Screamers will not wander out of the houses they're discovered in to join the general populace of Infected.
+
+These Infected seems to be wandering on an eternal state of fear. When not startled by humans, they are heard crying in very much the same way human childs would under extreme duress. When startled, their scream seems to be one of absolute horror. The player can walk up to one and use a special action to subdue a Screamer, wherein he will cradle it on his arms, calm it down, before proceeding to snap its neck. Whether Screamers are a mutation of the Harran Virus that only affect children or if all Infected children become such monsters by default is unknown, though it is speculated that the latter is the case. Their fearful behavior is a result of a child brain's fight response being much less developed compared to its flight response, in contrast with adults.
+
+==Toads==
+
+=--INFORMATION--=
+*First Encountered - Pact with Rais story quest.
+*Aggression - 8/10
+*Speed - 8/10
+*Threat - 6/10
+=-=
+
+Toads are an uncommon infected noted for its ability to fire green acidic phlegm that deal damage to the player with their attack in combination with the phlegm.
+
+The Toad displays more agility than some special Infected, able to leap across rooftops and small ledges with ease. It is, however, one of the weakest special Infected, able to be killed with a few hits from a melee weapon. Despite this, they are still far dangerous when paired with other zombie hordes as they make a nuisance horde support and ranged enemies when figthing other Infected. Toads are at their weakest when fought alone. Its corrosive phlegm is notified by a red indicator pointed to its location on the HUD.
+
+In Old Town, they can be commonly found as a ranged support zombie spitting acids in random encounters with survivors fending off two [[Demolishers|Demolishers]]. 
+
+Power XP reward: ?
+
+==Virals==
+
+=--INFORMATION--=
+*First Encountered - First Assignment story quest.
+*Aggression - 4/10
+*Speed - 7/10
+*Threat - 5/10
+=-=
+
+Virals are humans that have only very recently succumbed to the infection as noted during the ''First Assignment'' story quest. However, they are still physically alive as they are seen speaking multiple times. As a result, their bodies still retain the physical strength needed for them to possess a high level of fitness and agility. They run faster than any other Infected during daylight, though they are less superior to [[Volatiles|Volatiles]] and [[Night Walkers|Night Walkers]] at night.
+
+Unlike some of the Infected, Virals are one of the special Infected that does not bite. Instead, they use their hands to viciously claw you in quick fashion. They are very dangerous when encountered in groups but can be dispatched with ease when encountered alone. They display a great sense of intelligence, as they can dodge attacks by moving backwards against the player. When fighting Virals, it is best to fight them on higher platforms, such as roofs, so that other Infected won't be able to reach you, making the fight easier. Successfully kicking them off the platform may guarantee your victory but because of their agility, they will continue to climb up and reach you.
+
+Virals can be seen easily from the map because they are indicated with a red arrow, similar to [[Night Walkers|Night Walkers]], [[Volatiles|Volatiles]], and [[Blue Volatiles|Blue Volatiles]] during the night. However, these indicators are not shown when playing on Hard Mode or Nightmare Mode. It's always best to be keen on loud screams to see if any Virals are on the vicinity, as they are a lot harder to detect when playing on higher difficulties.
+
+Virals are attracted in the following scenarios:
+*[[Bombers|Bombers]] - [[Bombers|Bombers]] will always explode when the player encounters one. Due to the loud noise from its explosion, Virals will most likely be attracted with its noise.
+*Gunshots - depending on the weapon, it usually takes at least three to four consecutive shots for a pistol and rifle, and two to three shots for a shotgun in order to attract Virals. Weapons fired by Rais' men will also attract Virals.
+*Explosions - These can be caused by propane tanks and fuel barrels that have been ruptured and exploded that are found in the game. Grenades tossed by the player will also immediately attract Virals, as well as a [[Gas Tanks|Gas Tank]]'s oxygen tank when exploded. However, certain skills and items such as Kurt's Bombs, Toxic Grenades, Air Strike, and Trap Bombs do not attract Virals.
+*[[Screamers|Screamers]] - Cries from a [[Screamers|Screamer]] will draw the nearest Virals on the vicinity and spawn new ones. Silencing [[Screamers|Screamers]] is a priority as they will infinitely spawn Virals and other Infected while they cry.
+*Structural Breakage - When the player lands on thin, brown roofs after a jump high enough to break it, it will trigger a loud sound that attracts Virals to the area. The player can also break a roof by shooting it or hitting it with a melee weapon. The sound of the roof collapsing will always attract Virals.
+
+Power XP reward: ?
+
+==Volatiles==
+
+=--INFORMATION--=
+*First Encountered - Airdrop story quest.
+*Aggression - 10/10
+*Speed - 10/10
+*Threat - 10/10
+=-=
+
+The Volatile is a special Infected that only emerges during the night. Most Infected can be easily killed when encountered by the player, however, this is not the case with Volatiles. On low levels, the player's best option is to run to the nearest safehouse when spotting a Volatile, as these types of Infected pack a huge amount of health, does not die easily, and can quickly dispatch the player due to its high amount of damage inflicted.
+
+Volatiles are broad-shouldered and slightly taller than the average [[Biters|Biter]]. Other physical markers include full-bodied nudity, exposed bone and muscle and a mandible jaw that are used against non-infected humans. They can audibly be identified by their heavy breathing and loud screeches. Volatiles are extremely fast; they can navigate through the dark at high speeds and can match the agility of the player, scaling obstacles and buildings in the same manner. They have a special pounce attack that is very unlikely for low-level players to escape from. However, after the second mission, you will get a UV flashlight which can be equipped and used when a volatile pounces, pushing them back and giving you enough time to escape. Players at higher levels with the appropriate skill can shake their attacks off relatively easily, but a low level player will need an incredibly powerful weapon in order to have any chance of survival. In the event that a Volatile can see a player but not reach them, they will use a powerful spit attack similar to a [[Toads|Toad]]. They often do this while the player is climbing.
+
+When time progresses to day, Volatiles will become frightened. They will start running to the nearest dark area they can find such as tunnels and caves. While running for shade, Volatiles will always ignore the player even if they attack them during the day until they reach the said dark zone, where they will become as aggressive as they are during the night. If one were to chase a fleeing Volatile at sunrise, you can sometimes see them die from the sun before making it to a dark area.
+
+You may encounter Volatiles in these dark areas during the day when the prompt "'''You are now entering a dark area'''" appears on the screen. Unlike the day, they don't trigger night pursuits when hit or when they see the player although they are still aggressive as they are during the night.
+
+Power XP reward: 1000
+
+===Blue Volatiles===
+
+Blue Volatiles are a different form of Volatile encountered in Dying Light. Compared to its normal counterpart, blue Volatiles have a more arachnid appearance with more prominent fangs, a spiked carapace, and an inky black growth over its skin resulting in an even less human appearance than the normal variants. They rarely appear in Hives, though are only encountered during the night. They are faster, stronger and more resistant against melee weapons and firearms, such as military rifles and pistols due to their unique body armour similar to that of a [[Demolishers|Demolisher]]. Their hits inflict more damage. They are also far more reliant on their highly accurate and highly damaging spit attacks, making them extremely difficult to escape from. Fortunately, they suffer from the same weakness as normal Volatiles - their vulnerability to UV light can allow players to blind them and hold them at bay for a brief moment.
+
+Unlike Volatiles, these blue variants are the only type of Infected that can notice you through camouflage, making them even dangerous zombies. The best way to deal with blue Volatiles is to simply avoid them when possible, use UV traps, fight back with the assistance of a UV flashlight, a height advantage, or by using extremely powerful weapons such as a double-barrel shotgun if necessary. They commonly appear on Nightmare Mode and rarely appear on lower difficulties.
+
+Power XP reward: 1500
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Dying Light: Zombie FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Techland for making the game.
+*To the contributors in the Dying Light wiki as most of the information here was based on their contributions.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=
