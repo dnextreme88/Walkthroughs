@@ -12,6 +12,10 @@ Copyright (c) Konami.
 *Version 1.0 - Sep 1, 2020
 **Submitted the FAQ.
 
+*Version 1.1 - Dec 18, 2020
+**An alternate way of collecting the #12 Fortune Doll (by using Ebisumaru's magic) and mistakes pointed out for #13 and #42 Fortune Dolls are both provided by a submitter named [[Tom plays games!'s contribution|Tom plays games!]]. Thanks!
+**In addition, I have added a number column on the table to guide players should they wish to track their fortune doll collections easily.
+
 ==Copyright Information==
 
 =--IMPORTANT NOTICE: PLEASE READ--=
@@ -31,52 +35,59 @@ Take note that once you enter space, you can't collect any of the previous dolls
 
 Your ''Strength Gauge'' will increase by 1 for every 4 silver fortune dolls and for every single gold fortune dolls you collect.
 
-|*LOCATION |*WHERE TO FIND IT |*TYPE |*REQUIREMENTS |
-| Oedo Town (Gate to Mushashi - South Gate) | Upon entering the gates, jump to the left side of the bridge down to the river. It is found on a wooden platform on the edge. | Silver Fortune Doll | N/A |
-| Kaikairiku Highway | In the northeast corner of the map. | Silver Fortune Doll | N/A |
-| Mt. Fuji | On the 1st level, head past the ladder leading to the 2nd level. Be careful of falling boulders above. | Silver Fortune Doll | N/A |
-| Oedo Town (Gate to Oedo Castle - North Gate) | On a wooden platform on the left side of the map. This is accessible using the star blocks. Simply jump to the platform on the other side. | Silver Fortune Doll | Chain Pipe (Mt. Fuji) |
-| Oedo Castle (1st Floor) | In the 3rd room of the castle, you will find it on a platform across Mr. Elly Fant. | Silver Fortune Doll | N/A |
-| Oedo Castle (2nd Floor) | In the 2nd room, take the unlocked door to the left. Move north to find the doll between two torches. | Silver Fortune Doll | N/A |
-| Oedo Castle (2nd Floor) | After defeating the boss, the hand blocking the path has been removed. Simply move across all the rooms until you reach the last room for a doll in between two torches. | Silver Fortune Doll | Defeat the Congo boss. |
-| Oedo Castle (3rd Floor) | This is sitting on a red carpet on top of a black box. Located right in front of the door leading to the Congo boss fight. | Silver Fortune Doll | N/A |
-| Mushashi | Located behind the red grate on the west side of the bridge. Make your way to the slope to the left of the red grate. Activate the gate then jump down to the other side for the doll. | Silver Fortune Doll | Lord's Pass (Lord of Oedo Castle) |
-| Zazen Town | In the corridor joining the two sections of the town, go to the area with a pond. Hit the bamboo pole near it and the doll will descend on top of the pole opposite to the pond. | Silver Fortune Doll | N/A |
-| Yamato (Yamato Shrine) | In the lower levels of Yamato shrine, push the Turtle Stone at the shrine west of Yamato's northwards. The doll will drop where the Turtle Stone was. | Silver Fortune Doll | N/A |
-| Yamato (Yamato Shrine) | At the top of the Yamato shrine, push the Turtle Stone at the shrine west of Yamato's northwards. Enter the shrine and climb on the ladder to your left. Continue until you get to the 2nd ladder but do not climb it. Instead, slightly drop down on the platform below for the doll. | Silver Fortune Doll | N/A |
-| Yamato (Turtle Stone Shrine) | In the Turtle Stone shrine (west of Yamato shrine), push the Turtle Stone southwards and the doll will drop down in front of you. | Silver Fortune Doll | N/A |
-| Kii-Awaji Island | Walk through the red gate on the small island east of the main path. You will be transported to the Husband and Wife Rocks. Follow the small path to the left and climb the ladder to the top. The doll is at the center of this small peak. | Silver Fortune Doll | N/A |
-| Kii-Awaji Island | On a lowered outcrop of the cliff to the left. This is before the path leading to the Kii-Awaji Tourist Center. | Silver Fortune Doll | N/A |
-| Vine Bridge | Fall through the 2nd creaky section of the bridge to land on a lone island where the doll is. | Gold Fortune Doll | N/A |
-| Folkypoke Village (Grain Fields) | Found underneath one of the grain stacks. Use Ebisumaru's Mini-Ebisu magic to pass the narrow opening of the stack for the doll. | Silver Fortune Doll | Ebisumaru's Mini-Ebisu Magic (Zazen Town) |
-| Iyo 2 (Hot Springs) | Fall through the cracks in the inclined wooden path that leads to the Ghost Toys Castle. There is a large stone recess below where the doll is. | Silver Fortune Doll | N/A |
-| Ghost Toys Castle (1st Floor) | On top of the large head in the wall of the 4th room. | Silver Fortune Doll | N/A |
-| Ghost Toys Castle (1st Floor) | Found on a stone ledge in the 6th main room of the castle. Carefully walk across the rope to get it from the other side. | Gold Fortune Doll | N/A |
-| Ghost Toys Castle (1st Floor) | Behind the gate in the 1st room. Pass through the basement to find it. | Silver Fortune Doll | N/A |
-| Ghost Toys Castle (2nd Floor) | In the large room with the tops, spinners, and boiling water, swim to the center platform and the doll is waiting at the center of the platform. | Silver Fortune Doll | N/A |
-| Chukogu Region (Inaba Dune) | In the lake in the southeast corner of the desert. Look for a narrow walkway submerged in water as a guide. | Silver Fortune Doll | N/A |
-| Chukogu Region (Aki-Nagato) | Go to the bridge. Look for a small catwalk to your right then drop down below. Swim to the land ramp to the east and follow this catwall. Use Ebisumaru's Mini-Ebisu magic to fit under the low-cut rock. | Silver Fortune Doll | Ebisumaru's Mini-Ebisu Magic (Zazen Town) |
-| Chukogu Region (Aki-Nagato) | On top of a submerged red gate to the west. Jump to the moving platform near the gate to get the doll on top of the red gate. | Silver Fortune Doll | N/A |
-| Chukogu Region (Bizen) | Behind one of the sealed doors. Use the Firecracker bomb to get inside. The doll is between 2 vases. | Silver Fortune Doll | Sasuke's Firecracker Bomb. |
-| Chukogu Region (Bizen) | Behind one of the sealed doors. Use the Firecracker bomb to get inside. The doll is between 2 vases. | Gold Fortune Doll | Sasuke's Firecracker Bomb. |
-| Festival Temple Castle (West Area) | In the room with a silver locked door in it (the first room of the west area), climb up the ladder and jump across the rooftops until you reach the doll. Found in a pin. | Silver Fortune Doll | N/A |
-| Festival Temple Castle (South Area) | Sitting on top a metal platform in the corridor. In the smaller semi-circle room, climb up the ladder. Go through the door at the top and traverse down the narrow, elevated platform to nab the doll. | Silver Fortune Doll | N/A |
-| Festival Temple Castle (East Area) | After going through the door at the top of the steps near the castle entrance, use the Kunai on the heated moving metal platforms and head through every door until you are outside again. From there, jump off the deck on the far left side. The doll is beside a vase. | Gold Fortune Doll | Kunai of Severe Cold (Festival Temple Castle) |
-| Festival Temple Castle (North Area) | Go to the first room of the north area with large, spinning fish kites. Ride the kites and drop on the highest central platform here and the doll will be there. | Silver Fortune Doll | N/A |
-| Uzen (Tunnel) | On the lower levels of the tunnel, the doll is located on the northwest corner of the map. | Silver Fortune Doll | N/A |
-| Uzen (Tunnel) | Hop in the current and ride it all the way to the bottom. Find a ladder here and move to the left for the doll. | Silver Fortune Doll | N/A |
-| Waterfall of Kegon | Found in a cave behind the waterfall. Use Mermaid Magic to enter the underwater tunnel to the left of the waterfall that leads to the hidden cave. | Gold Fortune Doll | Yae's Mermaid Magic (Waterfall of Kegon) |
-| Yamato | Jump in the river then activate Yae's Mermaid Magic. Swim all the way through this underwater tunnel and find the doll on the west side upon rising up. | Silver Fortune Doll | Yae's Mermaid Magic (Waterfall of Kegon) |
-| Ghost Toys Castle (Basement) | Look for a room with a small well. Jump down to it and use Yae's Mermaid Magic and swim. Find the cage underneath and the doll is inside it. | Silver Fortune Doll | Yae's Mermaid Magic (Waterfall of Kegon) |
-| Mutsu: Festival Village (Shopping District) | Use Yae's Mermaid Magic and swim through the underwater tunnel in the lake, where the doll will be waiting beside the shop on the other side. | Silver Fortune Doll | Yae's Mermaid Magic (Waterfall of Kegon) |
-| Japan Sea | Outside Yamato Shrine, this is under the bridge when you enter the Turtle Stone Shrine. Use Yae's Mermaid Magic and swim underneath the bridge for a hidden cave. | Silver Fortune Doll | Yae's Mermaid Magic (Waterfall of Kegon) |
-| Zazen Town | Found in the section of Duck Creek west of Benkei's bridge. Look for an elevated stone floor. Use Sasuke's Super Jump to reach the wooden platform. The doll will be at the center. | Silver Fortune Doll | Sasuke's Super Jump (Bizen) |
-| Festival Temple Castle (West Area) | This is in the same room as the Kunai of Severe Cold, at the very back room of the west area. Use Sasuke's Super Jump to leap over the wall then find your way to the ladder. Make your way across the rooftops and claim the doll at the end. | Silver Fortune Doll | Sasuke's Super Jump (Bizen) |
-| Gorgeous Music Castle (1st Floor) | Go to the room with contracting fans in the middle. The doll is on a lower platform just below the golden locked door. | Silver Fortune Doll | N/A |
-| Gorgeous Music Castle (1st Floor) | Found in an elevated platform just past the previous doll. | Silver Fortune Doll | N/A |
-| Gorgeous Music Castle (1st Floor) | In the same room as Mr. Arrow but just before the town. From the water, jump on the narrow ledge and use Sasuke's Super Jump to reach the doll on top of the wooden platform. | Silver Fortune Doll | Sasuke's Super Jump (Bizen) | 
-| Gorgeous Music Castle (1st Floor) | Behind Dancin's portrait at the top of the staircase in the room just past the town. Just jump through the painting. You will be inside a hidden room with the doll on it. | Gold Fortune Doll | N/A |
-| Gorgeous Music Castle (Basement) | Find the maze room on the basement. Run through the maze and at the intersection near the end, take the bottom path. The doll will be at the end of this path. | Silver Fortune Doll | N/A |
+=====Tom plays games!'s contribution=====
+=--NOTE--=
+I recently watched Tom's stream on YouTube playing the game and hunting for fortune dolls that he is missing. It seems that he found an alternate way of collecting the #12 Fortune Doll as well as pointing out mistakes for the #13 and #42 Fortune Dolls. Thank you!
+
+Credit: ''Tom plays games!''
+=-=
+
+|*NUMBER |*LOCATION |*WHERE TO FIND IT |*TYPE |*REQUIREMENTS |
+| 1 | Oedo Town (Gate to Mushashi - South Gate) | Upon entering the gates, jump to the left side of the bridge down to the river. It is found on a wooden platform on the edge. | Silver Fortune Doll | N/A |
+| 2 | Kaikairiku Highway | In the northeast corner of the map. | Silver Fortune Doll | N/A |
+| 3 | Mt. Fuji | On the 1st level, head past the ladder leading to the 2nd level. Be careful of falling boulders above. | Silver Fortune Doll | N/A |
+| 4 | Oedo Town (Gate to Oedo Castle - North Gate) | On a wooden platform on the left side of the map. This is accessible using the star blocks. Simply jump to the platform on the other side. | Silver Fortune Doll | Chain Pipe (Mt. Fuji) |
+| 5 | Oedo Castle (1st Floor) | In the 3rd room of the castle, you will find it on a platform across Mr. Elly Fant. | Silver Fortune Doll | N/A |
+| 6 | Oedo Castle (2nd Floor) | In the 2nd room, take the unlocked door to the left. Move north to find the doll between two torches. | Silver Fortune Doll | N/A |
+| 7 | Oedo Castle (2nd Floor) | After defeating the boss, the hand blocking the path has been removed. Simply move across all the rooms until you reach the last room for a doll in between two torches. | Silver Fortune Doll | Defeat the Congo boss. |
+| 8 | Oedo Castle (3rd Floor) | This is sitting on a red carpet on top of a black box. Located right in front of the door leading to the Congo boss fight. | Silver Fortune Doll | N/A |
+| 9 | Mushashi | Located behind the red grate on the west side of the bridge. Make your way to the slope to the left of the red grate. Activate the gate then jump down to the other side for the doll. | Silver Fortune Doll | Lord's Pass (Lord of Oedo Castle) |
+| 10 | Zazen Town | In the corridor joining the two sections of the town, go to the area with a pond. Hit the bamboo pole near it and the doll will descend on top of the pole opposite to the pond. | Silver Fortune Doll | N/A |
+| 11 | Yamato (Turtle Stone Bamboo Forest) | At the Turtle Stone Shrine, push the Turtle Stone to the south signage. The doll will drop to where the Turtle Stone was. | Silver Fortune Doll | N/A |
+| 12 | Yamato (Yamato Shrine) | At the Turtle Stone Shrine, push the Turtle Stone to the north signage to go to the Yamato Shrine. Enter the shrine and climb on the ladder to your left. Continue until you get to the 2nd ladder but don't climb it. Instead, slightly drop down on the platform below for the doll. Alternately, you may use Ebisumaru's magic to shrink and fall down a bit to a small gap that he can fit in and fall directly where the doll is. (''CREDIT'': [[Tom plays games!'s contribution|Tom plays games!]]) | Silver Fortune Doll | Ebisumaru's Mini-Ebisu Magic (Zazen Town) |
+| 13 | Yamato (Yamato Shrine) | After collecting the 12th doll, climb back to the 1st ladder and climb to the 2nd ladder this time. At the top, there is a platform on the right that you can jump into (just before getting the surprise pack on the north). The doll will be at the edge of the right platform. (''CREDIT'': [[Tom plays games!'s contribution|Tom plays games!]]) | Silver Fortune Doll | N/A |
+| 14 | Kii-Awaji Island | At the Turtle Stone Shrine, push the Turtle Stone to the east signage to go through an island. Walk through the red gate on the small island. You will be transported to the Husband and Wife Rocks. Follow the small path to the left and climb the ladder to the top. The doll is at the center of this small peak. | Silver Fortune Doll | N/A |
+| 15 | Kii-Awaji Island | On a lowered outcrop of the cliff to the left. This is before the path leading to the Kii-Awaji Tourist Center. | Silver Fortune Doll | N/A |
+| 16 | Vine Bridge | Fall through the 2nd creaky section of the bridge to land on a lone island where the doll is. | Gold Fortune Doll | N/A |
+| 17 | Folkypoke Village (Grain Fields) | Found underneath one of the grain stacks. Use Ebisumaru's Mini-Ebisu magic to pass the narrow opening of the stack for the doll. | Silver Fortune Doll | Ebisumaru's Mini-Ebisu Magic (Zazen Town) |
+| 18 | Iyo 2 (Hot Springs) | Fall through the cracks in the inclined wooden path that leads to the Ghost Toys Castle. There is a large stone recess below where the doll is. | Silver Fortune Doll | N/A |
+| 19 | Ghost Toys Castle (1st Floor) | On top of the large head in the wall of the 4th room. | Silver Fortune Doll | N/A |
+| 20 | Ghost Toys Castle (1st Floor) | Found on a stone ledge in the 6th main room of the castle. Carefully walk across the rope to get it from the other side. | Gold Fortune Doll | N/A |
+| 21 | Ghost Toys Castle (1st Floor) | Behind the gate in the 1st room. Pass through the basement to find it. | Silver Fortune Doll | N/A |
+| 22 | Ghost Toys Castle (2nd Floor) | In the large room with the tops, spinners, and boiling water, swim to the center platform and the doll is waiting at the center of the platform. | Silver Fortune Doll | N/A |
+| 23 | Chukogu Region (Inaba Dune) | In the lake in the southeast corner of the desert. Look for a narrow walkway submerged in water as a guide. | Silver Fortune Doll | N/A |
+| 24 | Chukogu Region (Aki-Nagato) | Go to the bridge. Look for a small catwalk to your right then drop down below. Swim to the land ramp to the east and follow this catwall. Use Ebisumaru's Mini-Ebisu magic to fit under the low-cut rock. | Silver Fortune Doll | Ebisumaru's Mini-Ebisu Magic (Zazen Town) |
+| 25 | Chukogu Region (Aki-Nagato) | On top of a submerged red gate to the west. Jump to the moving platform near the gate to get the doll on top of the red gate. | Silver Fortune Doll | N/A |
+| 26 | Chukogu Region (Bizen) | Behind one of the sealed doors. Use the Firecracker bomb to get inside. The doll is between 2 vases. | Silver Fortune Doll | Sasuke's Firecracker Bomb |
+| 27 | Chukogu Region (Bizen) | Behind one of the sealed doors. Use the Firecracker bomb to get inside. The doll is between 2 vases. | Gold Fortune Doll | Sasuke's Firecracker Bomb |
+| 28 | Festival Temple Castle (West Area) | In the room with a silver locked door in it (the first room of the west area), climb up the ladder and jump across the rooftops until you reach the doll. Found in a pin. | Silver Fortune Doll | N/A |
+| 29 | Festival Temple Castle (South Area) | Sitting on top a metal platform in the corridor. In the smaller semi-circle room, climb up the ladder. Go through the door at the top and traverse down the narrow, elevated platform to nab the doll. | Silver Fortune Doll | N/A |
+| 30 | Festival Temple Castle (East Area) | After going through the door at the top of the steps near the castle entrance, use the Kunai on the heated moving metal platforms and head through every door until you are outside again. From there, jump off the deck on the far left side. The doll is beside a vase. | Gold Fortune Doll | Kunai of Severe Cold (Festival Temple Castle) |
+| 31 | Festival Temple Castle (North Area) | Go to the first room of the north area with large, spinning fish kites. Ride the kites and drop on the highest central platform here and the doll will be there. | Silver Fortune Doll | N/A |
+| 32 | Uzen (Tunnel) | On the lower levels of the tunnel, the doll is located on the northwest corner of the map. | Silver Fortune Doll | N/A |
+| 33 | Uzen (Tunnel) | Hop in the current and ride it all the way to the bottom. Find a ladder here and move to the left for the doll. | Silver Fortune Doll | N/A |
+| 34 | Waterfall of Kegon | Found in a cave behind the waterfall. Use Mermaid Magic to enter the underwater tunnel to the left of the waterfall that leads to the hidden cave. | Gold Fortune Doll | Yae's Mermaid Magic (Waterfall of Kegon) |
+| 35 | Yamato | Jump in the river then activate Yae's Mermaid Magic. Swim all the way through this underwater tunnel and find the doll on the west side upon rising up. | Silver Fortune Doll | Yae's Mermaid Magic (Waterfall of Kegon) |
+| 36 | Ghost Toys Castle (Basement) | Look for a room with a small well. Jump down to it and use Yae's Mermaid Magic and swim. Find the cage underneath and the doll is inside it. | Silver Fortune Doll | Yae's Mermaid Magic (Waterfall of Kegon) |
+| 37 | Mutsu: Festival Village (Shopping District) | Use Yae's Mermaid Magic and swim through the underwater tunnel in the lake, where the doll will be waiting beside the shop on the other side. | Silver Fortune Doll | Yae's Mermaid Magic (Waterfall of Kegon) |
+| 38 | Japan Sea | Outside Yamato Shrine, this is under the bridge when you enter the Turtle Stone Shrine. Use Yae's Mermaid Magic and swim underneath the bridge for a hidden cave. | Silver Fortune Doll | Yae's Mermaid Magic (Waterfall of Kegon) |
+| 39 | Zazen Town | Found in the section of Duck Creek west of Benkei's bridge. Look for an elevated stone floor. Use Sasuke's Super Jump to reach the wooden platform. The doll will be at the center. | Silver Fortune Doll | Sasuke's Super Jump (Bizen) |
+| 40 | Festival Temple Castle (West Area) | This is in the same room as the Kunai of Severe Cold, at the very back room of the west area. Use Sasuke's Super Jump to leap over the wall then find your way to the ladder. Make your way across the rooftops and claim the doll at the end. | Silver Fortune Doll | Sasuke's Super Jump (Bizen) |
+| 41 | Gorgeous Musical Castle (1st Floor) | Go to the room with contracting fans in the middle. The doll is on a lower platform just below the golden locked door. | Silver Fortune Doll | N/A |
+| 42 | Gorgeous Musical Castle (1st Floor) | After nabbing the 41st doll, go up to the top and open the locked door. The doll is found in an elevated platform at the end. (''CREDIT'': [[Tom plays games!'s contribution|Tom plays games!]]) | Silver Fortune Doll | N/A |
+| 43 | Gorgeous Musical Castle (1st Floor) | In the same room as Mr. Arrow but just before the town. From the water, jump on the narrow ledge and use Sasuke's Super Jump to reach the doll on top of the wooden platform. | Silver Fortune Doll | Sasuke's Super Jump (Bizen) | 
+| 44 | Gorgeous Musical Castle (1st Floor) | Behind Spring Breeze Dancin's portrait at the top of the staircase in the room just past the town. Just jump through the painting in the center. You will be inside a hidden room with the doll on it. | Gold Fortune Doll | N/A |
+| 45 | Gorgeous Musical Castle (Basement) | Find the maze room on the basement. Run through the maze and at the intersection near the end, take the bottom path. The doll will be at the end of this path. | Silver Fortune Doll | N/A |
 
 ==Contact Information==
 
