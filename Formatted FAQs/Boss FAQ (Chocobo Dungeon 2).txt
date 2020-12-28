@@ -1,0 +1,272 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Boss FAQ for Chocobo's Dungeon 2. This guide will help you beat each of the bosses found in the game as well as providing small details such as where they are located, their weaknesses, recommended items to bring in battle, etc. Strategies are provided to guide you throughout the boss battles.
+
+Chocobo's Dungeon 2 is owned by SquareSoft. All trademarks are subjected to SquareSoft.
+
+Copyright (c) SquareSoft.
+
+==Version History==
+
+*Version 1.0 - Dec 28, 2020
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Story Bosses==
+
+Here are all the bosses for the main plot. You can face [[Secret Dungeon Bosses|optional bosses]] after defeating the [[Glass Goth Z|final boss]].
+
+===Skullhammer===
+
+=-----=
+'''"Slam hammer! Head chomp! My heart... runs away!"'''
+
+*Dungeon: Mysterious Dungeon (10F)
+*Strength: N/A
+*Weakness: Fire
+*420 HP
+*Recommended items: Any other spell books (optional, if you ran out of Fire books), Fire books, Hi-Potions/Potions
+*Recommended level: 7+
+*Attacks:
+**Hammer - Pummels Chocobo or Shiroma using his right arm. Only used in close range.
+**Quakara - A stronger version of the Quake spell in Quake books. Takes long to cast.
+**Split Apart - Splits Skullhammer into 4 parts: head, heart and 2 arms. Skullhammer will first split when his HP is nearly half.
+**Recombine - Joins all parts together.
+=-=
+
+=--STRATEGY--=
+Since this is your first boss battle, stay close to Shiroma. She'll keep healing you when your HP goes orange. When it disassembles into 4 parts (skull, 2 arms, and heart), always focus on the heart. Even if you kill the other 3 parts, it will find a way to assemble again if all parts are adjacent against each other, making it harder to kill. The heart will always run away, and to corner it easily on one of the corners of the floor, move diagonally. If you can't reach it, you can cast your Fire book (or any book except Quake, if you ran out of Fire books) to deal damage. Just avoid the other parts and you'll beat this boss in no time. Use Potions or Hi-Potions when low in HP, especially after Skullhammer casts Quakara on you as it deals heavy damage.
+
+You can always tough it out by defeating all the other parts before going for the heart, because you'll still get EXP for every part you destroy, just like defeating regular monsters.
+=-=
+
+===Imp Robo #55===
+
+=-----=
+'''"No use hiding! You can't get away from my Steelball Whip!"'''
+
+*Dungeon: Cid's Tower (15F)
+*Strength: N/A
+*Weakness: Thunder
+*755 HP (Imp Robo Boss), 355 HP each (Imp Robo #1, x2)
+*Recommended items: Hi-Potions, Ramuh Stone (optional), Thunder books
+*Recommended level: 15+
+*Attacks:
+**Punch - Lunges Chocobo or Cidtank with the robot's arms. Only used in close range.
+**Kick Bomb - Will occasionally kick bombs. His cohorts, 2 Imp Robo #1's, will frequently be dropping bombs should you be too far from them.
+**Steelball - Hurls his flail in a line. Only used in long range and is frequently used compared to the normal attack. Don't stay in the same line as Cidtank as you'll be damaged if the attack reaches you.
+=-=
+
+=--STRATEGY--=
+Imp Robo #55 is distinguishable by its black armor compared to his regular counterparts. They're weak to Thunder and you should have Thundara by now if you have been using Thunder frequently on your way to the boss battle (remember that for each time you upgrade your claws and saddles, as well as using Thunder books to turn on Generators, you're gaining experience for the spell). Pummel on the boss first and deal with his 2 bodyguard robos afterwards. Imp Robo #55 will be attacking Cidtank often so let Cidtank take most of the damage while you cast Thunder books on the robo boss. His 2 other robos will be attacking you so use Hi-Potion when low in HP. They'll be dropping bombs frequently and you can kick it to a certain distance to avoid the heavy damage.
+
+If you're far enough in level, you'll start acquiring summon stones and the best one to use against the robos is Ramuh Stone. Ramuh Stone calls the spirit of Ramuh and deals heavy Thunder damage to all monsters that are on the screen when casted. Once the boss is out, you can take his 2 robo servants easily. His servants will start charging at you and will no longer drop bombs. Just don't let Cidtank die since he does a good damage against these robos, especially if you're low on level.
+=-=
+
+===Ultros===
+
+=-----=
+'''"Hehehe Drain, Drain! I'll suck the life out of you!"'''
+
+*Dungeon: Sea Floor Dungeon (27F)
+*Strength: N/A
+*Weakness: Thunder
+*1,600 HP (Ultros head), 800 HP each (Ultros tentacles, x2)
+*Recommended items: Drain books (optional), Hi-Potions/Potions, Ramuh Stone, Thunder books
+*Recommended level: 25+
+*Attacks:
+**Munch Munch - Ultros will use his sharp teeth to slice you. Only used in close range.
+**Drain - Transfers HP from Chocobo or Shiroma to Ultros. Used more often when Ultros is farther from his tentacles and when he is low on HP.
+**Tentacle - Ultros' tentacles slaps Chocobo or Shiroma. Only used in close range.
+=-=
+
+=--STRATEGY--=
+This boss is a huge pain. Ultros will cast Drain often when the head stays further back. In this case, use Thunder books against it. Take out the 2 tentacle arms as much as you can because they deal significant damage when you're close to it. It takes 2-3 Ramuh Stones to defeat the tentacle arms.
+
+Have Shiroma heal you often and do this while staying away from the tentacles. If you're low on Potions and Hi-Potions, you can use Drain books to drain HP from Ultros as you get them more often on the first few levels of the dungeon. Don't bother attacking Ultros' head with your claws as he deals a lot of damage with his sharp teeth. Keep your HP afloat by healing or let Shiroma heal you and you'll be fine.
+=-=
+
+===Glass Goth===
+
+=-----=
+'''"If only I had the strength... Time and hate changed me."'''
+
+*Dungeon: Snow Mountain (23F)
+*Strength: N/A
+*Weakness: Fire, Holy
+*2,000 HP
+*Recommended items: Any items that cast Haste, Carbuncle Stones, Fire books, Hi-Potions, MegaSpell books (optional, only if you have a Holy feather)
+*Recommended level: 36+
+*Attacks:
+**Scratch - Scratches you wih his sharp claws.
+**Jump Slash - Leaps into the air and descends down, dealing heavy damage.
+**Silence Flash - A quick flash on the screen that inflicts Silence.
+**Mini Flash - A quick flash on the screen that inflicts Mini, shrinking you to half size and dealing half damage.
+=-=
+
+=--STRATEGY--=
+You will have your first encounter with Glass Goth, the main antagonist of the game. For this encounter, he mostly deals physical damage, so it's good to have a saddle enough to withstand his normal attacks. He is also fast, so the moment you start the boss battle, use an item that casts Haste (such as Nuts or Tonics). Here, you can use Fire books, cast Holy (from a MegaSpell book, if you have a Holy feather), or attack him physically. If you plan to use the books (Fire book is good enough because MegaSpell books are rare to find), Cid is the best partner to have when it comes to dealing physical damage, so you can have him front the battle while you cast. Just watch out for your partner's HP and make sure to step in the battle when you can.
+
+His Jump Slash attack deals more damage than his Scratch attack so use Hi-Potions when low in HP. Use a Carbuncle Stone if you happen to save one because it will save lots of damage if you also plan to attack him physically and use items with Haste again to make sure you get to attack more than Glass Goth. Keep this up and you'll come out victorious.
+=-=
+
+===Imp Robo #99===
+
+=-----=
+'''"No use hiding! You can't get away from my Steelball Whip!"'''
+
+*Dungeon: Cid's Tower (15F)
+*Strength: N/A
+*Weakness: Thunder
+*2,500 HP (Imp Robo Boss), 1,250 HP each (Imp Robo #55, x2)
+*Recommended items: Hi-Potions, Ramuh Stone (optional), Thunder books
+*Recommended level: 44+
+*Attacks:
+**Normal - Lunges Chocobo or Cidtank with the robot's arms. Only used in close range.
+**Drop Bomb - Will occasionally drop bombs. His cohorts, 2 Imp Robo #55's, will frequently be dropping bombs should you be too far from them.
+**Flail Attack - Hurls his flail in a line. Only used in long range and is frequently used compared to the normal attack. Don't stay in the same line as Cidtank as you'll be damaged if the attack reaches you.
+=-=
+
+=--STRATEGY--=
+Imp Robo boss is now seeking revenge from you, on the same dungeon with the same floor. Do the same strategy as before when you initially faced him as [[Imp Robo #55|Imp Robo #55]], except that they are more powerful (and had a change of color - from pink to blue). The two Imp Robo #55's will still be doing the same thing - laying down bombs. Watch out for their gauges below and either kick the bombs or stay away from its blast radius. Imp Robo #99 will still use his flail attack often as before and is usually hit against Cidtank but can still hit you too if Cidtank is out of range and Chocobo is closer.
+=-=
+
+===Glass Goth X===
+
+=-----=
+'''"The power is finally mine... Where does my path lead now?"'''
+
+*Dungeon: Final Dungeon (26F)
+*Strength: N/A
+*Weakness: Holy
+*4,500 HP
+*Recommended items: Any items that cast Haste, Carbuncle Stones, Elixirs, Fire books, Ifrit Stones (optional)
+*Recommended level: 60+
+*Attacks:
+**Normal - Scratches Chocobo or Mog and lets out a scream.
+**Jump - Glass Goth leaps off the air and drops down to deal a huge damage. Usually used when in low HP.
+**Laser - Blasts a wide laser beam that deals damage in a line.
+**Purple breath - Charges a powerful breath that deals heavy damage. Watch out for his gauge.
+=-=
+
+=--STRATEGY--=
+Here it is, your final boss battle! Glass Goth returns once again, only this time stronger and seeks retribution on your previous encounter. After the short dialogue, use an item that casts Haste. Afterwards, get near Glass Goth X and use a Carbuncle Stone. With this, he will hardly deal heavy damage to you and there are chances that his attacks will miss against you. Use your Ifrit Stones as they deal 550+ damage per stone. If you don't have Ifrit Stones, simply use Fire books. The effect of Carbuncle will last for a few turns and you will end the battle sooner than expected.
+
+By this time, you should have stocked up on Elixirs on the final floors before the boss battle. Elixirs fully restore your HP and Energy. Simply heal when you're low on HP because his bite attacks deals a lot of damage. He may also do a Jump attack occasionally so watch out for it. With Carbuncle and Haste, you will have the edge for this battle. When he's taken enough damage (apparently, he's not entirely defeated), [[Glass Goth Z|the battle restarts with a twist]]!
+=-=
+
+===Glass Goth Z===
+
+=-----=
+'''"The power is finally mine... Where does my path lead now?"'''
+
+*Dungeon: Final Dungeon (26F)
+*Strength: N/A
+*Weakness: Holy
+*4,000 HP
+*Recommended items: Any items that cast Haste, Carbuncle Stones, Elixirs, Fire books, Ifrit Stones (optional)
+*Recommended level: 60+
+*Attacks:
+**Bite - Bites with immense force, dealing heavy damage.
+**Mouth Beam - Fires a huge beam of light that deals damage in a line.
+=-=
+
+=--STRATEGY--=
+He's still alive! Well, the final boss battle will not be entertaining if it isn't hard, isn't it? Glass Goth's body slightly transforms but he has lesser HP this time. To curb this, his attacks are stronger. Watch out for his Mouth Beam attack, because he will always target Chocobo no matter your distance with him (he completely ignores Mog). Same strategy as before, cast Haste, use Carbuncle Stones and pummel away with your Ifrit Stones (or Fire books if you don't have one or it has ran out on the [[Glass Goth X|previous battle]]). Use Elixirs on you and Mog when your HPs are low as his breath attack deals ferocious damage. Use Carbuncle Stones everytime its effect wears off to reduce the damage taken from his ferocious attacks. All in all, he'll go down easy. Once he's down, watch the next scenes, it's worth it!
+
+Congratulations! You have beat the final boss of the game!
+=-=
+
+==Secret Dungeon Bosses==
+
+Here are all the optional bosses you can face after defeating the [[Glass Goth Z|final boss]] in the main plot. They are all located in the Secret Dungeon. [[Omega|Omega]] isn't presented as an actual boss fight, but his HP really packs a punch and his lone attack deals a huge damage (plus, he has something special in him, which is why players hunt him down).
+
+===Omega===
+
+=-----=
+'''"I didn't expect you to make it this far. Now, your time's up!"'''
+
+*Dungeon: Secret Dungeon (24F)
+*Strength: N/A
+*Weakness: Thunder
+*8,000 HP
+*Recommended items: Any items that cast Haste, Bahamut Stones/Odin Stones/Ramuh Stones, Carbuncle Stones, Divide cards (optional), Empty Bottles (optional), Identify cards (optional), X-Potions
+*Recommended level: 75+
+*Attacks:
+**Omega Beam - Fires a yellow laser beam in a line. This is the only attack he has, but powerful nonetheless.
+=-=
+
+=--STRATEGY--=
+Upon seeing Omega, use an item that casts Haste (such as a Nuts or Tonics). Afterwards, use Carbuncle Stone to reduce damage taken from Omega. Bring about 8 each of Carbuncle and any of the three stones: Bahamut, Odin, Ramuh Stones (or just have them all if you prefer). You'll be using these stones oftenly so that you don't die when fighting Omega. The three summon stones deals 1,000+ damage when used. These are pretty rare and over the course of the game, you should keep them if you are planning to get the Omega Essence from the boss as it's the best essence that creates the best claws and saddles in the game. Keep using the summon stones and you'll eventually kill him. After a few turns, the effect of Carbuncle will wear off so use another stone to reduce damage taken. Use X-Potions to keep your HP afloat. Remember that his lone attack can deal damage in 2 tiles, so if your partner is behind you, he/she will get hurt as well. With the effects of Haste, you'll be taking 2 turns before Omega gets to attack you. Do this in and you'll destroy him in no time.
+
+''EXTRA''
+
+Omega carries the best essence in the game, as it allows you to create Titan Claws/Saddles, the strongest equipments in the game. To start, you must pack up additional empty bottles as well as a lot of Identify cards. If the map has narrow spaces, you can engage Omega to a spot where Omega can attack you and you can only attack him. You don't want your partner to accidentally destroy him because you will not get the essence that way. Then simply do the strategy as above, only this time, after putting his HP to half, you must kick Identify cards at him to check his remaining HP. Checking his HP is useful so that we can also save time, conserve Empty Bottles, and calculate how many more bottles we can kick at him before he goes down. Empty bottles always deal 4 damage and you'll be kicking these bottles more often to nab the essence. As always, keep your HP high as his normal attack still deals a huge damage even with the effects of Carbuncle in place.
+
+After defeating Omega using Empty Bottles, you'll have the best essence in your inventory. Don't bother using it as it has the same effect as Elixir, restoring you to full HP and energy on use. If you have Divide cards, use them on the essence to get additional Omega Essences so that you can use it to upgrade more claws and saddles. Congratulations on beating the best boss in the game!
+=-=
+
+===Leviathan===
+
+=-----=
+'''"I can't walk on land, so why am I a boss?"'''
+
+*Dungeon: Secret Dungeon (30F)
+*Strength: Blizzard
+*Weakness: Fire
+*6,000 HP (Leviathan head), 2,000 HP (Leviathan tail)
+*Recommended items: Any items that cast Haste, Carbuncle Stones, Fire Books, Ifrit Stones/Odin Stones, Waterwalk Collar (optional), X-Potions
+*Recommended level: 75+
+*Attacks:
+**Gnaw - Attacks with his mighty teeth. Only used in close range.
+**Blizzard - Casts the lowest tier of the Blizzard spell. Still deals a heavy damage though. Usually used in long range.
+**Drain - Casts the lowest tier of the Drain spell. Sucks HP from the victims. Not usually used often.
+**Tail Attack - Leviathan's tail attacks with a slap to its victims. Used in close range.
+=-=
+
+=--STRATEGY--=
+Leviathan replaces the mighty [[Ultros|Ultros]] that you have beaten previously. He has the same attacks as his buddy, except that he can now cast Blizzard. Though despite casting the lowest tier of the Blizzard spell, it still hurts. He also has his own tail, as opposed to [[Ultros|Ultros]]' two tentacles. At the start of battle, use an item that casts Haste then use a Carbuncle Stone to reduce damage taken. You can attack him physically if you have a Waterwalk Collar or simply use Odin or Ifrit Stones to deal massive damage. If you have none of these, go with the old Fire books, but by now, it should cast the level 3 tier of the Fire spell, Firaga.
+
+He attacks faster than [[Ultros|Ultros]] and is as fast as [[Omega|Omega]], so having Haste is really helpful against him. He will usually cast Blizzard on you but may sometimes cast Drain. If you get too close, his tail will snap and will attack you but let your partner pummel with his tail as you go for the head. Defeating Leviathan's head ends the battle immediately, so you don't have to worry about his tail (unless you want to).
+
+Congratulations! You have beat the final optional boss of the game!
+=-=
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Chocobo's Dungeon 2: Boss FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To SquareSoft for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=

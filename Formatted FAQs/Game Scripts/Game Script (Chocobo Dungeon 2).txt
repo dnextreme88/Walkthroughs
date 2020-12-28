@@ -1,0 +1,1875 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Game Script FAQ for Chocobo's Dungeon 2. This guide contains spoilers and if you haven't played or finished the game, please read the guide with caution. The transcript is written verbatim from the game and any mistakes are directly copied from the game.
+
+Chocobo's Dungeon 2 is owned by SquareSoft. All trademarks are subjected to SquareSoft.
+
+Copyright (c) SquareSoft.
+
+==Version History==
+
+*Version 1.0 - Dec 28, 2020
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Mysterious Dungeon==
+
+To start off, you will be naming the characters in the game. Names are 7 characters in length. I am using their default name within the FAQ for brevity and clarity but here are some things to take note when reading certain dialogues with special annotations:
+
+*Text inside [] are boxed prompts that appear on the center of the screen.
+*[Mog name] refers to the name of Mog you named early on the game.
+*[player name] refers to the name of Chocobo you named early on the game.
+*[Shiroma name] refers to the name of Shiroma you meet after she rescues Chocobo.
+*[Cid name] refers to the name of Cid you meet on his tower.
+*[Cidtank name] refers to the name of Cid's tank you'll encounter before the boss fight.
+*[Kuz name] refers to the name of the doll you will be naming during the finale.
+
+[That's...]
+
+Mog: "What a suspicious looking doorway..."
+
+Mog: Wait, this must be the entrance to a dungeon! Yes, that's it! I've finally found it!
+
+Mog: Yep, my gut feeling was right. Yep, that's right...
+
+Mog: Yep, my gut feeling was right.
+
+Mog: "You think so too, don't you ...?"
+
+Mog: "Hey... Are you listenin' to me?"
+
+Mog: "Hey........."
+
+Mog: "[player name], you weren't listening, were you? Whatever..."
+
+Mog: "Searching the world for treasure...
+
+Mog: Hardly finding any rare items... It's been a long journey...
+
+Mog: As a rare item collector, it'd be such a cryin' shame to pass up a dungeon like this...
+
+Mog: Okay, let's go, [player name]!"
+
+Mog: "Wha...! Whatever, let's go!"
+
+Mog: "Whaddya doin'? You're comin' along too!"
+
+===1F (Mysterious Dungeon)===
+Mog: "What!? The stairs we came down are gone?"
+
+Mog: "This must be another mysterious dungeon."
+
+Mog: "What!? You forgot?
+
+Mog: "In mysterious dungeons, stairs from the previous floor disappear.
+
+Mog: There may be monsters, too. Despite all that, you can get a lot of rare items."
+
+Mog: "Well, to put it simply, you can get lots of tasty food."
+
+Mog: "Alright, let's move it!"
+
+Mog: "Huh? What now, [player name]?"
+
+Mog: "What? Why are you in the lead, you ask?"
+
+Mog: "That's the way it always is. Come on [player name]!"
+
+===2F (Mysterious Dungeon)===
+Mog: "Ha ha, this dungeon's no big deal."
+
+Mog: "Huh... what's that?"
+
+Mog: (Oh shoot! Get down!)
+
+Mog: (Just do it!)
+
+Mog: (That Goblin's pickin' on that Guz...)
+
+Mog: (Oh no! It took out that Guz and leveled up!)
+
+Mog: (Shh!)
+
+Mog: If a monster takes out another monster, it goes up in level!
+
+Mog: A Goblin becomes a Dark Goblin... We'll never beat it, let's scram!)
+
+===4F (Mysterious Dungeon)===
+Mog: "What? You say we're stuck in here!?"
+
+Mog: "Let's see here..."
+
+Mog: "Hey, you can get through no problem."
+
+Mog: "It looks too narrow, but you can go through diagonally."
+
+Mog: "Come on, move it."
+
+===6F (Mysterious Dungeon)===
+Mog: "Oh! Oh! This switch looks like it might do something."
+
+Mog: "It'll stink if its a trap though..."
+
+Mog: "But...it just might give me some treasure.
+
+Mog: Alrighty...
+
+Mog: Here goes nothin'!!
+
+Mog: "Hey, [player name]?"
+
+===After being rescued===
+Girl: "Good, you're awake."
+
+Girl: "I was so surprised when you fell from the sky.
+
+Girl: But you seem to be okay now."
+
+Girl: "?
+
+Girl: This is probably your first time seeing a human, isn't it?"
+
+Girl: "Even so...running from the person who helped you is kinda mean.
+
+Girl: The way I see it, a bird like you is a lot more unusual than me."
+
+Girl: "You're not a bird? You're [player name]...?"
+
+Girl: "Oh, I see. My name is...
+
+Shiroma: "I'm [Shiroma name] and I'm a White Mage. Nice to meet you [player name].
+
+Shiroma: You look very healthy, I guess the tonic worked well enough."
+
+Shiroma: "Well, I'm relieved.
+
+Shiroma: Well, I'm going out. If you're tired, rest on the bed."
+
+Shiroma: "Oh yes, don't drink the tonic on the shelves, it's bad."
+
+===4F (Mysterious Dungeon, 2nd visit)===
+Chubby Chocobo: "No way... You don't know what'll show up next!
+
+Chubby Chocobo: "I've had enough of this dungeon. I'm goin' home.
+
+Chubby Chocobo: "And that skeleton that burst outta the dark, and...!
+
+Chubby Chocobo: "Waaghhhh!"
+
+Shiroma: "What!?"
+
+Shiroma: "Whew... That was close."
+
+Chubby Chocobo: "Th, that's why I don't like this place...
+
+Chubby Chocobo: The only reason I came this far is 'cus you asked me to."
+
+Shiroma: "Hmph... What kind of chocobo are you?
+
+Shiroma: Get a hold of yourself.
+
+Shiroma: Wasn't it you who came along so happily when I told you there would be plenty of nuts to eat?"
+
+Chubby Chocobo: "Uhhh, that's..."
+
+Shiroma: "Fine. I'll continue on by myself then."
+
+Chubby Chocobo: "No, it's too dangerous."
+
+Shiroma: "I'll be fine. I have a Teleport Tag if I run into any problems."
+
+Shiroma: Besides, I want to find this dungeon's secret. Therefore I must go."
+
+Shiroma: "You be careful, too."
+
+Chubby Chocobo: "Wait a sec! But... she's gone..."
+
+Chubby Chocobo: "Oh, I don't know. What should I do? I'm scared by myself..."
+
+Chubby Chocobo: "A monster!!!"
+
+===6F (Mysterious Dungeon, 2nd visit)===
+Shiroma: "Oh! What are you......?"
+
+Shiroma: "Do you have business in this dungeon, too?"
+
+Shiroma: "Have I seen your friend? Hmm... I haven't, but...
+
+Shiroma: Well, if you're continuing on, shall we go together?
+
+Shiroma: Honestly, I'm a little scared, too."
+
+Shiroma: "Okay, let's go then."
+
+Shiroma: "What's wrong? You've never seen a stove before?
+
+Shiroma: You can combine, by putting 2 claws or saddles in there and adding Fire or Thunder.
+
+Shiroma: Combining may get you more powerful claws and saddles. Why don't you try it?
+
+Shiroma: "I don't have to tell you? You know already?"
+
+Shiroma: "Then I guess I'll just tag along with he wise [player name]."
+
+===Using the Teleport Tag for the first time===
+Shiroma: "Huh? Why did I come back here with you?"
+
+Shiroma: "Oh well, let's go."
+
+===10F (Mysterious Dungeon)===
+Shiroma: This place is... kinda creepy."
+
+Shiroma: "Wh, what?"
+
+====After defeating Skullhammer====
+Shiroma: "We must hurry..."
+
+====Outside the Crystal Room====
+
+Shiroma: "No, you can't go in.
+
+Shiroma: Who knows what will happen to you if you go in there...?"
+
+Mog: "Hey, it sounds like you plan to snatch my treasure.
+
+Mog: Why else would you be here? Well, I'm not letting you."
+
+Shiroma: "Well, you see......"
+
+Mog: "Sounds fishy. That's why you can't trust humans.
+
+Mog: By the way, all the treasure is gonna be mine."
+
+Shiroma: "Wait!"
+
+====When Mog enters the Crystal Room====
+Shiroma: "I'm sorry I left you. It's for the best if you don't go any further..."
+
+Shiroma: "I'm human... so I'll be fine."
+
+Shiroma: "But the one who already went in there..."
+
+Shiroma: "What, he's your friend?"
+
+Mog: "Th, this is the dungeon's treasure...?"
+
+Mog: "Ha, hahahaha heehee hee.
+
+Mog: It was definitely worth coming this far!!
+
+Mog: This will be the rarest in my collection of rare items...
+
+Mog: Huh? Just who are you and where'd you sneak in from?
+
+Mog: But anyway, that's mine, so get your dirty little hands off it! Scram!"
+
+Mog: "If you don't, I'll..."
+
+Mog: "Humph. Let that Guz play with the Recycle Boxes."
+
+Mog: "Let's see... How am I gonna get this treasure..."
+
+Mog: "Here I go.
+
+Mog: I can't reach..."
+
+Mog: "Once more..."
+
+Mog: Huh? What's going on!?"
+
+Mog: "Wahhh!!"
+
+Shiroma: Wh, what!?"
+
+==Monster Village==
+
+===Beach===
+[Hey, you okay?]
+
+Shiroma: "Oh, I see.
+
+Shiroma: Perhaps the entire dungeon fell in the ocean and we ended up here..."
+
+Shiroma: "What's wrong?"
+
+Shiroma: Oh...
+
+Shiroma: Are... you okay?"
+
+Mog: "Y, yeah...
+
+Mog: Where am I...? I was just gonna grab that giant treasure...
+
+Mog: Argh!! The dungeon collapsed and fell into the sea..."
+
+Shiroma: "Of course, that means...my house is gone, too..."
+
+Mog: "Shoot... That giant treasure..."
+
+Shiroma: Well, since my house was destroyed,
+
+Shiroma: all I can do is return to the village..."
+
+Mog: "What, there's a village around here?"
+
+Shiroma: "Yes, we're probably close to the village now..."
+
+Mog: "Well, take me there!
+
+Mog: I'm outta practice. It's been so long since I've explored a dungeon, I'm beat."
+
+Shiroma: "O, okay... I guess that's all I can do..."
+
+Mog: "Alright [player name], come on, move it."
+
+===Inside the village===
+Mog: "So, this is the village...?"
+
+["Hmph, so you're back?]
+
+Shiroma: "Hi... Auntie Bomb..."
+
+Mog: "B, bomb!?"
+
+Mrs. Bomb: "Hmph, you've got no right to call me auntie.
+
+Mrs. Bomb: You're probably just up to no good again."
+
+Shiroma: "That's not..."
+
+Mog: "She's one of the bad guys?"
+
+Mrs. Bomb: "What a peculiar visitor.
+
+Mrs. Bomb: So, something bad must have happened to you?"
+
+Mog: "You got that right!"
+
+Shiroma: "What?"
+
+Mrs. Bomb: "I see. Well, you just can't trust humans.
+
+Mrs. Bomb: So, you must be on a journey. If so, you can stay at my house.
+
+Mrs. Bomb: I wouldn't want you to stay at a human's house by mistake."
+
+Mog: "You're pretty nice!
+
+Mog: Especially for someone with such a scary face."
+
+Mrs. Bomb: "I could've done without the face comment, sonny. Come with me."
+
+Mog: "Well, come on [player name]."
+
+Bomb Kid: "Freak!"
+
+Bomb Kid: "W-e-i-r-do!"
+
+Bomb Kid: "......"
+
+Shiroma: "I guess I'll go home. You'd better go too."
+
+===Mrs. Bomb's home===
+Bomb Kid: I wonder what today's dinner is gonna be?"
+
+Mrs. Bomb: Bombay style wildrat curry."
+
+Bomb Kid: "Yeah, yeah!"
+
+Bomb Kid: You're friends with that human. Humans are bad, so you are too."
+
+====Talking to Mog at Mrs. Bomb's home====
+Mog: "Hey, [player name], we can stay here for a little while.
+
+Mog: Anyway, it looks like there might be tons of rare items around here.
+
+Mog: Maybe we can find a treasure like that big crystal, too.
+
+Mog: Man, that crystal was huge. It's such a waste that it fell into the ocean...
+
+Mog: If there was only some way to get it from the sea floor..."
+
+Mrs. Bomb: "Are you still talking about that? You don't learn, do you...?
+
+Mrs. Bomb: Let the humans deal with that rubbish. Only the weird old man that lives in tha ower would be
+
+Mrs. Bomb: crazy enough to try and make something that takes you to the bottom of the ocean."
+
+Mog: "What!!
+
+Mog: That weird old guy has something that'll go to the sea floor?"
+
+Mrs. Bomb: "Yes. He was talking about its submission or something..."
+
+Mog: "A submarine!!
+
+Mog: [player name], that's it!! We can get the sunken treasure!"
+
+Mog: "Okay [player name], I'll get everything ready in the village.
+
+Mog: Your job is to go find the old guy 'n ask to use his submarine."
+
+Mog: "[player name], the ocean's great.
+
+Mog: There're lottsa fish 'n tasty stuff."
+
+Mog: "Great, now that it's decided I'm countin' on you."
+
+Mog: "I'm countin' on you, [player name]."
+
+====Talking to Mrs. Bomb====
+Mrs. Bomb: "The old guy lives in a tower on the outskirts of the village,
+
+Mrs. Bomb: but the gate to his tower is locked. No one wants to see that human.
+
+Mrs. Bomb: It's probably best if you find another way."
+
+Mrs. Bomb: "Oh, you're staying here, too? Well, I guess it's fine with me."
+
+===Shiroma's home===
+
+====First dialogue of Shiroma====
+Shiroma: "Ah... How do you like the village?
+
+Shiroma: "Oh, you were worried about me?
+
+Shiroma: No, Mrs. Bomb is really a nice person.
+
+Shiroma: But for some reason, that dungeon caused all the villagers to act funny and doubt humans.
+
+Shiroma: But then again, the only humans around here are the old man living in the tower and me."
+
+====Second dialogue of Shiroma====
+Shiroma: "That old guy? He lives on the outskirts of the village...
+
+Shiroma: But the gate leading to his tower is all locked up now...
+
+Shiroma: I think Chubby Chocobo has the key..."
+
+Shiroma: "Chubby Chocobo is my childhood friend. He's at the Tool Shop."
+
+====Third dialogue of Shiroma====
+Shiroma: "How do you like my room?
+
+Shiroma: I felt a little uneasy living in the village, so I moved.
+
+Shiroma: But now I'm back. I should add some decorations in here."
+
+===Chubby Chocobo's shop===
+Chubby Chocobo: "Oh no! A customer?
+
+Chubby Chocobo: I'm sorry, I'm not open yet."
+
+Chubby Chocobo: "What? Do I know anything about a gate key?
+
+Chubby Chocobo: Yeah, I've got one. Everyone's freaked out by that old man so they locked the gate.
+
+Chubby Chocobo: As for me, I have to do business with him so I use the key to go in and out."
+
+Chubby Chocobo: "Huh? You wanna go see the old man?
+
+Chubby Chocobo: Why didn't you tell me that sooner? I'll open it for you."
+
+====After Chubby Chocobo opens the gate to the tower====
+Chubby Chocobo: "<Huff> <Huff> It's open. It's a lot of work... this walking business."
+
+Chubby Chocobo: "Huh? You would have opened it yourself if I gave you the key?
+
+Chubby Chocobo: Tell me that kind of stuff sooner. I'm pooped."
+
+Chubby Chocobo: "I don't wanna move anymore."
+
+==Cid's Tower==
+
+===3F (Cid's Tower)===
+Grandpa: There!
+
+Grandpa: Take that!
+
+Grandpa: And that!
+
+Grandpa: "Whew, geez, they just keep comin' & comin'."
+
+Grandpa: "What's that!?"
+
+Grandpa: "Hey pardner, ya say you're not an enemy, huh?
+
+Grandpa: "But that trick won't fool me!
+
+Grandpa: "Well then, just what are ya doin' in my tower?"
+
+Grandpa: "Ya forgot? Geez, well ya've got a selective memory.
+
+Grandpa: I don't have time to deal with a fella like you. I've gotta get my tower back from the Imps.
+
+Grandpa: What a disaster! The Imps have taken over my precious machine..."
+
+Grandpa: "You say ya'll help me?"
+
+Grandpa: "In exchange for a favor, huh?"
+
+Grandpa: "Well, what's the favor?"
+
+Grandpa: "Of course. Ya fergot, huh?"
+
+Grandpa: "Oh well. Look's like ya're not the type that can cause mischief.
+
+Grandpa: Besides, as long as I'm following behind ya, there'll be no danger.
+
+Grandpa: Do you even remember yer own name?"
+
+Grandpa: "Nice to meet ya, [player name]. I'm..."
+
+Cid: "I'm [Cid name]. The genius scientist, [Cid name].
+
+====10F (Cid's Tower)====
+Cid: "Finally, we're almost there."
+
+Cid: "But why're there so many of those Imp varmints?"
+
+Cid: "Oh yeah, there's no reason ya'd know that..."
+
+["They're about to wake."]
+
+Cid: "So who are ya?"
+
+Bahamut: "I? I am Bahamut, the keeper of time.
+
+Bahamut: Having found the existence and power which should not exist in this place and time,
+
+Bahamut: I have come."
+
+Cid: "What are ya ramblin' about? The Imps are sayin' what?"
+
+Bahamut: "They aren't the source, but merely its servant.
+
+Bahamut: But it is certain they are trying to make that power complete.
+
+Bahamut: Beware. I have yet to find out the truth of this matter,
+
+Bahamut: The power, the Imps, and the meaning of the girl's existence."
+
+Cid: "...just who was that fella?"
+
+===14F (Cid's Tower)===
+Cid: "Who the heck built this big tower...?
+
+Cid: "Huh!? No doubtin' that's...!"
+
+Cid: "My machine, it's safe!
+
+Cid: I didn't think they'd get it this far.
+
+Cid: "This is my machine, I call her...
+
+Cid: I call her [Cidtank name]!! With [Cidtank name], we're invincible!!!"
+
+Cid: "All aboard!!"
+
+===15F (Cid's Tower)===
+Cid: "Ya varmints!! Taking over a man's house...!!"
+
+Imp: "Kyahahaha. This tower will be ours.
+
+Imp: And we shall prepare for his revival."
+
+====After defeating the Imps====
+Cid: "Yeehaw, I finally got my tower back.
+
+Cid: Yep, and it's all thanks to yer help. I'll do ya that favor now."
+
+Cid: "Ya forgot again? I guess ya've had too many Amnesia Tonics."
+
+Cid: "What?
+
+Cid: Ya want me to take ya back to the village so ya might remember?
+
+Cid: Jeez, what a pushy fella! Guess I can't say no, though.
+
+Cid: If I go, the village folk will all be scared, though.
+
+Cid: Well, shall we get a move on?"
+
+Cid: "Let's get a move on then."
+
+===Back to the village===
+[Huh...?]
+
+Shiroma: "You're back. And you brought [Cid name], too."
+
+Cid: "Howdy, little lady. Ya look well."
+
+Shiroma: "I'm doing alright.
+
+Shiroma: Oh yes. I heard he went to ask you to borrow your submarine.
+
+Shiroma: Can I get a ride, too?
+
+Shiroma: I'm still concerned about that dungeon..."
+
+Cid: "I see. That was what ya were supposed to ask me.
+
+Cid: Sounds great! It's been a long time since I brought out the Cidmarine!!"
+
+==Sea Floor Dungeon==
+[Finally reached the dungeon entrance!]
+
+Shiroma: "Hee hee hee...
+
+Shiroma: Something good happened?
+
+Shiroma: "How did I get here, you ask?"
+
+Shiroma: "You say you swam and swam until you found the dungeon's entrance?"
+
+Shiroma: "Hee hee. You wonder how I made it here when you had to swim so far?"
+
+Shiroma: "Well let me explain."
+
+Shiroma: "How do you like the bridge made by [Cid name]'s submarine?
+
+Shiroma: In a rush, we grabbed on to the submarine's arm and then that's what happened...
+
+Shiroma: We didn't even need that big thing after all. You made such a big deal about it, too."
+
+Shiroma: "Well, let's go then."
+
+Shiroma: "To the dungeon, of course.
+
+Shiroma: I'm going to solve the secret to that dungeon no matter what."
+
+Shiroma: "Well, let's be careful."
+
+===15F (Sea Floor Dungeon)===
+Shiroma: "What's this...? The dungeon's...stove? No, that's not it..."
+
+Bahamut: "I don't sense any movement yet..."
+
+Bahamut: "However...you are a mysterious organism."
+
+Bahamut: "Meeting you here again must be...?"
+
+Bahamut: "I see... you are the girl..."
+
+Shiroma: "Who are you?"
+
+Bahamut: "I? I am the keeper of time, Bahamut.
+
+Bahamut: Young lady, you must turn back."
+
+Shiroma: "What are you talking about?"
+
+Bahamut: "This place and he... do not belong in this time.
+
+Bahamut: It's best just to live in the village without knowing. The villagers' doubts will pass.
+
+Bahamut: As long as they do not awaken..."
+
+Shiroma: "What do you know about this?"
+
+Bahamut: I know nothing. I am only looking after time..."
+
+Shiroma: "......"
+
+===Cutscene with Bahamut and Shiroma on an unnamed realm===
+Shiroma: "You... What on earth are you doing here?"
+
+Bahamut: "You dare come here after all.
+
+Bahamut: Do you plan to find what this realm is?"
+
+Shiroma: "Of course that's what I plan to do."
+
+Bahamut: "I see... I am the keeper of time...
+
+Bahamut: I have come to investigate the land that should not exist in this time.
+
+Bahamut: Now I know. This land, this dungeon, is from the distant future."
+
+Shiroma: "The future?"
+
+Bahamut: "Yes... The distant future.
+
+Bahamut: There, humans like you have built an advanced civilization.
+
+Bahamut: This dungeon was built by them as a weapon."
+
+Shiroma: "A weapon? Why would they...?"
+
+Bahamut: "They were fighting against him...
+
+Bahamut: The truth is here."
+
+====Flashback with the Imps====
+Bahamut: "They were defeated in their fate to leave the world.
+
+Bahamut: However, as a way to revive the dead, they built this weapon.
+
+Bahamut: Their lust for technology pushed them,
+
+Bahamut: to the point where they could build a time-traveling device such as this.
+
+Bahamut: But this dungeon, too, was overrun by the Imps.
+
+Bahamut: That must have been the downfall of their civilization...
+
+Bahamut: The humans were defeated in their last bastion and prepared for the worst.
+
+Bahamut: And then, he, himself came and their worst fears became a reality..."
+
+====Back to the unnamed realm with Bahamut and Shiroma====
+Bahamut: "One man tried to save a single life.
+
+Bahamut: That man was one of the creators of this weapon.
+
+Bahamut: That man planned to dimensionally transport his newborn child...
+
+Bahamut: To a time where there was no war...
+
+Bahamut: However, that wish was prevented by the sudden appearance of him.
+
+Bahamut: The dimensional transfer was disturbed by him and it failed. Then the unthinkable happened.
+
+Bahamut: This weapon, him, the Imps and even that child were brought to this time..."
+
+Bahamut: So young lady, do you understand? That girl is you.
+
+Bahamut: They were put to sleep in this dungeon and you were raised by the villagers."
+
+Shiroma: "......"
+
+Bahamut: "I can't tell you to turn back. That is your decision."
+
+Shiroma: "......Let's go."
+
+===25F (Sea Floor Dungeon)===
+Shiroma: "We must hurry..."
+
+Shiroma: "Aaghh!!"
+
+Shiroma: "I'm okay..."
+
+====Underwater ocean====
+Shiroma: "So... it's okay, don't worry about it."
+
+Shiroma: "Oh... the beautiful...ocean... it looks... like snow..."
+
+Shiroma: "Ah! Ouch..."
+
+Shiroma: "I'm okay, I'm okay..."
+
+Shiroma: "...Can I ask a strange question?'
+
+Shiroma: "Why do you travel with [Mog name]?"
+
+Shiroma: "Do you, like him?"
+
+Shiroma: "Why?"
+
+Shiroma: "So you don't know either...
+
+Shiroma: Of course... I knew I was...adopted...
+
+Shiroma: I kind of sensed I was different. Not because I'm human... but something else.
+
+Shiroma: But, Mrs. Bomb, the Head Magician, Ben, Chubby Chocobo, [Cid name],
+
+Shiroma: they've always been nice to me, from the time I could remember.
+
+Shiroma: I've lived in the village ever since...
+
+Shiroma: So that's why...no... I'm not making it an excuse but...
+
+Shiroma: I'm just fond of everyone in the village.
+
+Shiroma: So even if things are unfriendly now, I know things will go back the way they were.
+
+Shiroma: Isn't it the same with you and [Mog name]?"
+
+Shiroma: "To have the feeling of wanting to care for someone. It's simple, that's all.
+
+Shiroma: I don't mean that it's insignificant. Just...you don't need a reason.
+
+Shiroma: So it doesn't matter. It doesn't matter when or where I was born.
+
+Shiroma: It doesn't even matter what I may be.
+
+Shiroma: ...They say I'm from the future... but I don't know..."
+
+===27F (Sea Floor Dungeon)===
+Ultros: Ge-hahahahah...
+
+Shiroma: "Did you say something?"
+
+Shiroma: "Oh, nevermind..."
+
+Ultros: A girl, a girl, girl... It was worth waiting after all...
+
+Ultros: And there's a tasty looking bird. Today is definitely my lucky day.
+
+Ultros: I, the Great Ultros, haven't had this kind of dinner in quite a while...
+
+Ultros: I, will slobber all over you!
+
+Shiroma: "What!?"
+
+====After defeating Ultros====
+Ultros: "Awww, c'mon... How cruel..."
+
+Shiroma: "...... What an odd monster."
+
+====At the entrance of the Crystal Room====
+Shiroma: "This is..."
+
+Shiroma: "This is the dungeon we were at before...
+
+Shiroma: It collapsed, what's it doing here?
+
+Shiroma: And it looks like everything is new again... like it's alive..."
+
+Shiroma: "...It won't open."
+
+Shiroma: "Maybe there's a trigger that'll open the door..."
+
+Shiroma: "Wha, what?"
+
+Imp: "Kyahahahaha!!"
+
+[Can't open the doors.]
+
+====Cutscene with Glass Goth Z at the Crystal Room====
+Imp: "Kyahahahaha Glass Goth, we got her, Sir."
+
+Glass Goth: "Guh...gah... t, take her away..."
+
+Imp: "Kyahahahaha Yes sir."
+
+Glass Goth: "I, will destroy, everything... This, world, this, time..."
+
+====Returning to Mrs. Bomb's home====
+Mog: "So you're back. How was it? Where's the treasure?"
+
+Mog: "...What's up [player name]?"
+
+Cid: "Ya don't think the little lady was taken?"
+
+Mog: "Who are you, man?"
+
+Cid: "Let's just forget about that fer now pardner.
+
+Cid: That Bahamut fella came to see me...
+
+Cid: Says the monster he was talking about was the one that kidnapped the little lady.
+
+Cid: But...if he had time to come tell me, he should have helped.
+
+Cid: He even had time to point me in the right direction: Snow Mountain.
+
+Cid: It's up ahead in the cavern."
+
+Mrs. Bomb: "Hah! Serves her right. She deserved it."
+
+Cid: "Mrs. Bomb, ya still talkin' like that?
+
+Cid: Of all people, you should know that little lady isn't like that."
+
+Mrs. Bomb: "Just what are you trying to say?"
+
+Cid: "Nevermind ma'am.
+
+Cid: So [player name], yer goin' too, right little fella?"
+
+Cid: "It's gonna be a hard trip through the forest and mountains.
+
+Cid: Ya still wanna go?"
+
+Cid: "I'll wait over yonder, outside the village near the forest entrance."
+
+Mog: "No, if ya say you wanna go, I can't stop you, but..."
+
+==Snow Mountain==
+
+===Crystal blocking the path===
+Cid: "What's this? We can't go on with this!"
+
+Cid: "Eyah!!"
+
+Cid: "Uhyah!!"
+
+Cid: "It's no use. It won't budge."
+
+[That's the problem with you humans. Pathetic.]
+
+Cid: "Just who are you!?"
+
+Mrs. Bomb: "You can't do anything by yourself, can you?"
+
+Cid: "Whatcha doing here?
+
+Cid: This' no place for someone like ya to be. It's dangerous just getting here..."
+
+Mrs. Bomb: "Hah! Don't make me laugh.
+
+Mrs. Bomb: You think I'd lose to a bunch of sad monsters in that dungeon?
+
+Mrs. Bomb: They all chicken out when I act like I'm going to self-destruct. It's all too easy."
+
+Cid: "But why all the way here...?"
+
+Mrs. Bomb: "Stand back......"
+
+Cid: "Wha?"
+
+Mrs. Bomb: "I'm telling you to stand back! Are you deaf!?"
+
+Mrs. Bomb: "I hate to say this, but you were right. I can't go beyond this point.
+
+Mrs. Bomb: I gave it everything just to get here. I'm just not cut out for the cold. I'm a fool.
+
+Mrs. Bomb: But... that child is more of a fool.
+
+Mrs. Bomb: It doesn't matter what the rest of the villagers think.
+
+Mrs. Bomb: She's just a stranger, right? I just decided to care for the human child on a whim.
+
+Mrs. Bomb: But she tries to keep her smile. Even though she's miserable, she hides it.
+
+Mrs. Bomb: I don't know, I just don't know why, but looking at her like that made me even more mad.
+
+Mrs. Bomb: I don't want to blame that dungeon. I don't want to believe that I am such a weak woman.
+
+Mrs. Bomb: Except...I sense it, I can feel there is something ahead of here.
+
+Mrs. Bomb: An entity so much in pain, so vengeful that it makes you feel wretched...
+
+Mrs. Bomb: If I can feel that, then I'm no different than those trapped monsters after all.
+
+Mrs. Bomb: And I can't leave that child in that place.
+
+Mrs. Bomb: I won't be able to see her miserable smile again. I can't have that."
+
+Cid: "Well I'll be..."
+
+Mrs. Bomb: "You're [player name], right? You'll be okay.
+
+Mrs. Bomb: Even if you go on further, you won't get taken in by the dungeon. You're the same as her.
+
+Mrs. Bomb: You know the true meaning of caring for others.
+
+[Please... take care of her...for me."]
+
+====After Mrs. Bomb detonates====
+Cid: "......"
+
+Mrs. Bomb 1: "What's that look for!?"
+
+Mrs. Bomb 2: "D, did you all think I was going to die or something?"
+
+Mrs. Bomb 1: "Give me a break. If I die who's going to take care of the kids?
+
+Mrs. Bomb 1: I just used the age-old family-technique of 'divide and self donate'!"
+
+Mrs. Bomb 2: "A, anyway, hurry it up!!"
+
+Mrs. Bomb 1: "Good luck..."
+
+===23F (Snow Mountain)===
+Glass Goth: "You, brought it... Bring it, closer..."
+
+Cid: "Whatcha saying!? Just give back the little lady!!"
+
+Glass Goth: "With this, I will be able to destroy, everything!
+
+Glass Goth: Destruction, devastation, desolation..."
+
+====After defeating Glass Goth====
+Glass Goth: "It's, not over, yet......"
+
+Cid: "Now, let's go find the little lady..."
+
+Cid: "Let's move on."
+
+====Meeting with Bahamut====
+Cid: "Bahamut, you again!"
+
+Bahamut: "He... is headed for the sea floor dungeon.
+
+Bahamut: He plans to activate that dungeon.
+
+Bahamut: The key was supposed to be the only way to awaken that dungeon...
+
+Bahamut: Either the time has come or his sheer hatred is what is causing it to start..."
+
+Cid: "...Bahamut...
+
+Cid: Who do ya think ya are...?
+
+Cid: The Keeper of Time? That's fine. But I'm only here to help the little lady.
+
+Cid: Awaken? I don't care about that now.
+
+Cid: Why does all this have to happen to the little lady?"
+
+Bahamut: "...... Would the young lady want that?"
+
+Cid: "Whatcha talkin' about?"
+
+Bahamut: "The same key should start the dungeon and return it
+
+Bahamut: to it's proper time. That key lies with the girl and her pendant,
+
+Bahamut: the pendant entrusted to her from the future.
+
+Bahamut: Yes, the one [player name] has..."
+
+Cid: "Whatcha talking about?"
+
+Bahamut: "I believe the girl has the ability to return those to the forsaken future.
+
+Bahamut: The dungeon, Glass Goth, and..."
+
+Cid: "Aw shucks, don't tell me ya'll return the little lady
+
+Cid: and the dungeon to the future...
+
+Cid: What's she supposed to do in the dying future?"
+
+Bahamut: "That is for the young lady to decide. All I can do is observe..."
+
+Cid: "!!! [player name]!! Are ya listening?"
+
+Cid: "It's no use.
+
+Cid: He ain't listening. Even if he was, he wouldn't know anyway..."
+
+Cid: "Hey! Yo! [player name]! Wait up!!"
+
+===At Shiroma's home===
+Chubby Chocobo: "Gramps...I heard [Shiroma name] returned to the future..."
+
+Cid: "Chubby Chocobo, howdy."
+
+Chubby Chocobo: "How can that be... we've been inseparable till now..."
+
+Cid: "It can't be helped. It's what the little lady decided."
+
+Cid: "Anyway...what about that fella? He's been like that ever since..."
+
+Chubby Chocobo: "......"
+
+Cid: "What the heck!?"
+
+====After the cutscene====
+Cid: "Well I'll be. That's the dungeon that sank to the sea bottom!?"
+
+Cid: "Ya mean ya dived down there and saw it with yer own eyes!?"
+
+Cid: "Then... The little lady must be in there!?
+
+Cid: She must be there, along with that fella ya say?"
+
+Cid: "It must be like ya say!
+
+Cid: If that's true, we must go and help her!
+
+Cid: But the problem is that dungeon is in the air...
+
+Cid: How're we gonna drag that sucker down here?
+
+Cid: The only thing we can do is to use Cidwind.
+
+Cid: Chubby Chocobo, please go tell all the villagers our plan.
+
+Cid: I'm sure there is no one who would abandon her after she
+
+Cid: sacrificed herself to help us."
+
+Chubby Chocobo: "Okay!! I'm off!"
+
+Cid: "Awright, I'll wait at the tower.
+
+Cid: Come on over once ya finish yer gettin' ready."
+
+==Cid's Tower (2nd visit)==
+
+===1F (Cid's Tower, 2nd visit)===
+Cid: "Howdy [player name]. My tower's been taken over again.
+
+Cid: With the appearance of that dungeon, those varmints are gettin' uppity.
+
+Cid: Cidwind is at the top of the tower. Can't carry out our plan if we can't get there."
+
+Cid: Move it out [player name]!
+
+===10F (Cid's Tower, 2nd visit)===
+Cid: "...Bahamut, it's you again.
+
+Cid: Ya no longer surprise me with yer random appearances. I'd like to ask ya one thing.
+
+Cid: What is it that ya want? Things ain't goin' yer way so ya've come to me to gripe?"
+
+Bahamut: "The villagers' hearts are starting to open up...towards the girl.
+
+Bahamut: They're opening up towards her after all,
+
+Bahamut: even though the the dungeon is becoming more powerful."
+
+Cid: "Well, her faith in the villagers wasn't wasted after all."
+
+Bahamut: "Her faith...? [Cid name], I have a favor to ask of you."
+
+Cid: "What is it?"
+
+Bahamut: "Command me to give you power."
+
+Cid: "What?"
+
+Bahamut: "Please... I want to observe this era a little longer."
+
+Cid: "Awright.
+
+Cid: Bahamut. Lend us yer power. We cannot go on without yer power."
+
+Bahamut: "That sounds good.
+
+Bahamut: For only now your voice sounds like the voice of time."
+
+Cid: "Hmmm, the fella can be a pain in the behind..."
+
+===14F (Cid's Tower, 2nd visit)===
+Cid: "I'm fighting with the likes of ya again...? I won't lose!!"
+
+===15F (Cid's Tower, 2nd visit)===
+Cid: "These fellas sure are persistent!"
+
+Imp: "Kahahaha, the time for restoration has come!"
+
+====After defeating the Imps again====
+Cid: "Remember, follow the plan. Everyone ready?"
+
+Cid: "Awright then, let's mosey."
+
+====Launching the plan====
+Cid: "Awright, let's mosey."
+
+Cid: "This's [Cid name], How's it looking over here, Chubby Chocobo?"
+
+Chubby Chocobo: "It's all ready. The Head Magician's here too."
+
+Head Magician: "Greetings, Cid
+
+Head Magician: Who would have thought the day would come for us to combine our powers?
+
+Head Magician: Are you still pursuing your odd studies?"
+
+Cid: "Coming from ya, I'll take that as a compliment."
+
+Cid: Gotton and Gauche both came too?"
+
+Gotton: "Gotton, protect, village. Same as, protect, tree."
+
+Cid: "Well then, y'all git to yer posts."
+
+Gotton: "Gotton, understand, okay, okay."
+
+Cid: "Then......
+
+Cid: "We're shoving off, too, [player name]."
+
+====After the destruction====
+Mog: "You're back, [player name]."
+
+Cid: "Whatcha in such a hurry 'bout pardner?"
+
+Mog: "I was thinkin' I should go to that dungeon too..."
+
+Cid: "I bet yer looking for treasure.
+
+Cid: That's no good, we gotta help the little lady."
+
+Mog: "I'll help you look for her.
+
+Mog: Besides, aren't we partners? I can't just let [player name] do all the work."
+
+Cid: "Are you saying ya'll go along too?
+
+Cid: Oh well, looks like I'm making the plan with Bahamut."
+
+Mog: "Yeah, that's good. I'll wait ahead at the forest.
+
+Mog: Sorry 'bout always making you guys go first."
+
+==Final Dungeon==
+
+===Cutscene with Bahamut and Mog on an unnamed realm===
+Mog: "Uh, hey! I've heard about you. You're that Bahamut guy."
+
+Bahamut: "......"
+
+Mog: "What's with you? The silent treatment?
+
+Mog: You're silent and trying to act all cool now, but I've heard about you. You talk a lot."
+
+Bahamut: "......"
+
+Mog: "?? What's wrong? Cat got your tongue?"
+
+Bahamut: "I have times when I am without words...
+
+Bahamut: One of those times happens to be now."
+
+Mog: "......?
+
+Mog: [player name], you know what he's talking about?"
+
+Bahamut: "He, Glass Goth, was the demon that annihilated the future civilization.
+
+Bahamut: I knew that... However, I do not know how or why he existed in the future."
+
+Mog: "You saying that monster in there came from the future?
+
+Mog: Don't worry about him. [player name] will kick his butt."
+
+Bahamut: "So simple...minded...
+
+Bahamut: Glass Goth is not from the future. He is returning here.
+
+Bahamut: It all began here. You should see it.
+
+Bahamut: No, you must see it. The reason for that lies here,
+
+Bahamut: Beyond this screen that displays time..."
+
+====Flashback with Mog at the Crystal Room====
+Mog: "Hey! That's me!
+
+Mog: Wasn't this the giant crystal room from the submerged dungeon?
+
+Mog: Yeah, that was when I chased off that stupid Guz and...
+
+Mog: I was walking along and thinking about how to get the treasure and...
+
+Mog: When I made a grab for the crystal, everything around it started...
+
+Mog: Then I frantically tried to rush outside... And then after that..."
+
+Bahamut: "Yes, everything began with that..."
+
+Guz: "......M, me? Are you talking to me?
+
+Guz: M, my wish? The thing I want most? Are you givin' me something?
+
+Guz: ......I, w, want, power.
+
+Guz: Power... then no one can pick on me. Power... then no one can make fun of me.
+
+Guz: If I had power, If I had power, Power...power..."
+
+Bahamut: "That started it all.
+
+Bahamut: The weak creature called a Guz was given power by the crystal and started evolving."
+
+Mog: "E, evolving?"
+
+Bahamut: "It was an evolution.
+
+Bahamut: An evolution that took longer than you or I could endure.
+
+Bahamut: An eternity passed and when human civilization arrived, the Guz was the powerful Glass Goth..."
+
+====Back to the unnamed realm with Bahamut and Mog====
+Mog: "N, no..."
+
+Bahamut: "This is the truth.
+
+Bahamut: The beginning of everything started here, on this land, in this time.
+
+Bahamut: The dungeon taking all the monsters, the attitude alteration of the villagers,
+
+Bahamut: it all comes from him- his hatred of those who tormented him, his enormous vengeance,
+
+Bahamut: and his desire for great power...
+
+Bahamut: Those strong feelings shifted the space-time continuum and summoned this dungeon from a far
+
+Bahamut: off dimension to take shape here.
+
+Bahamut: It appears his vengeance, his hatred, was more powerful than the girl's determination."
+
+Mog: "I hope you're not blaming me for all this!?
+
+Mog: It's not my fault! It's just his own personal unfair grudge, against all of us!"
+
+Bahamut: "You are an intuitive creature, [Mog name].
+
+Bahamut: You've probably been sensing it without noticing it.
+
+Bahamut: You didn't come to this dungeon because you wanted treasure, did you...?
+
+Bahamut: I'm sure part of it was because you didn't want to be alone.
+
+Bahamut: You didn't want to be away from [player name] either..."
+
+Mog: "Uh..."
+
+Bahamut: "I have spoken the truth."
+
+Mog: "......
+
+Mog: Wh, what is he talking about, eh, [player name]?
+
+Mog: The great [Mog name] isn't the type to take that guy's unfair grudge seriously.
+
+Mog: More than that, it's the treasure... Yeah...treasure..."
+
+===26F (Final Dungeon)===
+Mog: "Oh no! What's this!?"
+
+Glass Goth: "I, I have, I have, power...! Power power...!"
+
+====After defeating Glass Goth Z====
+Glass Goth Z: "Ga, gahahahahaha gahahahahahahahahaha"
+
+Mog: "Whew, I guess it's defeated..."
+
+Mog: "Huh? Whazzat?"
+
+Mog: "Hey, [player name]!!"
+
+Mog: "This looks bad..."
+
+===At the Crystal Room===
+Shiroma: "What are you doing here?"
+
+Shiroma: "What? Just get aboard and you'll tell me later?"
+
+====Chocobo and Mog at Shiroma's home====
+Cid: "Ey! Hurry up and wake up."
+
+Cid: "I wanna say y'all did great but, how about the little lady?"
+
+Mog: "We couldn't find her..."
+
+Cid: "Is that so...?"
+
+Cid: "What, that's not what ya mean?"
+
+Cid: "Ya met up with the little lady but got separated?
+
+Cid: But she should still be safe?"
+
+Cid: "That so... By the way, I found a peculiar lil' fella.
+
+Cid: He seemed so pitiful I brought him along..."
+
+Mog: "Huh? Th, that guy!?"
+
+Mog: "He turned into the Glass thingy guy!
+
+Mog: Because he took our help the wrong way, it's come to this!?"
+
+Cid: "Whaddya mean?"
+
+Cid: Whatcha talkin' about?
+
+====Chip====
+Chip: "Hello everyone. I'm everyone's idol, Chip.
+
+Chip: I'm sure you've all met me before, but if not, please find me.
+
+Chip: Well this is the end for Chocobo's Dungeon. Did you have fun?
+
+Chip: But for those who still wanna adventure with Chocobo and Shiroma,
+
+Chip: we have a special bonus mode for you.
+
+Chip: Look forward to what happens.
+
+Chip: I hope you enjoy it.
+
+Chip: Oh yes yes...
+
+Chip: Please give the reborn guy a new name.
+
+Chip: [Kuz name]? What a great name.
+
+Chip: Take your time and have fun."
+
+====Back to Shiroma's home====
+Shiroma: "It's been awhile. You must be back to do some more adventuring.
+
+Shiroma: This time around, I can even explore a dungeon by myself.
+
+Shiroma: The dungeons you've explored are back again and there's even a secret dungeon.
+
+Shiroma: You might even find an extra ending... There seems to be a lot to do. Have a look around."
+
+Shiroma: "So what do you want to know about?"
+
+Shiroma: "Well then... Be careful and good luck."
+
+==Secret Dungeon==
+
+===30F (Secret Dungeon)===
+Leviathan: Why, why me...?
+
+Leviathan: Why am I a boss?......
+
+Leviathan: You don't want me along that badly......?
+
+Leviathan: Yeah, I know I can't walk. I can only be in the water.
+
+Leviathan: But, I've, I've worked so hard for you all this time..."
+
+Leviathan: "You're so ungrateful!"
+
+====After defeating Leviathan====
+Leviathan: "Why, why, why me...?
+
+==Side Quests==
+
+There's technically no side quests but these are fun stuff you can do to get additional items and learn more of the story in the game.
+
+===Asura===
+Ben: "Looks like my little 'un was lonely here all alone..."
+
+Baby Mo: "Oh, it's you. Daddy's home! Daddy's home!
+
+Baby Mo: Daddy made the most greatest statue there is!"
+
+Baby Mo: "But, I kinda wish mom'd come home too, y'know..."
+
+====Going back to Ben's house====
+Baby Mo: "I'm tryin' to clean up 'round here, but nothin' happens..."
+
+Ben: "I'm tryin' to clean, but nothing happens! No progress at all...
+
+Ben: Isn't there something that'd just clean this whole place up in one fell swoop?"
+
+====Having a Nitro Tonic in the inventory====
+Ben: Hey, you've got something nice there.
+
+Ben: That's it. That's the Nitro. Will you give it me?"
+
+Ben: Oh, once again, thank you."
+
+Ben: Okay! Let's clean this place up!"
+
+====Barbara====
+Baby Mo: Mommy!! Mommy!!"
+
+Barbara: "I'm sorry, darling...
+
+Barbara: There was something wrong with me..."
+
+Ben: "Oh, don't worry. It's all in the past now. Let bygones be bygones.
+
+Ben: I won't be able to quit being a sculptor, though, I'll carve you all something great."
+
+Ben: "Oh, sorry to have to put you through all the trouble..."
+
+Barbara: "No, it's alright.
+
+Barbara: I left without even thinking about your job and everything..."
+
+====Coming back once again to Ben's house====
+Baby Mo: "It's nice that it's clean and all, but it's kinda lonely now.
+
+Baby Mo: Daddy's gone out again...
+
+Baby Mo: But that's okay, cuz' Daddy's the bestest sculptor in the whole world!"
+
+Barbara: I want to make a nice dinner for our child..."
+
+====At Asura's statue====
+Ben: "I can't believe this came out without my knowing...
+
+Ben: As soon as I carved a titan, he appeared."
+
+====After beating the game====
+Ben: "Just you wait, I'll carve you out perfectly...
+
+Ben: But I'll need something to kindle my inspiration...
+
+Ben: Like a fabulous magic stone or something...
+
+====Having a Bahamut Stone in the inventory====
+Ben: Wah? Wow! What a great looking magic stone you have there.
+
+Ben: I beg you to give it to me, if I had it, I could carve this guy out!!"
+
+====Giving a Bahamut Stone to Ben====
+Ben: "Ho ho, thank you. I owe you one.
+
+Ben: Okay, better get workin'..."
+
+Ben: "Hmm, interesting..."
+
+====Returning to Ben====
+Asura: I have retuuuuurned!!
+
+Asura: I have retuuurned! I knew my choice in coming here was correct.
+
+Asura: And you must be the talented sculptor whom Titan was talking about."
+
+Ben: "Uh, ya, I'm the one who carved Titan out, but..."
+
+Asura: "I thank you.
+
+Asura: I'd forgotten my true form,
+
+Asura: so I just turned into a stone to wait for someone to come along and carve me out.
+
+Asura: I'm so glad you carved me out."
+
+Ben: "??? I don't get what you're talking about...
+
+Ben: Besides, I'm not in that mood right now...
+
+Ben: If you wanna return the favor, thank him. Same as with Titan, it's 'cus of him I created you."
+
+Asura: "Understood. I'll lend a hand to this yellow guy over here!"
+
+Asura: So it is!
+
+[Received Asura.]
+
+Asura: You're going to be surprised when you see the real me!!
+
+Asura: Well, bye-bye to you, too!
+
+Ben: "How in tarnation did it come out like that...?
+
+Ben: I thought I was carving something more magnificent...
+
+Ben: Three faces and six arms, and all the power born of those things..."
+
+Ben: Aw, geez. It's just best to go home when you're down."
+
+====Returning to Ben's house for the final time====
+Baby Mo: "Daddy made another great one!"
+
+Ben: "It's good to be able to forget about work when I'm home."
+
+Barbara: "He talks so much about you now.
+
+Barbara: He used to keep everything to himself."
+
+===Gobly and Gobbie===
+Chef le Tonberry: Finally buziness iz picking up. I am busy, busy."
+
+Gobbie: "Ya have terrible taste in picking restaurants luv..."
+
+Gobly: "G, Gobbie, t, this's a, purty, good, place..."
+
+Gobbie: "Oh, ya think so, luv?
+
+Gobbie: "It might be a good place fer people with bad taste like you."
+
+Gobly: "G, Gobbie!"
+
+Gobly: "Wot, blimey!! This ain't no show!
+
+Gobly: "It's 'cus o' blokes like you hangin' around that Gobbie left!"
+
+====After re-entering Tonberry's restaurant====
+Gobbie: "I wonder if he'll give me a gift or wot..?"
+
+Gobly: "Gob, Gobbie, K, keen weather, ain't it?"
+
+Gobbie: "Actually Gobly, there's sumptin' else I want..."
+
+Gobly: "Just tell me, I'll buy ya whatever yer wantin'."
+
+Gobbie: "A lass like me 'ould never ask this, but since you're so dense..."
+
+Gobly: "G, Gobbie..."
+
+Gobly: "What in the world should I give 'er...?"
+
+====Having a Ramuh Stone in the inventory====
+Gobly: "Blimey, that's pretty keen. That neat stone.
+
+Gobly: Ain't that a Ramuh Stone?
+
+Gobly: Can ya give it t' me? Wait, I'll even buy it off ya for 500 Gil. 'ow about it?"
+
+Gobly: Cheers, mate 'ere's yer 500 Gil. Now I've got Gobbie's gift."
+
+====Entering Tonberry's restaurant after giving the stone====
+Gobbie: "I wish he'd at least pick a nice gift."
+
+Gobly: "Gob, Gobbie, diddya like me present?"
+
+Gobbie: "Wot, that ugly thing? O' course not luv. You've got no taste."
+
+Gobly: "Cor blimey..."
+
+Gobly: "Blimey! It's all yer fault. Ya gave me that weird thing!"
+
+Chef le Tonberry: "It lookz like thoze two aren't doing zo well...
+
+Chef le Tonberry: I want to make them a special dish. Zomething with a zuperb zauce..."
+
+====Having the Octopus Essence in the inventory====
+Chef le Tonberry: I think you have ze Octopus Essence, no?
+
+Chef le Tonberry: If I had that, I could make ze legendary dish, Conde Petie!!
+
+Chef le Tonberry: Will you give that item to moi?"
+
+Chef le Tonberry: "Now I can bring thoze two complete happiness!"
+
+====Entering Tonberry's restaurant after giving the essence====
+Gobbie: "That wuz so good, luv. I feel as if I've been purified..."
+
+Chef le Tonberry: "How iz it? How iz the tazte of my Conde Petie?
+
+Chef le Tonberry: This dish, it gives you ze true enlightenment."
+
+Chef le Tonberry: Ze real feelingz are zomething rarely zeen. What a very preciouz thing.
+
+Chef le Tonberry: But eat my dish and you will open right up, oui oui!"
+
+Gobbie: "I'm so embarrassed...!!
+
+Gobly: "Have ya finally realized how hip I am?"
+
+Chef le Tonberry: "Zomething wonderful haz happened.
+
+Chef le Tonberry: "It's not like me to zay theze thingz but..."
+
+====Entering Tonberry's restaurant for the final time====
+Gobly: I'm so glad Gobbie's become such a sweet lass but...
+
+Gobly: ever since she started working 'ere, she pays me no attention..."
+
+Gobbie: "Welcome, luv."
+
+Gobbie: Wot can I do fer ya?"
+
+Gobbie: I'm working 'ere now, luv. I wanna be a great chef just like Tonberry..."
+
+Gobbie: Thank you very much. Gobly and Tonberry sez it's 'cus o' your help, luv.
+
+Gobbie: We'll give ya a special deal from now on, luv.
+
+===Lamy, the Lamia===
+Chef le Tonberry: "Since ze buziness haz improved, I've hired part-time help.
+
+Chef le Tonberry: She workz in ze juice bar below. But that girl iz zo cute, it'z driving me crazy!"
+
+Lamy: "Oh, you're so cute.
+
+Lamy: Well, I was thinking of making an essence drink but,
+
+Lamy: I don't have what I need.
+
+Lamy: What I need is a Plant Essence. Give me one and I'll repay you well.
+
+Lamy: Oh, but wait, I can't let a little one like you have an essence drink.
+
+====Having a Plant Essence in the inventory====
+Lamy: Oh, I see you have a Plant Essence. May I have it?"
+
+====Giving a Plant Essence to Lamy====
+Lamy: "Really? Thank you!
+
+Lamy: The store will do really well now.
+
+Lamy: To repay I'll give you Dragon Essence as a present."
+
+Lamy: "Thank you very much."
+
+====Entering the Juice Bar for the final time====
+Lamy: "Oh, you have a chic Dragon Essence."
+
+Lamy: That essence usually has the same effect as Holy Seed,
+
+Lamy: but if used to combine, it allows you to do both Superior and Merge
+
+Lamy: combines to add ability points and elements at the same time."
+
+===Ramuh===
+Chef le Tonberry: "Oui, oui, a customer.
+
+Chef le Tonberry: Lately that drunken Malboro has kept ze customerz away.
+
+Chef le Tonberry: But I am not ready, because ze drunken Malboro iz driving away all ze customerz."
+
+Drunk Malboro: "What's your problem!! Eh! Yeah you!
+
+Drunk Malboro: You got a problem with me drinking for lunch!? What? You want some bolts!?
+
+Drunk Malboro: But...I can't really do much in this form..."
+
+Drunk Malboro: "<sob> <sob>..."
+
+Drunk Malboro: "Wahhhh."
+
+====Having no Thunder books in the inventory====
+Drunk Malboro: But hey...you don't have no more Thunder Books..."
+
+Drunk Malboro: "I'll probably stay like this..."
+
+====Having a Thunder book in the inventory====
+Drunk Malboro: "Uhh...uh...huh? Oh? You have a Thunder Book."
+
+Drunk Malboro: "Please, give it to me. Use it on me!!"
+
+Drunk Malboro: "Oh, you'll use it!? Alright, hit me with your best shot! C'mon!"
+
+====One to Six Thunder Books used====
+Drunk Malboro: "Not yet!! That ain't enough to make me 'member my real shape!"
+
+Drunk Malboro: Please, one more time.
+
+====Seven Thunder Books used====
+Drunk Malboro: "Uh wha...? Wow, gazoww!"
+
+Weird Geezer: "I'm back to normal... I'm back..."
+
+Weird Geezer: "We did it. Now I can say good bye to that ugly shape!!"
+
+Weird Geezer: "I got drunk and fell asleep on one of those Morph Traps.
+
+Weird Geezer: Man, I must be losing my touch!!
+
+Weird Geezer: Who would have thought I would turn into a Malboro and not be able to change back...
+
+Weird Geezer: Oh yeah!! It's all because of you. I'd like to reward you."
+
+Ramuh: "I shall assist you!! Call on me whenever you wish."
+
+Ramuh: "Here you go!"
+
+[Received Ramuh.]
+
+Ramuh: "Good, good. Well then, good bye!!"
+
+Chef le Tonberry: "Oui, oui, you are zurprised, no?
+
+Chef le Tonberry: Who'd have expected ze strange old man would turn into a drunk Malboro?
+
+Chef le Tonberry: But finally customerz will start coming back. I am zo happy!"
+
+===Titan===
+Ben: "Yeah, yeah, what do you know...!"
+
+====After defeating Ultros and coming back for Ben====
+Ben: "Um, hey you, Whaddya think is missing?"
+
+Ben: "Hmm... An earthy smell, ya say?"
+
+====Back to Ben====
+Ben: "Hey, you!
+
+Ben: So you think he doesn't smell 'earthy' enough? So...what's 'earthy' smell like?"
+
+Ben: "Huhn? What's that! Heyyyyy, that's a snazzy book ya got there.
+
+Ben: Yeah, yeah that one, gimme that Quake Book there."
+
+Ben: "Oh wow, thanks!"
+
+Ben: Humph... I get it...
+
+====After clearing Snow Mountain and returning to Ben====
+Ben: Whoa...
+
+Titan: "Argh! Being in this stone sure cramped my muscles.
+
+Titan: Thank you for carving me outta that stone.
+
+Titan: I was tired and thought I'd rest while in the stone, and then I ended up like this.
+
+Titan: This seems like a nice place. I must thank you."
+
+Ben: "Uh, yeah...well, as long as I can do what I want, I'm happy.
+
+Ben: I was able to make something incredible like you, so I've got no complaints.
+
+Ben: Looks like I can go home happy today.
+
+Ben: If you want to thank someone, thank that guy over there.
+
+Ben: I wouldn't have been able to make you without his advice."
+
+Titan: "Oh, what a fine boy you are.
+
+Titan: I will follow my mighty friend's advice and thank you, boy."
+
+Titan: Voila! ...Here you go!
+
+[Received Titan.]
+
+Titan: "Call me any time you need me.
+
+Titan: Well you two, I gotta go now. Take care... Farewell!!"
+
+Ben: "Whoopie! This is great!! With my skills I'm one of the best now!
+
+Ben: Today's my day, I tell ya! Time to go home and play with the little 'un!"
+
+===Tree of Life===
+Gauche: "Grow bigger, grow bigger..."
+
+Gauche: "Oh!! A b, bird!"
+
+Gotton: "Gotton, protect, tree.
+
+Gotton: This, tree of life, very, important. But, tree, not healthy. Why?
+
+====Having feathers in the inventory====
+Gotton: Ah, you, have, small, pretty, life. Please, give me.
+
+Gotton: Not, your, life. Shiny, life, you hold, that."
+
+====After giving Gotton a feather====
+Gotton: "Gotton, grateful. Thank, you.
+
+Gotton: Tree, full, of life."
+
+Gotton: "Tree, little, more healthy."
+
+====After giving 2 feathers to Gotton====
+Gauche: "W,would like a n,nut or s,seed from the tree?"
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Chocobo's Dungeon 2: Game Transcript FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To SquareSoft for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=

@@ -1,0 +1,355 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Boss FAQ for Metroid Prime: Hunters. This guide will detail each of the boss battles found within the game. I will be keeping the strategies detailed, and on-point to ensure you beat each of them with ease. [[Bounty Hunter Battles|Bounty Hunters]] have their usual alternate forms and the corresponding weapon used for it. I have also included the [[Mini Bosses|mini bosses]] you have to fight to acquire certain weapons.
+
+Metroid Prime: Hunters is owned by Nintendo. All trademarks are subjected to Nintendo.
+
+Copyright (c) Nintendo.
+
+==Version History==
+
+*Version 1.0 - Dec 28, 2020
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Reading the boss sections==
+
+The guide will list all available boss battles you'll encounter throughout the game. Each boss section will be detailed with the following aspects:
+
+*Difficulty - represented in numbers, out of 5. The higher it is, the difficult it is. Although this is a personal opinion, I tried to tailor it as close as possible on how I fought the bosses.
+*Alt - alternate forms are a secondary state of movement and fighting that several characters, notably Bounty Hunters, have. They are smaller in size and have various unique modes of movement and attack. The alt form weapons are placed in parenthesis.
+*Attacks/Weapons - attacks and weapons used by the boss.
+*Scans - different scans available during the boss battle.
+*Strategy - general description on how to beat the boss.
+
+==Bounty Hunter Battles==
+
+This section will list all boss battles you have with the Hunters, who are after the same thing you are: the [[Octolith Guardians|Octoliths]]. You'll run into them frequently, but this section assumes the first time you meet them - they're harder to beat the first time but easier the next time you face them. Each Hunter has his own special ability that can be activated by using a specific weapon.
+
+===Kanden===
+
+*Difficulty: 2/5
+*Alt: Stinglarva (Larva Bomb)
+*Weapons: Volt Driver - Disrupts your visor for a few seconds.
+*Scans: Kanden, Stinglarva
+
+=--STRATEGY--=
+Kanden is pretty easy for your first battle. When you first meet him, he'll turn into the Stinglarva and... squirm away. Follow him and when he sees you, he'll turn into the Stinglarva once again. Shoot him from a distance unless you want to get hit by his homing tail-bombs. When he goes into his biped mode, he'll go to the platform in the middle and start to shoot giant electric bolts at you or small rapid shots. Avoid them by strafing to the left or right, all while continuing to shoot him. When he starts to charge towards you, (when he has low health) run backwards while shooting him and go into morph ball when he goes to his alt. At this time, drop bombs to dish out some more damage. 
+=-=
+
+===Spire===
+
+*Difficulty: 2/5
+*Alt: Dialanche (Fire Blade)
+*Weapons: [[Fire Spawn|Magmaul]] - Sets you on fire for a few seconds, losing energy on the way.
+*Scans: Spire, Dialanche
+
+=--STRATEGY--=
+It starts off a little tricky, as soon as you enter the battle, he'll attack you from a high ledge, so you'll have to shoot him from the ground. When he takes enough hits, a mini-cut scene will show you which door you have to go to. When you go to the room to the right after you enter, you'll be trapped. Destroy the portal-looking things the rollers are coming out of. Once done, Spire will attack you from an open hole above. Shoot him until he jumps in the room. It'll be a little cramped in there, but he'll be in hisalt form the whole time in there, and he just goes around in circles, so strafe and shoot him down until he runs away. Follow him and he'll be in a high ledge. Shoot him while strafing and he'll jump down.
+
+When he's on your level, run backwards and keep shooting him. Strafe while you run too. You don't need to use your missiles, but if you're having a little trouble, use them. When he turns into his alt, avoid him by jumping until he returns to his biped. Keep shooting him and repeat.
+=-=
+
+===Weavel===
+
+*Difficulty: 3/5
+*Alt: Halfturret (Halfturret slice)
+*Weapons: Battlehammer - Knocks you back and has good blast radius.
+*Scans: Weavel, Halfturret (torso or turret, it doesn't matter.)
+
+=--STRATEGY--=
+Now, you will get hit by Weavel, so turn off your sound if you get distracted too much. Strafe around the room while shooting him like crazy until he reaches his Halfturret mode. You shouldn't lose much health if you continue to strafe and shoot. Anyway, once in Halfturret mode, he'll be much easier - he might not even hit you! Strafe or run backwards around the room (adjust your runs as you do so) while shooting the upper half of his body. If you strafe around the room, the turret won't be able to hit you. Continue to shoot the upper half until he retreats into the tunnel. Now you might have to take out the turret, but that won't be hard.
+
+Follow him at the end of the tunnel and quickly turn into your biped mode and start shooting Weavel. Don't worry about getting hit. Strafe around the sand area (with the zoomers) and try to aim for headshots. Once in Halfturret mode, do the same procedure and he should be down. If you need health or ammo, shoot the plants or the zoomers.
+=-=
+
+===Sylux===
+
+*Difficulty: 3/5
+*Alt: Lockjaw (Electric Bomb)
+*Weapons: Shock Coil - Heals Sylux
+*Scans: Sylux, Lockjaw
+
+====Delano 7====
+*Difficulty: 2/5
+*Weapons: Autocannon
+*Scans: Sylux, Lockjaw, Delano 7 (as an object scan)
+
+=--STRATEGY--=
+He's pretty tough. He has a good amount of HP and his attack is pretty 
+strong for a weapon like that. If you stay in the range of his weapon, which is pretty long, you'll be in a world of hurt. First, scan him then run as back as you can while trying to shoot him with your Power Beam or Battlehammer. It'll be a little tough aiming but try. You'll then have to turn or you'll be against a wall. Circle around this path. When he 
+turns into Lockjaw, he'll hover away most of the time, but don't follow him. Instead, cut him off and shoot him. When he comes close to you, jump to avoid him and the trip wires.
+
+When you damage him enough, he'll go the area that was once closed. Once you enter the area you followed him into, the entrance will close and he'll start attacking you. Strafing doesn't help here as the Shock Coil has good accuracy. Shoot him from where you are or go to the very left and down in the room. You'll be in a corner then shoot him when he pops in. He'll constantly switch between his alt and his biped, so the Shock Coil isn't much of a threat anymore.
+
+When you damage him enough, his gunship, [[Delano 7|Delano 7]], will come in and attack. Scan it and go back in the corner. If you stay there, the [[Delano 7|Delano 7]] won't be able to hit you. Keep shooting Sylux when he pops in but don't get out or else you'll get hurt. You can also get behind the crate in that corner and that [[Delano 7|Delano 7]]'s and Sylux's attacks won't hurt you. However, the crate can only take so much, so shoot [[Delano 7|Delano 7]]'s hull to temporarily drop its weapons and shoot Sylux after. Don't shoot the crate though. When the crate finally gives in, take the Large health pack and continue with the strategy above.
+=-=
+
+===Noxus===
+
+*Difficulty: 4/5
+*Alt: Vhoscythe (Spin Attack)
+*Weapons: Judicator - A charged shot can freeze you.
+*Scans: Noxus, Vhoscythe
+
+=--STRATEGY--=
+Noxus can be tough if you stay in the small area that you entered. The reason he's such a pain is that he can freeze you and can deal extra damage when he froze you. Get into the open area where he was fighting Trace and shoot him with your Power Beam or Battlehammer from there. If he comes running at you with a charged shot, get into morph ball form and boost away or go up the ramp and jump down to try to lose him. When he turns into his alt, it'll be a little easier. Jump to avoid him and keep shooting him.
+
+When he goes under the ramp, go back into the room you entered and blast him away with your missles from there. Don't worry, he won't move from that spot. He'll still shoot, but they'll be single shots. If you do go out in the open, [[Trace|Trace]] will snipe you multiple times, so don't do that. Continue with that strategy and he should go down.
+=-=
+
+===Trace===
+
+*Difficulty: 3/5
+*Alt: Triskelion (Jump Strike)
+*Weapons: [[Arctic Spawn|Imperialist]] - Turns Trace invisible, sniping weapon.
+*Scans: Trace, Triskelion
+
+=--STRATEGY--=
+The first time you meet him, he'll be fighting with [[Noxus|Noxus]]. You'll want to kill him then and there, but don't since he'll somehow get the ability to fire his weapon really fast and that's bad for your health. The second time will be when you're trying to go to your ship before time runs out. 
+
+This battle is timed, but it should be enough time to beat him. When you first fight him, he'll be upon a ledge sniping you. Shoot him from the ground until he comes down. When he goes into Triskelion, jump to avoid him, but do it quickly because his dash attack hurts. After you deal enough damage, he'll run. Quickly follow him or else he'll turn invisible and you'll have a tough time trying to find him. When you follow him and he starts to stop, don't shoot him. Instead, charge up your Judicator, making sure the one shot before the charge doesn't hit him. Use this and shoot him from a distance. Then continue the strategy.
+
+You can also shoot the plants when he's invisible for health. He spends most of his time in the Triskelion. Repeat the strategy and he should go down. His defense isn't as great as the other hunters so it shouldn't be a problem.
+=-=
+
+==Octolith Guardians==
+
+These bosses guard the eight octoliths in the game. You fight two of them: Cretaphid and Slench. However, you're gonna fight 4 versions of each of them to get all the octoliths.
+
+===Cretaphid, version 1===
+
+*Difficulty: 2/5
+*Attacks: 3 - 4 Lasers
+*Scans: Cretaphid v1
+
+=--STRATEGY--=
+First of all, scan it then you have to destroy the blue orbs surrounding it while staying in between 2 of the lasers that it fires. Once done, a cube will appear at the very top of the Cretaphid. Shoot it with your power beam or knock some missiles into it. When it goes back inside, the lasers will move down a level. Continue the same tactic for this level and the next. When the lasers reach the bottom, it'll be a little trickier, but difficult to master. The lasers will move up and down, but that won't be a problem if you stay in between. It should fall down in no time.
+=-=
+
+===Slench, version 1===
+
+*Difficulty: 2/5
+*Attacks: Green Venom Torpedo, Deutrium Laser, (3) Energy Blasters
+*Scans: Slench 1a, Slench 1b, Energy Blasters
+
+=--STRATEGY--=
+A little challenging than the [[Cretaphid, version 1|the first version of Cretaphid]], but not hard. Scan it first then attack its tentacles. Strafe to avoid the shots the tentacles take and shoot the green energy balls (torpedos) that come out of the eye to get some health and missle
+packs. Don't worry, they go pretty slow. Don't forget to scan the Energy 
+Blasters. When all the tentacles are gone, the eye will detach itself from the wall and it'll enter mode 1b - scan it. Continue to strafe while shooting the red dot in the middle and avoiding its attack (you can afford to get hit once in a while, don't worry).
+
+You can use missiles if you want, but later on, the eye will go faster and they'll miss a lot. When the tentacle at the bottom starts to appear, shoot it for some quick shots and it might even retreat back inside. If you do this quickly, they won't even fire a shot!
+=-=
+
+===Cretaphid, version 2===
+
+*Difficulty: 1/5
+*Attacks: Heat-seeking Plasma Shots
+*Scans: Cretaphid v2
+
+=--STRATEGY--=
+This Cretaphid is just as easy, if not easier, than his [[Cretaphid, version 1|previous version]]. It has no lasers, so all you have to do is strafe around the Cretaphid to avoid the slow-moving Plasma and shoot the blue orbs. Don't bother hitting the blue orbs when it turns red because you can't damage them. Despite that, it's still easy though, and once they turn back into blue, destroy them.
+
+Once the orbs are destroyed, the same cube from your [[Cretaphid, version 1|previous encounter]] will pop up from the top. Blast it with missiles whilst strafing to avoid its attack and repeat. When strafing, don't change direction or else you'll run into the plasma. If you start to lose health, the destroyed orbs will drop some health packs.
+=-=
+
+===Slench, version 2===
+
+*Difficulty: 3/5
+*Attacks: Superheated Magma (Energy Blasters), Green Venom Torpedos
+*Scans: Slench 2a, Slench 2b, Energy Blasters
+
+=--STRATEGY--=
+Slench come backs for his second version. This time, the tentacles fire napalm and has a new magma attack. You can only attack the tentacles with the Judicator, any other weapon will just tickle it. Other than that, it's basically the same thing as the [[Slench, version 1|Slench before it]]. Take all the 3 tentacles down and the eye will detach from the wall and start shooting magma at you. Avoid those or else you'll get burned. Use the charged Judicator on the eye until it screams.
+
+After a while, it'll take another 4 shots to take the tentacles down. Continue to attack them and shoot the eye. If you need health, go to the very back of the room when Slench is in 2a form. Keep shooting the green torpedos for energy packs and UA packs. The magma can't reach you there and you can get the packs wiht your charge shots.
+=-=
+
+===Cretaphid, version 3===
+
+*Difficulty: 3/5
+*Attacks: 3 - 4 Lasers, Heat-seeking Plasma Shots
+*Scans: Cretaphid v3
+
+=--STRATEGY--=
+This version of Cretaphid is basically the same thing as it's predecessors, but combined. Staying in between the lasers won't work here, as the lasers are slower than the plasma. If you stay in between the lasers, the plasma will deplete your health fast. When strafing, try to
+jump over the lasers or run under them while shooting at the orbs around the Cretaphid. Once they're all gone, switch to your missiles and start shooting at the cube. Like the previous versions, strafe around the cube to avoid its shots whilst continuing to attack it with missiles. 
+
+Once you drop it to about 2/3 of its health or after a certain time, the cube will go back in, same as the last versions. Now you have to repeat the process, only that it'll get harder as the lasers move down a level. That's about it.
+=-=
+
+===Slench, version 3===
+
+*Difficulty: 4/5
+*Attacks: Electromagnetic Pulse (Energy Blasters), Green Venom Torpedoes, Ram Attack
+*Scans: Slench 3a, Slench 3b, Energy Blasters
+
+=--STRATEGY--=
+Annoying is the word to describe this third version of Slench. Slench now has new weapons up its... tentacles. The only thing that can hurt them is the Battlehammer, so keep that equipped. The battle starts like the other 2 version. You know the drill: avoid the shots, hit the tentacles, then go for the big eye until it goes in the air.
+
+Once it's in the air, use the Judicator to attack. When it closes up, back away immediately! The ram attack is very annoying since its
+tough to avoid because you have to run far away from the Slench. Just keep shooting its eye, dodge its attacks, then wait until it goes back on the wall.
+
+Now everything will repeat itself. The only changes are that it'll become
+faster and stronger later on in the battle. If you start to run low on health and ammo, do the same thing as in [[Slench, version 2|Slench version 2]] - go to the back of the room and take out your power beam. Shoot the torpedoes and drag the ammo and health packs with your charge beam. Don't worry for the Energy Blasters, they can't reach you there.
+=-=
+
+===Cretaphid, version 4===
+
+*Difficulty: 4/5
+*Attacks: 3 - 4 Lasers, Heat-seeking Plasma Shots
+*Scans: Cretaphid v4
+
+=--STRATEGY--=
+This is the last version of Cretaphid. Battle strategy will be the same as the last three, only it moves around the room plus its laser changed in color and is more powerful. Once again, you'll have to avoid the lasers while you strafe to avoid the plasma shots. You can jump or go under the lasers. Hit the orbs around the Cretaphid as well as blast the cube with missiles when its out. Eventually, it gets faster and the lasers move down one level as its health decreases. If you need health, the orbs occasionally drop health packs for you to get.
+=-=
+
+===Slench, version 4===
+
+*Difficulty: 4/5
+*Attacks: Supercooled Plasma (Energy Blasters), Green Venom Torpedoes, Ram Attack, Rolling Attack
+*Scans: Slench 4a, Slench 4b, Energy Blasters
+
+=--STRATEGY--=
+Slench now hangs from the ceiling plus the Plasma shots are upgraded to freeze you and can hit you whereever you go. In its 4b form, instead of floating, it immediatly drops to the bottom and starts rolling in a predictable circular motion. You can't damage it, so go to a far end of a corner and wait.
+
+Keep it mind that the only way to damage the tentacles is the [[Fire Spawn|Magmaul]]. Once all three tentacles are gone, avoid the rolling attack and attack the eye with the [[Fire Spawn|Magmaul]] or the Volt Driver. Keep strafing to avoid the plasma shots and back away from Slench when it's about to ram you. You can go into your morph ball or run. There are a lot of torpedoes 
+here too, so shoot them for health and ammo. Don't wait too long at the door because the plasma will hit you. Keep damaging the green torpedoes until it retreats to the ceiling. Repeat the process and it will be defeated.
+=-=
+
+==Final Boss==
+
+You can battle the [[Gorea, version 2|second version of Gorea]] by following these instructions during the battle with his [[Gorea, version 1|first version]] and before beating him. During your [[Gorea, version 1|first boss battle with Gorea]], you've probably spotted some multi-colored orbs along the wall of the arena. Each of them corresponds to the weapons you need to use. You can't just shoot them in any order because you need to follow the exact order here:
+
+*Yellow - Volt Driver
+*Green - Battlehammer
+*Orange - [[Fire Spawn|Magmaul]]
+*Blue - Shock Coil
+*Purple - Judicator
+*Red - [[Arctic Spawn|Imperialist]]
+
+The ''blue orb'' is a little tricky, since the Shock Coil has a lower firing range. Simply get close to it and jump up while still firing the Shock Coil. You'll most likely have to get over the electric floor, but it's not that bad so don't worry about it. Whether you followed the shooting instructions above or not, you either get the ''bad ending'' or a cutscene leading up to the [[Gorea, version 2|Gorea second boss battle]].
+
+===Gorea, version 1===
+
+*Difficulty: 3/5
+*Attacks: All the Hunter's weapons (with affinity), Slam, Tentacle, Trocra
+*Scans: Gorea, Gorea (when Seal Sphere appears), Gorea Arm, Gorea Seal Sphere, Trocra
+
+=--STRATEGY--=
+Gorea's your final boss but not so tough, in my opinion. He's still a worthy opponent. This huge arena has a giant electric cirlce floor that serves as a boundary if you venture too far. Gorea's weakness depends on what color he changes into and what weapons is used for it. Here's a breakdown of that:
+
+*Yellow - Volt Driver
+*Green - Battlehammer
+*Purple - Judicator
+*Orange - [[Fire Spawn|Magmaul]]
+*Blue - Shock Coil
+*Red - [[Arctic Spawn|Imperialist]]
+
+I noticed that Gorea changes in that order. You can face him for his second version if you attack the orbs in a specific order, which is detailed in the [[Final Boss|previous section]]. Anyways, use those weapons on their designated colors on Gorea's shoulders. They each have a giant glowing orb. I recommend using the Shock Coil or the [[Arctic Spawn|Imperialist]] for the blue orb. If you're using the Shock Coil, wait until he turns blue and hold the fire button. Aim for the front of his shoulders and if you're too late and he turns red, fire the [[Arctic Spawn|Imperialist]]. The [[Arctic Spawn|Imperialist]] should take out the shoulders in one hit. If you get to close, he'll slam you with his arms but these can be avoided. Whatever weapon you use, you'll eventually go to the second part of this fight.
+
+The weapon that can harm the Seal Sphere depends on what color Gorea is
+right now. That's why I recommend the Shock Coil or the [[Arctic Spawn|Imperialist]], although [[Arctic Spawn|Imperialist]] can dish out more damage faster. You need to damage the Seal Sphere while strafing to avoid the tentacle until it disappears. If the tentacle does get you, try to shoot the sphere to make the tentacle disappear or you'll have to wait until it slams you to the ground.
+
+Gorea will grab the Trocras from outside the electric floor and start to throw them at you. Avoid them and keep shooting the Seal Sphere. If you need help, you can shoot the Trocras outside the ring for ammo and health. After some damage, Gorea will change back into the first form. Repeat the process and Gorea should go down in no time.
+=-=
+
+===Gorea, version 2===
+
+*Difficulty: 3/5
+*Attacks: Fire Meteor, Laser
+*Scans: Gorea 2
+
+=--STRATEGY--=
+Use the Omega Cannon for this battle because it is the only weapon that can damage Gorea. The battle starts with you on top of a blue platform with Gorea in front of you. Turn back and look for a green diamond below with the Omega Cannon inside. Wait for a Gunship Transmission because it won't open it until you have received it. It shouldn't take
+long to receive the transmission, though, so grab the Omega Cannon and shoot Gorea.
+
+He'll disappear and reappear in either the same spot or somewhere below the blue arena. You can find him by searching or follow where
+the meteors came from. Shoot him whenever you find him. Eventually, he'll go to the blue, swirly arena at the top and the battle gets easier from there.
+
+You can get up to two shots before he disappears into another area of the blue arena or in the lower levels. If you need health, there are Large energy packs lying around and you can also destroy the meteors. Keep doing this and Gorea will be gone.
+
+Congratulations! You have beat the final boss of the game!
+=-=
+
+==Mini Bosses==
+
+For this section, you need to defeat certain enemies to get the [[Fire Spawn|Magmaul]] and the [[Arctic Spawn|Imperialist]].
+
+===Fire Spawn===
+
+*Difficulty: 2/5
+*Attacks: Lava
+*Scans: Fire Spawn
+
+=--STRATEGY--=
+Judicator will inflict more damage than any other weapon in your current disposal since this enemy is made up of fire. This enemy will start to hurl chunks of lava at you with its hands. Quickly get behind the small wall to your left (from where you entered the room). Pop out from behind it and shoot him when you have the chance to. Always avoid the lava because it really hurts.
+
+After you damage it enough, it will go back in the lava and come back up
+in a different position. This time, the Fire Spawn's eye will be closed so
+quickly shoot it when it opens up and go behind that wall. You can also charge up your Judicator when you're behind the wall and let go when it opens its eye. The charged shot will deal some welcomed extra damage. Keep doing this and the Fire Spawn will be gone.
+=-=
+
+===Arctic Spawn===
+
+*Difficulty: 2/5
+*Attacks: Ice
+*Scans: Arctic Spawn
+
+=--STRATEGY--=
+Use the same strategy as you did with [[Fire Spawn|Fire Spawn]]. Arctic Spawn is weak to the [[Fire Spawn|Magmaul]], so use that to your advantage. For this battle, you have no wall and area is larger. Avoid the ice it hurls at you while firing your [[Fire Spawn|Magmaul]] at its eye. Like its [[Fire Spawn|fire version]], the Arctic Spawn will frequently dive into the ice and resurface again a couple of times. It will come back up with it's eye closed. You should charge up your [[Fire Spawn|Magmaul]] when it starts to go into the ice and let it go when it opens its eye. It will deal extra damage and make this mini boss easier.
+=-=
+
+===Guardians===
+
+*Difficulty: 2/5
+*Attacks: All Hunter weapons, Power Beam
+*Scans: Guardian
+
+=--STRATEGY--=
+These enemies are quite annoying with their respawning when you leave the area or a door won't open because they're in the way but they're fairly easy. You will encounter the Guardians in all the planets and space stations. The strategy is focused from the first time you meet them until later on.
+
+The first encounter will have 3 Guardians at a time. Switch to your missiles and start blasting towards their heads. Now these guys can be pretty fast for a beginner, so switch to the power beam if you feel more comfortable with that. Their tactic is to run around the room you're in and shoot at you. They occasionally come towards you. Now the Guardians will hit a lot but the damage you take from them is minimal. That's when
+you should unleash your missiles the most or you can chase them - either way works.
+
+You will be encountering more Guardians along the way. On certain occasions, the guardians can get on a ledge higher than you and sort of sneak up on you. They'll get new weapons to try to kill you with. I'm pretty sure they use every Hunter weapon there is. When you get the Shock Coil, Guardians are a pinch. The Shock Coil's auto-lock works wonders on the constantly moving targets and it depletes energy pretty fast. 
+=-=
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Metroid Prime Hunters: Boss FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Nintendo for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=

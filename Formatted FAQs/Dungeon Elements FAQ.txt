@@ -1,0 +1,224 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Dungeon Elements FAQ for Chocobo's Dungeon 2. This guide will help give you insights on the different elements that comprise a dungeon floor as you play throughout the game. Most of them are present in all dungeons, some of which are exclusive to certain dungeons.
+
+Chocobo's Dungeon 2 is owned by SquareSoft. All trademarks are subjected to SquareSoft.
+
+Copyright (c) SquareSoft.
+
+==Version History==
+
+*Version 1.0 - Dec 28, 2020
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Boxes / Chests==
+
+===Sealed Boxes===
+
+Just like [[Shelves|shelves]] and [[Treasure Chests|treasure chests]], sealed boxes contain random items. They are distinguished by pink boxes in the dungeons. To open them, you must use a spell book corresponding to what the box responds. The following list is a guideline on how to distinguish what spell book you need to use to open them:
+
+*Fire book - Short and faint sound.
+*Blizzard book - Claw scratches in blue.
+*Aero book - Green-colored circle with a '''whoosh''' sound.
+*Thunder book - Sparks of lightning, that seems to resemble voltages.
+*Quake book - Large, faint, and rocky sound.
+
+Despite this, the best way to open them is to use a ''Drain book'', because the box will open no matter what the spell is. Use the guidelines above if you don't have a Drain book in your inventory.
+
+===Thief Boxes===
+
+Exclusive to Cid's Tower and the Secret Dungeon, these boxes require a ''Thief Key'' to open. The Thief Key item is hard to acquire and there's a 50% chance that the Thug monsters in the dungeons drop it. However, items you get from their stash are rare and are strong. These boxes are more common in the Secret Dungeon than in Cid's Tower, from my observation.
+
+===Treasure Chests===
+
+Treasure chests will be randomly available throughout your adventures in Chocobo's Dungeon 2. They provide random items when opened and are far more common than [[Sealed Boxes|Sealed Boxes]] and [[Thief Boxes|Thief Boxes]], because it requires nothing to open unless you don't have space in your inventory to store the item you got from the chests. Always open treasure chests as they provide useful items for you. However, be careful as there's a slim chance you'll get [[Calls Doom|Doom]] instead. Doom will chase you on the entire floor until you reach the next floor.
+
+==Essence Machine==
+
+I couldn't think of a good name for this but this is found in Cid's Tower at 10F where you met Bahamut for the first time. It is located near the exit on the other end when you first enter here. Interact with the green machine before the exit and for ''3,000 Gil'', you can get an ''Octopus Essence''. This essence is useful and can be handed over to Chef le Tonberry at his restaurant in the village to progress during the Gobbly and Gobbie mini quest.
+
+==Generators==
+
+Exclusive to Cid's Tower, generators act similar to [[Torches|Torches]] in other dungeons. By using a ''Thunder book'', you'll be able to reveal all traps on that floor only. This is similar to using the Eye-Drops tonic, as they have the same effect.
+
+==Geysers==
+
+Geysers allow you to get another tonic upon interaction. You use Empty Bottles or a tonic you have in your inventory to get a random tonic. Tonics received from Geysers are randomly named unless you have known the tonic name during your stint inside the dungeon. For example, if you have either kicked or used a tonic named Syrupy and this happens to be a Hi-Potion, when you interact with the Geyser and you got a Syrupy tonic from it, they will be appropriately named as Hi-Potion.
+
+Use Geysers to swap unneeded tonics if there are no [[Recycle Boxes|Recycle Boxes]] around or if you need healing tonics as there's a big chance you'll get them. To fill up all geysers, simply use a Geyser card or hope that the lever you pushed on a floor [[Fills up geysers|fills up geysers]].
+
+==Levers==
+
+All dungeons feature levers that triggers a random event. These events can either be beneficial or bad.
+
+===Calls Doom===
+
+This is a rare phenomenon that turns all monsters into Doom, the annoying shopkeeper you will occasionally see in dungeons who sells random items. For what it's worth, don't bother killing them unless you have a lot of summon stones in your inventory. They are not worth the thrill, in my opinion.
+
+===Calls monsters===
+
+Summons all monsters that appear on that specific floor. For example, if you are in 8F of Cid's Tower, you will not be expecting Thieves to be summoned because they only appear within 9F-12F of the tower. There are at least 4 monsters summoned.
+
+===Does nothing===
+
+There is no effect. This rarely happens though.
+
+===Drops bombs===
+
+Bombs will fall when pressing the lever. This is usually common in Cid's Tower, since Imp Robo monsters may drop bombs. You can kick these bombs or simply stay away from it. They will explode in a 2x2 radius, deal heavy damage, and will destroy any items around the area of effect.
+
+===Drops treasure chests===
+
+This is the most common event that happens when pressing the lever. Items you receive in the chests fall in categories and 3 [[Treasure Chests|treasure chests]] will always fall down. For example, if you got a Fire book on the first chest you opened, you will get books on the other 2 chests, such as another Fire book or maybe a Blizzard book.
+
+===Falling floors===
+
+Random tiles within the scope of the lever will suddenly fall down. If Chocobo falls on a tile, they will be taken to the previous floor, similar to stepping a [[Invisible Traps|Bird's Nest trap]].
+
+===Fills up geysers===
+
+This will fill up all [[Geysers|geysers]] on certain floors of the dungeon. This is usually the phenomenon that triggers if there are [[Geysers|geysers]] present in the floor. In fact, you can create a spring by kicking Crash Stones at a wall in close range. This will create a huge hole, enough to create a [[Geysers|geyser]] for it.
+
+===Hidden passages===
+
+A hidden passage will be open near the vicinity of the lever. Most hidden passages don't really offer anything special other than extra monsters and chests. I have seen this commonly in Cid's Tower.
+
+===Items disappear===
+
+Items within the vicinity of the lever will be removed. It's always advisable to collect items on areas with levers first before pulling them down to avoid them from disappearing.
+
+===Monsters become items===
+
+Monsters within the vicinity of the lever will turn into items. Items will be random and will usually be items that they drop or can be stolen from.
+
+===Reveals traps===
+
+All [[Invisible Traps|invisible traps]] in the floor will be revealed. This is similar to using Eye-Drops tonics.
+
+==Recycle Boxes==
+
+These green-colored house-looking objects inside dungeons are useful for recycling unnecessary items you have in the inventory. You have to swap 2 items here. You can even swap 2 copies of a book. For example, the following combinations are possible:
+
+*2 Fire books
+*1 Fire book, 1 Thunder book
+*1 Potion, 1 Peanut
+
+Similar to [[Geysers|geysers]], you will get a random item here and if the item is a card, claw, peanut, saddle, or tonic, they will get a randomized name, unless this has been previously known during your stint in the dungeon. You cannot, however, recycle any kinds of stones (stones, power stones, crash stones, warp stones), or Empty Bottles. If you have no space in your inventory (unless they are spell books, stones, or empty bottles), they will be dropped instead.
+
+==Shelves==
+
+Shelves help you stock up your inventory with random items. Throughout your adventures, you'll be encountering shelves that may sometimes be accompanied by [[Stoves|stoves]], [[Treasure Chests|treasure chests]], or even both. There are two kinds of shelves.
+
+===Bookshelves===
+
+These shelves are organized and looks like books that are arranged properly. You will get random books on interaction. The books you get are Fire, Blizzard, Aero, Thunder, Quake, Drain, Cantrip, Spell, and MegaSpell books.
+
+===Random shelves===
+
+You will all items in this other shelf, including books that you normally get from [[Bookshelves|bookshelves]]. This one is distinguished by its somewhat dirty, messy appearance compared to the more organized [[Bookshelves|bookshelves]]. One of the most common items you'll be getting are stones (stones, power stones, crash stones, warp stones) and Empty Bottles.
+
+==Stoves==
+
+Stoves are used to upgrade claws and saddles. They are usually accompanied by [[Shelves|shelves]] and it is rare to see it alone without them. To upgrade, you either need a ''Fire book'' or a ''Thunder book'' as well as a minimum of 2 claws/saddles. You can make your equipments stronger by adding seeds and essences if you have them in your inventory. Remember that monster essences can be obtained if you kill a monster using Empty Bottles and it will always do 4 damage. As for seeds, the following seeds can be added to upgrade claws and saddles:
+
+*Earth Seed
+*Fire Seed
+*Fusion Seed
+*Holy Seed
+*Ice Seed
+*Lightning Seed
+*Merge Seed
+*Remove Seed
+*Set Seed
+*Superior Seed
+*Wind Seed
+
+==Torches==
+
+Torches act similar to [[Generators|Generators]] in Cid's Tower. By using a ''Fire book'', you'll be able to reveal all traps on that floor only. This is similar to using the Eye-Drops tonic, as they have the same effect.
+
+==Traps==
+
+Traps will always be present in dungeons, no matter what floor you are in (except floors with boss battles). Traps may prove beneficial or bad and some traps will disappear once their effect is activated. To reveal the traps, you can either do the following:
+
+*Press the X button to kick a tile in front of Chocobo.
+*Push a lever and hoping that it [[Reveals traps|reveals traps]].
+*Use Eye-Drops tonics.
+
+Monsters who first stepped on the trap will not activate it unless Chocobo has stepped on it already. Once Chocobo has stepped on it, monsters take the effect of the trap if they land on the tile. I have categorized two different kinds of traps below.
+
+===Invisible Traps===
+
+Most of the traps are hidden and some of which disappear once they activate. The table below is a list of traps that are initially not visible until stepped on.
+
+|*TRAP NAME |*EFFECT |*DUNGEON APPEARANCES |*DISAPPEARS AFTER ACTIVATION? |
+| Bird's Nest | Drops Chocobo and your partner (in case you have one) down to a previous floor. Has a 50% chance to activate. | Cid's Tower, Snow Mountain, Secret Dungeon | YES |
+| Confusion | Causes confusion for a few turns. This is similar to using a Confusion card. | Mysterious Dungeon, Sea Floor Dungeon, Snow Mountain, Final Dungeon | YES |
+| Frog | Turns the victim into a frog. In the lower levels of the Sea Floor Dungeon, you can use this to your advantage because you can walk through water while in Frog status (including [[Geysers|Geysers]] that are filled up). This is similar to using a Frog card. | Cid's Tower, Sea Floor Dungeon, Snow Mountain, Secret Dungeon | YES |
+| Haste | Speeds up the victim. This is similar to using a Haste tonic. | Mysterious Dungeon, Sea Floor Dungeon, Snow Mountain, Final Dungeon, Secret Dungeon | YES |
+| Invisibility | Makes the victim invisible. This is similar to using an Invis tonic. | Mysterious Dungeon, Sea Floor Dungeon, Snow Mountain, Final Dungeon, Secret Dungeon | YES |
+| Jump | Chocobo skips a tile depending on the direction he stepped the trapped in. This is the only trap that will remain invisible even after activation. | Mysterious Dungeon, Cid's Tower, Sea Floor Dungeon, Final Dungeon, Secret Dungeon | NO |
+| Landmine | Explodes in a 3x3 radius upon contact, causing heavy damage. This will destroy any nearby items as well as create openings near walls. Gnomes, Kobolds, and Spriggans are known to deploy landmines too. Has a 50% chance to activate. This is similar to using a Nitro tonic. | Mysterious Dungeon, Cid's Tower, Sea Floor Dungeon, Snow Mountain, Secret Dungeon | YES |
+| Level UP | Increases Chocobo's level by one. This is similar to using a LevelUp seed. | Mysterious Dungeon, Cid's Tower, Sea Floor Dungeon, Snow Mountain, Final Dungeon | YES |
+| Lost-Child | Forgets the map of that specific floor. If monsters stepped on this trap, they may forget to fight and run away instead. This is similar to using a Lost-Child card. | Mysterious Dungeon, Cid's Tower, Sea Floor Dungeon, Snow Mountain, Final Dungeon, Secret Dungeon | NO |
+| Mini | Turns Chocobo into a miniature version and reduces his normal attacks by half. This is similar to using a Mini card.| Mysterious Dungeon, Cid's Tower, Sea Floor Dungeon, Snow Mountain, Final Dungeon, Secret Dungeon | YES |
+| Morph | Turns Chocobo into one of the monsters on that specific floor. You can use the monster's ability by pressing the L1 button. This is similar to using a Morph tonic. | Mysterious Dungeon, Cid's Tower, Sea Floor Dungeon, Snow Mountain, Final Dungeon, Secret Dungeon | NO |
+| Mud | Lets Chocobo get stucked, unable to move for a few turns. You can still attack monsters in close range. | Mysterious Dungeon, Sea Floor Dungeon, Snow Mountain, Final Dungeon, Secret Dungeon | NO |
+| Poison | Inflicts Poison damage by reducing the victim's HP for a couple of turns. This is similar to using a Poison tonic. | Sea Floor Dungeon, Snow Mountain, Final Dungeon, Secret Dungeon | NO |
+| Silence | Disables the victim from casting any spells. This is similar to using a Silence tonic. | Mysterious Dungeon, Sea Floor Dungeon, Snow Mountain, Final Dungeon, Secret Dungeon | YES |
+| Sleep | Puts the victim to sleep for a few turns upon contact. This is similar to using a Sleep card. | Mysterious Dungeon, Cid's Tower, Sea Floor Dungeon, Snow Mountain, Final Dungeon, Secret Dungeon | NO |
+| Slow | Slows the victim. This is similar to using a Slow tonic. | Mysterious Dungeon, Sea Floor Dungeon, Snow Mountain, Final Dungeon, Secret Dungeon | YES |
+| Spike | Deals moderate damage to the victim's HP upon contact. Has a 50% chance to activate. | Mysterious Dungeon, Cid's Tower, Snow Mountain, Final Dungeon, Secret Dungeon | NO |
+| Spinner | Spins the victim upon contact. If Chocobo lands on it, he will continuously unequip all items first. Afterwards, he will randomly kick items in the inventory after unequipping all equipments. Empty Bottles and tonics that are kicked will be broken if they hit walls. | Cid's Tower, Sea Floor Dungeon, Final Dungeon, Secret Dungeon | NO |
+| Warp (blue) | Teleports the victim to a random location on the same floor. Sometimes, there can be more than 1 warp trap in a single floor. This is similar to using a Warp card or a Warp stone. | Mysterious Dungeon, Cid's Tower, Sea Floor Dungeon, Snow Mountain, Final Dungeon, Secret Dungeon | NO |
+
+===Visible Traps===
+
+These traps are already visible on dungeons. The Slime trap is a special trap as Slug monsters are only capable of placing them in dungeons when they are present.
+
+|*TRAP NAME |*EFFECT |*DUNGEON APPEARANCES |
+| HP Recovery | Regenerates the victim's HP a lot faster. This is distinguished by a blue insignia on tiles. | Mysterious Dungeon, Sea Floor Dungeon, Secret Dungeon |
+| Magic Nullifier | Protects the victim from any spell attacks. This is distinguished by a yellow insignia on tiles. | Mysterious Dungeon, Sea Floor Dungeon, Secret Dungeon |
+| Magic Power | Increases damage from spell attacks. This is distinguished by an orange insignia on tiles. | Mysterious Dungeon, Sea Floor Dungeon |
+| Slime | Same effect as the [[Invisible Traps|Slow trap]], these are placed by Rock Slugs, Garden Slugs, and Slimy Slugs. They look like water puddles when placed. | Snow Mountain |
+| Warp (purple) | Teleports the victim to a fixed location on the same floor. Sometimes, there can be more than 1 warp trap in a single floor. This is distinguished by a purple insignia on tiles. | Mysterious Dungeon, Cid's Tower, Sea Floor Dungeon, Final Dungeon, Secret Dungeon |
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Chocobo's Dungeon 2: Dungeon Elements FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To SquareSoft for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=
