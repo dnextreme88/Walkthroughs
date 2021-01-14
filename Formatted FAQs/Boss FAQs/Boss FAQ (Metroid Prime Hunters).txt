@@ -12,6 +12,9 @@ Copyright (c) Nintendo.
 *Version 1.0 - Dec 28, 2020
 **Submitted the FAQ.
 
+*Version 1.1 - Jan 14, 2021
+**Tips to defeat [[acebrock's contribution 1|Cretaphid, version 4]] and [[acebrock's contribution 2|Slench, version 4]] were contributed by a submitter named acebrock as well as an alternate strategy to the [[Noxus|Noxus]] boss battle was contributed by a submitter named [[Insane Celtic's contribution|Insane Celtic]]. Thank you!
+
 ==Copyright Information==
 
 =--IMPORTANT NOTICE: PLEASE READ--=
@@ -105,6 +108,21 @@ When you damage him enough, his gunship, [[Delano 7|Delano 7]], will come in and
 Noxus can be tough if you stay in the small area that you entered. The reason he's such a pain is that he can freeze you and can deal extra damage when he froze you. Get into the open area where he was fighting Trace and shoot him with your Power Beam or Battlehammer from there. If he comes running at you with a charged shot, get into morph ball form and boost away or go up the ramp and jump down to try to lose him. When he turns into his alt, it'll be a little easier. Jump to avoid him and keep shooting him.
 
 When he goes under the ramp, go back into the room you entered and blast him away with your missles from there. Don't worry, he won't move from that spot. He'll still shoot, but they'll be single shots. If you do go out in the open, [[Trace|Trace]] will snipe you multiple times, so don't do that. Continue with that strategy and he should go down.
+=-=
+
+=====Insane Celtic's contribution=====
+=--NOTE--=
+I received an email from a contributor named Insane Celtic regarding an alternate strategy with Noxus. Here are his exact words in the e-mail I received from him:
+
+"In your guide, you gave Noxus a four-star difficulty and said you should attack him in the outside area. It's actually much easier to wait for him to enter the hallway because:
+
+:: - you can easily shoot him in the face, doing more damage
+:: - he'll only freeze you once or twice if you attack him very fast
+:: - Trace can't hit you, as he stays on top of the bridge
+
+Just my two cents. :) It makes him about 2.5 star difficulty to me."
+
+Credit: ''Insane Celtic''
 =-=
 
 ===Trace===
@@ -213,6 +231,18 @@ faster and stronger later on in the battle. If you start to run low on health an
 This is the last version of Cretaphid. Battle strategy will be the same as the last three, only it moves around the room plus its laser changed in color and is more powerful. Once again, you'll have to avoid the lasers while you strafe to avoid the plasma shots. You can jump or go under the lasers. Hit the orbs around the Cretaphid as well as blast the cube with missiles when its out. Eventually, it gets faster and the lasers move down one level as its health decreases. If you need health, the orbs occasionally drop health packs for you to get.
 =-=
 
+=====acebrock's contribution 1=====
+=--NOTE--=
+I received a tip from a contributor named acebrock regarding an alternate strategy with Cretaphid. Here is what he said:
+
+"On every wall except the one with the door there is a narrow 
+ledge if you jump up on one of those and use the volt driver to destroy each of his eyes you should be safe from his lasers and his ram attack (assuming you don't fall off) and in a position to do a lot of damage.
+
+As for his missiles. they have unique properties that you can use to your advantage. They literally stop in front of you then explode to do damage. A little side to side maneuvering should help you avoid those. Also the volt driver is extremely effective against the crystal."
+
+Credit: ''acebrock''
+=-=
+
 ===Slench, version 4===
 
 *Difficulty: 4/5
@@ -222,8 +252,18 @@ This is the last version of Cretaphid. Battle strategy will be the same as the l
 =--STRATEGY--=
 Slench now hangs from the ceiling plus the Plasma shots are upgraded to freeze you and can hit you whereever you go. In its 4b form, instead of floating, it immediatly drops to the bottom and starts rolling in a predictable circular motion. You can't damage it, so go to a far end of a corner and wait.
 
-Keep it mind that the only way to damage the tentacles is the [[Fire Spawn|Magmaul]]. Once all three tentacles are gone, avoid the rolling attack and attack the eye with the [[Fire Spawn|Magmaul]] or the Volt Driver. Keep strafing to avoid the plasma shots and back away from Slench when it's about to ram you. You can go into your morph ball or run. There are a lot of torpedoes 
-here too, so shoot them for health and ammo. Don't wait too long at the door because the plasma will hit you. Keep damaging the green torpedoes until it retreats to the ceiling. Repeat the process and it will be defeated.
+Keep it mind that the only way to damage the tentacles is the [[Fire Spawn|Magmaul]]. Once all three tentacles are gone, avoid the rolling attack and attack the eye with the [[Fire Spawn|Magmaul]] or the Volt Driver. Keep strafing to avoid the plasma shots and back away from Slench when it's about to ram you. You can go into your morph ball or run. There are a lot of torpedoes here too, so shoot them for health and ammo. Don't wait too long at the door because the plasma will hit you. Keep damaging the green torpedoes until it retreats to the ceiling. Repeat the process and it will be defeated.
+=-=
+
+=====acebrock's contribution 2=====
+=--NOTE--=
+I received anoter tip from a contributor named acebrock regarding an alternate strategy with Slench. Here is what he said:
+
+"Most of what you said was very useful except I found this to be an easy way to get health:
+
+When you need health you should move to the doorway and start shooting at his venom torpedos while moving side to side to avoid his energy blasters while he's stuck to the ceiling. Don't use the opposite wall because he  always shoots one at the door and three at you and you'll want to maximize your chances of getting health."
+
+Credit: ''acebrock''
 =-=
 
 ==Final Boss==
@@ -348,6 +388,8 @@ I would like to thank the following:
 
 *To GameFAQs and SuperCheats for hosting the FAQ.
 *To Nintendo for making the game.
+*To [[Insane Celtic's contribution|Insane Celtic]] for providing me an alternate strategy against [[Noxus|Noxus]].
+*To acebrock for his tips on [[acebrock's contribution 1|Cretaphid, version 4]] and [[acebrock's contribution 2|Slench, version 4]].
 *To you, as the reader.
 
 =-----=

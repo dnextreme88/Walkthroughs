@@ -14,6 +14,9 @@ Copyright (c) Ubisoft.
 *Version 1.0 - Jun 6, 2020
 **Submitted the FAQ.
 
+*Version 1.1 - Jan 14, 2021
+**Added missing notes: [[Cult Orders (Deep North Water Treatment Plant)|Cult Orders (Deep North Water Treatment Plant)]], [[Kenny's note|Kenny's note]], [[RALLYING CALL|RALLYING CALL]], [[Story of Woe|Story of Woe]], [[Open Season|Open Season]], and [[Wolf Beacon Deployment|Wolf Beacon Deployment]].
+
 ==Copyright Information==
 
 =--IMPORTANT NOTICE: PLEASE READ--=
@@ -33,6 +36,24 @@ Location: Found in Dutch's Island in Central Radio Tower. Go inside the warehous
 
 =-----=
 Some of the Eden's Gate followers were spotted in the Silver Lake region again. They've been told time and again they have no permit to build here, yet we've reports of them constructing some kind of small structures. Also, they have been trespassing near the old Roosevelt property. We might need a sterner hand in getting them out of here safely.
+=-=
+
+====Story of Woe====
+
+Location: Found in Dutch's Island in Central Radio Tower. Look for an abandoned truck near the tower. Interact with it and the note is found inside the truck.
+
+=-----=
+Mama,
+
+Please don't tell Dad. I don't understand how he can listen to that ass-hat Father Joseph?? Is Dad joining one of those reaping crews to what, fight our neighbors??
+
+Jack and I stayed out by the Ranger Station where he worked last year. We're ok. We're going away to get married and start a real life.
+
+Armed Eden's Gate folk are everywhere. Please stay safe and try to get dad to see sense.
+
+Love ya,
+
+Mona
 =-=
 
 ===Dutch's Bunker===
@@ -543,6 +564,16 @@ For you I only I got one asking price: if I kick it before you do, I want to be 
 Let me know if you're interested. I got some good stuff for rheumatism.. or epilepsy, or cancer, or anxiety. Just in case.
 
 --Aaron--Mr. Kirby (uh, ask for Tweak)
+=-=
+
+====Open Season====
+
+Location: Found in Henbane River in Peaches Taxidermy. Found near a dead cultist during the side mission ''"Here Kitty, Kitty"'' after crossing the small footbridge.
+
+=-----=
+We got a new enemy of Eden's Gate -- the cougar! These vile beasts have attacked some beloved servants of the Father.
+
+So if you see any cougars -- KILL 'EM!
 =-=
 
 ===Prosperity===
@@ -1115,6 +1146,24 @@ This John Seed man said all I'd have to do is say yes. I could confess, and have
 I'm seeing him tomorrow then. God. I can't wait.
 =-=
 
+===Hyde's Barn===
+
+====Kenny's note====
+
+Location: Found in Holland Valley in Hyde's Barn. It is attached near the locked door of the barn.
+
+=-----=
+Casey:
+
+Everything you need for the Testy Festy is in the barn. Decorations, lockboxes, the whole deal. Stashed it there for ya not too long ago.
+
+It's one of them things, you know? Things go to sh*t, but nothin' keeps you sane like a deep fried testicle festival.
+
+Like in times of war, you still celebrate Christmas, that kind of thing. Well this is our Christmas. Testicle Christmas.
+
+Kenny
+=-=
+
 ===John's Gate===
 
 ====Reaping Instructions====
@@ -1331,6 +1380,30 @@ You've got the only hard copy of the tape that exists in the world. We're hiding
 Lay low until we contact you.
 
 - G. Voronina
+=-=
+
+===Security Gate===
+
+====RALLYING CALL====
+
+Location: Found in Holland Valley in Security Gate. It is found on the guardhouse. Look for a black table inside.
+
+=-----=
+For a moment, our blessed flags covered all land here.
+
+We filled this pocket of the world with the truth and justice.
+
+We put an end to the falsehood and tyranny of oppressive fools.
+
+This coalition of ignorant souls who despise us so will not stop.
+
+Even as The Collapse grows closer, the nonbelievers will come.
+
+They will slay the innocent ones among us to stop what we are doing.
+
+BE OUR SHIELD!
+
+Do everything to protect us from them.
 =-=
 
 ===Seed Boat Launch===
@@ -1594,6 +1667,16 @@ Location: Found in Whitetail Mountains in F.A.N.G. Center. Go inside the mini co
 We found Cheeseburger as a young cub in the dumpster behind a local restaurant. He was an orphan, his mother shot by poachers and left for dead. He was brought to the FANG Center where he was bottle fed and nurtured back to health. While he is kept to a strict diet of berries and fish, from time to time we'll sneak him his favorite snack: cheeseburgers.
 
 Now because of his emotional attachment to humans he could never be released back into the wild. Instead, he has become one of the most beloved residents of the Center.
+=-=
+
+====Wolf Beacon Deployment====
+
+Location: Found in Whitetail Mountains in F.A.N.G. Center. Found in a brown desk table beside a lantern. Look for a blue warehouse building.
+
+=-----=
+Jacob needs us to capture as many live wolves as possible.
+
+Set up the Wolf Beacon at these coordinates and check back in a few hours to see if any have been caught.
 =-=
 
 ===Fort Drubman===
@@ -2202,6 +2285,18 @@ Send these Angels down below to deal with the sinners hiding out in the mine.
 =-=
 
 ===Cult Orders===
+
+====Cult Orders (Deep North Water Treatment Plant)====
+
+Location: Found in Henbane River in Deep North Water Treatment Plant. Look for the warehouse with a "DEEP NORTH" signage into it and the note is found near the door.
+
+=-----=
+Priority Notice!
+
+Run the calculations again. We underestimated the bliss dilution in the water system. We need more volume or a more condensed product.
+
+The longer we make mistakes, the longer the unbelievers suffer without the bliss. Focus on fixing this.
+=-=
 
 ====Cult Orders (Green-Busch Fertilizer Co.)====
 
