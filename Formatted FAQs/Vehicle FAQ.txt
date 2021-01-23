@@ -1,0 +1,585 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Vehicle FAQ for State of Decay: Year One Survival Edition. This guide will list the different statistics of each vehicle found in the game. I based all of its values on the game's files and I only added color variants and their real-life resemblances (this is as accurate as possible). Few of the vehicles are unique and are only spawned once per game such as the [[Jurassic Junction SUV|Jurassic Junction SUV]]. There aren't really that much variety in the car models present in the game because [[Regular Vehicles|regular vehicles]] come with [[Custom Vehicles|custom paintjobs and branding]].
+
+State of Decay: Year One Survival Edition is owned by Undead Labs. All trademarks are subjected to Undead Labs.
+
+Copyright (c) Undead Labs.
+
+==Version History==
+
+*Version 1.0 - Jan 23, 2021
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Regular Vehicles==
+
+Vehicles listed here are those that don't contain custom paintjobs or branding. Some vehicles such as the [[Blue SUV|Blue SUV]] has the same information as the [[SUV|SUV]], except the name. Some vehicles may also come with more than 1 color.
+
+===Blue SUV===
+
+=-----=
+*Acceleration: 0.6
+*Durability: 0.8
+*Handling: 0.6
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 2
+*Description: '''Great rugged sport utility vehicle. Seats four.'''
+*Color variants: blue
+*Real-life vehicle resemblance: 2001 Chevrolet Tahoe
+=-=
+
+===Classic Sedan===
+
+=-----=
+*Acceleration: 0.2
+*Durability: 0.6
+*Handling: 0.2
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.2
+*Weight: 2
+*Description: '''The Titanic of the road, cruising (at low speeds) in a style that only 1987 Detroit could offer.'''
+*Color variants: cream with purple top, dark yellow with cream top, red, white
+*Real-life vehicle resemblance: 1986 Chevrolet Caprice LS-1
+=-=
+
+===Hatchback===
+
+=-----=
+*Acceleration: 0.8
+*Durability: 0.6
+*Handling: 0.8
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 4
+*Top speed: 0.4
+*Weight: 1
+*Description: '''Standard four-door commuter car. Fragile but agile. Space for four.'''
+*Color variants: blue, yellow
+*Real-life vehicle resemblance: Mk3 Volkswagen Golf
+=-=
+
+===High-End Exotic===
+
+=-----=
+*Acceleration: 1.0
+*Durability: 0.2
+*Handling: 0.8
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 2
+*Top speed: 1.0
+*Weight: 1
+*Description: '''Carbon fiber, custom paint, high end shift knob. Compensating for shortcomings can cost a TON! Two racing seats included.'''
+*Color variants: light green with black hood, red, yellow with black hood
+*Real-life vehicle resemblance: 2004 Ford Mustang GTR Concept
+=-=
+
+===Hippie Hatchback===
+
+=-----=
+*Acceleration: 1.0
+*Durability: 0.6
+*Handling: 1.0
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 0
+*Description: '''Peace, love, and happiness went into the custom paint job of this flower-powered four seater.'''
+*Color variants: red
+*Real-life vehicle resemblance: Mk3 Volkswagen Golf
+=-=
+
+===Military SUV===
+
+=-----=
+*Acceleration: 0.8
+*Durability: 1.0
+*Handling: 0.6
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.8
+*Weight: 0
+*Description: '''This is THE black SUV the conspiracy theorists talk about. Your tax dollars put in a great engine and made it very tough. Seats four agents (sunglasses optional).'''
+*Color variants: black
+*Real-life vehicle resemblance: 2005 Ford Expedition
+=-=
+
+===Modern Muscle===
+
+=-----=
+*Acceleration: 0.8
+*Durability: 0.4
+*Handling: 0.8
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 2
+*Top speed: 0.8
+*Weight: 2
+*Description: '''Standard, off the lot neo-muscle. Good acceleration, handling and speed. Red was the cheapest. Two seats.'''
+*Color variants: gray and black
+*Real-life vehicle resemblance: possibly a 1971 Chevrolet Camaro Z28
+=-=
+
+===Modern Pickup===
+
+=-----=
+*Acceleration: 0.6
+*Durability: 0.8
+*Handling: 0.6
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 6
+*Top speed: 0.6
+*Weight: 2
+*Description: '''Rugged, late model farm truck with enough seats to take the family out on the weekend. Seats six in a pinch.'''
+*Color variants: blue with gray bodykit, brown, gray, red, sky blue
+*Real-life vehicle resemblance: 2009 Ford F-150
+=-=
+
+===Modern Sedan===
+
+=-----=
+*Acceleration: 0.4
+*Durability: 0.6
+*Handling: 0.4
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 2
+*Description: '''Modern family sedan, stock. The registration says it's last year's model. Four seats.'''
+*Color variants: blue, white, yellow
+*Real-life vehicle resemblance: Mk4 Volkswagen Jetta
+=-=
+
+===Old Pickup===
+
+=-----=
+*Acceleration: 0.2
+*Durability: 0.6
+*Handling: 0.4
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.4
+*Weight: 2
+*Description: '''Old and reliable, these pickups continue to be a favorite of the farmers who count on them every day. Slow but steady. Room for two in front and two in the bed.'''
+*Color variants: green
+*Real-life vehicle resemblance: 1966 GMC Pickup
+=-=
+
+===Old-School Muscle===
+
+=-----=
+*Acceleration: 0.8
+*Durability: 0.6
+*Handling: 0.2
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 2
+*Top speed: 0.8
+*Weight: 2
+*Description: '''From the era of big American road muscle. Lots of guts but handles like a brick and is short on seats.'''
+*Color variants: green
+*Real-life vehicle resemblance: possibly a 1967 Chevrolet Camaro
+=-=
+
+===Old-School Muscle w/ Style===
+
+=-----=
+*Acceleration: 0.8
+*Durability: 0.6
+*Handling: 0.2
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 2
+*Top speed: 0.8
+*Weight: 1
+*Description: '''Sex. 1981. Sex. Big mustache and aviator shades. Sex. One ride to rule them all. Two faux leather seats.'''
+*Color variants: green
+*Real-life vehicle resemblance: possibly a 1964 Chevrolet Chevelle Malibu Sport Coupe
+=-=
+
+===Police Cruiser (Trumbull Valley)===
+
+=-----=
+*Acceleration: 0.8
+*Durability: 0.8
+*Handling: 0.8
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 1.0
+*Weight: 0
+*Description: '''Trumbull County bought these second hand off the Feds six years ago. They still have great speed and handling. Seats four (two uncomfortably).'''
+*Color variants: light green
+*Real-life vehicle resemblance: Ford Crown Victoria Police Interceptor
+=-=
+
+===Police Cruiser (Danforth)===
+
+=-----=
+*Acceleration: 0.8
+*Durability: 0.8
+*Handling: 0.8
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 1.0
+*Weight: 0
+*Description: '''Danforth standard police cruiser. They have great speed and handling. Seats four (two uncomfortably).'''
+*Color variants: blue
+*Real-life vehicle resemblance: Ford Crown Victoria Police Interceptor
+=-=
+
+===Rally Hatchback===
+
+=-----=
+*Acceleration: 1.0
+*Durability: 0.6
+*Handling: 1.0
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 1
+*Description: '''Top scores for handling and acceleration in its class. Someone put a lot of their rent money into this. Four seater.'''
+*Color variants: orange, red
+*Real-life vehicle resemblance: Mk3 Volkswagen Golf VR6
+=-=
+
+===Rusty Sedan===
+
+=-----=
+*Acceleration: 0.4
+*Durability: 0.6
+*Handling: 0.4
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 2
+*Description: '''Modern sedan in sad condition. Four seats.'''
+*Color variants: brown
+*Real-life vehicle resemblance: Mk4 Volkswagen Jetta
+=-=
+
+===Station Wagon===
+
+=-----=
+*Acceleration: 0.2
+*Durability: 0.8
+*Handling: 0.2
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.2
+*Weight: 1
+*Description: '''Big, slow and handles like a bug stuck in molasses. Sweet fake wood sides and lots of steel. A very tough four seater.'''
+*Color variants: dark, tan
+*Real-life vehicle resemblance: 1986 Chevrolet Caprice Classic Wagon
+=-=
+
+===SUV===
+
+=-----=
+*Acceleration: 0.6
+*Durability: 0.8
+*Handling: 0.6
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 2
+*Description: '''Standard, off the lot SUV. Not a lot of speed but it can take a beating. Seats four.'''
+*Color variants: gray
+*Real-life vehicle resemblance: 2001 Chevrolet Tahoe
+=-=
+
+===Taxi===
+
+=-----=
+*Acceleration: 0.4
+*Durability: 0.6
+*Handling: 0.4
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.2
+*Weight: 2
+*Description: '''This will get you where you need to go, slowly, and for a price. Four seats of unregulated fares await.'''
+*Color variants: yellow
+*Real-life vehicle resemblance: Ford Crown Victoria Police Interceptor
+=-=
+
+==Custom Vehicles==
+
+Vehicles listed here are those that contain custom paintjobs or branding. All vehicles come with 1 color variant only.
+
+===Fiery Pickup===
+
+=-----=
+*Acceleration: 0.6
+*Durability: 0.8
+*Handling: 0.6
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 6
+*Top speed: 0.6
+*Weight: 0
+*Description: '''Custom flame job on this rugged pick-up truck. Seats six in a pinch.'''
+*Color variants: black with blue flames paintjob
+*Real-life vehicle resemblance: 2009 Ford F-150
+=-=
+
+===Jurassic Junction SUV===
+
+=-----=
+*Acceleration: 0.6
+*Durability: 0.8
+*Handling: 0.6
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 0
+*Description: '''Custom paint job on this sport utility vehicle. Seats four.'''
+*Color variants: green and light green bodykit with Jurassic Junction branding
+*Real-life vehicle resemblance: 2001 Chevrolet Tahoe
+=-=
+
+===Military Pickup===
+
+=-----=
+*Acceleration: 0.6
+*Durability: 1.0
+*Handling: 0.8
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 6
+*Top speed: 0.8
+*Weight: 0
+*Description: '''Rugged military vehicle, used domestically where diesel for the HUMMWV might be hard to come by. Six passengers.'''
+*Color variants: green with army paintjob
+*Real-life vehicle resemblance: 2009 Ford F-150
+=-=
+
+===Modern Pickup (Sprang Van Rentals)===
+
+=-----=
+*Acceleration: 0.6
+*Durability: 0.8
+*Handling: 0.6
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 6
+*Top speed: 0.6
+*Weight: 0
+*Description: '''One of the many rentals available from Sprang Van Rental.'''
+*Color variants: yellow with Sprang Van branding
+*Real-life vehicle resemblance: 2009 Ford F-150
+=-=
+
+===Modified Sedan===
+
+=-----=
+*Acceleration: 0.6
+*Durability: 0.4
+*Handling: 0.6
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 4
+*Top speed: 0.8
+*Weight: 2
+*Description: '''Enthusiastically modified with cheap aftermarket parts. Good top end once it gets going. Seats four high school kids.'''
+*Color variants: green with tattoo paintjob on the roof and doors
+*Real-life vehicle resemblance: Mk4 Volkswagen Jetta
+=-=
+
+===Octo Sedan Sport Series===
+
+=-----=
+*Acceleration: 0.4
+*Durability: 0.6
+*Handling: 0.4
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 0
+*Description: '''Modern sporty sedan with an awesome custom paint job. Four seats.'''
+*Color variants: gray with an octopus paintjob
+*Real-life vehicle resemblance: Mk4 Volkswagen Jetta
+=-=
+
+===Old Pickup (custom)===
+
+=-----=
+*Acceleration: 0.2
+*Durability: 0.6
+*Handling: 0.4
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.4
+*Weight: 2
+*Description: '''A lot of time and money went in to restoring and customizing this old classic. Room for two in front and two in the bed.'''
+*Color variants: white with maroon underline
+*Real-life vehicle resemblance: 1966 GMC Pickup
+=-=
+
+===Old-School Muscle w/ Style (custom)===
+
+=-----=
+*Acceleration: 1.0
+*Durability: 0.2
+*Handling: 0.8
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 2
+*Top speed: 1.0
+*Weight: 1
+*Description: '''Carbon fiber, custom paint, high end shift knob. Compensating for shortcomings can cost a TON! Two racing seats included.'''
+*Color variants: black and red
+*Real-life vehicle resemblance: possibly a 1964 Chevrolet Chevelle Malibu Sport Coupe
+=-=
+
+===Patriot Sedan Sport Series===
+
+=-----=
+*Acceleration: 0.4
+*Durability: 0.6
+*Handling: 0.4
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 0
+*Description: '''Modern sporty sedan with patriotic flair. Four seats.'''
+*Color variants: white with U.S. flag paintjob
+*Real-life vehicle resemblance: Mk4 Volkswagen Jetta
+=-=
+
+===Piggy Tow Truck===
+
+=-----=
+*Acceleration: 0.2
+*Durability: 0.6
+*Handling: 0.4
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 2
+*Top speed: 0.4
+*Weight: 0
+*Description: '''Proudly driven down the streets of Marshall in every town parade. Though it's not a functional tow truck, it is often requested to haul breakdowns.'''
+*Color variants: pink
+*Real-life vehicle resemblance: 1966 GMC Pickup
+=-=
+
+===Pizza Delivery===
+
+=-----=
+*Acceleration: 0.8
+*Durability: 0.6
+*Handling: 0.8
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 4
+*Top speed: 0.4
+*Weight: 1
+*Description: '''Beat to sh*t, signals don't work and it smells like anchovies. Papa Fulci spared every expense on this sweet ride. Space for four, or twenty pizzas.'''
+*Color variants: red with blue color on the right passenger door
+*Real-life vehicle resemblance: Mk3 Volkswagen Golf
+=-=
+
+===Prepper SUV===
+
+=-----=
+*Acceleration: 0.6
+*Durability: 1.0
+*Handling: 0.6
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 0
+*Description: '''A tough SUV, built to last through ANY type of apocalypse. Just so happened to be here for the zombie kind.'''
+*Color variants: green camo
+*Real-life vehicle resemblance: 2001 Chevrolet Tahoe
+=-=
+
+===Qwik Clean===
+
+=-----=
+*Acceleration: 1.0
+*Durability: 0.2
+*Handling: 0.8
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 2
+*Top speed: 1.0
+*Weight: 0
+*Description: '''A souped-up promotional vehicle for the Qwik Clean Cleaning Service.'''
+*Color variants: red and black with Qwik Clean branding
+*Real-life vehicle resemblance: 2004 Ford Mustang GTR Concept
+=-=
+
+===Skull SUV===
+
+=-----=
+*Acceleration: 0.6
+*Durability: 0.8
+*Handling: 0.6
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 0
+*Description: '''Purple skull paint job on this sport utility vehicle. Seats four.'''
+*Color variants: black with purple skull paintjob
+*Real-life vehicle resemblance: 2005 Ford Expedition
+=-=
+
+===SUV with Bubbles!===
+
+=-----=
+*Acceleration: 0.6
+*Durability: 0.8
+*Handling: 0.6
+*Maximum inventory capacity: 6
+*Maximum seating capacity: 4
+*Top speed: 0.6
+*Weight: 0
+*Description: '''Beautiful bubble paint job on this sport utillity vehicle. Seats four.'''
+*Color variants: purple with blue tops and bubble paintjob on the hood
+*Real-life vehicle resemblance: 2001 Chevrolet Tahoe
+=-=
+
+===Zap-Cat===
+
+=-----=
+*Acceleration: 0.8
+*Durability: 0.6
+*Handling: 0.2
+*Maximum inventory capacity: 4
+*Maximum seating capacity: 2
+*Top speed: 0.8
+*Weight: 0
+*Description: '''Sweet-ass custom restore on this old American classic.'''
+*Color variants: dark blue with blue tiger paintjob on the hood
+*Real-life vehicle resemblance: 1971 Plymouth Hemi Barracuda
+=-=
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"SOD YOSE: Vehicle FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Undead Labs for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=

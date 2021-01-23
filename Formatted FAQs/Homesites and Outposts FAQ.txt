@@ -1,0 +1,1669 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Homesites and Outposts FAQ for State of Decay: Year One Survival Edition. The guide will give comprehensive details on how to properly manage your [[Homesites|homesite]] and [[Outposts|outposts]] as you play the game. I will also provide tips on how to [[Tips on deploying outposts efficiently|effectively create your outposts]].
+
+State of Decay: Year One Survival Edition is owned by Undead Labs. All trademarks are subjected to Undead Labs.
+
+Copyright (c) Undead Labs.
+
+==Version History==
+
+*Version 1.0 - Jan 23, 2021
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Homesites==
+
+The [[Ranger Station|Ranger Station]] is the only homesite you cannot issue commands into because this is ran by Thomas Ritter, a non-playable survivor. It only serves as introduction to managing your actual homesite as you finish your duties in Mount Tanner. The table below shows the homesite limits of [[Resource caches|resource caches]]. Take note that your storage capacity can be further increased by upgrading your [[Storage Area|Storage Area]] facility. The RV homesite type applies to the ''Breakdown'' DLC only.
+
+|*HOMESITE TYPE |*AMMUNITION |*FOOD |*FUEL |*MATERIALS |*MEDICINE |
+|c RV           |c 25        |c 25  |c 25  |c 25       |c 25      |
+|c Tiny         |c 25        |c 25  |c 25  |c 50       |c 25      |
+|c Small        |c 50        |c 50  |c 50  |c 100      |c 50      |
+|c Medium       |c 80        |c 80  |c 80  |c 160      |c 80      |
+|c Large        |c 100       |c 100 |c 100 |c 200      |c 100     |
+
+===Church of the Ascension===
+
+=-----=
+*Location: Spencer's Mill
+*Indoor facilities: 3
+*Outdoor facilities: 4
+*Number of outposts that can be deployed: 4
+*Number of parking spaces: 1
+*Homesite type: Tiny
+*Relocation requirements: 5 survivors, 20 Materials cache
+*Built-in facilities: [[Cooking Area|Cooking Area]] (Church Kitchen), [[Sleeping Area|Sleeping Area]] (Pastor's Quarters), [[Watchtower|Watchtower]]
+=-=
+
+The [[Medical Area|Medical Area]] here is not considered as a built-in facility because you have to rebuild it if you decide to relocate to this homesite again after initially leaving.
+
+===Kirkman Residence===
+
+=-----=
+*Location: Spencer's Mill
+*Indoor facilities: 5
+*Outdoor facilities: 2
+*Number of outposts that can be deployed: 6
+*Number of parking spaces: 2
+*Homesite type: Small
+*Relocation requirements: 8 survivors, 30 Materials cache
+*Built-in facilities: [[Sleeping Area|Bedroom]], [[Cooking Area|Kitchen]], [[Basic Workshop|Workshop]]
+=-=
+
+===McReady Farmhouse===
+
+=-----=
+*Location: Farmlands
+*Indoor facilities: 6
+*Outdoor facilities: 3
+*Number of outposts that can be deployed: 6
+*Number of parking spaces: 3
+*Homesite type: Small
+*Relocation requirements: 8 survivors, 30 Materials cache
+*Built-in facilities: [[Sleeping Area|Bedroom]] (Bedroom), [[Bunkhouse|Bunkhouse]] (Built In Bunkhouse), [[Cooking Area|Kitchen]] (Farmhouse Kitchen), [[Storage Area|Storage Area]] (Farmhouse Food Storage)
+=-=
+
+===Ranger Station===
+
+=-----=
+*Location: Mt. Tanner
+*Indoor facilities: 2
+*Outdoor facilities: 0
+*Number of outposts that can be deployed: 0
+*Number of parking spaces: 0
+*Homesite type: '''not applicable'''
+*Relocation requirements: '''not applicable'''
+*Built-in facilities: [[Medical Area|Medical Area]], [[Storage Area|Storage Area]]
+=-=
+
+The available action of the [[Medical Area|Medical Area]] facility of this homesite is unique. 
+
+=-----=
+''Heal the Sick''
+
+'''We could use our medical stockpiles to try to heal the sick. I don't really have any influence here, though. I don't think it's up to me.'''
+
+*Requires: 1 Medicine cache
+*Completion time: 1 hour, 12 minutes
+=-=
+
+===Savini Residence===
+
+=-----=
+*Location: Marshall (west)
+*Indoor facilities: 5
+*Outdoor facilities: 3
+*Number of outposts that can be deployed: 6
+*Number of parking spaces: 3
+*Homesite type: Small
+*Relocation requirements: 8 survivors, 30 Materials cache
+*Built-in facilities: [[Sleeping Area|Bedroom]], [[Cooking Area|Kitchen]], [[Library|Library]], [[Watchtower|Watchtower]]
+=-=
+
+===Snyder Trucking Warehouse===
+
+=-----=
+*Location: Marshall (west)
+*Indoor facilities: 5
+*Outdoor facilities: 5
+*Number of outposts that can be deployed: 8
+*Number of parking spaces: 4
+*Homesite type: Medium
+*Relocation requirements: 12 survivors, 50 Materials cache
+*Built-in facilities: [[Sleeping Area|Bedroom]] (Warehouse Lockers), [[Storage Area|Storage Area]] (Warehouse Storage), [[Machine Shop|Machine Shop]] (Snyder Machine Shop)
+=-=
+
+===The Alamo===
+
+=-----=
+*Location: Marshall (east)
+*Indoor facilities: 5
+*Outdoor facilities: 2
+*Number of outposts that can be deployed: 4
+*Number of parking spaces: 3
+*Homesite type: Tiny
+*Relocation requirements: 5 survivors, 20 Materials cache
+*Built-in facilities: [[Cooking Area|Kitchen]] (Alamo Kitchen), [[Storage Area|Storage Area]] (Alamo Food Storage), [[Watchtower|Watchtower]] (Alamo Bell Tower)
+=-=
+
+===Trumbull County Fairgrounds===
+
+=-----=
+*Location: Fairfield
+*Indoor facilities: 5
+*Outdoor facilities: 5
+*Number of outposts that can be deployed: 8
+*Number of parking spaces: 5
+*Homesite type: Medium
+*Relocation requirements: 12 survivors, 50 Materials cache
+*Built-in facilities: [[Dining Area|Dining Area]] (Dining Area), [[Cooking Area|Kitchen]] (Fairgrounds Snack Shop), [[Storage Area|Storage Area]] (Fairgrounds Storage), [[Watchtower|Watchtower]] (Rodeo Bleachers)
+=-=
+
+==Facilities==
+
+Certain facility bonuses turn red if conditions are not met. For example, the Good Night's Sleep bonus from the Pastor's Quarters in [[Church of the Ascension|Church of the Ascension]] homesite requires that everyone must have a bed. This is tied to the Beds bonus, where it provides 8 beds. If your population contains more than 8 people, everyone's stamina will not be increased by 10.
+
+You can easily finish the construction of your facilities if you use the ''Construction Advice'' radio command. This is only available after completing all of ''The Grange''\'s missions. It has a cooldown of 90 in-game minutes. You can also remove facilities if you need to replace them. Removing a facility will always take ''1 minute'' to complete. Facilities that are in disarray cannot be used unless they are fixed. They will always cost 3 [[Influence|Influence]] and takes ''1 minute'' to complete.
+
+===Materials needed===
+
+You'll occasionally hit a snag when building your facilities. Facilities may require certain materials before progress continues. All materials reduce 4 hours to construction time of a specific facility. The following is a list of items Lily will radio you and will ask you to find around Trumbull Valley (take note that there's a lot of these items). Take note that [[Need.RVClean|Need.RVClean]], [[Need.RVEngine|Need.RVEngine]], [[Need.RVTires|Need.RVTires]] apply to the ''Breakdown'' DLC only.
+
+====Need.AdvancedMedical====
+|*ITEM |*FREQUENCY ODDS |
+| Blood Pressure Cuff |c-2 50% |
+| Bonesaw |
+| Forceps |c 90% |
+| I.V. Equipment |c 50% |
+| Saline Solution |c-2 90% |
+| Scalpels |
+| Stethoscope |c 75% |
+| Suturing Needles |c-2 90% |
+| Syringes |
+
+====Need.Ammo====
+|*ITEM |*FREQUENCY ODDS |
+| Casings |c 75% |
+| Gunpowder |c 90% |
+| Lubricant |c 75% |
+| Potassium Nitrate |c 50% |
+| Primers |c 75% |
+
+====Need.AmmoTools====
+|*ITEM |*FREQUENCY ODDS |
+| Powder Scale |c-2 75% |
+| Priming Tool |
+| Shellplates |c 90% |
+| Single-stage Press |c 50% |
+
+====Need.BulkFood====
+|*ITEM |*FREQUENCY ODDS |
+| Canned Ham |c 90% |
+| Canned Tomatoes |c 75% |
+| Ground Beef |c 50% |
+| Hamburger Buns |c 90% |
+| Honey |c 50% |
+| Hot Dogs |c 75% |
+| Mayonnaise |c 50% |
+| Potatoes |c-2 90% |
+| Sloppy Joe Mix |
+| Stew Meat |c 75% |
+
+====Need.Chemistry====
+|*ITEM |*FREQUENCY ODDS |
+| Ammonia |c-2 75% |
+| Beakers |
+| Bunsen Burner |c-2 50% |
+| Hydrochloric Acid |
+| Hydrogen Peroxide |c 75% |
+| Phosphorus |c 50% |
+| Potassium |c-2 75% |
+| Solvents |
+| Test Tubes |c 90% |
+
+====Need.ChemistryResearch====
+|*ITEM |*FREQUENCY ODDS |
+| Beakers |c 75% |
+| Chemistry Textbook |c 90% |
+| Centrifuge |c 50% |
+| Double Boiler |c 75% |
+| Erlenmeyer Flask |c-2 90% |
+| Litmus Paper |
+| Solvents |c 75% |
+| Test Tubes |c 90% |
+
+====Need.ConstructionSimple====
+|*ITEM |*FREQUENCY ODDS |
+| Brackets |c-2 75% |
+| Canvas |
+| Carpenter's Glue |c 90% |
+| Cord |c-2 75% |
+| Hinges |
+| Nails |c 90% |
+| Nuts and Bolts |c-3 75% |
+| Plastic Sheeting |
+| Saws |
+
+====Need.Defenses====
+|*ITEM |*FREQUENCY ODDS |
+| Heavy Gloves |c 90% |
+| Metal Sheeting |c 75% |
+| Rebar |c 90% |
+
+====Need.Electrical====
+|*ITEM |*FREQUENCY ODDS |
+| Capacitors |c-3 75% |
+| Collection of Do-It-Yourself Pamphlets |
+| Copper Wire |
+| Electrician's Tape |c-2 90% |
+| Fuses |
+| Galvanometer |c 50% |
+| Mechanical Engineering Manuals |c 75% |
+| Phase Converter |c 50% |
+| Resistors |c-2 75% |
+| Surge Protector |
+| Switches |c 90% |
+| Wiring |c 75% |
+
+====Need.Explosives====
+|*ITEM |*FREQUENCY ODDS |
+| Bag of Fertilizer |c 90% |
+| Ball Bearings |c-2 75% |
+| Detonator |
+| Gunpowder |c 90% |
+| Nuts and Bolts |c-2 75% |
+| Phosphorus |
+| Potassium Nitrate |c 90% |
+| Primers |c-2 75% |
+| Threaded Pipe Caps |
+
+====Need.ExplosivesResearch====
+|*ITEM |*FREQUENCY ODDS |
+| Chemistry Textbook |c-2 75% |
+| EOD Training Texts |
+| Engineering Textbooks |c 50% |
+| Eye Protection |c-2 90% |
+| Hearing Protection |
+| Heavy Gloves |c-2 50% |
+| Polycarbonate Sheets |
+
+====Need.FancyFood====
+|*ITEM |*FREQUENCY ODDS |
+| Balsamic Vinegar |c-3 75% |
+| Caviar |
+| Champagne |
+| Garlic |c 90% |
+| Honey |c 50% |
+| Olive Oil |c 90% |
+| Puff Pastry |c 75% |
+| Shiitake Mushrooms |c-2 50% |
+| Smoked Oysters |
+| Steaks |c 75% |
+
+====Need.FarmingResearch====
+|*ITEM |*FREQUENCY ODDS |
+| Book on Gardening |c-2 75% |
+| Botany Textbooks |
+| Farmer's Almanac |c-2 90% |
+| Gardening Magazines |
+| History of Farming Book |c 75% |
+| Hydroponics Manuals |c 50% |
+| Soil Analysis Kit |c 75% |
+
+====Need.FitnessPractice====
+|*ITEM |*FREQUENCY ODDS |
+| Athletic Tape |c-7 75% |
+| Fitness Magazine |
+| Jump Rope |
+| Mouth Guards |
+| Sports Drink |
+| Striking Pads |
+| Talcum Powder |
+
+====Need.Flatware====
+|*ITEM |*FREQUENCY ODDS |
+| Bowls |c 75% |
+| Drinking Glasses |c-3 90% |
+| Mugs |
+| Plates |
+| Serving Dishes |c 50% |
+| Teapot |c 75% |
+| Utensils |c 90% |
+
+====Need.FoodPreservation====
+|*ITEM |*FREQUENCY ODDS |
+| Bee Wax |c 50% |
+| Boiler Kettle |c-2 75% |
+| Cans |
+| Drying Racks |c 50% |
+| Jars |c-5 75% |
+| Lye |
+| Salt |
+| Smoker |
+| Vinegar |
+
+====Need.Garden====
+|*ITEM |*FREQUENCY ODDS |
+| Bag of Fertilizer |c-2 90% |
+| Bucket |
+| Garden Rake |c-3 75% |
+| Heavy Gloves |
+| Hedge Shears |
+| Hoe |c 90% |
+| Pesticides |c-2 75% |
+| Seeds |
+| Topsoil |c 90% |
+| Trellis Boards |c 75% |
+
+====Need.HeavyConstruction====
+|*ITEM |*FREQUENCY ODDS |
+| Bricks |c-3 75% |
+| Cinderblocks |
+| Concrete |
+| Copper Pipe |c 90% |
+| Insulation |c-2 75% |
+| Mortar |
+| Rebar |c 90% |
+| Welding Equipment |c 75% |
+
+====Need.HeavyTools====
+|*ITEM |*FREQUENCY ODDS |
+| Circular Saw |c-6 75% |
+| Driver |
+| Jigsaw |
+| Reciprocating Saw |
+| Rotary Tool |
+| Torque Wrench |
+
+====Need.Kitchen====
+|*ITEM |*FREQUENCY ODDS |
+| Cheese Grater |c-8 75% |
+| Chef's Knife |
+| Hot Plate |
+| Pans |
+| Pots |
+| Spatulas |
+| Whisks |
+| Wooden Spoons |
+
+====Need.Linens====
+|*ITEM |*FREQUENCY ODDS |
+| Blanket |c 90% |
+| Folding Cot |c 50% |
+| Pillows |c 75% |
+| Privacy Screens |c 50% |
+| Quilts |c-3 75% |
+| Sheets |
+| SleepingPad |
+
+====Need.Manufacturing====
+|*ITEM |*FREQUENCY ODDS |
+| Bee Wax |c 50% |
+| Carpenter's Glue |c-3 75% |
+| Duct Tape |
+| Nails |
+| Nuts and Bolts |c 90% |
+| Pliers |c-3 75% |
+| Screwdriver |
+| Soldering Iron |
+| Vise |c-2 50% |
+| Wiring |
+| Wood Screws |c 75% |
+
+====Need.Medical====
+|*ITEM |*FREQUENCY ODDS |
+| Antibiotic Ointment |c-2 90% |
+| Bandages |
+| Cotton Swabs |c 75% |
+| Disinfectant |c 90% |
+| Gauze |c-2 75% |
+| Rubbing Alcohol |
+| Super Glue |c 50% |
+
+====Need.MeleePractice====
+|*ITEM |*FREQUENCY ODDS |
+| Athletic Tape |c 75% |
+| Foam Rubber |c 50% |
+| Melee Targets |c-3 75% |
+| Practice Weapons |
+| Striking Pads |
+
+====Need.Meth====
+|*ITEM |*FREQUENCY ODDS |
+| Ammonia |c-2 75% |
+| Erlenmeyer Flask |
+| Hydrogen Iodide |c 50% |
+| Methylamene |c 75% |
+| P2P |c-2 50% |
+| Phosphorous Triiodide |
+| Pseudoephedrine |c-3 75% |
+| Red Phosphorous |
+| Sodium |
+
+====Need.MilitaryResearch====
+|*ITEM |*FREQUENCY ODDS |
+| Army Field Manual |c-4 75% |
+| Book on Firearm Maintenance |
+| Book on Small Unit Tactics |
+| Military Surplus Catalogs |
+
+====Need.Mines====
+|*ITEM |*FREQUENCY ODDS |
+| Accelerant |c-3 75% |
+| Ball Bearings |
+| EOD Training Texts |
+| Det Cord |c-2 90% |
+| Gunpowder |
+| Lunch Boxes |c 50% |
+| Nuts and Bolts |c-5 75% |
+| Paint Cans |
+| Pressure Triggers |
+| Proximity Triggers |
+| Springs |
+
+====Need.Pickling====
+|*ITEM |*FREQUENCY ODDS |
+| Cans |c-4 75% |
+| Dill Seed |
+| Distilled Water |
+| Funnels |
+| Garlic |c-2 90% |
+| Jars |
+| PepperfFlakes |c-3 75% |
+| Pickling Salt |
+| Vinegar |
+
+====Need.Practice====
+|*ITEM |*FREQUENCY ODDS |
+| Athletic Tape |c 75% |
+| Heartrate Monitor |c 50% |
+| Protein Powder |c-5 75% |
+| Running Shoes |
+| Sports Drink |
+| Weight Belts |
+| Weights |
+
+====Need.RVClean====
+|*ITEM |*FREQUENCY ODDS |
+| Bucket |c 75% |
+| Clean Suit |c 90% |
+| Heavy Bag |c 50% |
+| Heavy Gloves |c-6 75% |
+| Hydrochloric Acid |
+| Lye |
+| Plastic Sheeting |
+| Solvents |
+| Steel Wool |
+
+====Need.RVEngine====
+|*ITEM |*FREQUENCY ODDS |
+| Driver |c-7 75% |
+| Duct Tape |
+| Jigsaw |
+| Nuts and Bolts |
+| Rotary Tool |
+| Soldering Iron |
+| Torque Wrench |
+| Vise |c 50% |
+| Welding Equipment |c 75% |
+
+====Need.RVTires====
+|*ITEM |*FREQUENCY ODDS |
+| Duct Tape |c-3 75% |
+| Pliers |
+| Super Glue |
+| Torque Wrench |c 90% |
+
+====Need.Research====
+|*ITEM |*FREQUENCY ODDS |
+| Blueprints |c-8 75% |
+| Camping Guides |
+| Collection of Do-It-Yourself Pamphlets |
+| Doomsday Prepper Guides |
+| Encyclopedia Sets |
+| Mechanical Engineering Manuals |
+| Outdoor Survival Guides |
+| Science and Nature Magazines |
+
+====Need.Science====
+|*ITEM |*FREQUENCY ODDS |
+| Beakers |c-9 75% |
+| Centrifuge |
+| Clean Suit |
+| Dissection Tools |
+| Filters |
+| Microscope |
+| Scales |
+| Solvents |
+| Spectrograph |
+
+====Need.ShootingPractice====
+|*ITEM |*FREQUENCY ODDS |
+| Bore Brush |c 75% |
+| Eye Protection |c 90% |
+| Gun Oil |c 75% |
+| Hearing Protection |c 90% |
+| Pamphlet on Gun Safety |c 75% |
+| Range Finder |c 50% |
+| Sight Adjustment Tools |c 75% |
+| Targets |c 90% |
+
+====Need.Stims====
+|*ITEM |*FREQUENCY ODDS |
+| Caffine Pills |c-4 75% |
+| Coffee |
+| Ritalin |
+| Sports Drink |
+
+====Need.Storage====
+|*ITEM |*FREQUENCY ODDS |
+| Airtight Bags |c-6 75% |
+| Hangers |
+| Labels |
+| Racks |
+| Sealed Bins |
+| Shelf Brackets |
+
+====Need.Suppressor====
+|*ITEM |*FREQUENCY ODDS |
+| Aluminum Pipes |c-6 75% |
+| Baling Wire |
+| Gun Oil |
+| Gunsmith's Manual |
+| Plastic Bottles |
+| Precision Drill Bits |
+| Steel Wool |c 90% |
+| Threading Tools |c-2 75% |
+| Washers |
+
+====Need.Tools====
+|*ITEM |*FREQUENCY ODDS |
+| Nails |c-7 75% |
+| Saws |
+| Screwdriver |
+| Set of Metal Files |
+| Trowel |
+| Washers |
+| Wood Screws |
+
+====Need.Training====
+|*ITEM |*FREQUENCY ODDS |
+| Heavy Bag |c-5 75% |
+| Ropes |
+| Speed Bag |
+| Training Mats |
+| Weights |
+
+The following table below shows items that are defined within the game's files but remain unused:
+
+|*ID |*ITEM NAME |
+| Book_Construction | Book on Home Improvement |
+| Book_Cooking | Cookbook |
+| Book_Vehicles | Book on Car Maintenance |
+| CanOpener | Can Opener |
+| ElectricalLeads | Electrical Leads |
+| FeastIngredient | Turmeric |
+| PowerSupply | Power Supply |
+| Splints | Splints |
+| Wrench | Wrench |
+
+Take note that you'll usually be hunting for random items when building a new facility at your [[Homesites|homesite]]. Actions, besides construction, don't usually require items before completing the action, as they are uncommon. The table below shows which facilities require the type of items needed compiled for your reference.
+
+|*FACILITY |*ACTION |*MATERIALS GROUP |
+|c [[Basic Workshop|Basic Workshop]] |c Construction |c [[Need.ConstructionSimple|Need.ConstructionSimple]], [[Need.Tools|Need.Tools]] |
+|c [[Basic Workshop|Basic Workshop]] / [[Machine Shop|Machine Shop]] / [[Munitions Shop|Munitions Shop]] |c Make Suppressor |c [[Need.Suppressor|Need.Suppressor]] |
+|c [[Basic Workshop|Basic Workshop]] / [[Machine Shop|Machine Shop]] / [[Munitions Shop|Munitions Shop]] |c Make Firecracker |c [[Need.Manufacturing|Need.Manufacturing]], [[Need.Explosives|Need.Explosives]] |
+|c [[Basic Workshop|Basic Workshop]] / [[Machine Shop|Machine Shop]] / [[Munitions Shop|Munitions Shop]] |c Make Flame Fougasse |c [[Need.Explosives|Need.Explosives]] |
+|c [[Workshop|Workshop]] |c Construction |c [[Need.ConstructionSimple|Need.ConstructionSimple]], [[Need.HeavyTools|Need.HeavyTools]] |
+|c [[Machine Shop|Machine Shop]] |c Construction |c [[Need.HeavyConstruction|Need.HeavyConstruction]], [[Need.HeavyTools|Need.HeavyTools]] |
+|c [[Machine Shop|Machine Shop]] / [[Munitions Shop|Munitions Shop]] |c Make Box Mine |c-2 [[Need.Manufacturing|Need.Manufacturing]], [[Need.Mines|Need.Mines]] |
+|c [[Machine Shop|Machine Shop]] / [[Munitions Shop|Munitions Shop]] |c Make Whistling Box Mine |
+|c [[Machine Shop|Machine Shop]] / [[Munitions Shop|Munitions Shop]] |c Make Pipe Bomb |c-2 [[Need.Manufacturing|Need.Manufacturing]], [[Need.Explosives|Need.Explosives]] |
+|c [[Machine Shop|Machine Shop]] / [[Munitions Shop|Munitions Shop]] |c Make Steel Pipe Bomb |
+|c [[Machine Shop|Machine Shop]] / [[Munitions Shop|Munitions Shop]] |c Make Chemical Incendiaries |c [[Need.Chemistry|Need.Chemistry]], [[Need.Meth|Need.Meth]] |
+|c [[Munitions Shop|Munitions Shop]] |c Construction |c [[Need.HeavyConstruction|Need.HeavyConstruction]], [[Need.Explosives|Need.Explosives]] |
+|c [[Munitions Shop|Munitions Shop]] |c Make Ammo |c-9 [[Need.Ammo|Need.Ammo]] |
+|c [[Munitions Shop|Munitions Shop]] |c Make .22 Ammo |
+|c [[Munitions Shop|Munitions Shop]] |c Make 9mm Ammo |
+|c [[Munitions Shop|Munitions Shop]] |c Make .357 Ammo |
+|c [[Munitions Shop|Munitions Shop]] |c Make .40 Ammo |
+|c [[Munitions Shop|Munitions Shop]] |c Make .44 Ammo |
+|c [[Munitions Shop|Munitions Shop]] |c Make .45 Ammo |
+|c [[Munitions Shop|Munitions Shop]] |c Make 5.56mm Ammo |
+|c [[Munitions Shop|Munitions Shop]] |c Make 7.62mm Ammo |
+|c [[Munitions Shop|Munitions Shop]] |c Make .50 BMG Ammo |c-3 [[Need.Ammo|Need.Ammo]] |
+|c [[Munitions Shop|Munitions Shop]] |c Make Shotgun Shells |
+|c [[Munitions Shop|Munitions Shop]] |c Make 40mm Grenades |
+|c [[Munitions Shop|Munitions Shop]] |c Make Incendiary Rounds |c [[Need.Manufacturing|Need.Manufacturing]], [[Need.Mines|Need.Mines]] |
+
+|*FACILITY |*ACTION |*MATERIALS GROUP |
+|c [[Cooking Area|Cooking Area]] |c Construction |c [[Need.ConstructionSimple|Need.ConstructionSimple]], [[Need.Kitchen|Need.Kitchen]] |
+|c [[Cooking Area|Cooking Area]] |c Construction (Alamo, Church, McReady Farmhouse, Trumbull County Warehouse homesites) |c [[Need.ConstructionSimple|Need.ConstructionSimple]] |
+|c [[Cooking Area|Cooking Area]] |c Make Snacks |c-2 [[Need.FancyFood|Need.FancyFood]], [[Need.FoodPreservation|Need.FoodPreservation]] |
+|c [[Cooking Area|Cooking Area]] |c Make Coffee |
+|c [[Cooking Area|Cooking Area]] |c Make Pie |c [[Need.FancyFood|Need.FancyFood]] |
+|c [[Cooking Area|Cooking Area]] |c Cook a Big Meal |c [[Need.Kitchen|Need.Kitchen]], [[Need.BulkFood|Need.BulkFood]] |
+|c [[Cooking Area|Cooking Area]] |c Prepare a Feast |c [[Need.Kitchen|Need.Kitchen]], [[Need.FancyFood|Need.FancyFood]] |
+
+|*FACILITY |*ACTION |*MATERIALS GROUP |
+|c [[Dining Area|Dining Area]] |c Construction |c [[Need.ConstructionSimple|Need.ConstructionSimple]], [[Need.Flatware|Need.Flatware]] |
+
+|*FACILITY |*ACTION |*MATERIALS GROUP |
+|c [[Garden|Garden]] |c Construction |c [[Need.ConstructionSimple|Need.ConstructionSimple]], [[Need.Garden|Need.Garden]] |
+|c [[Greenhouse|Greenhouse]] |c Construction |c [[Need.HeavyConstruction|Need.HeavyConstruction]], [[Need.Garden|Need.Garden]] |
+
+|*FACILITY |*ACTION |*MATERIALS GROUP |
+|c [[Library|Library]] |c Construction |c [[Need.ConstructionSimple|Need.ConstructionSimple]], [[Need.Research|Need.Research]] |
+|c [[Library|Library]] |c Research Ammo Manufacture |c [[Need.AmmoTools|Need.AmmoTools]] |
+|c [[Library|Library]] |c Research Greenhouse Gardening |c [[Need.Research|Need.Research]], [[Need.FarmingResearch|Need.FarmingResearch]] |
+|c [[Library|Library]] |c Research Biodiesel |c [[Need.Research|Need.Research]], [[Need.ChemistryResearch|Need.ChemistryResearch]] |
+|c [[Library|Library]] |c Research Box Mine |c-2 [[Need.Research|Need.Research]], [[Need.MilitaryResearch|Need.MilitaryResearch]] |
+|c [[Library|Library]] |c Research Whistling Box Mine |
+|c [[Library|Library]] |c Research Pipe Bomb |c-3 [[Need.Research|Need.Research]], [[Need.ExplosivesResearch|Need.ExplosivesResearch]] |
+|c [[Library|Library]] |c Research Steel Pipe Bomb |
+|c [[Library|Library]] |c Research Chemical Incendiaries |
+|c [[Library|Library]] |c Research Potent Homemade Stims |c [[Need.Research|Need.Research]], [[Need.ChemistryResearch|Need.ChemistryResearch]] |
+
+|*FACILITY |*ACTION |*MATERIALS GROUP |
+|c [[Medical Area|Medical Area]] |c Construction |c [[Need.ConstructionSimple|Need.ConstructionSimple]], [[Need.Medical|Need.Medical]] |
+|c [[Medical Area|Medical Area]] / [[Infirmary|Infirmary]] |c Construction (Ranger Station homesite only) |c [[Need.ConstructionSimple|Need.ConstructionSimple]] |
+|c [[Infirmary|Infirmary]] |c Construction |c [[Need.ConstructionSimple|Need.ConstructionSimple]], [[Need.AdvancedMedical|Need.AdvancedMedical]] |
+|c [[Medical Lab|Medical Lab]] |c Construction |c [[Need.ConstructionSimple|Need.ConstructionSimple]], [[Need.Science|Need.Science]] |
+|c [[Medical Lab|Medical Lab]] |c Make Mild Stims |c [[Need.Chemistry|Need.Chemistry]], [[Need.Stims|Need.Stims]] |
+|c [[Medical Lab|Medical Lab]] |c Make Potent Stims |c-2 [[Need.Chemistry|Need.Chemistry]], [[Need.Meth|Need.Meth]] |
+|c [[Medical Lab|Medical Lab]] |c Make Homemade Painkillers |
+
+|*FACILITY |*ACTION |*MATERIALS GROUP |
+|c [[Sleeping Area|Sleeping Area]] |c Construction |c [[Need.ConstructionSimple|Need.ConstructionSimple]], [[Need.Linens|Need.Linens]] |
+|c [[Bunkhouse|Bunkhouse]] |c Construction |c [[Need.HeavyConstruction|Need.HeavyConstruction]], [[Need.Linens|Need.Linens]] |
+
+|*FACILITY |*ACTION |*MATERIALS GROUP |
+|c [[Storage Area|Storage Area]] |c Construction |c [[Need.HeavyConstruction|Need.HeavyConstruction]], [[Need.Storage|Need.Storage]] |
+|c [[Food Storage|Food Storage]] |c Construction |c [[Need.ConstructionSimple|Need.ConstructionSimple]], [[Need.Storage|Need.Storage]] |
+|c [[Food Storage|Food Storage]] |c Construction (Ranger Station homesite only) |c [[Need.ConstructionSimple|Need.ConstructionSimple]] |
+|c [[Refrigerated Storage|Refrigerated Storage]] |c Construction |c [[Need.HeavyConstruction|Need.HeavyConstruction]], [[Need.Electrical|Need.Electrical]] |
+
+|*FACILITY |*ACTION |*MATERIALS GROUP |
+|c [[Training Area|Training Area]] / [[Dojo|Dojo]] |c Construction |c [[Need.HeavyConstruction|Need.HeavyConstruction]], [[Need.Training|Need.Training]] |
+|c [[Training Area|Training Area]] / [[Dojo|Dojo]] |c Fitness Regimen |c [[Need.Practice|Need.Practice]], [[Need.FitnessPractice|Need.FitnessPractice]] |
+|c [[Dojo|Dojo]] |c Combat Training |c [[Need.Practice|Need.Practice]], [[Need.MeleePractice|Need.MeleePractice]] |
+
+|*FACILITY |*ACTION |*MATERIALS GROUP |
+|c [[Watchtower|Watchtower]] / [[Shooting Platform|Shooting Platform]] |c Construction |c [[Need.HeavyConstruction|Need.HeavyConstruction]], [[Need.Defenses|Need.Defenses]] |
+|c [[Shooting Platform|Shooting Platform]] |c Firearms Training |c [[Need.Practice|Need.Practice]], [[Need.ShootingPractice|Need.ShootingPractice]] |
+
+===Basic Workshop===
+
+====Set up Basic Workshop====
+
+*Facility bonuses:
+**Dedicated Work Area - '''Automatically repair stored weapons each day... or do it manually at the Supply Locker for 30 Influence.'''
+**Construction Expertise - '''+100% construction rate. REQUIRES TOOL EXPERT.'''
+**Tools Expert - '''Knows a little something about tools and construction.'''
+
+=-----=
+'''We could make the things we need to fight zombies instead of having to scavenge for everything.'''
+
+*Requires: 5 Materials cache, 10 Influence
+*Completion time: 15 minutes
+=-=
+
+=--AVAILABLE ACTIONS--=
+''Make Suppressor''
+
+'''Creates a couple of homemade suppressors.'''
+
+*Requires: 1 Materials cache, 5 Influence
+*Completion time: 30 minutes
+*Output:
+**Homemade Suppressor - '''Cuts down gunshot noise. Decent construction: this one should last 30 shots, give or take.'''
+
+''Make Firecracker''
+
+'''Creates a few homemade firecrackers.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**Firecracker - '''Sudden noises are great for grabbing attention. (Best to toss these and then run or hide.)'''
+
+''Make Flame Fougasse''
+
+'''Creates a few homemade firetraps.'''
+
+*Requires: 1 Fuel cache, 5 Influence
+*Completion time: 15 minutes
+*Output:
+**Flame Fougasse - '''Like a Molotov, but this one's pressure sensitive.'''
+
+''Upgrade to [[Workshop|Workshop]]''
+
+'''A full-fledged workshop would give us the ability to repair cars.'''
+
+*Requires: 25 Materials cache, 50 Influence
+*Completion time: 7 minutes
+=-=
+
+====Workshop====
+
+Inherits the following actions from [[Basic Workshop|Basic Workshop]]: Make Suppressor, Make Firecracker, Make Flame Fougasse
+
+*Facility bonuses:
+**Dedicated Work Area - '''Automatically repair stored weapons each day... or do it manually at the Supply Locker for 30 Influence.'''
+**Construction Expertise - '''+100% construction rate. REQUIRES TOOL EXPERT.'''
+**Tools Expert - '''Knows a little something about tools and construction.'''
+**Decent Tools - '''Automatically repair body and tire damage for vehicles parked overnight.'''
+
+=--AVAILABLE ACTIONS--=
+''Upgrade to [[Machine Shop|Machine Shop]]''
+
+'''We could specialize this workshop to focus on construction and car repair. NEEDS TOOL EXPERT.'''
+
+*Requires: 40 Materials cache, 100 Influence
+*Completion time: 7 minutes
+
+''Upgrade to [[Munitions Shop|Munitions Shop]]''
+
+'''A workshop focused on making explosives and incendiaries.'''
+
+*Requires: 40 Materials cache, 100 Influence
+*Completion time: 7 minutes
+=-=
+
+====Machine Shop====
+
+Inherits the following actions from [[Basic Workshop|Basic Workshop]]: Make Suppressor, Make Firecracker, Make Flame Fougasse
+
+*Facility bonuses:
+**Decent Tools - '''Automatically repair body and tire damage for vehicles parked overnight.'''
+**Tools Expert - '''Knows a little something about tools and construction.'''
+**Power Tools - '''Automatically repair body, engine, and tire damage. Replace lost bumpers and doors.'''
+**Construction Expertise - '''+100% construction rate. REQUIRES TOOL EXPERT.'''
+**Chemistry Expertise - '''Prevents explosives mishaps. REQUIRES CHEMISTRY EXPERT.'''
+
+=--AVAILABLE ACTIONS--=
+''Make Box Mine''
+
+'''Creates a couple of homemade box mines. Small chance of mishap.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 15 minutes
+*Output:
+**Box Mine - '''So what if it's a bunch of nuts and bolts in an old paint can? It still explodes. REQUIRES RESEARCH AT LIBRARY.'''
+
+''Make Whistling Box Mine''
+
+'''Creates a couple of homemade box mines. Small chance of mishap.'''
+
+*Requires: 1 Ammo cache, 1 Materials cache, 5 Influence
+*Completion time: 15 minutes
+*Output:
+**Whistling Box Mine - '''Cram a noisemaker into a homemade mine, and it lures the zombies in before it explodes. Nice.'''
+
+''Make Pipe Bomb''
+
+'''Creates a couple of homemade box mines. Small chance of mishap.'''
+
+*Requires: 1 Ammo cache, 1 Fuel cache, 5 Influence
+*Completion time: 15 minutes
+*Output:
+**Pipe Bomb - '''It\'s a bunch of explosives stuffed into a pipe. What could go wrong?'''
+
+''Make Steel Pipe Bomb''
+
+'''Creates a couple of homemade box mines. Small chance of mishap.'''
+
+*Requires: 1 Ammo cache, 1 Fuel cache, 1 Materials cache, 5 Influence
+*Completion time: 15 minutes
+*Output:
+**Steel Pipe Bomb - '''It\'s a WHOLE bunch of explosives stuffed into a pipe. Extra shrapnel means more dead zombies.'''
+
+''Make Chemical Incendiaries''
+
+'''Creates a few homemade Chemical Incendiaries.'''
+
+*Requires: 1 Medicine cache, 1 Fuel cache, 10 Influence
+*Completion time: 10 minutes
+*Output:
+**Chemical Incendiary - '''Sets zeds on fire. They don\'t seem to like it much. Watch it with this one--it's got a kick.'''
+=-=
+
+====Munitions Shop====
+
+Inherits the following actions from [[Basic Workshop|Basic Workshop]]: Make Suppressor, Make Firecracker, Make Flame Fougasse
+
+Inherits the following actions from [[Machine Shop|Machine Shop]]: Make Box Mine, Make Whistling Box Mine, Make Pipe Bomb, Make Steel Pipe Bomb, Make Chemical Incendiaries
+
+*Facility bonuses:
+**Dedicated Work Area - '''Automatically repair stored weapons each day... or do it manually at the Supply Locker for 30 Influence.'''
+**Construction Expertise - '''+100% construction rate. REQUIRES TOOL EXPERT.'''
+**Tools Expert - '''Knows a little something about tools and construction.'''
+**Decent Tools - '''Automatically repair body and tire damage for vehicles parked overnight.'''
+**Chemistry Equipment - '''Allows the creation of explosives, in addition to basic vehicle repairs.'''
+**Chemistry Expertise - '''Prevents explosives mishaps. REQUIRES CHEMISTRY EXPERT.'''
+**Chemistry Expert - '''Big fan of Professor Poliakoff.'''
+
+=--AVAILABLE ACTIONS--=
+''Make Ammo''
+
+'''Refills some brass to generate several magazines\' worth of ammunition.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**Ammunition - '''Individual rounds loaded into magazines for use in the field.'''
+
+''Make .22 Ammo''
+
+'''Refills some brass to generate several magazines\' worth of .22-caliber ammunition.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**.22-caliber Ammunition - '''Small caliber rounds for pistols, revolvers, rifles, and SMGs.'''
+
+''Make 9mm Ammo''
+
+'''Refills some brass to generate a few magazines\' worth of 9mm ammunition.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**9mm Ammunition - '''Small caliber rounds for pistols, revolvers, and rifles.'''
+
+''Make .357 Ammo''
+
+'''Refills some brass to generate several magazines\' worth of .357-caliber ammunition.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**.357-caliber Ammunition - '''Powerful round for revolvers and some rifles.'''
+
+''Make .40 Ammo''
+
+'''Refills some brass to generate several magazines\' worth of .40-caliber ammunition.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**.40-caliber Ammunition - '''Mid-range round for pistols and some submachineguns.'''
+
+''Make .44 Ammo''
+
+'''Refills some brass to generate several magazines\' worth of .44-caliber ammunition.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**.44-caliber Ammunition - '''Powerful round primarily for revolvers and some rifles.'''
+
+''Make .45 Ammo''
+
+'''Refills some brass to generate a few magazines\' worth of .45-caliber ammunition.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**.45-caliber Ammunition - '''Powerful mid-range workhorse for pistols, some revolvers and rifles.'''
+
+''Make 5.56mm Ammo''
+
+'''Refills some brass to generate a few magazines\' worth of 5.56mm ammunition.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**5.56mm Ammunition - '''Standard NATO battle rifle caliber, includes the .223 caliber family of rounds as well.'''
+
+''Make 7.62mm Ammo''
+
+'''Refills some brass to generate a few magazines\' worth of 7.62mm ammunition.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**7.62mm Ammunition - '''Powerful round used the world over, includes the entirety of the thirty caliber family of rifle ammunition. Used by battle rifles and long ranges rifles.'''
+
+''Make .50 BMG Ammo''
+
+'''Refills some brass to generate a few magazines\' worth of .50 BMG ammunition.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 10 minutes
+*Output:
+**.50-caliber Ammunition - '''Very powerful round for large frame revolvers, pistols and long range rifles.'''
+
+''Make Shotgun Shells''
+
+'''Refills some shells to generate a few boxes\' worth of shotgun ammunition.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**Shotgun Shells - '''For shotguns.'''
+
+''Make Incendiary Rounds''
+
+'''Uses some insane chemistry to generate a box of incendiary shotgun ammunition. For Incendiary Shotguns ONLY.'''
+
+*Requires: 4 Fuel cache, 10 Influence
+*Completion time: 5 minutes
+*Output:
+**Incendiary Rounds - '''For specialized INCENDIARY SHOTGUNS ONLY. Don\'t go tearing up the barrels of our regular shotguns.'''
+
+''Make 40mm Grenades''
+
+'''Do some very risky work to improvise a handful of 40mm grenades for grenade launchers.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 10 minutes
+*Output:
+**Grenade Launcher Ammo - '''For grenaude launchers. Obviously.'''
+=-=
+
+===Cooking Area===
+
+====Set up Cooking Area====
+
+*Facility Bonuses:
+**Mise en Place - '''Protects against Food Contamination.'''
+**Good Cook - '''Allows the preparation of feasts. (Need someone who really knows how to cook, though.)'''
+
+=-----=
+'''Having a clean area for food improves health and protects against illness. REQUIRES WORKSHOP.'''
+
+*Requires: 20 Materials cache, 25 Influence
+*Completion time: 30 minutes
+=-=
+
+=--AVAILABLE ACTIONS--=
+''Make Snacks''
+
+'''Piece together a few portable snacks from general food supplies.'''
+
+*Requires: 1 Food cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**Snacks - '''Something to keep us going while we\'re out in the field.'''
+
+''Make Coffee''
+
+'''Brew some coffee, to keep our scavengers awake and alert.'''
+
+*Requires: 1 Food cache, 5 Influence
+*Completion time: 5 minutes
+*Output:
+**Coffee - '''Fights fatigue and caffeine headaches. Also causes them.'''
+
+''Make Pie''
+
+'''Bake a delicious pie!'''
+
+*Requires: 2 Food cache, 10 Influence
+*Completion time: 10 minutes
+*Output:
+**Pie - '''Sweet, warm, and full of love.'''
+
+''Cook a Big Meal''
+
+'''Additional Vitality bonus for everyone.'''
+
+*Requires: 5 Food cache, 2 Influence
+*Completion time: 30 minutes
+*Output:
+**Big Meal - '''+20 Max Vitality for everyone.'''
+
+''Prepare a Feast''
+
+'''Additional Vitality and Stamina bonuses for everyone. (High likelihood of needing special ingredients.) REQUIRES GOOD COOK.'''
+
+*Requires: 5 Food cache, 5 Influence
+*Completion time: 30 minutes
+*Output:
+**Feast - '''+20 Max Vitality and +10 Max Stamina for everyone.'''
+=-=
+
+===Dining Area===
+
+====Set up Dining Area====
+
+*Facility Bonuses:
+**Family Meals - '''Reduces discord. Protects against vermin.'''
+
+=-----=
+'''Eating together can help reduce discord in the community and maintain cleanliness.'''
+
+*Requires: 40 Materials cache, 100 Influence
+*Completion time: 30 minutes
+=-=
+
+===Garden===
+
+This facility cannot be built indoors.
+
+====Create a Garden====
+
+*Facility Bonuses:
+**Growing - '''It will take a while for the plants to mature.'''
+**Harvest - '''2 Daily Rations of Food per day.'''
+**Green Thumb - '''With the right person tending the garden, we\'ll have a chance of higher yields.'''
+
+=-----=
+'''A garden would let us grow some of our own food instead of always having to scavenge.'''
+
+*Requires: 25 Materials cache, 50 Influence
+*Completion time: 30 minutes
+=-=
+
+=--AVAILABLE ACTIONS--=
+''Upgrade to [[Greenhouse|Greenhouse]]''
+
+'''Once it grows back, this should give us a substantial increase in the amount of food grown.'''
+
+*Requires: 50 Materials cache, 100 Influence
+*Completion time: 1 hour
+*Output:
+**Harvest - '''Provides food daily.'''
+=-=
+
+====Greenhouse====
+
+*Facility Bonuses:
+**Growing - '''It will take a while for the plants to mature.'''
+**Harvest - '''3 Daily Rations of Food per day.'''
+**Green Thumb - '''With the right person tending the garden, we\'ll have a chance of higher yields.'''
+**Farming Expert - '''Actually owned a farmer\'s almanac, rumor has it.'''
+
+===Library===
+
+====Build Library====
+
+*Facility bonuses:
+**Store of Knowledge - '''By sharing knowledge, we all improve our Wits faster.'''
+**Scientific Principles - '''+300% research speed. REQUIRES GOOD RESEARCHER.'''
+**Researcher - '''Strong background in research and analysis.'''
+
+=-----=
+'''We could start gathering books and put together a reference area.'''
+
+*Requires: 20 Materials cache, 100 Influence
+*Completion time: 30 minutes
+=-=
+
+=--AVAILABLE ACTIONS--=
+''Commerce: Library Access''
+
+'''Gain +2 AMMO for providing library access to another group of survivors.'''
+
+*Requires: 10 Influence
+*Completion time: 1 hour, 30 minutes
+
+''Research Ammo Manufacture''
+
+'''This would allows us to break down the ammo we scavenge and manufacture the calibers we actually need. REQUIRES A MUNITIONS SHOP.'''
+
+*Requires: 2 Ammo cache, 50 Influence
+*Completion time: 1 hour, 20 minutes
+
+''Research Greenhouse Gardening''
+
+'''This would improve yields from our gardens. REQUIRES A GARDEN.'''
+
+*Requires: 1 Materials cache, 50 Influence
+*Completion time: 1 hour, 20 minutes
+
+''Research Biodiesel''
+
+'''Would let us convert Food to Fuel. REQUIRES FOOD STORAGE FACILITY.'''
+
+*Requires: 10 Food cache
+*Completion time: 1 hour, 20 minutes
+
+''Research Box Mine''
+
+'''Unlocks the ability to create Box Mines. REQUIRES A MUNITIONS SHOP.'''
+
+*Requires: 1 Ammo cache, 1 Materials cache, 50 Influence
+*Completion time: 1 hour, 20 minutes
+*Output:
+**Box Mine - '''So what if it\'s a bunch of nuts and bolts in an old paint can? It still explodes.'''
+
+''Research Whistling Box Mine''
+
+'''Unlocks the ability to create Whistling Box Mines. REQUIRES A MUNITIONS SHOP.'''
+
+*Requires: 1 Ammo cache, 1 Materials cache, 50 Influence
+*Completion time: 1 hour, 20 minutes
+*Output:
+**Whistling Box Mine - '''Cram a noisemaker into a homemade mine, and it lures the zombies in before it explodes. Nice.'''
+
+''Research Pipe Bomb''
+
+'''Unlocks the ability to create Pipe Bombs. REQUIRES A MUNITIONS SHOP.'''
+
+*Requires: 1 Ammo cache, 50 Influence
+*Completion time: 1 hour, 20 minutes
+*Output:
+**Pipe Bomb - '''It\'s a bunch of explosives stuffed into a pipe. What could go wrong?'''
+
+''Research Steel Pipe Bomb''
+
+'''Unlocks the ability to create Steel Pipe Bombs. REQUIRES A MUNITIONS SHOP.'''
+
+*Requires: 1 Ammo cache, 1 Materials cache, 50 Influence
+*Completion time: 1 hour, 20 minutes
+*Output:
+**Steel Pipe Bomb - '''It's a WHOLE bunch of explosives stuffed into a pipe. Extra shrapnel means more dead zombies.'''
+
+''Research Chemical Incendiaries''
+
+'''Unlocks the ability to create Chemical Incendiaries. REQUIRES A MUNITIONS SHOP and MEDICAL LAB.'''
+
+*Requires: 5 Fuel cache, 50 Influence
+*Completion time: 1 hour, 20 minutes
+*Output:
+**Chemical Incendiary - '''Sets zeds on fire. They don\'t seem to like it much. Watch it with this one--it\'s got a kick.'''
+
+''Research Potent Homemade Stims''
+
+'''Would allow us to create more effective stimulants (Uses up medical supplies.) REQUIRES MEDICAL LAB.'''
+
+*Requires: 2 Medicine cache, 100 Influence
+*Completion time: 1 hour, 20 minutes
+*Output:
+**Potent Stims - '''Restores max Stamina a lot. Fresh from our lab, cooked up extra potent. (Addictive?)'''
+=-=
+
+===Medical Area===
+
+====Set up Medical Area====
+
+*Facility bonuses:
+**Free Health Care - '''+10 Max Vitality for everyone, 15% Recovery Chance from injury/illness each day.'''
+
+=-----=
+'''Improves Vitality. Increases the chance of Recovery from injuries and illness each day.'''
+
+*Requires: 10 Materials cache, 20 Influence
+*Completion time: 30 minutes
+=-=
+
+=--AVAILABLE ACTIONS--=
+''Upgrade to [[Infirmary|Infirmary]]''
+
+'''Improves Vitality. Increases the chance of Recovery from injuries and illness each day.'''
+
+*Requires: 25 Materials cache
+*Completion time: 30 minutes
+=-=
+
+====Infirmary====
+
+*Facility bonuses:
+**Quality Health Care - '''+10 Max Vitality for everyone, 30% Recovery Chance from injury/illness each day.'''
+**Medical Professional - '''+20% Recovery Chance. REQUIRES TRAINED HEALER.'''
+**Medical Advisor - '''Health care background.'''
+
+=--AVAILABLE ACTIONS--=
+''Upgrade to [[Medical Lab|Medical Lab]]''
+
+'''All the benefits of an Infirmary, plus the ability to create Stimulants. REQUIRES LIBRARY.'''
+
+*Requires: 40 Materials cache
+*Completion time: 1 hour
+=-=
+
+====Medical Lab====
+
+*Facility bonuses:
+**Quality Health Care - '''+10 Max Vitality for everyone, 30% Recovery Chance from injury/illness each day.'''
+**Medical Professional - '''+20% Recovery Chance. REQUIRES TRAINED HEALER.'''
+**Medical Advisor - '''Health care background.'''
+**Lab Equipment - '''Allows manufacture of painkillers and stimulants.'''
+
+=--AVAILABLE ACTIONS--=
+''Make Mild Stims''
+
+'''Creates a few homemade Mild Stims.'''
+
+*Requires: 1 Medicine cache, 10 Influence
+*Completion time: 10 minutes
+*Output:
+**Mild Stims - '''Restores max Stamina a little. Fresh from our med lab. Helsenberg would be proud.'''
+
+''Make Potent Stims''
+
+'''Creates a few homemade Potent Stims.'''
+
+*Requires: 2 Medicine cache, 10 Influence
+*Completion time: 10 minutes
+*Output:
+**Potent Stims - '''Restores max Stamina a lot. Fresh from our lab, cooked up extra potent. (Addictive?)'''
+
+''Make Homemade Painkillers''
+
+'''Creates some Homemade Painkillers.'''
+
+*Requires: 5 Medicine cache, 25 Influence
+*Completion time: 10 minutes
+*Output:
+**Homemade Painkillers - '''Good stuff. Numbs the pain, but won\'t help serious wounds.'''
+=-=
+
+===Parking===
+
+Apart from the facility bonuses, you can leave rucksacks that contain a resource cache on a vehicle parked at a parking space so that it automatically gets added to your homesite resources.
+
+*Facility bonuses:
+**Parking Space - '''Space for one car. Cars left here overnight will be repaired a bit if we have a Workshop.'''
+**Auto Repair - '''Cars left here overnight will be repaired a bit. REQUIRES WORKSHOP.'''
+
+=--AVAILABLE ACTIONS--=
+''Repair All''
+
+'''Repairs all damaged components of the vehicle. REQUIRES TOOL EXPERT.'''
+
+*Requires: 15 Materials cache, 200 Influence
+*Completion time: Automatic
+
+''Repair Doors''
+
+'''Replaces the vehicle\'s doors.'''
+
+*Requires: 5 Materials cache, 50 Influence
+*Completion time: Automatic
+
+''Repair Body''
+
+'''Replaces the vehicle\'s body.'''
+
+*Requires: 5 Materials cache, 50 Influence
+*Completion time: Automatic
+
+''Repair Engine''
+
+'''Replaces the vehicle\'s engines. REQUIRES TOOLS EXPERT.'''
+
+*Requires: 8 Materials cache, 100 Influence
+*Completion time: Automatic
+=-=
+
+===Radio Room===
+
+With the exception of the [[Ranger Station|Ranger Station]] homesite, the Radio Room facility is always a built-in facility to every homesite and it will always be used by Lily Ritter. This facility cannot be removed.
+
+*Facility bonuses:
+**Command Center - '''If we work together, we\'ll find a way to survive.'''
+**Radio Operator - '''Coordinating everything by radio.'''
+
+=--AVAILABLE ACTIONS--=
+''Offer shelter to survivors''
+
+'''Attempt to make contact with a new group of survivors.'''
+
+*Requires: 100 Influence
+*Completion time: 20 minutes
+
+''Ask about Food caches''
+
+'''Ask around about an area that has FOOD.'''
+
+*Requires: 20 Influence
+*Completion time: 10 minutes
+
+''Ask about Medicine caches''
+
+'''Ask around about an area that has MEDICINE.'''
+
+*Requires: 20 Influence
+*Completion time: 10 minutes
+
+''Ask about Ammo caches''
+
+'''Ask around about an area that has AMMO.'''
+
+*Requires: 20 Influence
+*Completion time: 10 minutes
+
+''Ask about Materials caches''
+
+'''Ask around about an area that has MATERIAL.'''
+
+*Requires: 20 Influence
+*Completion time: 10 minutes
+
+''Ask about Fuel caches''
+
+'''Ask around about an area that has FUEL.'''
+
+*Requires: 20 Influence
+*Completion time: 10 minutes
+=-=
+
+===Sleeping Area===
+
+====Set up Sleeping Area====
+
+*Facility bonuses:
+**Cots and Futons - '''Provides no beds, but gives a 50% chance of preventing Sleep Deprivation.'''
+
+=-----=
+'''A Sleeping Area helps combat Sleep Deprivation. Can be upgraded to a Bunkhouse with actual Beds.'''
+
+*Requires: 5 Materials cache, 10 Influence
+*Completion time: 10 minutes
+=-=
+
+=--AVAILABLE ACTIONS--=
+''Upgrade to [[Bunkhouse|Bunkhouse]]''
+
+'''The more people we have, the more beds we need. This'll give us a few more places to sleep.'''
+
+*Requires: 25 Materials cache, 3 Influence
+*Completion time: 1 hour
+=-=
+
+====Bunkhouse====
+
+*Facility bonuses:
+**Beds - Provides +8 beds.
+**Good Night's Sleep - Increases everyone's stamina by 10 (MUST HAVE A BED FOR EVERYONE.)
+
+===Storage Area===
+
+====Build Storage Area====
+
+*Facility bonuses:
+**Storage Space - '''+20 Food, Ammo, Medicine, Fuel, and Materials capacity.'''
+
+=-----=
+'''Increases our storage capacity for all the key survival resources (Food, Medicine, Building Materials, Ammunition, and Fuel.) REQUIRES WORKSHOP.'''
+
+*Requires: 20 Materials cache, 50 Influence
+*Completion time: 1 hour
+=-=
+
+=--AVAILABLE ACTIONS--=
+''Try Preserving Some Food''
+
+'''We should do some experiments with food preservation. Pickling, salting, smoking, canning. So many things to try. REQUIRES SOME EXPERIMENTATION.'''
+
+*Requires: 15 Influence
+*Completion time: 1 hour, 30 minutes
+*Output: Reduces chance of food poisoning on your homesite.
+
+''Upgrade to [[Food Storage|Food Storage]]''
+
+'''Setting things up for safe food storage allows us to attempt sanitary food storage.'''
+
+*Requires: 25 Materials cache, 25 Influence
+*Completion time: 1 hour
+=-=
+
+====Food Storage====
+
+Inherits the following actions from [[Storage Area|Storage Area]]: Try Preserving Some Food
+
+*Facility bonuses:
+**Storage Space - '''+30 Food, Ammo, Medicine, Fuel, and Materials capacity.'''
+**Food Preservation - '''Protects against spoilage.'''
+
+=--AVAILABLE ACTIONS--=
+''Upgrade to [[Refrigerated Storage|Refrigerated Storage]]''
+
+'''With a refrigerated storage area, we can really improve our ability to keep food fresh.'''
+
+*Requires: 25 Materials cache, 25 Influence
+*Completion time: 2 hours
+=-=
+
+====Refrigerated Storage====
+
+*Facility bonuses:
+**Storage Space - '''+40 Food, Ammo, Medicine, Fuel, and Materials capacity.'''
+**Food Preservation - '''Protects against spoilage.'''
+**Refrigeration - '''Dramatically reduces food spoilage and food poisoning.'''
+
+=--AVAILABLE ACTIONS--=
+''Preserve Food''
+
+'''Protects against spoilage and opens up new recipes.'''
+
+*Requires: 15 Influence
+*Completion time: 10 minutes
+
+''Create Biodiesel''
+
+'''Turns food into fuel.'''
+
+*Requires: 3 Food cache
+*Completion time: 1 hour, 30 minutes
+=-=
+
+===Training Area===
+
+====Set up Training Area====
+
+*Facility bonuses:
+**Exercise Area - '''+10 Stamina for everyone.'''
+**Fitness Guru - '''Prevents injuries. Allows establishment of a Fitness Regimen.'''
+**Trainer - '''Has a background in health and fitness.'''
+
+=-----=
+'''A training area improves physical fitness and gives us a place to hone combat skills.'''
+
+*Requires: 20 Materials cache, 50 Influence
+*Completion time: 10 minutes
+=-=
+
+=--AVAILABLE ACTIONS--=
+''Fitness Regimen''
+
+'''An additional +10 Stamina for everyone. REQUIRES FITNESS EXPERT.'''
+
+*Requires: 3 Food cache, 25 Influence
+*Completion time: 10 minutes
+
+''Upgrade to [[Dojo|Dojo]]''
+
+'''A dojo provides the right space to practice specific survival techniques.'''
+
+*Requires: 35 Materials cache, 100 Influence
+*Completion time: 20 minutes
+=-=
+
+====Dojo====
+
+Inherits the following actions from [[Training Area|Training Area]]: Fitness Regimen
+
+*Facility bonuses:
+**Exercise Area - '''+10 Stamina for everyone.'''
+**Fitness Guru - '''Prevents injuries. Allows establishment of a Fitness Regimen.'''
+**Trainer - '''Has a background in health and fitness.'''
+
+=--AVAILABLE ACTIONS--=
+''Combat Training''
+
+'''Gain increased XP from melee combat.'''
+
+*Requires: 3 Food cache, 25 Influence
+*Completion time: 1 minute
+
+''Commerce: Train Outsiders''
+
+'''Gain +3 AMMO to train survivors from another community in self-defense.'''
+
+*Requires: 25 Influence
+*Completion time: 1 hour, 30 minutes
+=-=
+
+===Watchtower===
+
+This facility cannot be built indoors.
+
+====Build Watchtower====
+
+*Facility bonuses:
+**Lookout - '''Having someone up here should help keep the zeds at bay.'''
+**Guard Duty - '''Keeping an eye out for trouble.'''
+**Sniping Zombies - '''We\'ve been actively sniping zombies, giving us a larger safe area around our home.'''
+
+=-----=
+'''Something to protect our perimeter. Having a watchtower increases the safe area around our home.'''
+
+*Requires: 15 Materials cache, 5 Influence
+*Completion time: 1 hour
+=-=
+
+=--AVAILABLE ACTIONS--=
+''Snipe Zombies''
+
+'''We can extend the safe area around our home with a little sharpshooting.'''
+
+*Requires: 1 Ammo cache, 5 Influence
+*Completion time: 1 minute
+*Output: The safe zone radius of the homesite slightly increases.
+
+''Upgrade to [[Shooting Platform|Shooting Platform]]''
+
+'''We could make something a little less rickety. REQUIRES WORKSHOP.'''
+
+*Requires: 25 Materials cache, 25 Influence
+*Completion time: 1 hour
+=-=
+
+====Shooting Platform====
+
+Inherits the following actions from [[Watchtower|Watchtower]]: Snipe Zombies
+
+*Facility bonuses:
+**Lookout - '''Having someone up here should keep the zeds at bay.'''
+**Guard Duty - '''Keeping an eye out for trouble.'''
+**Sniping Zombies - '''We\'ve been actively sniping zombies, giving us a larger safe area around our home.'''
+**Shooting Practice - '''Raises shooting skill for the whole community.'''
+
+=--AVAILABLE ACTIONS--=
+''Firearms Training''
+
+'''Gain increased XP from shooting'''
+
+*Requires: 3 Ammo cache, 25 Influence
+*Completion time: 1 minute
+*Output: The person in guard duty will gain XP from his Shooting attribute each time he/she shoots zombies.
+
+''Commerce: Train Outsiders''
+
+'''Gain +3 AMMO to train survivors from another community with firearms.'''
+
+*Requires: 25 Influence
+*Completion time: 1 hour, 30 minutes
+=-=
+
+==Homesite Elements==
+
+===Beds===
+
+Beds represent the number of space where everyone can get fully rested. Beds are basically tied to [[Population|Population]]. By having lesser beds than the population, everyone from your [[Homesites|homesite]] won't be fully rested, may not heal their illnesses, and may cause bad morale.
+
+===Fame===
+
+Fame represents how well-known and respected you are by other enclaves. Unlike [[Influence|Influence]], which fluctuates with use, Fame is much more static and only changes when the player completes specific actions. At the beginning of a (real-time) day, the amount of Influence is reset to half of Fame. You gain fame by leveling up survivors, completing missions and side missions, and completing advices from Lily (such as [[Garden|building a garden]], [[Medical Area|building a medical area]] etc.).
+
+===Influence===
+
+Influence acts as the game's currency. Influence is earned through missions, side missions, mission progresses, and the items you provide to your supply lockers. You use influence when taking items from your homesite supply locker, neighbor's supply locker, issuing certain actions from homesite facilities, and making radio commands. Make good use of your influence, because you can take weapons from your neighbors' supply lockers if you have enough influence.
+
+===Labor===
+
+Labor is the number of [[Population|people]] in your [[Homesites|homesite]] that is neither sick, injured, nor tired. Everytime a side mission is completed (rescuing a lost survivor from your community, helping survivors in supply runs etc.), their status changes and this will affect the Labor component of your homesite.
+
+===Population===
+
+Population refers to the number of people you have in your [[Homesites|homesite]]. It is important to have a balanced community, with respect to the number of [[Beds|beds]] you can provide to ensure that everyone has a place to stay. Having a lot of people in your [[Homesites|homesite]] is great, but will consume more resources because everyone shares resources and fights together whereas having less people also makes your community vulnerable and less capable of doing supply runs.
+
+===Possessions===
+
+Lists down what your [[Homesites|homesite]] is currently in possession of. They range from the following:
+
+*Cars & Trucks - the list of available transportation currently present in the game. This will reduce depending on the number of cars that are still operable.
+*Items - ammunitions, medicines, distraction items etc.
+*Guns - guns that are in the supply locker.
+*Weapons (Hand-to-hand) - melee weapons that are in the supply locker.
+
+===Resource caches===
+
+Resources can be scavenged in all structures as you play the game. Sometimes, when you haven't played the game in a while, the survivors in your community will occasionally gather resources for you as means to stay alive. The most common resource you'll most likely be finding is Food whereas the least resource you'll be finding is Ammunition. Take note that you can break down these resources and turn them into items if you need to.
+
+|*RESOURCE TYPE |*DESCRIPTION |*ITEM EQUIVALENTS WHEN BROKEN DOWN |
+|c Ammunition   | Each case represents the ammunition of a person on your [[Homesites|homesite]]. By having less ammo, you will have less supply to defend against zombies using your guns. | Different ammunition such as 5.56, 7.62mm, 9mm etc. |
+|c Food         | Each case will feed someone on your population daily. Without enough food, the people on your [[Homesites|homesite]] will become hungry and may get sick, eventually dying. | Coffee, snacks |
+|c Fuel         | Used for setting up traps, firecrackers and the like. Contrary to what its in-game descriptions says, it's not used on cars (all cars on the game have unlimited fuel). | Molotovs |
+|c Materials    | Mainly used in the maintenance and building of facilities in your [[Homesites|homesite]]. 1 Material resource is expended for every [[Outposts|outpost]] you have. | Melee weapons |
+|c Medicine     | Represents the number of people on your [[Homesites|homesite]] that are sick, hurt or injured and needs medicine. | Different medicines such as Aspirin, Codeine etc. |
+
+==Outposts==
+
+Outposts are structures that act as protection for your [[Homesites|homesites]] against [[Setting traps|incoming zombie hordes]] as well as to transfer items from the supply locker. Having outposts increases the daily consumption of the Material resource cache by 1 for every outposts you own. You can have a minimum of 2 outposts and a maximum of 8 outposts, which are determined based on how large your homesite is. You can setup an outpost without a [[Resource caches|resource cache]], but this does not reduce the daily consumption of any resource cache. It will just be treated as an outpost for incoming zombie hordes and a place to transfer items from your supply locker.
+
+Abandoning outposts is done in the journal. Simply select the outpost you want to give up and wai   for 1 minute. When the outpost is abandoned, it will be treated as a structure with ''Nothing Left''. Zombies are now able to spawn there and can also be home for new infestations.
+
+===Creating outposts===
+
+Creating outposts is issued by the radio command ''Establish Outpost'' (costs 50 [[Influence|Influence]]). The structure to be created as an outpost must be clear of zombies and freaks and that it is fully searched.
+
+An outpost with a [[Resource caches|resource cache]] reduces daily consumption of that resource by 3. To do this, you must always leave behind a resource cache on the structure you are looting at. For example, if you found a Food resource on a refrigerator of a house, don't pick it up or never call a survivor to pick it up for you. Instead, leave it behind and establish the outpost.
+
+Outposts can only have 1 type of resource cache. In case there is more than 1 type of resource cache in the structure you want to build an outpost to, the game will use the first resource available in alphabetical order. For example, you found Fuel and Material resources on a Warehouse structure. If you establish an outpost with these two resources available, the game will use the Fuel resource because it comes first alphabetically. If you want to use the Material resource for the structure, remove the Fuel resource from its storage then establish the outpost.
+
+===Setting traps===
+
+Traps are used to destroy zombie hordes automatically. They will recharge after 10 real-time minutes. You can increase the safe zone radius of all outposts by selecting any outpost from your journal, then selecting the action ''Set traps for passing hordes'' (costs 1 Fuel, 1 [[Influence|Influence]]). This effect lasts for 2 real-time hours.
+
+===Tips on deploying outposts efficiently===
+
+The main purposes of outposts is to destroy incoming hordes with ease as well as provide an area for you to restock and resupply your inventory. Deploying outposts mainly depends on how you want to play your game, whether you like to have zombie hordes near your homesite or not. The safe zone radius of each outposts signify that zombies cannot spawn inside. To increase this radius, you need to issue the [[Setting traps|set traps action]] from your journal. Here are some guidelines to consider when creating outposts:
+
+*Consider structures with intersecting roads - a good example of this is in Marshall (found at the southwest corner of the map). If your homesite is either on the [[Savini Residence|Savini Residence]] or on the [[Snyder Trucking Warehouse|Snyder Trucking Warehouse]], you can create your outposts on the structures near the bridges that connects the west and east Marshall together. The paths between the bridges have intersections that can be used to prevent zombie spawns and destroy passing zombie hordes easily.
+*Create outposts near the homesite - this prevents zombie hordes from attacking your [[Homesites|homesite]] as well as prevent zombie spawns depending on how large its safe zone radius is.
+*Don't place outposts too near each other - you have to make good use of the safe zone radius that each outposts provide, coupled with the fact that you can increase this. Unless your homesite is located on [[The Alamo|The Alamo]], which is situated at the middle of east Marshall and very prone to zombie hordes, you can make use of that extra safe zone radius to protect other areas of the map. Even so, because the homesite only provides you with 4 outposts at a time.
+*Pick structures with at least 1 resource cache - always create an outpost that contains a [[Resource caches|resource cache]] in it. This reduces daily consumption of that specific resource by 3. Remember that each outpost consumes 1 Material resource to maintain it. If you created an outpost with a Materials cache, you will get -2 daily consumption for the Material resource.
+*Place outposts at the last structures of an area for scavenging - this is optional, but I prefer this myself because I do a lot of scavenging runs from different areas (as I don't fully scavenge each area while playing the story missions). You can set up outposts that will prevent infestations and zombie hordes from passing through that area, provided that you have cleared infestations on that area. For example, at Spencer's Mill, you can keep this area of hordes if you place an outpost on the north (the gas station, just before Mount Tanner), on the west (the vet clinic or the diner, I prefer the diner though because I can just increase its safe zone radius), and the east (the mini-mart or construction site - whichever will do). This tip is useful if you're situated at [[Snyder Trucking Warehouse|Snyder Trucking Warehouse]] because you can have 8 outposts at a given time. You can put three outposts at Spencer's Mill as I've mentioned above, two outposts that cover the bridges at Fairfield, and the last 3 outposts from the northeast (gas station), and the south sections that cover the bridges before east Marshall.
+
+==Frequently Asked Questions==
+
+*Q - Are the Commerce commands available for one time use only?
+**A - No. While playing the game, you'll occasionally receive prompts at the top-right corner of your screen that there is a temporary access available for use. You need to have the [[Library|Library]] facility to unlock the Commerce commands as well as do research. For example, if you have a [[Dojo|Dojo]] (which is an upgraded [[Training Area|Training Area]]), a Commerce command will appear occasionally letting you train outsiders to gain 2 Ammo upon completion.
+
+*Q - Can I adjust the maximum number of outposts?
+**A - Technically, no. However, if have modding knowledge, you can change the number of outposts you can have at one time by downloading certain tools to be able to extract the game's files and editing them.
+
+*Q - How do I relocate to another homesite?
+**A - You must first complete the story mission ''Home Away From Home''. This will unlock the radio command ''Relocate Home Base'', which is used to relocate to another homesite. Note that you can only relocate to structures that are marked ''Potential Home Site''. Doing so on other structures is not possible.
+
+*Q - Why does my outpost have a green-colored fort icon instead of icons of a resource cache?
+**A - If your [[Outposts|outpost]] has a fort icon, it means you established an outpost without leaving a [[Resource caches|resource cache]] behind. An outpost without any resource cache does not reduce daily consumption of your resources. It only acts as protection against hordes and as a way to resupply your items without the need to go to your homesite. To create an outpost with a resource cache, make sure to leave it on the container you're searching at then [[Creating outposts|establish the outpost]] after clearing the structure of zombies.
+
+*Q - Why don't I see the repair commands on the Parking facilities?
+**A - You'll only see these commands if you have a vehicle correctly parked at the respective [[Parking|parking space]] and that it is sufficiently damaged. There are many factors that vehicles can be damaged such as constantly running over zombies and ramming it on indestructible structures (eg. fences, rocks, and trees). They don't have any completion time, so as long as you have sufficient Material resources, it will automatically repair your vehicle, depending on which repair command you used.
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"SOD YOSE: Homesites and Outposts FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Undead Labs for making the game.
+*To the contributors in the State of Decay wiki as some of the information here was based on their contributions.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=

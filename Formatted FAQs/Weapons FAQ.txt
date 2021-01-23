@@ -1,0 +1,2091 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Weapons FAQ for Far Cry 5. The guide will list all pertinent details of each weapon found within the game. Certain weapons are also locked and the condition to fulfill them is provided in the guide. Take note that prestige weapons are very unique and powerful so grab them when you have the chance to afford them.
+
+I will be listing the customizations available for each weapon such as attachments, scopes, skins etc. on the next update. I just need to buy every weapon as I'm currently playing the game at the moment.
+
+Far Cry 5 is owned by Ubisoft. All trademarks are subjected to Ubisoft.
+
+Copyright (c) Ubisoft.
+
+==Version History==
+
+*Version 1.0 - Jan 23, 2021
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Bows==
+
+===Compound Bow===
+
+=-----=
+''STATS''
+
+'''"This bow uses a pulley & cam system to give the archer a mechanical advantage. It's not cheating."'''
+
+*Price: $1,650
+*Accuracy: 7
+*Damage: 7
+*Range: 6
+*Rate of Fire: 5
+*Handling: 5
+*Availability: Loot from a cultist or get it during the ''Sunken Funds'' prepper stash mission.
+=-=
+
+====Compound Bow "Big Game Hunter"====
+
+=-----=
+''STATS''
+
+'''"This compound bow is for those who are into that game and wildlife look."'''
+
+*Accuracy: 7
+*Damage: 7
+*Range: 6
+*Rate of Fire: 5
+*Handling: 5
+*Availability: Must own ''Deluxe Edition'' DLC.
+=-=
+
+===Recurve Bow===
+
+=-----=
+''STATS''
+
+'''"This bow is the non-firearm weapon of choice for highly skilled Green Berets from Vietnam."'''
+
+*Price: $2,500
+*Accuracy: 7
+*Damage: 7
+*Range: 6
+*Rate of Fire: 6
+*Handling: 6
+*Availability: Gain ''5 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+===Slingshot===
+
+=-----=
+''STATS''
+
+'''"The easy to use/hard to master weapon of juvenile delinquents, game hunters, and guerrila forces."'''
+
+*Price: $1,840
+*Accuracy: 7
+*Damage: 7
+*Range: 6
+*Rate of Fire: 6
+*Handling: 7
+*Availability: Gain ''1 level'' of resistance in any region to unlock this item.
+=-=
+
+
+==Fishing Rods==
+
+===Basic Fishing Rod===
+
+=-----=
+''STATS''
+
+'''"Strong and durable, this rod is perfect for anyone new to fly fishing."'''
+
+*Price: $300
+*Accuracy: 0
+*Damage: 0
+*Range: 2
+*Rate of Fire: 2
+*Handling: 2
+*Availability: Liberate ''Dutch\'s Island''.
+=-=
+
+===Natural Fishing Rod===
+
+=-----=
+''STATS''
+
+'''"A mid-ranged fly fishing rod with a high gauge line and a fast reel."'''
+
+*Price: $800
+*Accuracy: 0
+*Damage: 0
+*Range: 2
+*Rate of Fire: 4
+*Handling: 4
+*Availability: Liberate ''Dutch\'s Island''.
+=-=
+
+===Wonderboy Fishing Rod===
+
+=-----=
+''STATS''
+
+'''"Top of the line professional fly fishing rod with good line strength and superior reel speed"'''
+
+*Accuracy: 0
+*Damage: 0
+*Range: 2
+*Rate of Fire: 9
+*Handling: 6
+*Availability: Help ''Skylar'' at the Dylan's Master Bait Shop in Whitetail Mountains to unlock this rod.
+=-=
+
+===Old Betsy Fishing Rod===
+
+=-----=
+''STATS''
+
+'''"A professional quality fly fishing rod with the best line strength and good reel speed."'''
+
+*Accuracy: 0
+*Damage: 0
+*Range: 2
+*Rate of Fire: 6
+*Handling: 9
+*Availability: Beat each region's state records by fishing at HARD spots across Hope County to unlock this rod.
+=-=
+
+==Launchers==
+
+===RAT4===
+
+=-----=
+''STATS''
+
+'''"This launcher lets you guide rockets by aiming. Neat!"'''
+
+*Price: $3,250
+*Accuracy: 7
+*Damage: 9
+*Range: 8
+*Rate of Fire: 1
+*Handling: 2
+*Availability: Gain ''4 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+===RPG-7===
+
+=-----=
+''STATS''
+
+'''"This mass produced RPG launcher is everywhere. No need to camp outside of a store for a midnight launch."'''
+
+*Accuracy: 7
+*Damage: 9
+*Range: 8
+*Rate of Fire: 1
+*Handling: 2
+*Availability: Find this weapon on the body of a cultist to unlock it.
+=-=
+
+===Shovel Launcher===
+
+=-----=
+''STATS''
+
+'''"A groundbreaking miracle of modern engineering."'''
+
+*Accuracy: 7
+*Damage: 7
+*Range: 7
+*Rate of Fire: 1
+*Handling: 2
+*Availability: Complete the ''White Collar Job'' live event.
+=-=
+
+====Shovel Launcher "Big Farma"====
+
+=-----=
+''STATS''
+
+'''"Get your dig on."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 7
+*Damage: 7
+*Range: 7
+*Rate of Fire: 1
+*Handling: 2
+*Prestige
+=-=
+
+==Machine Guns==
+
+===M249===
+
+=-----=
+''STATS''
+
+'''"This workhorse of a machine gun has seen action in every U.S. conflict since '89 and is considering retirement."'''
+
+*Price: $3,150
+*Accuracy: 5
+*Damage: 6
+*Range: 7
+*Rate of Fire: 8
+*Handling: 3
+*Availability: Gain ''4 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====M249 "Militia"====
+
+=-----=
+''STATS''
+
+'''"This M249 is a loud and proud member of the Whitetail Militia."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 5
+*Damage: 6
+*Range: 7
+*Rate of Fire: 8
+*Handling: 3
+*Prestige
+=-=
+
+===M60===
+
+=-----=
+''STATS''
+
+'''"Instructions for using this belt-fed machine gun are: apply red bandana, pull trigger, and yell."'''
+
+*Price: $2,750
+*Accuracy: 6
+*Damage: 7
+*Range: 7
+*Rate of Fire: 5
+*Handling: 3
+*Availability: Liberate ''Dutch\'s Island''.
+=-=
+
+====M60-V====
+
+=-----=
+''STATS''
+
+'''"Effective on any battlefield and a great way to earn a medal of honor."'''
+
+*Accuracy: 6
+*Damage: 7
+*Range: 7
+*Rate of Fire: 5
+*Handling: 3
+*Availability: Must own ''Hours of Darkness'' DLC.
+=-=
+
+===MG42===
+
+=-----=
+''STATS''
+
+'''"An absolute beast of a machine gun, with a high rate of fire that's great for supression."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 7
+*Damage: 6
+*Range: 7
+*Rate of Fire: 9
+*Handling: 2
+*Prestige
+=-=
+
+====MG42 "Buzzkill"====
+
+=-----=
+''STATS''
+
+'''"This weapon is no fun at parties."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 7
+*Damage: 6
+*Range: 7
+*Rate of Fire: 9
+*Handling: 2
+*Availability: Complete the ''Slugger'' live event.
+=-=
+
+==Melee==
+
+===Aluminium Bat===
+
+=-----=
+''STATS''
+
+'''"This has made countless slow-pitch softball players feel like first ballot hall of famers."'''
+
+*Price: $1,025
+*Accuracy: 5
+*Damage: 5
+*Range: 2
+*Rate of Fire: 5
+*Handling: 8
+=-=
+
+===Bamboo Stick===
+
+=-----=
+''STATS''
+
+'''"Literally just a piece of bamboo. Hurts like hell, though."'''
+
+*Accuracy: 5
+*Damage: 5
+*Range: 2
+*Rate of Fire: 4
+*Handling: 7
+*Availability: Must own ''Hours of Darkness'' DLC.
+=-=
+
+===Baseball Bat===
+
+=-----=
+''STATS''
+
+'''"A baseball bat made of wood. Classic. Used for more than just hitting balls."'''
+
+*Accuracy: 5
+*Damage: 5
+*Range: 2
+*Rate of Fire: 4
+*Handling: 7
+=-=
+
+===Bolted Pipe===
+
+=-----=
+''STATS''
+
+'''"A while ago, this pipe was part of an anonymous leak. The bosses found out and it lost its job."'''
+
+*Price: $600
+*Accuracy: 5
+*Damage: 5
+*Range: 2
+*Rate of Fire: 4
+*Handling: 8
+=-=
+
+===Brass Knuckles===
+
+=-----=
+''STATS''
+
+'''"Designed to deliver severe damage to your victim, while protecting your fingers."'''
+
+*Price: $980
+*Accuracy: 5
+*Damage: 5
+*Range: 1
+*Rate of Fire: 5
+*Handling: 9
+*Availability: Gain ''3 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+===Paddle===
+
+=-----=
+''STATS''
+
+'''"No description."'''
+
+*Accuracy: 5
+*Damage: 5
+*Range: 2
+*Rate of Fire: 4
+*Handling: 7
+*Availability: Loot the paddle from the ''Silver Lake Boathouse''.
+=-=
+
+====Whack!====
+
+=-----=
+''STATS''
+
+'''"This paddle is for those who like their violence to have a sprinkling of cartoony."'''
+
+*Price: $3,600 or 200 Silver Bars
+*Accuracy: 5
+*Damage: 5
+*Range: 2
+*Rate of Fire: 4
+*Handling: 7
+*Prestige
+=-=
+
+===Shovel===
+
+=-----=
+''STATS''
+
+'''"A tool with a broad flat blade used for moving earth, snow, or bullshit in the workplace."'''
+
+*Price: $610
+*Accuracy: 5
+*Damage: 6
+*Range: 2
+*Rate of Fire: 4
+*Handling: 7
+=-=
+
+====Optimism====
+
+=-----=
+''STATS''
+
+'''"This shovel always sees holes of dirt as half full."'''
+
+*Price: $3,600 or 200 Silver Bars
+*Accuracy: 5
+*Damage: 6
+*Range: 2
+*Rate of Fire: 4
+*Handling: 7
+*Prestige
+=-=
+
+====Shovel of the Dead====
+
+=-----=
+''STATS''
+
+'''"Grab shovel, go to the bar, have a pint, and wait for the zombie outbreak to blow over."'''
+
+*Accuracy: 5
+*Damage: 6
+*Range: 2
+*Rate of Fire: 4
+*Handling: 7
+*Availability: Complete Score Attack in ''Dead Living Zombies'' DLC.
+=-=
+
+===Socket Pipe===
+
+=-----=
+''STATS''
+
+'''"One of six possible murder weapons you'd find in a mansion. "Whodunit?" is the real question."'''
+
+*Price: $570
+*Accuracy: 5
+*Damage: 5
+*Range: 2
+*Rate of Fire: 4
+*Handling: 8
+=-=
+
+===Spiked Bat===
+
+=-----=
+''STATS''
+
+'''"A brutal clubbing weapon. It's the love child of the sporting goods and the hardware aisles."'''
+
+*Price: $1,425
+*Accuracy: 5
+*Damage: 6
+*Range: 2
+*Rate of Fire: 4
+*Handling: 7
+*Availability: Gain ''2 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+==Rifles==
+
+===45/70===
+
+=-----=
+''STATS''
+
+'''"This classic .45 cal lever action rifle was designed for hunting and usually rests inside of a cabin in the woods."'''
+
+*Price: $2,070
+*Accuracy: 7
+*Damage: 8
+*Range: 6
+*Rate of Fire: 5
+*Handling: 5
+*Availability: Gain ''1 level'' of resistance in any region to unlock this item.
+=-=
+
+====45/70 "Fall's Ghost"====
+
+=-----=
+''STATS''
+
+'''"This 45/70 has the spirit of Fall's End's founder."'''
+
+*Price: $3,600 or 200 Silver Bars
+*Accuracy: 7
+*Damage: 8
+*Range: 6
+*Rate of Fire: 5
+*Handling: 5
+*Prestige
+=-=
+
+====45/70-T====
+
+=-----=
+''STATS''
+
+'''"This tactical grade .45 cal lever action rifle was designed for law enforcement and usually sleeps in police stations."'''
+
+*Price: $2,240
+*Accuracy: 6
+*Damage: 8
+*Range: 6
+*Rate of Fire: 5
+*Handling: 6
+*Availability: Gain ''3 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+===AK-47===
+
+=-----=
+''STATS''
+
+'''"The inventor of this dependable assault rifle believed it to be "a weapon of defense and not a weapon of offense."'''
+
+*Price: $2,600
+*Accuracy: 5
+*Damage: 6
+*Range: 6
+*Rate of Fire: 5
+*Handling: 5
+*Availability: Gain ''5 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====AK-M====
+
+=-----=
+''STATS''
+
+'''"The modern version of the AK-47. It has been used by armies, militias, and radical groups around the world."'''
+
+*Price: $2,600
+*Accuracy: 5
+*Damage: 6
+*Range: 6
+*Rate of Fire: 5
+*Handling: 5
+*Availability: Gain ''6 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====AK-MS "The Whitetailer"====
+
+=-----=
+''STATS''
+
+'''"This AKM-S's paintjob lets everyone know you are with the Whitetail Militia... not against them."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 5
+*Damage: 6
+*Range: 6
+*Rate of Fire: 5
+*Handling: 5
+*Prestige
+=-=
+
+====AK-MS "Warrior"====
+
+=-----=
+''STATS''
+
+'''"The modern version of the AK-47 designed for close quarters combat. Don't bring up the size thing."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 4
+*Damage: 6
+*Range: 6
+*Rate of Fire: 5
+*Handling: 6
+*Prestige
+=-=
+
+===AR-C===
+
+=-----=
+''STATS''
+
+'''"Once a military oddball, this modular semi-automatic rifle has become widly popular with the DIY crowd."'''
+
+*Accuracy: 6
+*Damage: 4
+*Range: 6
+*Rate of Fire: 8
+*Handling: 5
+*Availability: Available during the prologue.
+=-=
+
+====AR-C "Silver & Carbon Fiber"====
+
+=-----=
+''STATS''
+
+'''"This special semi-automatic rifle is prepared for multiple end of the world scenarios."'''
+
+*Accuracy: 6
+*Damage: 4
+*Range: 6
+*Rate of Fire: 8
+*Handling: 5
+*Availability: Must own ''Deluxe Edition'' DLC.
+=-=
+
+====AR-C "Stars 'N Stripes"====
+
+=-----=
+''STATS''
+
+'''"If this isn't the official firearm of the United States of America, it should be."'''
+
+*Price: $9,000 or 500 Silver Bars
+*Accuracy: 6
+*Damage: 4
+*Range: 6
+*Rate of Fire: 8
+*Handling: 5
+*Prestige
+=-=
+
+====AR-C "The Shark"====
+
+=-----=
+''STATS''
+
+'''"This AR-C is a shark. Don't ever play pool or cards with it."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 4
+*Range: 6
+*Rate of Fire: 8
+*Handling: 5
+*Prestige
+=-=
+
+===BP-2===
+
+=-----=
+''STATS''
+
+'''"This gun came all the way from Eastern Europe to shoot some Peggies."'''
+
+*Prce: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 4
+*Range: 6
+*Rate of Fire: 7
+*Handling: 4
+*Prestige
+=-=
+
+===M16===
+
+=-----=
+''STATS''
+
+'''"A classic assault rifle perfect for jungle warfare."'''
+
+*Accuracy: 6
+*Damage: 4
+*Range: 6
+*Rate of Fire: 8
+*Handling: 4
+*Availability: Must own ''Hours of Darkness'' DLC.
+=-=
+
+===MS16===
+
+=-----=
+''STATS''
+
+'''"This is not your father's tactical rifle. It's lightweight, shoots a high caliber bullet, and instead of smoking, it vapes."'''
+
+*Price: $2,450
+*Accuracy: 7
+*Damage: 5
+*Range: 6
+*Rate of Fire: 6
+*Handling: 5
+*Availability: Gain ''2 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====MS16 Trooper====
+
+=-----=
+''STATS''
+
+'''"A lightweight tactical rifle that is so good at close-quarters combat it can sometimes get a bit creepy."'''
+
+*Price: $2,650
+*Accuracy: 6
+*Damage: 5
+*Range: 6
+*Rate of Fire: 6
+*Handling: 6
+*Availability: Gain ''3 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+===Nerve Reaper===
+
+=-----=
+''STATS''
+
+'''"It's got punches in bunches PLUS a whole lotta stun power. Unleash the cross-eyed goof face."'''
+
+*Accuracy: 7
+*Damage: 6
+*Range: 7
+*Rate of Fire: 6
+*Handling: 4
+*Availability: Must own ''Lost on Mars'' DLC.
+=-=
+
+==Shotguns==
+
+===1887===
+
+=-----=
+''STATS''
+
+'''"A fine addition to the arsenal of any self respecting cowboy action shooter."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 4
+*Damage: 7
+*Range: 4
+*Rate of Fire: 2
+*Handling: 5
+*Prestige
+=-=
+
+====1887-T====
+
+=-----=
+''STATS''
+
+'''"This gun mimics a classic model. While impractical, it is pretty fun to shoot."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 3
+*Damage: 7
+*Range: 4
+*Rate of Fire: 2
+*Handling: 6
+*Prestige
+=-=
+
+===Bulldozer===
+
+=-----=
+''STATS''
+
+'''"This one's got 10 laser balls that fire in a horizontal line. Spread the love!"'''
+
+*Accuracy: 2
+*Damage: 8
+*Range: 8
+*Rate of Fire: 5
+*Handling: 5
+*Availability: Must own ''Lost on Mars'' DLC.
+=-=
+
+===Hellfire===
+
+=-----=
+''STATS''
+
+'''"Fires one massively powerful round. At close range, nothing survives."'''
+
+*Accuracy: 3
+*Damage: 10
+*Range: 2
+*Rate of Fire: 4
+*Handling: 8
+*Availability: Must own ''Lost on Mars'' DLC.
+=-=
+
+===M133===
+
+=-----=
+''STATS''
+
+'''"This pump-action shotgun will cause more internal damage than cheap vodka."'''
+
+*Price: $1,380
+*Accuracy: 3
+*Damage: 7
+*Range: 4
+*Rate of Fire: 2
+*Handling: 5
+*Availability: Liberate ''Dutch\'s Island''.
+=-=
+
+====M133 "The Grand Slam"====
+
+=-----=
+''STATS''
+
+'''"This M133 doesn't hit singles, doubles, triple, or home runs. Only grand slams."'''
+
+*Price: $3,600 or 200 Silver Bars
+*Accuracy: 3
+*Damage: 7
+*Range: 4
+*Rate of Fire: 2
+*Handling: 5
+*Prestige
+=-=
+
+====M133 M====
+
+=-----=
+''STATS''
+
+'''"This is the modern version of the M133. It will cause more internal damage than REALLY cheap vodka."'''
+
+*Price: $1,550
+*Accuracy: 3
+*Damage: 7
+*Range: 4
+*Rate of Fire: 2
+*Handling: 5
+*Availability: Gain ''2 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====M133 MS====
+
+=-----=
+''STATS''
+
+'''"The short barreled modern M133 wants you to know that length isn't as important as the spread of shot."'''
+
+*Price: $1,770
+*Accuracy: 2
+*Damage: 7
+*Range: 3
+*Rate of Fire: 2
+*Handling: 6
+*Availability: Gain ''7 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+===SBS===
+
+=-----=
+''STATS''
+
+'''"A double barrel shotgun with tremendous stopping power. It's also been part of a couple quick weddings."'''
+
+*Price: $2,100
+*Accuracy: 5
+*Damage: 7
+*Range: 5
+*Rate of Fire: 2
+*Handling: 4
+*Availability: Gain ''4 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====SBS "The Farmhand"====
+
+=-----=
+''STATS''
+
+'''"This SBS Shotgun says \'get off my property\' better than any spoken threat ever could."'''
+
+*Price: $3,600 or 200 Silver Bars
+*Accuracy: 5
+*Damage: 7
+*Range: 5
+*Rate of Fire: 2
+*Handling: 4
+*Prestige
+=-=
+
+===SPAS-12===
+
+=-----=
+''STATS''
+
+'''"This Italian semi-automatic shotgun brings new meaning to the phrase "talking with your hands."'''
+
+*Price: $2,300
+*Accuracy: 3
+*Damage: 7
+*Range: 4
+*Rate of Fire: 4
+*Handling: 5
+*Availability: Gain ''6 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====Boom on a Stick====
+
+=-----=
+''STATS''
+
+'''"This SPAS-12 will protect you from zombies in any cabin or time period."'''
+
+*Accuracy: 3
+*Damage: 7
+*Range: 4
+*Rate of Fire: 4
+*Handling: 5
+*Availability: Complete Score Attack in ''Dead Living Zombies'' DLC.
+=-=
+
+====SPAS-12 "Flameout"====
+
+=-----=
+''STATS''
+
+'''"This SPAS-12 has a paintjob that makes it prone to overheat. Worth it.'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 3
+*Damage: 7
+*Range: 4
+*Rate of Fire: 4
+*Handling: 5
+*Prestige
+=-=
+
+==Sidearms==
+
+===1911===
+
+=-----=
+''STATS''
+
+'''"Death, taxes and the 1911. The design of this American made semi automatic hasn't changed since WWI."'''
+
+*Accuracy: 6
+*Damage: 5
+*Range: 5
+*Rate of Fire: 4
+*Handling: 7
+*Availability: Already unlocked in the prologue.
+=-=
+
+====1911 "Aerial Force"====
+
+=-----=
+''STATS''
+
+'''"A reliable 1911 with a aerial color scheme. Shooting for the sky will be that much easier with this."'''
+
+*Accuracy: 6
+*Damage: 5
+*Range: 5
+*Rate of Fire: 4
+*Handling: 7
+*Availability: Must own ''Deluxe Edition'' DLC.
+=-=
+
+====1911 "Doomsday Prepper"====
+
+=-----=
+''STATS''
+
+'''"This 1911 has a red bold color scheme that screams 'I knew this was going to happen!'"'''
+
+*Accuracy: 6
+*Damage: 5
+*Range: 5
+*Rate of Fire: 4
+*Handling: 7
+*Availability: Must own ''Season Pass''.
+=-=
+
+====1911 "The Shark"====
+
+=-----=
+''STATS''
+
+'''"This 1911 has that retro vintage authentic bomber feel."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 5
+*Range: 5
+*Rate of Fire: 4
+*Handling: 7
+*Prestige
+=-=
+
+====1911 "Toaster"====
+
+=-----=
+''STATS''
+
+'''"One good headshot from this chrome 1911 pistol and you'll be buttering up your target for breakfast."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 5
+*Range: 5
+*Rate of Fire: 4
+*Handling: 7
+*Prestige
+=-=
+
+====1911 Extended "Golden Aerie"====
+
+=-----=
+''STATS''
+
+'''"This 1911 Extended pistol is powerful, ostentatious, and perfect for the flashy millenial in us all."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 5
+*Range: 5
+*Rate of Fire: 4
+*Handling: 7
+*Prestige
+=-=
+
+===.44 Magnum===
+
+=-----=
+''STATS''
+
+'''"A powerful handgun that is perfect for close quarters self defense."'''
+
+*Price: $1,150
+*Accuracy: 5
+*Damage: 6
+*Range: 5
+*Rate of Fire: 3
+*Handling: 7
+*Availability: Liberate ''Dutch\'s Island''.
+=-=
+
+====.44 Magnum "Cannon"====
+
+=-----=
+''STATS''
+
+'''"This revolver is guaranteed to get you out of dirty and/or hairy situations."'''
+
+*Price: $1,550
+*Accuracy: 6
+*Damage: 7
+*Range: 6
+*Rate of Fire: 3
+*Handling: 7
+*Availability: Gain ''9 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====.44 Magnum "Sixer"====
+
+=-----=
+''STATS''
+
+'''"A powerful handgun + a longer barrel = what do you think?"'''
+
+*Price: $1,645
+*Accuracy: 6
+*Damage: 7
+*Range: 6
+*Rate of Fire: 3
+*Handling: 7
+=-=
+
+===.44 Magnum L===
+
+=-----=
+''STATS''
+
+'''"Do you still think this is still one of the most powerful handguns in the world? Well, do ya, punk?"'''
+
+*Price: $1,325
+*Accuracy: 6
+*Damage: 7
+*Range: 6
+*Rate of Fire: 3
+*Handling: 7
+*Availability: Gain ''3 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====.44 Magnum Steel & Ivory====
+
+=-----=
+''STATS''
+
+'''"This inlaid ivory revolver is straight out of a chief bandit\'s holster."'''
+
+*Accuracy: 6
+*Damage: 7
+*Range: 6
+*Rate of Fire: 3
+*Handling: 7
+*Availability: Must own ''Deluxe Edition'' DLC.
+=-=
+
+====O'Bannon Hand Cannon====
+
+=-----=
+''STATS''
+
+'''"This .44 MAGNUM has been making zombies, punks, and zombie punks 'feel lucky' for decades."'''
+
+*Accuracy: 6
+*Damage: 7
+*Range: 6
+*Rate of Fire: 3
+*Handling: 7
+*Availability: Complete Score Attack in ''Dead Living Zombies'' DLC.
+=-=
+
+===6P9===
+
+=-----=
+''STATS''
+
+'''"This Cold War-era pistol with detachable suppresor was made for wetwork. (It's also a grower, not a shower.)"'''
+
+*Accuracy: 7
+*Damage: 2
+*Range: 5
+*Rate of Fire: 6
+*Handling: 9
+*Availability: Must own ''Dead Living Zombies'' DLC.
+=-=
+
+===A-99===
+
+=-----=
+''STATS''
+
+'''"This full-auto machine pistol did a couple of seasons of a Miami crime TV drama in the 80s. It still gets residuals."'''
+
+*Price: $2,000
+*Accuracy: 4
+*Damage: 3
+*Range: 4
+*Rate of Fire: 8
+*Handling: 6
+*Availability: Gain ''5 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+===D2===
+
+=-----=
+''STATS''
+
+'''"This sawed-off shotgun has seen its share of wasteands. It's brutal. It's effective. Enough said."'''
+
+*Price: $2,875
+*Accuracy: 2
+*Damage: 7
+*Range: 2
+*Rate of Fire: 2
+*Handling: 6
+*Availability: Gain ''5 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====D2 "Outlaw"====
+
+=-----=
+''STATS''
+
+'''"This sawed-off shotgun has seen its share of wasteands. It\'s brutal. It\'s effective. Enough said."'''
+
+*Accuracy: 2
+*Damage: 7
+*Range: 2
+*Rate of Fire: 2
+*Handling: 6
+*Availability: Must own ''Season Pass''.
+=-=
+
+====D2 "Sin Eater"====
+
+=-----=
+''STATS''
+
+'''"This shotgun knows the flavors of sin. Delicious."'''
+
+*Accuracy: 2
+*Damage: 7
+*Range: 2
+*Rate of Fire: 2
+*Handling: 6
+*Availability: Defeat ''Faith Seed'' to unlock this weapon.
+=-=
+
+===D50===
+
+=-----=
+''STATS''
+
+'''"Every 80's action hero you ever idolized has blown away the bad guys with this gun."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 9
+*Range: 5
+*Rate of Fire: 3
+*Handling: 4
+*Prestige
+=-=
+
+====D50 "Sovereign"====
+
+=-----=
+''STATS''
+
+'''"Every 80's action hero you ever idolized has blown away the bad guys with this gun."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 9
+*Range: 5
+*Rate of Fire: 3
+*Handling: 4
+*Availability: Complete the ''Hambearger'' live event.
+=-=
+
+===M-79===
+
+=-----=
+''STATS''
+
+'''"Why use your arm to throw grenade, when you can just pull a trigger? Perfect for short to mid-range targets."'''
+
+*Price: $3,200
+*Accuracy: 5
+*Damage: 9
+*Range: 7
+*Rate of Fire: 2
+*Handling: 5
+*Availability: Gain ''6 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====M-79 "Shark Shooter"====
+
+=-----=
+''STATS''
+
+'''"This M-79 was in the war. Which war? I dunno. The one with that shark paint trend."'''
+
+*Price: $9,000 or 500 Silver Bars
+*Accuracy: 5
+*Damage: 9
+*Range: 7
+*Rate of Fire: 2
+*Handling: 5
+*Prestige
+=-=
+
+===M9===
+
+=-----=
+''STATS''
+
+'''"This semiautomatic became part of the U.S. Armed Forces in 1985. It's a millenial, so... you know."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 5
+*Handling: 8
+*Prestige
+=-=
+
+====M9 "Red Flag"====
+
+=-----=
+''STATS''
+
+'''"A meaty pistol with a lot of raw power."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 5
+*Availability: Complete the ''Arcade Dawn'' live event.
+=-=
+
+===Nut Hugger===
+
+=-----=
+''STATS''
+
+'''"Fires heavy laser bullets that destroy targets like flies on stink!"'''
+
+*Accuracy: 9
+*Damage: 8
+*Range: 10
+*Rate of Fire: 3
+*Handling: 1
+*Availability: Must own ''Lost on Mars'' DLC.
+=-=
+
+===P08===
+
+=-----=
+''STATS''
+
+'''"This semi-automatic's sleek design and accuracy make this pistol the choice by countless Hollywood villains."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 4
+*Handling: 7
+*Prestige
+=-=
+
+====P08 "Pastel Power"====
+
+=-----=
+''STATS''
+
+'''"Don't let the cutesy look fool you. This gun is a real heartless SOB."'''
+
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 4
+*Handling: 7
+*Availability: Complete the ''Heartbreaker'' live event.
+=-=
+
+====P08-L====
+
+=-----=
+''STATS''
+
+'''"The classic P08, now with a longer barrel, extra wood detailing, and better options for sight attachments."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 4
+*Handling: 6
+*Availability: Automatically added during the September 27, 2018 update.
+=-=
+
+===P226===
+
+=-----=
+''STATS''
+
+'''"A dependable handgun used by many state police departments. It's about as American as Swiss Cheese."'''
+
+*Price: $1,050
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 5
+*Handling: 8
+*Availability: Gain ''1 level'' of resistance in any region to unlock this item.
+=-=
+
+====P226 "Amendment 2"====
+
+=-----=
+''STATS''
+
+'''"This P226 is as American as George Washington eating a deep-fried bald eagle."'''
+
+*Price: $3,600 or 200 Silver Bars
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 5
+*Handling: 8
+*Prestige
+=-=
+
+===Skorpion===
+
+=-----=
+''STATS''
+
+'''"This SMG is proud of its rapid fire, low recoil, and Czechoslovakian roots."'''
+
+*Price: $1,700
+*Accuracy: 2
+*Damage: 3
+*Range: 3
+*Rate of Fire: 8
+*Handling: 7
+*Availability: Gain ''2 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====Skorpion "Big Spender"====
+
+=-----=
+''STATS''
+
+'''"This gold plated Skorpion compensates for its size with a shiny facade."'''
+
+*Price: $9,000 or 500 Silver Bars
+*Accuracy: 2
+*Damage: 3
+*Range: 3
+*Rate of Fire: 8
+*Handling: 7
+*Prestige
+=-=
+
+===SMG-11===
+
+=-----=
+''STATS''
+
+'''"This subcompact machine pistol will burn through bullets faster than a fake news story gets shared."'''
+
+*Price: $1,500
+*Accuracy: 3
+*Damage: 3
+*Range: 4
+*Rate of Fire: 8
+*Handling: 6
+*Availability: Liberate ''Dutch\'s Island''.
+=-=
+
+===Tazer Spazer Annihilazer===
+
+=-----=
+''STATS''
+
+'''"Like the Lazer Blazer, plus a few more AZERS."'''
+
+*Accuracy: 10
+*Damage: 10
+*Range: 8
+*Rate of Fire: 3
+*Handling: 5
+*Availability: Must own ''Lost on Mars'' DLC.
+=-=
+
+===The Obliteratorrrr===
+
+=-----=
+''STATS''
+
+'''"This here's a pistol sized rocket launcher that packs some serious punch."'''
+
+*Accuracy: 7
+*Damage: 10
+*Range: 6
+*Rate of Fire: 4
+*Handling: 4
+*Availability: Must own ''Lost on Mars'' DLC.
+=-=
+
+==Sniper Rifles==
+
+===308 Carbine===
+
+=-----=
+''STATS''
+
+'''"This mass produced bolt action rifle with scope sold in discount department stores and proudly made in the U.S.A."'''
+
+*Price: $2,800
+*Accuracy: 7
+*Damage: 7
+*Range: 7
+*Rate of Fire: 3
+*Handling: 4
+*Availability: Gain ''3 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====308 Carbine "Old Flame"====
+
+=-----=
+''STATS''
+
+'''"This 308 Carbine still checks you out on social media. The spark between you two will never die."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 7
+*Damage: 7
+*Range: 7
+*Rate of Fire: 3
+*Handling: 4
+*Prestige
+=-=
+
+===AR-CL===
+
+=-----=
+''STATS''
+
+'''"A semi-automatic rifle manufactured to maintain long distance relationships, or eliminating them."'''
+
+*Price: $2,000
+*Accuracy: 6
+*Damage: 5
+*Range: 7
+*Rate of Fire: 6
+*Handling: 4
+*Availability: Liberate ''Dutch\'s Island''.
+=-=
+
+====AR-CL "Sharkbite"====
+
+=-----=
+''STATS''
+
+'''"This AR-CL is just like a shark. You know how sharks are, right?"'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 5
+*Range: 7
+*Rate of Fire: 6
+*Handling: 4
+*Prestige
+=-=
+
+===Grape Popper===
+
+=-----=
+''STATS''
+
+'''"Has a scope. Can probably pop actual grapes from a distance, but in this context, grapes are heads."'''
+
+*Accuracy: 9
+*Damage: 8
+*Range: 10
+*Rate of Fire: 3
+*Handling: 7
+*Availability: Must own ''Lost on Mars'' DLC.
+=-=
+
+===MBP .50===
+
+=-----=
+''STATS''
+
+'''"This .50 cal bolt action rifle knows about accuracy and penetration. Just like your sarcastic \'friend.\' "'''
+
+*Price: $2,900
+*Accuracy: 8
+*Damage: 9
+*Range: 8
+*Rate of Fire: 3
+*Handling: 3
+*Availability: Gain ''5 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====Jacob's Rifle====
+
+=-----=
+''STATS''
+
+'''"Jacob Seed's bolt action .50 cal sniper rifle. You'll need to use it a lot to change the name of this one."'''
+
+*Accuracy: 8
+*Damage: 9
+*Range: 8
+*Rate of Fire: 3
+*Handling: 3
+*Availability: Defeat ''Jacob Seed'' to unlock this weapon.
+=-=
+
+====MBP .50 "Blood & Dragon"====
+
+=-----=
+''STATS''
+
+'''"This gun is so cool. The snazzy neon. That logo that comes from the future. The way it kills baddies real good. Rex would be proud."'''
+
+*Accuracy: 8
+*Damage: 9
+*Range: 8
+*Rate of Fire: 3
+*Handling: 3
+*Availability: Automatically added during the September 27, 2018 update.
+=-=
+
+====MBP .50 Gold & Steel====
+
+=-----=
+''STATS''
+
+'''"This gold plated sniper rifle was once a trophy to some rich kid. Only thing they used it for was selfies."'''
+
+*Accuracy: 8
+*Damage: 9
+*Range: 8
+*Rate of Fire: 3
+*Handling: 3
+*Availability: Must own ''Season Pass''.
+=-=
+
+===SA-50===
+
+=-----=
+''STATS''
+
+'''"This .50 cal semi-auto rifle has solid stopping power. If it does that for more than 4 hours, call a doctor."'''
+
+*Price: $3,200
+*Accuracy: 7
+*Damage: 9
+*Range: 8
+*Rate of Fire: 5
+*Handling: 3
+*Availability: Gain ''6 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====All Roads lead to Romero====
+
+=-----=
+''STATS''
+
+'''"This SA-50 can take out zombies of the night, of the dawn, of the day, of the sequels, etc."'''
+
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 8
+*Handling: 6
+*Availability: Must own ''Hours of Darkness'' DLC.
+=-=
+
+====SA-50 "Free State"====
+
+=-----=
+''STATS''
+
+'''"This SA50 is only for a well regulated militia which is necessary for the security of a free state."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 7
+*Damage: 9
+*Range: 8
+*Rate of Fire: 5
+*Handling: 3
+*Prestige
+=-=
+
+===SVD===
+
+=-----=
+''STATS''
+
+'''"The preferred choice of designated marksmen the world over."'''
+
+*Accuracy: 7
+*Damage: 6
+*Range: 7
+*Rate of Fire: 5
+*Handling: 4
+*Availability: Must own ''Hours of Darkness'' DLC.
+=-=
+
+==Special Weapons==
+
+===Flamethrower===
+
+=-----=
+''STATS''
+
+'''"It does one thing and one thing only... it shoots a steady stream of fire. Pro Tip: Don't burn yourself."'''
+
+*Price: $2,300
+*Accuracy: 5
+*Damage: 8
+*Range: 4
+*Rate of Fire: 6
+*Handling: 5
+*Availability: Liberate ''Dutch\'s Island''.
+=-=
+
+====Flames on Flames====
+
+=-----=
+''STATS''
+
+'''"What else are you gonna put on a Flamethrower besides flames? C'mon."'''
+
+*Price: $3,600 or 200 Silver Bars
+*Accuracy: 5
+*Damage: 8
+*Range: 4
+*Rate of Fire: 6
+*Handling: 5
+*Prestige
+=-=
+
+====Flamethrower "Cleansing Fire"====
+
+=-----=
+''STATS''
+
+'''"Wash away your sins."'''
+
+*Price: $4,800 or 400 Silver Bars
+*Accuracy: 5
+*Damage: 8
+*Range: 4
+*Rate of Fire: 6
+*Handling: 5
+*Prestige
+=-=
+
+====Flamethrower "Flamebearer"====
+
+=-----=
+''STATS''
+
+'''"Adorned with stolen gold, this weapon is an intimidating display of wealth."'''
+
+*Accuracy: 5
+*Damage: 8
+*Range: 4
+*Rate of Fire: 6
+*Handling: 5
+*Availability: Complete the ''Well Done'' live event.
+=-=
+
+====Flamethrower "Neon Sparkle"====
+
+=-----=
+''STATS''
+
+'''"This full spectrum flaming firearm fires flashy fire far and wide. 9/10 unicorns recommend it."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 5
+*Damage: 8
+*Range: 4
+*Rate of Fire: 6
+*Handling: 5
+*Prestige
+=-=
+
+===Magnopulser===
+
+=-----=
+''STATS''
+
+'''"This weapon uses some kind of magnetized microwaves that, if aimed properly, can explode organic targets. WTF?"'''
+
+*Accuracy: 5
+*Damage: 0
+*Range: 4
+*Rate of Fire: 5
+*Handling: 5
+*Availability: Help ''Larry'' at Parker Laboratories in Holland Valley to unlock this weapon.
+=-=
+
+==Submachine Guns==
+
+===BZ19===
+
+=-----=
+''STATS''
+
+'''"This 9mm SMG's cousin is the AK-47. They can marry each other and not have weird looking offspring."'''
+
+*Accuracy: 5
+*Damage: 4
+*Range: 5
+*Rate of Fire: 7
+*Handling: 6
+*Availability: Must own ''Dead Living Zombies'' DLC.
+=-=
+
+===MP34===
+
+=-----=
+''STATS''
+
+'''"A WWII-era SMG. It was nicknamed the \'luxury car of submachine guns\' because of its high quality."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 5
+*Damage: 4
+*Range: 5
+*Rate of Fire: 6
+*Handling: 5
+*Prestige
+=-=
+
+===MP40===
+
+=-----=
+''STATS''
+
+'''"Coveted by collectors, this WWII era SMG was more reliable than its American counterpart."'''
+
+*Price: $2,625
+*Accuracy: 5
+*Damage: 4
+*Range: 5
+*Rate of Fire: 5
+*Handling: 6
+*Availability: Gain ''4 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+===MP5===
+
+=-----=
+''STATS''
+
+'''"This top-quality submachine gun is used by those who protect the White House and Vatican City."'''
+
+*Price: $2,150
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 8
+*Handling: 6
+*Availability: Gain ''1 level'' of resistance in any region to unlock this item.
+=-=
+
+====MP5K====
+
+=-----=
+''STATS''
+
+'''"This SMG loves close-quarters combat. The more restrictive the better. You'll hear a safeword if it has a problem."'''
+
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 8
+*Handling: 7
+*Availability: Go to ''Ubisoft Club'' to unlock this weapon.
+=-=
+
+====MP5K "American Muscle"====
+
+=-----=
+''STATS''
+
+'''"An MP5K painted in a way that would make the founding fathers of America get teary eyed."'''
+
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 8
+*Handling: 7
+*Availability: Must own ''Season Pass''.
+=-=
+
+===MP5SD===
+
+=-----=
+''STATS''
+
+'''"A reliable SMG with a suppressor. Just like someone you're having an affair with, they will keep it discreet."'''
+
+*Price: $2,400
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 8
+*Handling: 6
+*Availability: Gain ''8 levels'' of resistance in total from any of the three regions to unlock this item.
+=-=
+
+====MP5SD "Hours of Darkness"====
+
+=-----=
+''STATS''
+
+'''"A commemorative variation of the MP5SD."'''
+
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 8
+*Handling: 6
+*Availability: Must own ''Hours of Darkness'' DLC.
+=-=
+
+===Vector .45 ACP===
+
+=-----=
+''STATS''
+
+'''"This SMG has an extremely high rate of fire. It burns through ammo faster than you can scroll through a newsfeed."'''
+
+*Price: $7,200 or 400 Silver Bars
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 9
+*Handling: 6
+*Prestige
+=-=
+
+====Vector .45 ACP "4 Color Fun"====
+
+=-----=
+''STATS''
+
+'''"This Vector .45 ACP is so bright you gotta wear shades."'''
+
+*Accuracy: 6
+*Damage: 4
+*Range: 5
+*Rate of Fire: 9
+*Handling: 6
+*Availability: Complete the ''Arcade Dawn'' live event.
+=-=
+
+==Throwables==
+
+===Dynamite===
+
+=-----=
+''STATS''
+
+'''"A classic explosive. Light the wick, wait (not too long), throw it, and cover your ears."'''
+
+*Price: $50
+*Maximum allowed capacity: 3
+*Availability: Must have the "Black Market" perk to buy this item.
+*Additional Notes:
+**Buy the ''Sticky Dynamite'' upgrade for $1,000 to make it sticky.
+**Requires: 2 Casings, 2 Fasteners, 2 Nitros to craft.
+=-=
+
+===Grenade===
+
+=-----=
+''STATS''
+
+'''"A military grade frag grenade. Remember: weak arm = pulls the pin, good arm = throws grenade."'''
+
+*Price: $75
+*Maximum allowed capacity: 3
+*Availability: Already unlocked in the prologue.
+*Additional Notes:
+**Buy the ''Sticky Grenade'' upgrade for $1,000 to make it sticky.
+=-=
+
+===Molotov===
+
+=-----=
+''STATS''
+
+'''"A bottle, a rag, and some alcohol. Beauty in its simplicity."'''
+
+*Price: $45
+*Maximum allowed capacity: 3
+*Availability: Must have the "Black Market" perk to buy this item.
+*Additional Notes:
+**Requires: 2 Fasteners, 2 Liquors to craft.
+=-=
+
+===Pipe Bomb===
+
+=-----=
+''STATS''
+
+'''"An improvised explosive device found across different aisles of a hardware store."'''
+
+*Price: $80
+*Maximum allowed capacity: 3
+*Availability: Must have the "Black Market" perk to buy this item.
+=-=
+
+===Proximity Explosive===
+
+=-----=
+''STATS''
+
+'''"A sensitive object that will explode when anything or anyone gets close to it. It's in therapy."'''
+
+*Price: $20
+*Maximum allowed capacity: 3
+*Availability: Must have the "Black Market" perk to buy this item.
+*Additional Notes:
+**Buy the ''Sticky Remote and Proximity Explosive'' upgrade for $1,000 to make it sticky.
+**Requires: 2 Blasting Caps, 2 Casings, 2 Nitros to craft.
+=-=
+
+===Remote Explosive===
+
+=-----=
+''STATS''
+
+'''"A remote detonated plastic explosive. For extra fun, combine it with some comedic timing."'''
+
+*Price: $50
+*Maximum allowed capacity: 7
+*Availability: Must have the "Black Market" perk to buy this item.
+*Additional Notes:
+**Buy the ''Sticky Remote and Proximity Explosive'' upgrade for $1,000 to make it sticky.
+**Requires: 2 Blasting Caps, 2 Fasteners, 2 Nitros to craft.
+=-=
+
+===Smoke Grenade===
+
+=-----=
+''STATS''
+
+'''"Emits a smoke cloud that reduces visibility. Just like uncle Benny's farts on bean night."'''
+
+*Price: $20
+*Maximum allowed capacity: 3
+*Availability: Already unlocked in the prologue.
+=-=
+
+===Throwing Knife===
+
+=-----=
+''STATS''
+
+'''"A steel knife that is perfect for cutting a thick slice of apple pie or hitting a bull's-eye."'''
+
+*Price: $20
+*Maximum allowed capacity: 3
+*Availability: Already unlocked in the prologue.
+=-=
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Far Cry 5: Weapons FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Ubisoft for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=
