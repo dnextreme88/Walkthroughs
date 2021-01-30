@@ -1,9 +1,7 @@
 ;format:gf-markup
 ==Introduction==
 
-Hi and welcome to my Weapons FAQ for Far Cry 5. The guide will list all pertinent details of each weapon found within the game. Certain weapons are also locked and the condition to fulfill them is provided in the guide. Take note that prestige weapons are very unique and powerful so grab them when you have the chance to afford them.
-
-I will be listing the customizations available for each weapon such as attachments, scopes, skins etc. on the next update. I just need to buy every weapon as I'm currently playing the game at the moment.
+Hi and welcome to my Weapons FAQ for Far Cry 5. The guide will list all pertinent details of each weapon found within the game. Most weapons will have different customization options available such as attachments, scopes, skins etc. Certain weapons are also locked and the condition to fulfill them is provided in the guide. Take note that prestige weapons are very unique and powerful so grab them when you have the chance to afford them. Resistance points are earned when completing objectives on all three regions. This does not include Dutch's Island, which is viewed as a introductory region.
 
 Far Cry 5 is owned by Ubisoft. All trademarks are subjected to Ubisoft.
 
@@ -14,6 +12,14 @@ Copyright (c) Ubisoft.
 *Version 1.0 - Jan 23, 2021
 **Submitted the FAQ.
 
+*Version 1.1 - Jan 29, 2021
+**Changed the weapon description of [[D50 "Sovereign"|D50 "Sovereign"]].
+**Fixed the availability attribute of [[M9 "Red Flag"|M9 "Red Flag"]] as you get it from the Arcade Noon live event instead of the Arcade Dawn live event.
+**Renamed "M16" to "[[M-16|M-16]]" section.
+**Added the following items:
+:: "[[Tooth and Nail|Tooth and Nail]]" and "[[Wisdom|Wisdom]]" sub-sections under "[[Spiked Bat|Spiked Bat]]" section.
+:: "[[Customization Options|Customization Options]]" section.
+
 ==Copyright Information==
 
 =--IMPORTANT NOTICE: PLEASE READ--=
@@ -23,6 +29,52 @@ No part of this FAQ may be produced or published in any form or by any means, el
 Copyright (c) dnextreme88
 =-=
 
+==Customization Options==
+
+===Magazines and Suppressors===
+
+Magazines and suppressors do not add any stat bonuses when equipped. These upgrades are available to every weapon. Based on the data I gathered for every weapon that has customization upgrades available, I have observed the following:
+*All ''Suppressor Cylinder'' prices are $1,725.
+*All ''Suppressor Square'' prices are $1,725, with the exception of the [[MP5K "American Muscle"|MP5K "American Muscle"]].
+*All ''Extended Magazine'' prices are $920, with the exception of the [[BZ19|BZ19]].
+
+|*NAME |*PRICE |*DESCRIPTION |
+|c Extended Magazine |c $920 |c Increases the number rounds in your firearm. You'll be reloading (and vulnerable) less often. |
+|c Suppressor Cylinder |c-2 $1,725 |c Makes your firearm virtually silent. Ideal for when you want that "silent, but deadly" thing. |
+|c Suppressor Square |c Makes your firearm virtually silent. Don't worry about the boxed shape. Corners don't add noise. |
+
+===Scopes===
+
+Certain scopes are available to certain types of weapons. Based on the data I gathered for every weapon that has customization upgrades available, I have observed the following:
+*All ''Enhanced Ranger'' prices are $1,380.
+*The ''Enhanced Scope'' is only available for [[SVD|SVD]].
+*The ''Lock-on Upgrade'' is only available for [[RAT4|RAT4]].
+*All ''Long Range Scope'' prices are $1,725.
+*All ''Marksman Adv-X Scope'' prices are $1,600.
+*All ''Marksman Scope'' prices are $1,495.
+*All ''Marksman Sight'' prices are $900 (bows) and $1,250 (other weapons).
+*All ''Optical Sight'' prices are $1,035, with the exception of the [[A-99|A-99]].
+*All ''Red Dot Sight'' prices are $795.
+*All ''Reflex Sight'' prices are $810, with the exceptions of [[BZ19|BZ19]], [[MP5K "American Muscle"|MP5K "American Muscle"]], [[Vector .45 ACP|Vector .45 ACP]], and [[Vector .45 ACP "4 Color Fun"|Vector .45 ACP "4 Color Fun"]].
+*All ''Tactical Scope'' prices are $1,325.
+*No upgrades alter the damage and rate of fire stats of any weapon.
+
+|*NAME |*PRICE |*EFFECTS |*DESCRIPTION |
+|c Enhanced Ranger (machine guns, shotguns, snipers, rifles) |c $1,380 |c Accuracy + 2, Range + 2, Handling - 1 |c Designed for competition shooters aiming for the gold. Participation trophies are for people who don't win. |
+|c Enhanced Scope (snipers) |c $1,725 |c Accuracy + 2, Range + 2, Handling - 2 |c Designed for snipers. Before you pull the trigger on this, hold your breath. Hold it, ...Hooold it, ...Now! |
+|c Lock-on Upgrade (launchers) |c $1,325 |c None |c This upgraded Tactical Scope will auto-target vehicles. |
+|c Long Range Scope (snipers) |c $1,725 |c Accuracy + 2, Range + 3, Handling - 1 |c Designed for shooters interested in long range targets. Don't forget the curvature of the Earth. It's not flat. |
+|c Marksman Adv-X Scope (snipers) |c $1,600 |c-2 Accuracy + 2, Range + 2, Handling - 1 |c Designed for hunters. You bring the patience and the deer urine, this scope will bring the reduced sway. |
+|c Marksman Scope (sidearms, snipers) |c $1,495 |c Designed for those intereted in Marksmanship. Markswomanship? Markspersonship? |
+|c Marksman Sight (bows) |c $900 |c-4 Accuracy + 2, Range + 1, Handling - 1 |c Reduces sway and improves accuracy. Designed for game hunters. Not rare retro game hunters. |
+|c Marksman Sight (machine guns, rifles, snipers, sub-machine guns) |c $1,250 |c Extremely increases magnification, has a pro crosshair, and gives you that new glasses feeling. |
+|c Optical Sight (machine guns) |c-2 $1,035 |c Increases magnification and has a highly visible crosshair. |
+|c Optical Sight (rifles, shotguns, sidearms, sub-machine guns) |c Increases magnification and has a highly visible crosshair. More technology, less wasted shots. |
+|c Red Dot Sight (bows) |c-2 $795 |c-3 Accuracy + 1, Handling + 1 |c Offers improved accuracy and has a range finder. Shoot like a world class archer. Maybe even get a medal! |
+|c Red Dot Sight (machine guns, rifles, shotguns, sidearms, sub-machine guns) |c Quicker target acquisition and improves accuracy. The red dot is the bulls eye and the world is a dartboard. |
+|c Reflex Sight (machine guns, rifles, shotguns, sidearms, sub-machine guns) |c $810 |c Marks targets quickly and improves accuracy. Reflex doesn't think. Reflex just does. |
+|c Tactical Scope (machine guns, rifles, snipers) |c $1,325 |c Accuracy + 2, Range + 1, Handling - 1 |c Designed for the military and law enforcement. It's going to do its time and live off a pension. |
+
 ==Bows==
 
 ===Compound Bow===
@@ -30,7 +82,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This bow uses a pulley & cam system to give the archer a mechanical advantage. It's not cheating."'''
+'''This bow uses a pulley & cam system to give the archer a mechanical advantage. It's not cheating.'''
 
 *Price: $1,650
 *Accuracy: 7
@@ -41,12 +93,23 @@ Copyright (c) dnextreme88
 *Availability: Loot from a cultist or get it during the ''Sunken Funds'' prepper stash mission.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Vampyr |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c River's Edge |c-5 Skin |c $700 |
+|c Bent Bone |c-3 $500 |
+|c Predator Green |
+|c Tigermouth |
+|c Red Shadow |c $200 |
+|c Marksman Sight |c-2 Scopes |c $900 |
+|c Red Dot Sight |c $795 |
+
 ====Compound Bow "Big Game Hunter"====
 
 =-----=
 ''STATS''
 
-'''"This compound bow is for those who are into that game and wildlife look."'''
+'''This compound bow is for those who are into that game and wildlife look.'''
 
 *Accuracy: 7
 *Damage: 7
@@ -56,12 +119,17 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Deluxe Edition'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Marksman Sight |c-2 Scopes |c $900 |
+|c Red Dot Sight |c $795 |
+
 ===Recurve Bow===
 
 =-----=
 ''STATS''
 
-'''"This bow is the non-firearm weapon of choice for highly skilled Green Berets from Vietnam."'''
+'''This bow is the non-firearm weapon of choice for highly skilled Green Berets from Vietnam.'''
 
 *Price: $2,500
 *Accuracy: 7
@@ -72,12 +140,23 @@ Copyright (c) dnextreme88
 *Availability: Gain ''5 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Ruby Red |c Skin (Prestige) |c $600 or 50 Silver Bars |
+|c Tiger's Tail |c-5 Skin |c $700 |
+|c One with the Forest |c-3 $500 |
+|c Red Line |
+|c Shadow |
+|c Dirty Gold |c $200 |
+|c Marksman Sight |c-2 Scopes |c $900 |
+|c Red Dot Sight |c $795 |
+
 ===Slingshot===
 
 =-----=
 ''STATS''
 
-'''"The easy to use/hard to master weapon of juvenile delinquents, game hunters, and guerrila forces."'''
+'''The easy to use/hard to master weapon of juvenile delinquents, game hunters, and guerrila forces.'''
 
 *Price: $1,840
 *Accuracy: 7
@@ -88,15 +167,25 @@ Copyright (c) dnextreme88
 *Availability: Gain ''1 level'' of resistance in any region to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Pharaoh |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Royal Purple |c-5 Skin |c $700 |
+|c Bone |c-3 $500 |
+|c Blood |
+|c Earth |
+|c The Menace |c $200 |
 
 ==Fishing Rods==
+
+Fishing rods don't have any customization options.
 
 ===Basic Fishing Rod===
 
 =-----=
 ''STATS''
 
-'''"Strong and durable, this rod is perfect for anyone new to fly fishing."'''
+'''Strong and durable, this rod is perfect for anyone new to fly fishing.'''
 
 *Price: $300
 *Accuracy: 0
@@ -112,7 +201,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"A mid-ranged fly fishing rod with a high gauge line and a fast reel."'''
+'''A mid-ranged fly fishing rod with a high gauge line and a fast reel.'''
 
 *Price: $800
 *Accuracy: 0
@@ -123,27 +212,12 @@ Copyright (c) dnextreme88
 *Availability: Liberate ''Dutch\'s Island''.
 =-=
 
-===Wonderboy Fishing Rod===
-
-=-----=
-''STATS''
-
-'''"Top of the line professional fly fishing rod with good line strength and superior reel speed"'''
-
-*Accuracy: 0
-*Damage: 0
-*Range: 2
-*Rate of Fire: 9
-*Handling: 6
-*Availability: Help ''Skylar'' at the Dylan's Master Bait Shop in Whitetail Mountains to unlock this rod.
-=-=
-
 ===Old Betsy Fishing Rod===
 
 =-----=
 ''STATS''
 
-'''"A professional quality fly fishing rod with the best line strength and good reel speed."'''
+'''A professional quality fly fishing rod with the best line strength and good reel speed.'''
 
 *Accuracy: 0
 *Damage: 0
@@ -153,6 +227,21 @@ Copyright (c) dnextreme88
 *Availability: Beat each region's state records by fishing at HARD spots across Hope County to unlock this rod.
 =-=
 
+===Wonderboy Fishing Rod===
+
+=-----=
+''STATS''
+
+'''Top of the line professional fly fishing rod with good line strength and superior reel speed'''
+
+*Accuracy: 0
+*Damage: 0
+*Range: 2
+*Rate of Fire: 9
+*Handling: 6
+*Availability: Help ''Skylar'' at the Dylan's Master Bait Shop in Whitetail Mountains to unlock this rod.
+=-=
+
 ==Launchers==
 
 ===RAT4===
@@ -160,7 +249,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This launcher lets you guide rockets by aiming. Neat!"'''
+'''This launcher lets you guide rockets by aiming. Neat!'''
 
 *Price: $3,250
 *Accuracy: 7
@@ -171,12 +260,22 @@ Copyright (c) dnextreme88
 *Availability: Gain ''4 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c This is Going Spiral |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c The Green Thumb |c-5 Skin |c $700 |
+|c Auburn 'Em All |c-3 $500 |
+|c Blue Up |
+|c Chance of Flurries |
+|c Amber Waves |c $200 |
+|c Lock-on Upgrade |c Scopes |c $1,325 |
+
 ===RPG-7===
 
 =-----=
 ''STATS''
 
-'''"This mass produced RPG launcher is everywhere. No need to camp outside of a store for a midnight launch."'''
+'''This mass produced RPG launcher is everywhere. No need to camp outside of a store for a midnight launch.'''
 
 *Accuracy: 7
 *Damage: 9
@@ -186,12 +285,24 @@ Copyright (c) dnextreme88
 *Availability: Find this weapon on the body of a cultist to unlock it.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Rocket Red Glare |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Big Cat |c-5 Skin |c $700 |
+|c Caramel Surprise |c-3 $500 |
+|c Digital Vanilla |
+|c Strawberry Bombcake |
+|c Green Means Go |c $200 |
+|c Tactical Scope |c Scopes |c $1,325 |
+
 ===Shovel Launcher===
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"A groundbreaking miracle of modern engineering."'''
+'''A groundbreaking miracle of modern engineering.'''
 
 *Accuracy: 7
 *Damage: 7
@@ -203,10 +314,12 @@ Copyright (c) dnextreme88
 
 ====Shovel Launcher "Big Farma"====
 
+This weapon has no customization options.
+
 =-----=
 ''STATS''
 
-'''"Get your dig on."'''
+'''Get your dig on.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 7
@@ -224,7 +337,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This workhorse of a machine gun has seen action in every U.S. conflict since '89 and is considering retirement."'''
+'''This workhorse of a machine gun has seen action in every U.S. conflict since '89 and is considering retirement.'''
 
 *Price: $3,150
 *Accuracy: 5
@@ -235,12 +348,30 @@ Copyright (c) dnextreme88
 *Availability: Gain ''4 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c River of Blood |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Frozen Lake |c-5 Skin |c $700 |
+|c Avoca-don't |c-3 $500 |
+|c Beige Blast |
+|c Snowflake's Sting |
+|c Old Mustard |c $200 |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====M249 "Militia"====
 
 =-----=
 ''STATS''
 
-'''"This M249 is a loud and proud member of the Whitetail Militia."'''
+'''This M249 is a loud and proud member of the Whitetail Militia.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 5
@@ -251,12 +382,24 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===M60===
 
 =-----=
 ''STATS''
 
-'''"Instructions for using this belt-fed machine gun are: apply red bandana, pull trigger, and yell."'''
+'''Instructions for using this belt-fed machine gun are: apply red bandana, pull trigger, and yell.'''
 
 *Price: $2,750
 *Accuracy: 6
@@ -267,12 +410,30 @@ Copyright (c) dnextreme88
 *Availability: Liberate ''Dutch\'s Island''.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c The Setting Sun |c Skin (Prestige) |c $1,800 or 150 Silver Bars |
+|c Muddy Machine |c-5 Skin |c $700 |
+|c Blue Moon |c-3 $500 |
+|c Cherry Liqueur |
+|c Old Penny Bronze |
+|c Spraying Grey |c $200 |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====M60-V====
 
 =-----=
 ''STATS''
 
-'''"Effective on any battlefield and a great way to earn a medal of honor."'''
+'''Effective on any battlefield and a great way to earn a medal of honor.'''
 
 *Accuracy: 6
 *Damage: 7
@@ -282,12 +443,24 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Hours of Darkness'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===MG42===
 
 =-----=
 ''STATS''
 
-'''"An absolute beast of a machine gun, with a high rate of fire that's great for supression."'''
+'''An absolute beast of a machine gun, with a high rate of fire that's great for supression.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 7
@@ -298,12 +471,27 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Mercenary |c-5 Skin |c $700 |
+|c Celtic |c-3 $500 |
+|c Stainless |
+|c Striped |
+|c Woodland |c $200 |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====MG42 "Buzzkill"====
 
 =-----=
 ''STATS''
 
-'''"This weapon is no fun at parties."'''
+'''This weapon is no fun at parties.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 7
@@ -314,6 +502,16 @@ Copyright (c) dnextreme88
 *Availability: Complete the ''Slugger'' live event.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Extended Magazine |c Magazines |c $920 |
+
 ==Melee==
 
 ===Aluminium Bat===
@@ -321,7 +519,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This has made countless slow-pitch softball players feel like first ballot hall of famers."'''
+'''This has made countless slow-pitch softball players feel like first ballot hall of famers.'''
 
 *Price: $1,025
 *Accuracy: 5
@@ -331,12 +529,22 @@ Copyright (c) dnextreme88
 *Handling: 8
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Cleanup |c-5 Skin |c $700 |
+|c Fall's End Classic |c-3 $500 |
+|c Money Ball |
+|c Paint the Corner |
+|c High Heat |c $100 |
+
 ===Bamboo Stick===
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"Literally just a piece of bamboo. Hurts like hell, though."'''
+'''Literally just a piece of bamboo. Hurts like hell, though.'''
 
 *Accuracy: 5
 *Damage: 5
@@ -351,7 +559,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"A baseball bat made of wood. Classic. Used for more than just hitting balls."'''
+'''A baseball bat made of wood. Classic. Used for more than just hitting balls.'''
 
 *Accuracy: 5
 *Damage: 5
@@ -360,12 +568,21 @@ Copyright (c) dnextreme88
 *Handling: 7
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Give 'Em that 'Ol Prepper |c Skin (Prestige) |c $3,600 or 150 Silver Bars |
+|c Cougar Comebacker |c-5 Skin |c $700 |
+|c Eden's Gate Pure Hitter |c-3 $500 |
+|c High Cheese |
+|c Walnut |
+|c Birch |c $200 |
+
 ===Bolted Pipe===
 
 =-----=
 ''STATS''
 
-'''"A while ago, this pipe was part of an anonymous leak. The bosses found out and it lost its job."'''
+'''A while ago, this pipe was part of an anonymous leak. The bosses found out and it lost its job.'''
 
 *Price: $600
 *Accuracy: 5
@@ -375,12 +592,20 @@ Copyright (c) dnextreme88
 *Handling: 8
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c White Stripe |c-5 Skin |c $700 |
+|c Dark Black |c-3 $500 |
+|c Dim Silver |
+|c Warp Zone |
+|c Scrappy Bronze |c $200 |
+
 ===Brass Knuckles===
 
 =-----=
 ''STATS''
 
-'''"Designed to deliver severe damage to your victim, while protecting your fingers."'''
+'''Designed to deliver severe damage to your victim, while protecting your fingers.'''
 
 *Price: $980
 *Accuracy: 5
@@ -391,12 +616,23 @@ Copyright (c) dnextreme88
 *Availability: Gain ''3 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Kiss from a Rose |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Copper Stopper |c-5 Skin |c $700 |
+|c Black Eye |c-3 $500 |
+|c Blue Steel |
+|c Fool's Gold |
+|c New Braces |c $200 |
+
 ===Paddle===
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"No description."'''
+'''No description.'''
 
 *Accuracy: 5
 *Damage: 5
@@ -408,10 +644,12 @@ Copyright (c) dnextreme88
 
 ====Whack!====
 
+This weapon has no customization options.
+
 =-----=
 ''STATS''
 
-'''"This paddle is for those who like their violence to have a sprinkling of cartoony."'''
+'''This paddle is for those who like their violence to have a sprinkling of cartoony.'''
 
 *Price: $3,600 or 200 Silver Bars
 *Accuracy: 5
@@ -427,7 +665,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"A tool with a broad flat blade used for moving earth, snow, or bullshit in the workplace."'''
+'''A tool with a broad flat blade used for moving earth, snow, or bullshit in the workplace.'''
 
 *Price: $610
 *Accuracy: 5
@@ -437,12 +675,22 @@ Copyright (c) dnextreme88
 *Handling: 7
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Yellow Snow |c-5 Skin |c $700 |
+|c Bury the Body |c-3 $500 |
+|c Eco-Friendly |
+|c The National Parker |
+|c Trenchmaker |c $100 |
+
 ====Optimism====
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"This shovel always sees holes of dirt as half full."'''
+'''This shovel always sees holes of dirt as half full.'''
 
 *Price: $3,600 or 200 Silver Bars
 *Accuracy: 5
@@ -455,10 +703,12 @@ Copyright (c) dnextreme88
 
 ====Shovel of the Dead====
 
+This weapon has no customization options.
+
 =-----=
 ''STATS''
 
-'''"Grab shovel, go to the bar, have a pint, and wait for the zombie outbreak to blow over."'''
+'''Grab shovel, go to the bar, have a pint, and wait for the zombie outbreak to blow over.'''
 
 *Accuracy: 5
 *Damage: 6
@@ -473,7 +723,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"One of six possible murder weapons you'd find in a mansion. "Whodunit?" is the real question."'''
+'''One of six possible murder weapons you'd find in a mansion. "Whodunit?" is the real question.'''
 
 *Price: $570
 *Accuracy: 5
@@ -483,12 +733,20 @@ Copyright (c) dnextreme88
 *Handling: 8
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Eggshell |c-5 Skin |c $700 |
+|c Innovative Grey |c-3 $500 |
+|c Trendy Midnight |
+|c Pipe Dream Green |
+|c Shade |c $200 |
+
 ===Spiked Bat===
 
 =-----=
 ''STATS''
 
-'''"A brutal clubbing weapon. It's the love child of the sporting goods and the hardware aisles."'''
+'''A brutal clubbing weapon. It's the love child of the sporting goods and the hardware aisles.'''
 
 *Price: $1,425
 *Accuracy: 5
@@ -499,6 +757,48 @@ Copyright (c) dnextreme88
 *Availability: Gain ''2 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Designated Hitter |c-5 Skin |c $700 |
+|c Dead Ball Hitter |c-3 $500 |
+|c Peggie Put Away |
+|c Treehouse |
+|c Re-Done Deck |c $100 |
+
+====Tooth and Nail====
+
+This weapon has no customization options.
+
+=-----=
+''STATS''
+
+'''When do you go to the dentist? Tooth hurty!'''
+
+*Accuracy: 5
+*Damage: 6
+*Range: 2
+*Rate of Fire: 4
+*Handling: 7
+*Availability: Complete the ''Root Canal'' live event.
+=-=
+
+====Wisdom====
+
+This weapon has no customization options.
+
+=-----=
+''STATS''
+
+'''Can hit home runs and contains bonus calcium.'''
+
+*Price: $3,600 or 200 Silver Bars
+*Accuracy: 5
+*Damage: 6
+*Range: 2
+*Rate of Fire: 4
+*Handling: 7
+=-=
+
 ==Rifles==
 
 ===45/70===
@@ -506,7 +806,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This classic .45 cal lever action rifle was designed for hunting and usually rests inside of a cabin in the woods."'''
+'''This classic .45 cal lever action rifle was designed for hunting and usually rests inside of a cabin in the woods.'''
 
 *Price: $2,070
 *Accuracy: 7
@@ -517,12 +817,30 @@ Copyright (c) dnextreme88
 *Availability: Gain ''1 level'' of resistance in any region to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c The Rich Kid |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Federal Green |c-5 Skin |c $700 |
+|c Aloe Vera |c-3 $500 |
+|c Tundra Wonder |
+|c Vintage Mahogany |
+|c Cowboy Country |c $200 |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====45/70 "Fall's Ghost"====
 
 =-----=
 ''STATS''
 
-'''"This 45/70 has the spirit of Fall's End's founder."'''
+'''This 45/70 has the spirit of Fall's End's founder.'''
 
 *Price: $3,600 or 200 Silver Bars
 *Accuracy: 7
@@ -533,12 +851,24 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====45/70-T====
 
 =-----=
 ''STATS''
 
-'''"This tactical grade .45 cal lever action rifle was designed for law enforcement and usually sleeps in police stations."'''
+'''This tactical grade .45 cal lever action rifle was designed for law enforcement and usually sleeps in police stations.'''
 
 *Price: $2,240
 *Accuracy: 6
@@ -549,12 +879,30 @@ Copyright (c) dnextreme88
 *Availability: Gain ''3 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Bad Blood |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Hunting Green |c-5 Skin |c $700 |
+|c Blood Spatter Analyst |c-3 $500 |
+|c Frontier Final Word |
+|c Mountain Spring |
+|c Classic Finisher |c $200 |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===AK-47===
 
 =-----=
 ''STATS''
 
-'''"The inventor of this dependable assault rifle believed it to be "a weapon of defense and not a weapon of offense."'''
+'''The inventor of this dependable assault rifle believed it to be "a weapon of defense and not a weapon of offense.'''
 
 *Price: $2,600
 *Accuracy: 5
@@ -565,12 +913,30 @@ Copyright (c) dnextreme88
 *Availability: Gain ''5 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c The Gold Master |c Skin (Prestige) |c $1,800 or 150 Silver Bars |
+|c Pumpkin Spice |c-5 Skin |c $700 |
+|c Cold Warrior |c-3 $500 |
+|c Guerilla Fighter |
+|c Nightfall |
+|c Basic Vintage |c $200 |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====AK-M====
 
 =-----=
 ''STATS''
 
-'''"The modern version of the AK-47. It has been used by armies, militias, and radical groups around the world."'''
+'''The modern version of the AK-47. It has been used by armies, militias, and radical groups around the world.'''
 
 *Price: $2,600
 *Accuracy: 5
@@ -581,12 +947,30 @@ Copyright (c) dnextreme88
 *Availability: Gain ''6 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Rose Gold |c Skin (Prestige) |c $1,800 or 150 Silver Bars |
+|c Tiger's Tail |c-5 Skin |c $700 |
+|c Blood Orange |c-3 $500 |
+|c Holy Guacamole |
+|c Old Tombstone |
+|c Minuteman Tan |c $200 |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====AK-MS "The Whitetailer"====
 
 =-----=
 ''STATS''
 
-'''"This AKM-S's paintjob lets everyone know you are with the Whitetail Militia... not against them."'''
+'''This AKM-S's paintjob lets everyone know you are with the Whitetail Militia... not against them.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 5
@@ -597,12 +981,24 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====AK-MS "Warrior"====
 
 =-----=
 ''STATS''
 
-'''"The modern version of the AK-47 designed for close quarters combat. Don't bring up the size thing."'''
+'''The modern version of the AK-47 designed for close quarters combat. Don't bring up the size thing.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 4
@@ -613,12 +1009,24 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===AR-C===
 
 =-----=
 ''STATS''
 
-'''"Once a military oddball, this modular semi-automatic rifle has become widly popular with the DIY crowd."'''
+'''Once a military oddball, this modular semi-automatic rifle has become widly popular with the DIY crowd.'''
 
 *Accuracy: 6
 *Damage: 4
@@ -628,12 +1036,32 @@ Copyright (c) dnextreme88
 *Availability: Available during the prologue.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Wiped Fingerprints |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Gold Medalist |c-7 Skin |c Find this skin in the Prepper Stash at the Grain Elevator in Holland Valley. |
+|c Goldenhide |c Connect to Ubisoft Club to unlock. |
+|c Black Sheep |c $700 |
+|c Bone Drill |c-3 $500 |
+|c Olive |
+|c Predator Mud |
+|c Stale Coffee |c $200 |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====AR-C "Silver & Carbon Fiber"====
 
 =-----=
 ''STATS''
 
-'''"This special semi-automatic rifle is prepared for multiple end of the world scenarios."'''
+'''This special semi-automatic rifle is prepared for multiple end of the world scenarios.'''
 
 *Accuracy: 6
 *Damage: 4
@@ -643,12 +1071,24 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Deluxe Edition'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====AR-C "Stars 'N Stripes"====
 
 =-----=
 ''STATS''
 
-'''"If this isn't the official firearm of the United States of America, it should be."'''
+'''If this isn't the official firearm of the United States of America, it should be.'''
 
 *Price: $9,000 or 500 Silver Bars
 *Accuracy: 6
@@ -659,12 +1099,24 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====AR-C "The Shark"====
 
 =-----=
 ''STATS''
 
-'''"This AR-C is a shark. Don't ever play pool or cards with it."'''
+'''This AR-C is a shark. Don't ever play pool or cards with it.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -675,12 +1127,24 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===BP-2===
 
 =-----=
 ''STATS''
 
-'''"This gun came all the way from Eastern Europe to shoot some Peggies."'''
+'''This gun came all the way from Eastern Europe to shoot some Peggies.'''
 
 *Prce: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -691,12 +1155,29 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
-===M16===
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Another Time and Place |c-5 Skin |c-5 $200 |
+|c Conformist |
+|c Deep Thought |
+|c Faded Memories  |
+|c Troubled |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
+===M-16===
 
 =-----=
 ''STATS''
 
-'''"A classic assault rifle perfect for jungle warfare."'''
+'''A classic assault rifle perfect for jungle warfare.'''
 
 *Accuracy: 6
 *Damage: 4
@@ -706,12 +1187,24 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Hours of Darkness'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===MS16===
 
 =-----=
 ''STATS''
 
-'''"This is not your father's tactical rifle. It's lightweight, shoots a high caliber bullet, and instead of smoking, it vapes."'''
+'''This is not your father's tactical rifle. It's lightweight, shoots a high caliber bullet, and instead of smoking, it vapes.'''
 
 *Price: $2,450
 *Accuracy: 7
@@ -722,12 +1215,30 @@ Copyright (c) dnextreme88
 *Availability: Gain ''2 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Quick Silver |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Old Woody |c-5 Skin |c $700 |
+|c Console Cotton Candy |c-3 $500 |
+|c Going Grey |
+|c That's A Wrap |
+|c Moss Destruction |c $200 |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====MS16 Trooper====
 
 =-----=
 ''STATS''
 
-'''"A lightweight tactical rifle that is so good at close-quarters combat it can sometimes get a bit creepy."'''
+'''A lightweight tactical rifle that is so good at close-quarters combat it can sometimes get a bit creepy.'''
 
 *Price: $2,650
 *Accuracy: 6
@@ -738,12 +1249,32 @@ Copyright (c) dnextreme88
 *Availability: Gain ''3 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c The Blizzard |c Skin (Prestige) |c $600 or 50 Silver Bars |
+|c Hardwood |c-5 Skin |c $700 |
+|c Grey Scale |c-3 $500 |
+|c Pixel Pink |
+|c Toadskin |
+|c Matte Moss |c $200 |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Marksman Sight |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===Nerve Reaper===
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"It's got punches in bunches PLUS a whole lotta stun power. Unleash the cross-eyed goof face."'''
+'''It's got punches in bunches PLUS a whole lotta stun power. Unleash the cross-eyed goof face.'''
 
 *Accuracy: 7
 *Damage: 6
@@ -760,7 +1291,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"A fine addition to the arsenal of any self respecting cowboy action shooter."'''
+'''A fine addition to the arsenal of any self respecting cowboy action shooter.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 4
@@ -771,12 +1302,27 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Deputy |c-5 Skin |c-5 $200 |
+|c High Noon |
+|c Hot Metal |
+|c Sunshine Lupine |
+|c Wooden Cowboy |
+|c Enhanced Ranger |c-4 Scopes |c $1,380 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====1887-T====
 
 =-----=
 ''STATS''
 
-'''"This gun mimics a classic model. While impractical, it is pretty fun to shoot."'''
+'''This gun mimics a classic model. While impractical, it is pretty fun to shoot.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 3
@@ -787,12 +1333,29 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Grape Soda |c-5 Skin |c $700 |
+|c Black N' Blue |c-3 $500 |
+|c Chimera |
+|c Old N' Gold |
+|c Nano-Tech |c $200 |
+|c Enhanced Ranger |c-4 Scopes |c $1,380 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===Bulldozer===
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"This one's got 10 laser balls that fire in a horizontal line. Spread the love!"'''
+'''This one's got 10 laser balls that fire in a horizontal line. Spread the love!'''
 
 *Accuracy: 2
 *Damage: 8
@@ -804,10 +1367,12 @@ Copyright (c) dnextreme88
 
 ===Hellfire===
 
+This weapon has no customization options.
+
 =-----=
 ''STATS''
 
-'''"Fires one massively powerful round. At close range, nothing survives."'''
+'''Fires one massively powerful round. At close range, nothing survives.'''
 
 *Accuracy: 3
 *Damage: 10
@@ -822,7 +1387,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This pump-action shotgun will cause more internal damage than cheap vodka."'''
+'''This pump-action shotgun will cause more internal damage than cheap vodka.'''
 
 *Price: $1,380
 *Accuracy: 3
@@ -833,12 +1398,28 @@ Copyright (c) dnextreme88
 *Availability: Liberate ''Dutch\'s Island''.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Carnelianaire |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Prepper Pepper |c-5 Skin |c $700 |
+|c Ditch |c-3 $500 |
+|c Houseplant of Pain |
+|c Lemony Fresh |
+|c Swat Silver |c $200 |
+|c Enhanced Ranger |c-4 Scopes |c $1,380 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====M133 "The Grand Slam"====
 
 =-----=
 ''STATS''
 
-'''"This M133 doesn't hit singles, doubles, triple, or home runs. Only grand slams."'''
+'''This M133 doesn't hit singles, doubles, triple, or home runs. Only grand slams.'''
 
 *Price: $3,600 or 200 Silver Bars
 *Accuracy: 3
@@ -849,12 +1430,22 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-4 Scopes |c $1,380 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====M133 M====
 
 =-----=
 ''STATS''
 
-'''"This is the modern version of the M133. It will cause more internal damage than REALLY cheap vodka."'''
+'''This is the modern version of the M133. It will cause more internal damage than REALLY cheap vodka.'''
 
 *Price: $1,550
 *Accuracy: 3
@@ -865,12 +1456,28 @@ Copyright (c) dnextreme88
 *Availability: Gain ''2 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Hack and Slash |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Bulrush |c-5 Skin |c-5 $200 |
+|c Desert Floor |
+|c Scorched Earth |
+|c Steel Driver |
+|c Wasp Nest |
+|c Enhanced Ranger |c-4 Scopes |c $1,380 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====M133 MS====
 
 =-----=
 ''STATS''
 
-'''"The short barreled modern M133 wants you to know that length isn't as important as the spread of shot."'''
+'''The short barreled modern M133 wants you to know that length isn't as important as the spread of shot.'''
 
 *Price: $1,770
 *Accuracy: 2
@@ -881,12 +1488,27 @@ Copyright (c) dnextreme88
 *Availability: Gain ''7 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Fanned Flames |c-5 Skin |c $700 |
+|c Killer Bee Killed |c-3 $500 |
+|c Other Side Green |
+|c Salt & Pepper |
+|c The Grey Hair |c $200 |
+|c Enhanced Ranger |c-4 Scopes |c $1,380 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===SBS===
 
 =-----=
 ''STATS''
 
-'''"A double barrel shotgun with tremendous stopping power. It's also been part of a couple quick weddings."'''
+'''A double barrel shotgun with tremendous stopping power. It's also been part of a couple quick weddings.'''
 
 *Price: $2,100
 *Accuracy: 5
@@ -897,12 +1519,25 @@ Copyright (c) dnextreme88
 *Availability: Gain ''4 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c The Incredible |c Skin (Prestige) |c $1,800 or 150 Silver Bars |
+|c Mustard Custard |c-5 Skin |c $700 |
+|c Cyber Green |c-3 $500 |
+|c Navy Blues |
+|c Snowfall |
+|c Good Wood |c $200 |
+|c Enhanced Ranger |c-4 Scopes |c $1,380 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+
 ====SBS "The Farmhand"====
 
 =-----=
 ''STATS''
 
-'''"This SBS Shotgun says \'get off my property\' better than any spoken threat ever could."'''
+'''This SBS Shotgun says "get off my property" better than any spoken threat ever could.'''
 
 *Price: $3,600 or 200 Silver Bars
 *Accuracy: 5
@@ -913,12 +1548,19 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-4 Scopes |c $1,380 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+
 ===SPAS-12===
 
 =-----=
 ''STATS''
 
-'''"This Italian semi-automatic shotgun brings new meaning to the phrase "talking with your hands."'''
+'''This Italian semi-automatic shotgun brings new meaning to the phrase "talking with your hands.'''
 
 *Price: $2,300
 *Accuracy: 3
@@ -929,12 +1571,28 @@ Copyright (c) dnextreme88
 *Availability: Gain ''6 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c The Thorny Rose |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Greenhorn |c-5 Skin |c $700 |
+|c Hot Lava Nights |c-3 $500 |
+|c Mocha Latte Blast |
+|c Siberian Spring Break |
+|c Shades of Cloudy |c $200 |
+|c Enhanced Ranger |c-4 Scopes |c $1,380 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====Boom on a Stick====
 
 =-----=
 ''STATS''
 
-'''"This SPAS-12 will protect you from zombies in any cabin or time period."'''
+'''This SPAS-12 will protect you from zombies in any cabin or time period.'''
 
 *Accuracy: 3
 *Damage: 7
@@ -944,12 +1602,21 @@ Copyright (c) dnextreme88
 *Availability: Complete Score Attack in ''Dead Living Zombies'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-4 Scopes |c $1,380 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+
 ====SPAS-12 "Flameout"====
 
 =-----=
 ''STATS''
 
-'''"This SPAS-12 has a paintjob that makes it prone to overheat. Worth it.'''
+'''This SPAS-12 has a paintjob that makes it prone to overheat. Worth it.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 3
@@ -960,6 +1627,16 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-4 Scopes |c $1,380 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ==Sidearms==
 
 ===1911===
@@ -967,7 +1644,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"Death, taxes and the 1911. The design of this American made semi automatic hasn't changed since WWI."'''
+'''Death, taxes and the 1911. The design of this American made semi automatic hasn't changed since WWI.'''
 
 *Accuracy: 6
 *Damage: 5
@@ -977,12 +1654,27 @@ Copyright (c) dnextreme88
 *Availability: Already unlocked in the prologue.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c The Signature Series |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Bloodline Silver |c-5 Skin |c $700 |
+|c Desert Gulf |c-3 $500 |
+|c Metal Overcast |
+|c The Detective's Partner |
+|c Service Metal |c $200 |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====1911 "Aerial Force"====
 
 =-----=
 ''STATS''
 
-'''"A reliable 1911 with a aerial color scheme. Shooting for the sky will be that much easier with this."'''
+'''A reliable 1911 with a aerial color scheme. Shooting for the sky will be that much easier with this.'''
 
 *Accuracy: 6
 *Damage: 5
@@ -992,12 +1684,21 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Deluxe Edition'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====1911 "Doomsday Prepper"====
 
 =-----=
 ''STATS''
 
-'''"This 1911 has a red bold color scheme that screams 'I knew this was going to happen!'"'''
+'''This 1911 has a red bold color scheme that screams "I knew this was going to happen!"'''
 
 *Accuracy: 6
 *Damage: 5
@@ -1007,12 +1708,21 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Season Pass''.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====1911 "The Shark"====
 
 =-----=
 ''STATS''
 
-'''"This 1911 has that retro vintage authentic bomber feel."'''
+'''This 1911 has that retro vintage authentic bomber feel.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -1022,13 +1732,22 @@ Copyright (c) dnextreme88
 *Handling: 7
 *Prestige
 =-=
+
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
 
 ====1911 "Toaster"====
 
 =-----=
 ''STATS''
 
-'''"One good headshot from this chrome 1911 pistol and you'll be buttering up your target for breakfast."'''
+'''One good headshot from this chrome 1911 pistol and you'll be buttering up your target for breakfast.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -1038,13 +1757,22 @@ Copyright (c) dnextreme88
 *Handling: 7
 *Prestige
 =-=
+
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
 
 ====1911 Extended "Golden Aerie"====
 
 =-----=
 ''STATS''
 
-'''"This 1911 Extended pistol is powerful, ostentatious, and perfect for the flashy millenial in us all."'''
+'''This 1911 Extended pistol is powerful, ostentatious, and perfect for the flashy millenial in us all.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -1055,12 +1783,21 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===.44 Magnum===
 
 =-----=
 ''STATS''
 
-'''"A powerful handgun that is perfect for close quarters self defense."'''
+'''A powerful handgun that is perfect for close quarters self defense.'''
 
 *Price: $1,150
 *Accuracy: 5
@@ -1071,12 +1808,25 @@ Copyright (c) dnextreme88
 *Availability: Liberate ''Dutch\'s Island''.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Military Ease |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c The Cold Case |c-5 Skin |c $700 |
+|c Dark & Sandy |c-3 $500 |
+|c Drop Dead Red |
+|c Peppermint Pow |
+|c Shooting Range |c $200 |
+|c Marksman Scope |c-4 Scopes |c $1,495 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+
 ====.44 Magnum "Cannon"====
 
 =-----=
 ''STATS''
 
-'''"This revolver is guaranteed to get you out of dirty and/or hairy situations."'''
+'''This revolver is guaranteed to get you out of dirty and/or hairy situations.'''
 
 *Price: $1,550
 *Accuracy: 6
@@ -1087,12 +1837,25 @@ Copyright (c) dnextreme88
 *Availability: Gain ''9 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c The Empire State |c Skin (Prestige) |c $1,800 or 150 Silver Bars |
+|c Blue Ribbon |c-5 Skin |c $700 |
+|c Stoplight |c-3 $500 |
+|c The Precinct |
+|c Yes We Candy Cane |
+|c Greyhound |c $200 |
+|c Marksman Scope |c-4 Scopes |c $1,495 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+
 ====.44 Magnum "Sixer"====
 
 =-----=
 ''STATS''
 
-'''"A powerful handgun + a longer barrel = what do you think?"'''
+'''A powerful handgun + a longer barrel = what do you think?'''
 
 *Price: $1,645
 *Accuracy: 6
@@ -1102,12 +1865,28 @@ Copyright (c) dnextreme88
 *Handling: 7
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c The Wild Western |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Iceberg Tipper |c-5 Skin |c $700 |
+|c Black Cherry Cola |c-3 $500 |
+|c Bubblegum Popper |
+|c Gunshow Special |
+|c The Overnight |c $200 |
+|c Marksman Scope |c-4 Scopes |c $1,495 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===.44 Magnum L===
 
 =-----=
 ''STATS''
 
-'''"Do you still think this is still one of the most powerful handguns in the world? Well, do ya, punk?"'''
+'''Do you still think this is still one of the most powerful handguns in the world? Well, do ya, punk?'''
 
 *Price: $1,325
 *Accuracy: 6
@@ -1118,12 +1897,25 @@ Copyright (c) dnextreme88
 *Availability: Gain ''3 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Cross-Hatch |c Skin (Prestige) |c $600 or 50 Silver Bars |
+|c Aqua Team |c-5 Skin |c $700 |
+|c Cafe-Au-Laid to Rest |c-3 $500 |
+|c Cotton Candy |
+|c Vampire Fire |
+|c Firearm Noire |c $200 |
+|c Marksman Scope |c-4 Scopes |c $1,495 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+
 ====.44 Magnum Steel & Ivory====
 
 =-----=
 ''STATS''
 
-'''"This inlaid ivory revolver is straight out of a chief bandit\'s holster."'''
+'''This inlaid ivory revolver is straight out of a chief bandit's holster.'''
 
 *Accuracy: 6
 *Damage: 7
@@ -1133,12 +1925,19 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Deluxe Edition'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Marksman Scope |c-4 Scopes |c $1,495 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+
 ====O'Bannon Hand Cannon====
 
 =-----=
 ''STATS''
 
-'''"This .44 MAGNUM has been making zombies, punks, and zombie punks 'feel lucky' for decades."'''
+'''This .44 MAGNUM has been making zombies, punks, and zombie punks "feel lucky" for decades.'''
 
 *Accuracy: 6
 *Damage: 7
@@ -1148,12 +1947,19 @@ Copyright (c) dnextreme88
 *Availability: Complete Score Attack in ''Dead Living Zombies'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Marksman Scope |c-4 Scopes |c $1,495 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+
 ===6P9===
 
 =-----=
 ''STATS''
 
-'''"This Cold War-era pistol with detachable suppresor was made for wetwork. (It's also a grower, not a shower.)"'''
+'''This Cold War-era pistol with detachable suppresor was made for wetwork. (It's also a grower, not a shower.)'''
 
 *Accuracy: 7
 *Damage: 2
@@ -1163,12 +1969,22 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Dead Living Zombies'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Grape Drank |c-5 Skin |c $700 |
+|c Calm Down Blue |c-3 $500 |
+|c Everyone Loves Red |
+|c Yallow |
+|c Holy Guacamole |c $200 |
+|c Suppressor Cylinder |c Suppressors |c $1,725 |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===A-99===
 
 =-----=
 ''STATS''
 
-'''"This full-auto machine pistol did a couple of seasons of a Miami crime TV drama in the 80s. It still gets residuals."'''
+'''This full-auto machine pistol did a couple of seasons of a Miami crime TV drama in the 80s. It still gets residuals.'''
 
 *Price: $2,000
 *Accuracy: 4
@@ -1179,12 +1995,27 @@ Copyright (c) dnextreme88
 *Availability: Gain ''5 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c The Red Eye |c Skin (Prestige) |c $2,400 or 100 Silver Bars |
+|c Basically Fatigued |c-5 Skin |c $700 |
+|c Black and Blue |c-3 $500 |
+|c Handcrafted Militia |
+|c Red Tiger Stripes |
+|c Monochrome |c $200 |
+|c Optical Sight |c-3 Scopes |c $900 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===D2===
 
 =-----=
 ''STATS''
 
-'''"This sawed-off shotgun has seen its share of wasteands. It's brutal. It's effective. Enough said."'''
+'''This sawed-off shotgun has seen its share of wasteands. It's brutal. It's effective. Enough said.'''
 
 *Price: $2,875
 *Accuracy: 2
@@ -1195,12 +2026,23 @@ Copyright (c) dnextreme88
 *Availability: Gain ''5 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Jailbird |c Skin (Prestige) |c $600 or 50 Silver Bars |
+|c Cherry Blossom |c-5 Skin |c $700 |
+|c Fatigue Green |c-3 $500 |
+|c Ghost & Shadow |
+|c Setting Sun |
+|c Aligator |c $200 |
+
 ====D2 "Outlaw"====
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"This sawed-off shotgun has seen its share of wasteands. It\'s brutal. It\'s effective. Enough said."'''
+'''This sawed-off shotgun has seen its share of wasteands. It's brutal. It's effective. Enough said.'''
 
 *Accuracy: 2
 *Damage: 7
@@ -1212,10 +2054,12 @@ Copyright (c) dnextreme88
 
 ====D2 "Sin Eater"====
 
+This weapon has no customization options.
+
 =-----=
 ''STATS''
 
-'''"This shotgun knows the flavors of sin. Delicious."'''
+'''This shotgun knows the flavors of sin. Delicious.'''
 
 *Accuracy: 2
 *Damage: 7
@@ -1230,7 +2074,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"Every 80's action hero you ever idolized has blown away the bad guys with this gun."'''
+'''Every 80's action hero you ever idolized has blown away the bad guys with this gun.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -1241,12 +2085,25 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Do You Like Yellow |c-5 Skin |c-5 $200 |
+|c Hello There Green |
+|c Totally Blue |
+|c Nice and Purple |
+|c Yes Its Red |
+|c Marksman Scope |c-4 Scopes |c $1,495 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====D50 "Sovereign"====
 
 =-----=
 ''STATS''
 
-'''"Every 80's action hero you ever idolized has blown away the bad guys with this gun."'''
+'''One of the world's most powerful handguns, perfect for taking down those d*mn peggies.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -1257,12 +2114,20 @@ Copyright (c) dnextreme88
 *Availability: Complete the ''Hambearger'' live event.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Marksman Scope |c-4 Scopes |c $1,495 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===M-79===
 
 =-----=
 ''STATS''
 
-'''"Why use your arm to throw grenade, when you can just pull a trigger? Perfect for short to mid-range targets."'''
+'''Why use your arm to throw grenade, when you can just pull a trigger? Perfect for short to mid-range targets.'''
 
 *Price: $3,200
 *Accuracy: 5
@@ -1273,12 +2138,23 @@ Copyright (c) dnextreme88
 *Availability: Gain ''6 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c The Redness |c Skin (Prestige) |c $2,400 or 150 Silver Bars |
+|c War Veteran |c-5 Skin |c $700 |
+|c Blood in the Water |c-3 $500 |
+|c Everglade Green |
+|c Say Goodnight |
+|c Deep Cammo |c $200 |
+
 ====M-79 "Shark Shooter"====
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"This M-79 was in the war. Which war? I dunno. The one with that shark paint trend."'''
+'''This M-79 was in the war. Which war? I dunno. The one with that shark paint trend.'''
 
 *Price: $9,000 or 500 Silver Bars
 *Accuracy: 5
@@ -1294,7 +2170,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This semiautomatic became part of the U.S. Armed Forces in 1985. It's a millenial, so... you know."'''
+'''This semiautomatic became part of the U.S. Armed Forces in 1985. It's a millenial, so... you know.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -1305,27 +2181,52 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Bloody Past |c-5 Skin |c $700 |
+|c Bushwhacki Khaki |c-3 $500 |
+|c How I Like My Coffee |
+|c The Olive Branch |
+|c Wood in your Grip |c $200 |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====M9 "Red Flag"====
 
 =-----=
 ''STATS''
 
-'''"A meaty pistol with a lot of raw power."'''
+'''A meaty pistol with a lot of raw power.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
 *Damage: 4
 *Range: 5
 *Rate of Fire: 5
-*Availability: Complete the ''Arcade Dawn'' live event.
+*Availability: Complete the ''Arcade Noon'' live event.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===Nut Hugger===
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"Fires heavy laser bullets that destroy targets like flies on stink!"'''
+'''Fires heavy laser bullets that destroy targets like flies on stink!'''
 
 *Accuracy: 9
 *Damage: 8
@@ -1340,7 +2241,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This semi-automatic's sleek design and accuracy make this pistol the choice by countless Hollywood villains."'''
+'''This semi-automatic's sleek design and accuracy make this pistol the choice by countless Hollywood villains.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -1351,12 +2252,23 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Muddy |c-5 Skin |c $700 |
+|c Full Black |c-3 $500 |
+|c Future West |
+|c Mold |
+|c Worn and Torn |c $200 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====P08 "Pastel Power"====
 
 =-----=
 ''STATS''
 
-'''"Don't let the cutesy look fool you. This gun is a real heartless SOB."'''
+'''Don't let the cutesy look fool you. This gun is a real heartless SOB.'''
 
 *Accuracy: 6
 *Damage: 4
@@ -1366,12 +2278,18 @@ Copyright (c) dnextreme88
 *Availability: Complete the ''Heartbreaker'' live event.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====P08-L====
 
 =-----=
 ''STATS''
 
-'''"The classic P08, now with a longer barrel, extra wood detailing, and better options for sight attachments."'''
+'''The classic P08, now with a longer barrel, extra wood detailing, and better options for sight attachments.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -1382,12 +2300,26 @@ Copyright (c) dnextreme88
 *Availability: Automatically added during the September 27, 2018 update.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Muddy |c-5 Skin |c $700 |
+|c Full Black |c-3 $500 |
+|c Future West |
+|c Mold |
+|c Worn and Torn |c $200 |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===P226===
 
 =-----=
 ''STATS''
 
-'''"A dependable handgun used by many state police departments. It's about as American as Swiss Cheese."'''
+'''A dependable handgun used by many state police departments. It's about as American as Swiss Cheese.'''
 
 *Price: $1,050
 *Accuracy: 6
@@ -1398,12 +2330,27 @@ Copyright (c) dnextreme88
 *Availability: Gain ''1 level'' of resistance in any region to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Vintage Woodgrain |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Surplus Green |c-5 Skin |c $700 |
+|c Covert in Chocolate |c-3 $500 |
+|c Surfer's Wave |
+|c Well Worn Metal |
+|c Yellowjacket |c $200 |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====P226 "Amendment 2"====
 
 =-----=
 ''STATS''
 
-'''"This P226 is as American as George Washington eating a deep-fried bald eagle."'''
+'''This P226 is as American as George Washington eating a deep-fried bald eagle.'''
 
 *Price: $3,600 or 200 Silver Bars
 *Accuracy: 6
@@ -1414,12 +2361,21 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===Skorpion===
 
 =-----=
 ''STATS''
 
-'''"This SMG is proud of its rapid fire, low recoil, and Czechoslovakian roots."'''
+'''This SMG is proud of its rapid fire, low recoil, and Czechoslovakian roots.'''
 
 *Price: $1,700
 *Accuracy: 2
@@ -1430,12 +2386,27 @@ Copyright (c) dnextreme88
 *Availability: Gain ''2 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Onyx |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c The Silver Fox |c-5 Skin |c $700 |
+|c Bloodshot Bull's Eye |c-3 $500 |
+|c Camo 'Em Down |
+|c Yellowbelly |
+|c Grey Day |c $200 |
+|c Optical Sight |c-3 Scopes | $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====Skorpion "Big Spender"====
 
 =-----=
 ''STATS''
 
-'''"This gold plated Skorpion compensates for its size with a shiny facade."'''
+'''This gold plated Skorpion compensates for its size with a shiny facade.'''
 
 *Price: $9,000 or 500 Silver Bars
 *Accuracy: 2
@@ -1446,12 +2417,21 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===SMG-11===
 
 =-----=
 ''STATS''
 
-'''"This subcompact machine pistol will burn through bullets faster than a fake news story gets shared."'''
+'''This subcompact machine pistol will burn through bullets faster than a fake news story gets shared.'''
 
 *Price: $1,500
 *Accuracy: 3
@@ -1462,12 +2442,30 @@ Copyright (c) dnextreme88
 *Availability: Liberate ''Dutch\'s Island''.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Rat-Tat-Tat Red |c Skin (Prestige) |c $2,400 or 50 Silver Bars |
+|c Dark Camo Green |c-6 Skin |c Help Willis at the Howard Cabin in Holland Valley to unlock this skin. |
+|c Radical Camo |c $700 |
+|c Concrete |c-3 $500 |
+|c Mustard |
+|c Vice Squad |
+|c Oil Field |c $200 |
+|c Optical Sight |c-3 Scopes |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===Tazer Spazer Annihilazer===
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"Like the Lazer Blazer, plus a few more AZERS."'''
+'''Like the Lazer Blazer, plus a few more AZERS.'''
 
 *Accuracy: 10
 *Damage: 10
@@ -1479,10 +2477,12 @@ Copyright (c) dnextreme88
 
 ===The Obliteratorrrr===
 
+This weapon has no customization options.
+
 =-----=
 ''STATS''
 
-'''"This here's a pistol sized rocket launcher that packs some serious punch."'''
+'''This here's a pistol sized rocket launcher that packs some serious punch.'''
 
 *Accuracy: 7
 *Damage: 10
@@ -1499,7 +2499,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This mass produced bolt action rifle with scope sold in discount department stores and proudly made in the U.S.A."'''
+'''This mass produced bolt action rifle with scope sold in discount department stores and proudly made in the U.S.A.'''
 
 *Price: $2,800
 *Accuracy: 7
@@ -1510,12 +2510,30 @@ Copyright (c) dnextreme88
 *Availability: Gain ''3 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Ol' Betsy |c Skin (Prestige) |c $600 or 500 Silver Bars |
+|c Night Swimmer |c-5 Skin |c $700 |
+|c Polished Wood |c-3 $500 |
+|c Red, White, and Blue |
+|c Swamp Romp |
+|c Don't Kale My Vibe |c $200 |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Long Range Scope |c $1,725 |
+|c Marksman Sight |c $1,250 |
+|c Marksman Scope |c $1,495 |
+|c Marksman Adv-X Scope |c $1,600 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====308 Carbine "Old Flame"====
 
 =-----=
 ''STATS''
 
-'''"This 308 Carbine still checks you out on social media. The spark between you two will never die."'''
+'''This 308 Carbine still checks you out on social media. The spark between you two will never die.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 7
@@ -1526,12 +2544,24 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Ranger |c-6 Scopes |c $1,380 |
+|c Long Range Scope |c $1,725 |
+|c Marksman Sight |c $1,250 |
+|c Marksman Scope |c $1,495 |
+|c Marksman Adv-X Scope |c $1,600 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===AR-CL===
 
 =-----=
 ''STATS''
 
-'''"A semi-automatic rifle manufactured to maintain long distance relationships, or eliminating them."'''
+'''A semi-automatic rifle manufactured to maintain long distance relationships, or eliminating them.'''
 
 *Price: $2,000
 *Accuracy: 6
@@ -1542,12 +2572,28 @@ Copyright (c) dnextreme88
 *Availability: Liberate ''Dutch\'s Island''.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Blood Drop |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Thick Forest |c-5 Skin |c $700 |
+|c 1 Shade of Gray |c-3 $500 |
+|c Ghillie Green |
+|c Mudraker |
+|c Khaki |c $200 |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Marksman Scope |c $1,495 |
+|c Marksman Adv-X Scope |c $1,600 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====AR-CL "Sharkbite"====
 
 =-----=
 ''STATS''
 
-'''"This AR-CL is just like a shark. You know how sharks are, right?"'''
+'''This AR-CL is just like a shark. You know how sharks are, right?'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -1558,12 +2604,24 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Marksman Scope |c $1,495 |
+|c Marksman Adv-X Scope |c $1,600 |
+|c Tactical Scope |c $1,325 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===Grape Popper===
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"Has a scope. Can probably pop actual grapes from a distance, but in this context, grapes are heads."'''
+'''Has a scope. Can probably pop actual grapes from a distance, but in this context, grapes are heads.'''
 
 *Accuracy: 9
 *Damage: 8
@@ -1578,7 +2636,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This .50 cal bolt action rifle knows about accuracy and penetration. Just like your sarcastic \'friend.\' "'''
+'''This .50 cal bolt action rifle knows about accuracy and penetration. Just like your sarcastic "friend."'''
 
 *Price: $2,900
 *Accuracy: 8
@@ -1589,12 +2647,27 @@ Copyright (c) dnextreme88
 *Availability: Gain ''5 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Aim for Gold |c Skin (Prestige) |c $1,200 or 150 Silver Bars |
+|c Rumpus Room Red |c-5 Skin |c $700 |
+|c Battleship Grey |c-3 $500 |
+|c Blue Tiger |
+|c Conspiracy Green |
+|c Chocolate Lightning |c $200 |
+|c Long Range Scope |c Scopes |c-3 $1,725 |
+|c Suppressor Cylinder |c-2 Suppressors |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====Jacob's Rifle====
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"Jacob Seed's bolt action .50 cal sniper rifle. You'll need to use it a lot to change the name of this one."'''
+'''Jacob Seed's bolt action .50 cal sniper rifle. You'll need to use it a lot to change the name of this one.'''
 
 *Accuracy: 8
 *Damage: 9
@@ -1609,7 +2682,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This gun is so cool. The snazzy neon. That logo that comes from the future. The way it kills baddies real good. Rex would be proud."'''
+'''This gun is so cool. The snazzy neon. That logo that comes from the future. The way it kills baddies real good. Rex would be proud.'''
 
 *Accuracy: 8
 *Damage: 9
@@ -1619,12 +2692,19 @@ Copyright (c) dnextreme88
 *Availability: Automatically added during the September 27, 2018 update.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Long Range Scope |c Scopes |c-3 $1,725 |
+|c Suppressor Cylinder |c-2 Suppressors |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====MBP .50 Gold & Steel====
 
 =-----=
 ''STATS''
 
-'''"This gold plated sniper rifle was once a trophy to some rich kid. Only thing they used it for was selfies."'''
+'''This gold plated sniper rifle was once a trophy to some rich kid. Only thing they used it for was selfies.'''
 
 *Accuracy: 8
 *Damage: 9
@@ -1634,12 +2714,19 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Season Pass''.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Long Range Scope |c Scopes |c-3 $1,725 |
+|c Suppressor Cylinder |c-2 Suppressors |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===SA-50===
 
 =-----=
 ''STATS''
 
-'''"This .50 cal semi-auto rifle has solid stopping power. If it does that for more than 4 hours, call a doctor."'''
+'''This .50 cal semi-auto rifle has solid stopping power. If it does that for more than 4 hours, call a doctor.'''
 
 *Price: $3,200
 *Accuracy: 7
@@ -1650,12 +2737,25 @@ Copyright (c) dnextreme88
 *Availability: Gain ''6 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Air Support |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c The Devil's Touch |c-5 Skin |c $700 |
+|c #1 with a Bullet |c-3 $500 |
+|c High Altitude |
+|c Reign Forest |
+|c Moonshot |c $200 |
+|c Long Range Scope |c Scopes |c-3 $1,725 |
+|c Suppressor Cylinder |c-2 Suppressors |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====All Roads lead to Romero====
 
 =-----=
 ''STATS''
 
-'''"This SA-50 can take out zombies of the night, of the dawn, of the day, of the sequels, etc."'''
+'''This SA-50 can take out zombies of the night, of the dawn, of the day, of the sequels, etc.'''
 
 *Accuracy: 6
 *Damage: 4
@@ -1665,12 +2765,19 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Hours of Darkness'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Long Range Scope |c Scopes |c-3 $1,725 |
+|c Suppressor Cylinder |c-2 Suppressors |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====SA-50 "Free State"====
 
 =-----=
 ''STATS''
 
-'''"This SA50 is only for a well regulated militia which is necessary for the security of a free state."'''
+'''This SA50 is only for a well regulated militia which is necessary for the security of a free state.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 7
@@ -1681,12 +2788,19 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Long Range Scope |c Scopes |c-3 $1,725 |
+|c Suppressor Cylinder |c-2 Suppressors |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===SVD===
 
 =-----=
 ''STATS''
 
-'''"The preferred choice of designated marksmen the world over."'''
+'''The preferred choice of designated marksmen the world over.'''
 
 *Accuracy: 7
 *Damage: 6
@@ -1696,6 +2810,13 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Hours of Darkness'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Enhanced Scope |c Scopes |c-3 $1,725 |
+|c Suppressor Cylinder |c-2 Suppressors |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ==Special Weapons==
 
 ===Flamethrower===
@@ -1703,7 +2824,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"It does one thing and one thing only... it shoots a steady stream of fire. Pro Tip: Don't burn yourself."'''
+'''It does one thing and one thing only... it shoots a steady stream of fire. Pro Tip: Don't burn yourself.'''
 
 *Price: $2,300
 *Accuracy: 5
@@ -1714,12 +2835,23 @@ Copyright (c) dnextreme88
 *Availability: Liberate ''Dutch\'s Island''.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Toxic Vengance |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Dragonfruit |c-5 Skin |c $700 |
+|c Chemical Blend |c-3 $500 |
+|c Cyberfire |
+|c Flaming Hot Beige |
+|c Hot Snow |c $200 |
+
 ====Flames on Flames====
+
+This weapon has no customization options.
 
 =-----=
 ''STATS''
 
-'''"What else are you gonna put on a Flamethrower besides flames? C'mon."'''
+'''What else are you gonna put on a Flamethrower besides flames? C'mon.'''
 
 *Price: $3,600 or 200 Silver Bars
 *Accuracy: 5
@@ -1732,10 +2864,12 @@ Copyright (c) dnextreme88
 
 ====Flamethrower "Cleansing Fire"====
 
+This weapon has no customization options.
+
 =-----=
 ''STATS''
 
-'''"Wash away your sins."'''
+'''Wash away your sins.'''
 
 *Price: $4,800 or 400 Silver Bars
 *Accuracy: 5
@@ -1748,10 +2882,12 @@ Copyright (c) dnextreme88
 
 ====Flamethrower "Flamebearer"====
 
+This weapon has no customization options.
+
 =-----=
 ''STATS''
 
-'''"Adorned with stolen gold, this weapon is an intimidating display of wealth."'''
+'''Adorned with stolen gold, this weapon is an intimidating display of wealth.'''
 
 *Accuracy: 5
 *Damage: 8
@@ -1763,10 +2899,12 @@ Copyright (c) dnextreme88
 
 ====Flamethrower "Neon Sparkle"====
 
+This weapon has no customization options.
+
 =-----=
 ''STATS''
 
-'''"This full spectrum flaming firearm fires flashy fire far and wide. 9/10 unicorns recommend it."'''
+'''This full spectrum flaming firearm fires flashy fire far and wide. 9/10 unicorns recommend it.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 5
@@ -1782,7 +2920,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This weapon uses some kind of magnetized microwaves that, if aimed properly, can explode organic targets. WTF?"'''
+'''This weapon uses some kind of magnetized microwaves that, if aimed properly, can explode organic targets. WTF?'''
 
 *Accuracy: 5
 *Damage: 0
@@ -1792,6 +2930,15 @@ Copyright (c) dnextreme88
 *Availability: Help ''Larry'' at Parker Laboratories in Holland Valley to unlock this weapon.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Solar Flare |c Skin (Prestige) |c $1,200 or 100 Silver Bars |
+|c Dark Maul |c-5 Skin |c $700 |
+|c Duststorm |c-3 $500 |
+|c Industrial Hazard |
+|c Moon Rocks |
+|c Real Deal Teal |c $200 |
+
 ==Submachine Guns==
 
 ===BZ19===
@@ -1799,7 +2946,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"This 9mm SMG's cousin is the AK-47. They can marry each other and not have weird looking offspring."'''
+'''This 9mm SMG's cousin is the AK-47. They can marry each other and not have weird looking offspring.'''
 
 *Accuracy: 5
 *Damage: 4
@@ -1809,12 +2956,27 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Dead Living Zombies'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Super Delicious Brains |c-5 Skin |c $700 |
+|c Beautiful Zombie Goo |c-3 $500 |
+|c Delicious Blood |
+|c Zombie No Like This One |
+|c Healthy Zombie Skin Tone |c $200 |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $700 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $900 |
+
 ===MP34===
 
 =-----=
 ''STATS''
 
-'''"A WWII-era SMG. It was nicknamed the \'luxury car of submachine guns\' because of its high quality."'''
+'''A WWII-era SMG. It was nicknamed the "luxury car of submachine guns" because of its high quality.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 5
@@ -1825,12 +2987,27 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Black as your Heart |c-5 Skin |c-5 $200 |
+|c Camo Kablammo |
+|c Inferno |
+|c Junglist |
+|c Neon Tiger |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===MP40===
 
 =-----=
 ''STATS''
 
-'''"Coveted by collectors, this WWII era SMG was more reliable than its American counterpart."'''
+'''Coveted by collectors, this WWII era SMG was more reliable than its American counterpart.'''
 
 *Price: $2,625
 *Accuracy: 5
@@ -1841,12 +3018,28 @@ Copyright (c) dnextreme88
 *Availability: Gain ''4 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Antique Dealer |c Skin (Prestige) |c $600 or 100 Silver Bars |
+|c Wild Tiger |c-5 Skin |c $700 |
+|c Dead Red |c-3 $500 |
+|c Grey Slay |
+|c Woodland Camo |
+|c Midnight Fight |c $200 |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===MP5===
 
 =-----=
 ''STATS''
 
-'''"This top-quality submachine gun is used by those who protect the White House and Vatican City."'''
+'''This top-quality submachine gun is used by those who protect the White House and Vatican City.'''
 
 *Price: $2,150
 *Accuracy: 6
@@ -1857,12 +3050,28 @@ Copyright (c) dnextreme88
 *Availability: Gain ''1 level'' of resistance in any region to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c 1st Place Finish |c Skin (Prestige) |c $2,400 or 100 Silver Bars |
+|c Bloody Mary |c-5 Skin |c $700 |
+|c Daisy Chain Reaction |c-3 $500 |
+|c Skeleton Key |
+|c Suburban Lawn |
+|c The Grey Area |c $200 |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====MP5K====
 
 =-----=
 ''STATS''
 
-'''"This SMG loves close-quarters combat. The more restrictive the better. You'll hear a safeword if it has a problem."'''
+'''This SMG loves close-quarters combat. The more restrictive the better. You'll hear a safe word if it has a problem.'''
 
 *Accuracy: 6
 *Damage: 4
@@ -1872,12 +3081,28 @@ Copyright (c) dnextreme88
 *Availability: Go to ''Ubisoft Club'' to unlock this weapon.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Luxury Class |c Skin (Prestige) |c $2,400 or 100 Silver Bars |
+|c Cherry Pop |c-5 Skin |c $700 |
+|c Grass-Fed Green |c-3 $500 |
+|c Rattlin' Bones |
+|c Warm Beer |
+|c Khaki |c $200 |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====MP5K "American Muscle"====
 
 =-----=
 ''STATS''
 
-'''"An MP5K painted in a way that would make the founding fathers of America get teary eyed."'''
+'''An MP5K painted in a way that would make the founding fathers of America get teary eyed.'''
 
 *Accuracy: 6
 *Damage: 4
@@ -1887,12 +3112,22 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Season Pass''.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $700 |
+|c Suppressor Cylinder |c-2 Suppressors |c $1,725 |
+|c Suppressor Square |c $100 |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===MP5SD===
 
 =-----=
 ''STATS''
 
-'''"A reliable SMG with a suppressor. Just like someone you're having an affair with, they will keep it discreet."'''
+'''A reliable SMG with a suppressor. Just like someone you're having an affair with, they will keep it discreet.'''
 
 *Price: $2,400
 *Accuracy: 6
@@ -1903,12 +3138,26 @@ Copyright (c) dnextreme88
 *Availability: Gain ''8 levels'' of resistance in total from any of the three regions to unlock this item.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Silversnake |c Skin (Prestige) |c $2,400 or 100 Silver Bars |
+|c Artery Artillery |c-5 Skin |c $700 |
+|c Bone Marrow |c-3 $500 |
+|c Bush-Trimmer |
+|c Mellow Yellow |
+|c Little off the Taupe |c $200 |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====MP5SD "Hours of Darkness"====
 
 =-----=
 ''STATS''
 
-'''"A commemorative variation of the MP5SD."'''
+'''A commemorative variation of the MP5SD.'''
 
 *Accuracy: 6
 *Damage: 4
@@ -1918,12 +3167,20 @@ Copyright (c) dnextreme88
 *Availability: Must own ''Hours of Darkness'' DLC.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $810 |
+|c Extended Magazine |c Magazines |c $920 |
+
 ===Vector .45 ACP===
 
 =-----=
 ''STATS''
 
-'''"This SMG has an extremely high rate of fire. It burns through ammo faster than you can scroll through a newsfeed."'''
+'''This SMG has an extremely high rate of fire. It burns through ammo faster than you can scroll through a newsfeed.'''
 
 *Price: $7,200 or 400 Silver Bars
 *Accuracy: 6
@@ -1934,12 +3191,27 @@ Copyright (c) dnextreme88
 *Prestige
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Red Stopper |c-5 Skin |c $700 |
+|c 13 Colonies |c-3 $500 |
+|c Designer Camo |
+|c Greyed Out |
+|c Drab Green |c $200 |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $700 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ====Vector .45 ACP "4 Color Fun"====
 
 =-----=
 ''STATS''
 
-'''"This Vector .45 ACP is so bright you gotta wear shades."'''
+'''This Vector .45 ACP is so bright you gotta wear shades.'''
 
 *Accuracy: 6
 *Damage: 4
@@ -1949,6 +3221,16 @@ Copyright (c) dnextreme88
 *Availability: Complete the ''Arcade Dawn'' live event.
 =-=
 
+''CUSTOMIZATION OPTIONS''
+|*NAME |*TYPE |*COST |
+|c Marksman Sight |c-4 Scopes |c $1,250 |
+|c Optical Sight |c $1,035 |
+|c Red Dot Sight |c $795 |
+|c Reflex Sight |c $700 |
+|c Suppressor Cylinder |c-2 Suppressors |c-2 $1,725 |
+|c Suppressor Square |
+|c Extended Magazine |c Magazines |c $920 |
+
 ==Throwables==
 
 ===Dynamite===
@@ -1956,7 +3238,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"A classic explosive. Light the wick, wait (not too long), throw it, and cover your ears."'''
+'''A classic explosive. Light the wick, wait (not too long), throw it, and cover your ears.'''
 
 *Price: $50
 *Maximum allowed capacity: 3
@@ -1971,7 +3253,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"A military grade frag grenade. Remember: weak arm = pulls the pin, good arm = throws grenade."'''
+'''A military grade frag grenade. Remember: weak arm = pulls the pin, good arm = throws grenade.'''
 
 *Price: $75
 *Maximum allowed capacity: 3
@@ -1985,7 +3267,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"A bottle, a rag, and some alcohol. Beauty in its simplicity."'''
+'''A bottle, a rag, and some alcohol. Beauty in its simplicity.'''
 
 *Price: $45
 *Maximum allowed capacity: 3
@@ -1999,7 +3281,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"An improvised explosive device found across different aisles of a hardware store."'''
+'''An improvised explosive device found across different aisles of a hardware store.'''
 
 *Price: $80
 *Maximum allowed capacity: 3
@@ -2011,7 +3293,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"A sensitive object that will explode when anything or anyone gets close to it. It's in therapy."'''
+'''A sensitive object that will explode when anything or anyone gets close to it. It's in therapy.'''
 
 *Price: $20
 *Maximum allowed capacity: 3
@@ -2026,7 +3308,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"A remote detonated plastic explosive. For extra fun, combine it with some comedic timing."'''
+'''A remote detonated plastic explosive. For extra fun, combine it with some comedic timing.'''
 
 *Price: $50
 *Maximum allowed capacity: 7
@@ -2041,7 +3323,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"Emits a smoke cloud that reduces visibility. Just like uncle Benny's farts on bean night."'''
+'''Emits a smoke cloud that reduces visibility. Just like uncle Benny's farts on bean night.'''
 
 *Price: $20
 *Maximum allowed capacity: 3
@@ -2053,7 +3335,7 @@ Copyright (c) dnextreme88
 =-----=
 ''STATS''
 
-'''"A steel knife that is perfect for cutting a thick slice of apple pie or hitting a bull's-eye."'''
+'''A steel knife that is perfect for cutting a thick slice of apple pie or hitting a bull's-eye.'''
 
 *Price: $20
 *Maximum allowed capacity: 3
@@ -2084,6 +3366,11 @@ I would like to thank the following:
 
 *To GameFAQs and SuperCheats for hosting the FAQ.
 *To Ubisoft for making the game.
+*To AlwaysBeGaming for the customization options of [[MG42 "Buzzkill"|MG42 "Buzzkill"]].
+*To Carbon Meister for the customization options of [[D50 "Sovereign"|D50 "Sovereign"]].
+*To JorRaptor for the customization options of [[M9 "Red Flag"|M9 "Red Flag"]].
+*To NoahDLC for the customization options of [[Vector .45 ACP "4 Color Fun"|Vector .45 ACP "4 Color Fun"]].
+*To Ross de Boss for the customization options of [[P08 "Pastel Power"|P08 "Pastel Power"]].
 *To you, as the reader.
 
 =-----=

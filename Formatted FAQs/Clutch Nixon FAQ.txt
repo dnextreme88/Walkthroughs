@@ -1,0 +1,214 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Clutch Nixon FAQ for Far Cry 5. The guide was created to detail a simple background to the life of a stuntman in Far Cry 5 named Clutch Nixon. All of his stunts are treated as side missions and can be done at anytime. The guide provides detailed strategies for players who may have difficulty completing the stunts, most especially [[Godspeed|Godspeed]] and [[The Lord of the Wings|The Lord of the Wings]] as I found them hard to complete as well as the fact that you need a ''Wingsuit'' to complete them.
+
+Far Cry 5 is owned by Ubisoft. All trademarks are subjected to Ubisoft.
+
+Copyright (c) Ubisoft.
+
+==Version History==
+
+*Version 1.0 - Jan 29, 2021
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Clutch Nixon Locations==
+
+Far Cry 5 features 8 Clutch Nixon stunts that you can complete. You can get the ''Clutch Nixon Stunt Map'' item to mark all stunt locations across the map. Go to ''Fall\'s End'' in the Holland Valley region. Enter the Spread Eagle bar and find the map on the table near the arcade. Apparently, if you haven't sold the map at a shop, it will reappear in the same table when you reload your game, although you cannot get it anymore as you can only have 1 copy at a time. For [[Godspeed|Godspeed]] and [[The Lord of the Wings|The Lord of the Wings]] stunts, you need to unlock the ''Parachute'' (costs 1 perk point) and ''Wingsuit'' (costs 4 perk points) perks to be able to complete them.
+
+All stunts will always reward the player with ''200 Resistance Points'' and ''$750''. Some stunts offer additional rewards and they will be listed down. Take note that when you complete a Clutch Nixon stunt from a region you have already liberated, you'll get an additional ''$400'' as liberation bonus.
+
+As trivia, this is the order in which Clutch Nixon himself performed the stunts:
+*[[Baptism of Fire|Baptism of Fire]]
+*[[Descente Dans la Folie|Descente Dans la Folie]]
+*[[Old Glory Holes|Old Glory Holes]]
+*[[Spray and Pray|Spray and Pray]]
+*[[The Mooseknuckle Run|The Mooseknuckle Run]]
+*[[Quadzilla|Quadzilla]]
+*[[The Lord of the Wings|The Lord of the Wings]]
+*[[Godspeed|Godspeed]]
+
+===Baptism of Fire===
+
+=-----=
+'''On May 1st, 1960, Clutch Nixon -- at that time a little-known stuntman of the Holland Valley -- spontaneously combusted while performing a stunt now known as "The Baptism of Fire". Hurtling at speeds never attempted by mortal men, Clutch's body most likely ignited due to a blood alcohol level of .67... Despite man and machine being fused together by the heat of a thousand suns, Clutch managed to survive by maneuvering his vehicle into a nearby stream... Witnesses to the feat assumed he had perished, but Clutch Nixon emerged from the water, like a phoenix rising from the ashes... and a legend was born. To this day, it remains a feat never once repeated...'''
+
+*Number of rings to complete: 14
+*Location: Reservoir Construction Yard (Holland Valley)
+*Time added when touching a ring: 5 seconds
+*Initial starting time: 25 seconds
+*Difficulty: 2/5
+*Additional reward: Uncle Sam (vehicle)
+=-=
+
+=--STRATEGY--=
+The easiest stunt to do, in my opinion. You'll be using a vehicle here while it's on flames. Along the way, the car will be splashed with water, trying to extiguish the flames but it just wouldn't get off! Steer your vehicle carefully because its handling is pretty slippery so maintain a balanced acceleration all throughout. After hitting the 3rd ring, you'll be going down the slope. Make a handbrake to the right so your car drifts and approach the ring up ahead. You'll fall down so keep going north. You'll be approaching a hill ahead after going through a few rings so use your brakes and maintain a slow speed as you steer your vehicle to the right.
+
+You'll fall down again but you must slow down a bit because the next ring up ahead has a narrow opening. After going through that ring, avoid the rocks hiding in the grasses on your left because it's pretty hard to see them once you increase your acceleration. You'll be back at the construction yard and this part has wider spaces so keep your pace, steering slowly as you approach the rings. On the final ring, keep your vehicle centered then hit the acceleration to its fullest and you're done! Overall, take your time because you'll have enough time to complete this stunt.
+=-=
+
+===Descente Dans la Folie===
+
+=-----=
+'''March 20th, 1961 -- faced with a realization that God was surely dead and modern civilization nothing more than a tragic farce, Clutch Nixon -- the greatest stuntman in Hope County -- did the only sane thing he could think of: He strapped himself into a rickety buggy and careened down a rocky mountainside before crash landing in the abandoned town of Prosperity. When he finally regained consciousness, Clutch vowed to press on with his stunt work and children's literacy programs, rather than continue his descent into a bottomless, metaphysical abyss... and "La Descent dans la Folie" was never attempted again...'''
+
+*Number of rings to complete: 20
+*Location: Prosperity (Henbane River)
+*Time added when touching a ring: 5 seconds
+*Initial starting time: 20 seconds
+*Difficulty: 3/5
+*Additional reward: Bailout (vehicle)
+=-=
+
+=--STRATEGY--=
+Similar to the [[Baptism of Fire|Baptism of Fire]] stunt, you'll be using a vehicle here. This one's different because you'll be going down the slope for the first 2 rings. Maintain a slow speed here as the forest below has a wide space and you may miss out the 3rd ring (although you don't need to go across every ring in all the stunts, unless you have excellent driving skills). After going across a few rings, there will be a ring situated on a rocky edge to your right. Slowly approach it and do not steer sideways until you get off the slope. Go for full acceleration after this ring as the next rings are easy to get across.
+
+After hitting the ramp and landing below, you may lose your balance. Steer slowly to your right as you go across a ring with a half top. You'll hit another ring on an edge so do the same thing as before and continue north. Slightly slow down as you approach the ring between 2 buses, because you'll come to a complete halt if you hit the buses. Now hit the last 2 rings by keeping your vehicle on the center and you'll finish the stunt in no time.
+=-=
+
+===Godspeed===
+
+=-----=
+'''July 18th, 1975. Clutch Nixon -- the greatest stuntman in every aspect of known creation -- donned a new wingsuit made from the skin of his most beloved, dead pets. At the peak of his mental and physical health, after a lifetime of clean living, and having achieved financial success beyond his wildest dreams, Clutch Nixon leapt off the mountain... and was never seen again. After months of searching, no body was ever found and Clutch Nixon was declared legally dead. But every year, hundreds of his most loyal fans throw themselves off this very cliff as tribute to their long-lost hero. Godspeed Clutch Nixon, you magnificent s*n of a b*tch... Godspeed.'''
+
+*Number of rings to complete: 11
+*Location: northwest of Loresca Residence (Whitetail Mountains)
+*Time added when touching a ring: 5 seconds
+*Initial starting time: 45 seconds
+*Difficulty: 3/5
+*Additional reward: '''none'''
+=-=
+
+=--STRATEGY--=
+It's time to fly and soar high like an eagle! This stunt is unique as it is found just on the border before Faith's region in Henbane River yet it's located at Jacob's region in Whitetail Mountains. Anyway, you need to have the Wingsuit perk for this one, otherwise you'll die as you jump. Activate the wingsuit immediately after jumping. Glide across the rings by steering up and down cautiously. As you approach the river, there will be lots of trees here. Do not hit the trees because you'll die. Be careful for the narrow opening of the ring within the river, it's easy to hit the rocks here due to the steering nature of the wingsuit. Simply follow this river flow here, avoiding all the trees and rocks as you come across them. The final ring is below the bridge, focus on the center of the ring and you'll complete this stunt in no time. Flying isn't easy as it seems, is it?
+=-=
+
+===Old Glory Holes===
+
+=-----=
+'''July 4th, 1963. Clutch Nixon -- The greatest stuntman in Montana -- honored America in the only way God could have imagined: flying recklessly through a pristine river valley, firing heavy artillery attached to a civilian aircraft. Although he never crashed, Clutch nevertheless suffered an injury to his brow ridge that left him unable to see color. That same year, Clutch accidentally sparked a race riot at the launch party of his first volume of erotic poetry. Ironically, both the stunt and the book are named "Old Glory Holes" and neither have been surpassed since that day...'''
+
+*Number of rings to complete: 17
+*Location: southeast of Gethsemane Greenhouse (Henbane River)
+*Time added when touching a ring: 7 seconds
+*Initial starting time: 40 seconds
+*Difficulty: 3/5
+*Additional reward: Overdrive (outfit)
+=-=
+
+=--STRATEGY--=
+Great, a seaplane! In this stunt, you'll be coming across targets within rings that needs to be destroyed before approaching the ring. Steer up slowly and use your machine gun for the 1st ring. Splash down a bit below then turn right. Hit the target and approach the second ring below the bridge. Follow the body of water here and turn left for the next ring. Accelerate north and make a right turn for the next ring. Slowly drop your plane to the sea and approach the ring next to the shore. Keep accelerating north as you approach the ridge.
+
+After exiting the ridge, slow down a bit and approach the ring just before you go into the water again. Maintain your plane in the air as you approach this part since going through the water will slow your plane down and will waste a lot of time. You'll be doing sharp turns here so slow down a bit and maintain a good distance between the water. It's possible that you may not go through all the rings in this sea of water here due to how close they are, but as long as you keep a good acceleration here, you'll finish this in no time. Avoid the bridge up ahead and this time, you can plunge yourself in the water when approaching the ring found beneath it. Steer upwards again and hit the final rings ahead. The last ring is found on the bridge again but this is easier than the previous bridges you came across so don't fret.
+=-=
+
+===Quadzilla===
+
+=-----=
+'''In the weeks leading up to May 10th, 1971, Clutch Nixon -- the greatest stuntman in the known universe -- consumed massive quantities of cigarettes, raw eggs, whisky, and wolf testosterone -- the latter of which was injected directly into his tear ducts. Clutch credited this balanced diet as the reason he survived the punishing mountainside race known as "Quadzilla". Clutch went to bed that night with a partially dislocated coccyx, and the warm comfort of knowing that his stunt... would never be repeated.'''
+
+*Number of rings to complete: 24
+*Location: PIN-KO Radar Station (Whitetail Mountains)
+*Time added when touching a ring: 3 seconds
+*Initial starting time: 15 seconds
+*Difficulty: 3/5
+*Additional reward: Shining Sea (jet ski boat)
+=-=
+
+=--STRATEGY--=
+This unique stunt is located on a cultist outpost (you may liberate it if you want). You'll be using a quad here which is pretty cool considering this area of Whitetail Mountains is high enough to enjoy a road trip with a quad. You'll be going down the slope as you hit the rings. Go slowly with the acceleration as you may hit the rocks and trees here. This part has a narrow path. As you reach the ring before the cliff, make a good jump here. This is a blind spot but as long as you keep your quad centered on the ring, you shouldn't hit any snags as you drop below. Maintain your acceleration, the rings here are easier to get across compared to the previous rings. Avoid any rocks and trees as always and you're good to go. From this point onwards, steer carefully on this next narrow path. On the final ring, tread carefully on this wooden pathway as you might fall down to the river on your left if you steer to your left too much. Other than that, you're okay.
+=-=
+
+===Spray and Pray===
+
+=-----=
+'''June 19th, 1964. Clutch Nixon -- the greatest stuntman in America -- threw his best friend George Rye a weekend bachelor party that lasted three weeks. During the festivities, George made a bet that Clutch couldn't fly an airplane through a nearby ravine while simultaneously bulls-eyeing every obstacle in his path. Clutch Nixon replied, "Hold my beer." Even though Clutch was so drunk, that to the day he died, he never regained full conscious control of his bladder... He still managed to complete the dare before that beer even went cold... And to this day, the "Spray and Pray" has never again been repeated by mortal man...'''
+
+*Number of rings to complete: 28
+*Location: east of Copperhead Rail Yard (Holland Valley)
+*Time added when touching a ring: 5 seconds
+*Initial starting time: 21 seconds
+*Difficulty: 4/5
+*Additional reward: Stars & Stripes (stunt plane)
+=-=
+
+=--STRATEGY--=
+You'll be using a seaplane for this stunt. Accelerate your plane slowly and carefully steer it upwards for the first 2 rings and then downwards for the 3rd ring. You may want to slow down a bit when approaching the next 2 rings. Use your machine gun to destroy the target within the ring found under the bridge before going through it. You'll be encountering more of these within these stunts so make sure to use your machine gun ahead before approaching them. As you approach an island, decelerate a bit and make a hard turn to the right as you follow the rings. If you can't control the seaplane properly, you can slowly indulge it at the sea to slow it down and steer it upwards once you need to rise.
+
+You'll be going through a small lake before another bridge comes close so make a slow turn as the rings here are close to each other and accelerate a bit again. After destroying the target from the 2nd bridge, the succeeding rings will be easier. Accelerate normally and slow down when necessary. Before reaching the cliff, the final ring will be a bit tricky, as it has a narrow opening so slow down here after reaching the rings on the containers. It took me a few tries to complete this stunt because I always fail at the final ring, only to find out that I accelerate at maximum speed before reaching the cliff.
+=-=
+
+===The Lord of the Wings===
+
+=-----=
+'''August 21st, 1973. Possessed by the spirit of American ingenuity, Clutch Nixon -- the greatest stuntman in the Milky Way galaxy -- shaved off every last bit of hair on his body and used it to create a prototype wing suit in order to experience the sphincter-clenching thrill of human flight. But delight quickly turned to agony when a tree branch punctured his femoral artery on the way down. Fortunately, the blood loss made him more buoyant and aerodynamic, allowing him to become "The Lord of the Wings"... a stunt, the likes of which has never been seen again.'''
+
+*Number of rings to complete: 13
+*Location: northwest of Linero Building Supplies (Whitetail Mountains)
+*Time added when touching a ring: 5 seconds
+*Initial starting time: 12 seconds
+*Difficulty: 4/5
+*Additional reward: '''none'''
+=-=
+
+=--STRATEGY--=
+You need the Wingsuit perk for this one. Just like the [[Godspeed|Godspeed]] stunt, you'll be soaring high into the air and activating your wingsuit for this stunt. Activate your wingsuit after jumping. Keep following the rings until you reach the ridge. Be careful when traversing through the ring before exiting this ridge because it's slightly narrow and you may miss it if you don't control your flight well. After that, avoid the flames by hovering over the structure. Enter the next ridge up ahead. Take note of the narrow opening again here as you get the ring before it. Control your flight and avoid the next flames up ahead by hovering to the side or going underneath it (I prefer going underneath it).
+
+This is the tricky part, you have to control your flight very carefully here becase its easy to miss the final ring as you land on the waters. You can skip the 12th ring and aim your flight directly towards the last ring if you have enough time left. The last ring will always be distinguished by fireworks below it, so aim directly at the center of the final ring to complete this stunt.
+=-=
+
+===The Mooseknuckle Run===
+
+=-----=
+'''April 15th, 1968. Clutch Nixon -- the greatest stuntman on planet Earth -- drove an all-terrain vehicle through woodlands as unbreakable as the man himself. The stunt became known as "The Mooseknuckle Run", named after a Wenja ritual involving ice baths mixed with semen extracted from the large beasts. It was believed to enhance one's stamina, endurance, and virility. Although the ritual has since been debunked by modern science, no one has ever managed to repeat Clutch's feat.'''
+
+*Number of rings to complete: 31
+*Location: north of Baron Lumber Mill (Whitetail Mountains)
+*Time added when touching a ring: 5 seconds
+*Initial starting time: 16 seconds
+*Difficulty: 2/5
+*Additional reward: Quad-State Area (vehicle)
+=-=
+
+=--STRATEGY--=
+We're using the quad here again, similar to the [[Quadzilla|Quadzilla]] stunt. Keep your full acceleration here because you'll be hitting ramps up head. With lesser speed, you'll fail this stunt. Enter the narrow watchtowers up head with ease. Maintain your speed and keep your quad centered on the next ramp ahead. The Baron Lumber Mill will have narrow spaces so watch out and adjust your speed accordingly. After the lumber mill, everything will be straightforward. This is a fairly easy stunt to do. Throughout the stunt, you'll be encountering animals and other civilians in quads. If you haven't liberated the region, you may also encounter cultists that will try to attack you when they get the chance. Avoid all of them and continue with the stunt. Eventually, you'll get to the last ring before you know it.
+=-=
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Far Cry 5: Clutch Nixon FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Ubisoft for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=
