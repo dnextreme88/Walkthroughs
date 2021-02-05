@@ -12,7 +12,7 @@ Copyright (c) Ubisoft.
 *Version 1.0 - Jan 23, 2021
 **Submitted the FAQ.
 
-*Version 1.1 - Jan 29, 2021
+*Version 1.1 - Feb 5, 2021
 **Changed the weapon description of [[D50 "Sovereign"|D50 "Sovereign"]].
 **Fixed the availability attribute of [[M9 "Red Flag"|M9 "Red Flag"]] as you get it from the Arcade Noon live event instead of the Arcade Dawn live event.
 **Renamed "M16" to "[[M-16|M-16]]" section.
