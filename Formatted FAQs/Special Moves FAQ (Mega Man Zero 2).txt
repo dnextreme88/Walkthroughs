@@ -1,0 +1,586 @@
+;format:gf-markup
+==Introduction==
+
+Hi and welcome to my Special Moves FAQ for Mega Man Zero 2. This guide is designed to help you use Zero efficiently. It contains Zero's statistics to allow you to make decisions on how you want to use Zero, and tactics and tricks you can use to further increase your skill level. All statistics in this guide have been individually tested by myself to make sure they are all accurate and no assumptions about them have been made.
+
+Mega Man Zero 2 is owned by Capcom. All trademarks are subjected to Capcom.
+
+Copyright (c) Capcom.
+
+==Version History==
+
+*Version 1.0 - Feb 5, 2021
+**Submitted the FAQ.
+
+==Copyright Information==
+
+=--IMPORTANT NOTICE: PLEASE READ--=
+
+No part of this FAQ may be produced or published in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system without the permission in writing from the copyright owner.
+
+Copyright (c) dnextreme88
+=-=
+
+==Zero's Weapons==
+
+Zero can have 2 weapons equipped at a time - a primary and a secondary. Both may be used normally, but others need to be selected in your start screen. Each weapon has a variety of uses and can level up as you use it more, giving you more skills with it. All weapons start at level 1.
+
+As an extra note, using Weapon Setting B is the best choice because it allows you to charge your primary and secondary weapons at the same time. When using the [[Shield Boomerang|Shield Boomerang]], it allows you to attack while holding it up and only dropping it down for a tiny amount of time.
+
+===Buster===
+
+This is Zero's shooting weapon. It does low damage bur hits enemies from afar. It's a decent weapon that can be used as a good primary or secondary weapon. However, it's only actually useful in a few situations so it's not highly recommended you keep this on. Just switch to it when needed.
+
+*Level 1 - Enables [[Buster Shot|Buster Shot]] and Level 1 Charge
+*Level 2 - Enables Full Charge and ability to have elemental properties when used with an elemental chip
+*Level 3 - Faster Charge
+
+''ATTACKS''
+
+====Buster Shot====
+
+This is the normal shot released by the Buster without charging it. You can have only 3 Buster Shots and [[Dashing Buster Shot|Dashing Buster Shot]] on the screen at one time.
+
+====Buster Shot (low charge)====
+
+This is the shot of green energy that is shot out when you charge your Buster to level 1.
+
+====Buster Shot (max charge)====
+
+This is the shot when you charge your Buster all the way to the maximum. It can take on elemental properties based on the elemental chip you have equipped.
+
+====Dashing Buster Shot====
+
+This is a regular [[Buster Shot|Buster Shot]] used while dashing. You can have only 3 Buster Shots and Dashing Buster Shot Shots on the screen at one time.
+
+===Chain Rod===
+
+A highly useful weapon for mobility allowing you to swing from the ceiling and wall as well as pull objects and enemies towards you. While it's not recommended for battle, this is great to have as your secondary weapon since it is required to beat many levels.
+
+*Level 1 - Enables Chain Rod
+*Level 2 - Enables Full Charge and ability to have elemental properties when used with an elemental chip
+*Level 3 - Faster Charge
+
+''ATTACKS''
+
+====Chain Rod====
+
+This is the basic attack of the chain rod used any time. You may aim it in any of the 8 basic directions with your control pad.
+
+====Charged Chain Rod====
+
+When your chain rod is fully charged, you spin it around, hitting nearby enemies many times over. This attack absorbs elemental properties of the equipped elemental chip.
+
+===Shield Boomerang===
+
+This weapon can be used to block enemy [[Buster Shot|buster shots]] - a very limited use and when fully charged, can be thrown for a ranged attack. Not very useful and not recommended even as a secondary weapon. Only use this when encountered with Buster-wielding enemies. It does fine damage against bosses when coupled with your [[Z-Saber|Z-Saber]] for extra hits. You can increase your power against bosses if you use the [[Infinite Shield Throw Trick 2|Infinite Shield Throw Trick 2]].
+
+*Level 1 - Enables [[Reflect Shot|Reflect Shot]] and [[Throw Shield|Throw Shield]]
+*Level 2 - Increase [[Throw Shield|Throw Shield]] range
+*Level 3 - Increase [[Throw Shield|Throw Shield]] range
+
+''ATTACKS''
+
+====Reflect Shot====
+
+While guarding yourself with the Shield Boomerang, this is the attack used when you block an enemy [[Buster Shot|Buster Shot]] and it's reflected back at them.
+
+====Throw Shield====
+
+This is the attack you use when you used a charged Shield Boomerang attack. It goes in a circle and comes back to you, damaging any enemies it meets. This attack absorbs the elemental properties of your equipped elemental chip.
+
+===Z-Saber===
+
+Your close range attack weapon. It does massive damage and is great on bosses. Highly recommended to be used as your primary weapon.
+
+*Level 1 - Enables Slash 1, [[Dash Slash|Dash Slash]], [[Jump Slash|Jump Slash]], [[Walking Slash|Walking Slash]], and [[Wall Slash|Wall Slash]]
+*Level 2 - Enables Slash 2
+*Level 3 - Enables Slash 3
+*Level 4 - Enables Full Charge and ability to have elemental properties when used with an elemental chip
+*Level 5 - Faster Charge 
+
+''ATTACKS''
+
+====Slashes 1-3====
+
+These are sets of slashes while using Z-Saber. You'll be encountering names inside parenthesis - these indicate the type of slash used.
+
+*Slash 1 - this is the first slash you use while stationary on the ground.
+*Slash 2 - after attacking using a Slash 1 while standing still, a Slash 2 is used.
+*Slash 3 - after attacking with Slash 2 while standing still, Slash 3 is used.
+
+The following attacks are the basic standing slashes performed along with slashes 1-3 from above. Take note that they depends on the form you're using:
+
+*Back slash - your Z-Saber is swung backwards, hitting enemies in front of you above you and behind you.
+*Forward slash - your Z-Saber is swung from top to bottom, hitting enemies above you and in front of you.
+*Overhead slash - your Z-Saber is swung behind you, hitting enemies behind you, above you and in front of you.
+*Rise slash - your Z-Saber is swung upwards, hitting enemies in front of you and high above you.
+
+====Charged Z-Saber Slash====
+
+This slash is used when your Z-Saber is fully charged. It strikes enemies in front of you. This attack takes on elemental properties of the equipped elemental chip.
+
+====Dash Slash====
+
+Hitting enemies in front of you and somewhat above you used with Z-Saber while dashing. If used while dashing through an enemy, it may hit twice.
+
+====Jump Slash====
+
+While jumping and using the Z-Saber, this hits enemies somewhat above you and in front of you.
+
+====Rolling Dash Slash====
+
+After using a [[Dash Slash|Dash Slash]] you will roll forward and perform a Rolling Slash (if you have the ability), this hits multiple times and flows well with Dash Slash so they appear to be 1 attack when they do the initial blow. Repeatedly attack while using this to continue the roll. This move is only available for the [[Active Form|Active Form]].
+
+====Rolling Jump Slash====
+
+After doing a [[Jump Slash|Jump Slash]], you will use this ability if you have it and hit enemies all around you multiple times. It flows well with Jump Slash so they appear to be 1 attack when the initial blow is really a Jump Slash.
+
+====Walking Slash====
+
+Similar to Back slash, this slash is used on all forms while attacking with your Z-Saber and walking. If used while walking through an enemy, it has the potential to hit twice.
+
+====Wall Slash====
+
+This slash is used while sliding down a wall with your Z-Saber, hitting enemies in front of you.
+
+==Zero's Forms==
+
+This section contains information on the forms that you can use with Zero by switching between them. Forms determine Zero's stats and some forms give him abilities. You can get forms by fulfilling certain requirements in a level you haven't beaten yet. The numbers listed by the attacks are the damage the attack does. If an attack is not listed, you cannot use that attack in that form.
+
+When changing forms, it's often a good idea to change it during your fight, if you know an attack is going to hit you, like when an enemy does an attack where he grabs you and continuously hurts you. Pause and switch to [[Defense Form|Defense Form]] to take less damage. When you start attacking, switch to a higher damage form.
+
+The star rating system provided in the game on each form has no mathematical significance. It is merely there to give you a feel for how each form works. Thus, two forms with the same power may do different damages, and two forms with different power ratings may in fact do the same damage. For this reason, star ratings are useless and will not be listed in this guide.
+
+===Active Form===
+*Requirements: Defeat 20 enemies with a [[Dash Slash|Dash Slash]] in one stage.
+*Effects when equipped: After doing a jumping slash it follows up with a [[Rolling Jump Slash|Rolling Jump Slash]], and after a [[Dash Slash|Dash Slash]] it follows up with a [[Rolling Dash Slash|Rolling Dash Slash]].
+*Damage Taken: Normal
+*Description: A great form for speeding through levels. However, this form is not good on stationary combat. I suggest that you keep jumping and dashing while on this form.
+*[[Buster|Buster]] attacks:
+**[[Buster Shot|Buster Shot]]: 1
+**[[Buster Shot (low charge)|Buster Shot (low charge)]]: 3
+**[[Buster Shot (max charge)|Buster Shot (max charge)]]: 6
+**[[Dashing Buster Shot|Dashing Buster Shot]]: 1.5
+*[[Chain Rod|Chain Rod]] attacks:
+**[[Chain Rod|Chain Rod]]: 2
+**[[Charged Chain Rod|Charged Chain Rod]]: 2
+*[[Shield Boomerang|Shield Boomerang]] attacks:
+**[[Reflect Shot|Reflect Shot]]: 1
+**[[Throw Shield|Throw Shield]]: 6
+*[[Z-Saber|Z-Saber]] attacks:
+**[[Charged Z-Saber Slash|Charged Z-Saber Slash]]: 8
+**[[Dash Slash|Dash Slash]]: 5
+**[[Jump Slash|Jump Slash]]: 4
+**[[Rolling Dash Slash|Rolling Dash Slash]]: 3
+**[[Rolling Jump Slash|Rolling Jump Slash]]: 2
+**Slash 1 (back slash): 4
+**[[Walking Slash|Walking Slash]]: 3
+**[[Wall Slash|Wall Slash]]: 4
+
+===Defense Form===
+*Requirements: Defeat 20 enemies with a Shield Boomerang in one stage.
+*Effects when equipped: Zero takes half damage from all attacks and is immune to knockbacks.
+*Damage Taken: Half
+*Description: It packs great defense but has poor attack power. Basically the opposite form of the [[Proto Form|Proto Form]], this has horrible Z-Saber slash damage but the charge slash remains unhindered and it's good with Shield Boomerang. I recommend this for bosses where you usually use charged Z-Saber slash.
+*[[Buster|Buster]] attacks:
+**[[Buster Shot|Buster Shot]]: 1
+**[[Buster Shot (low charge)|Buster Shot (low charge)]]: 3
+**[[Buster Shot (max charge)|Buster Shot (max charge)]]: 6
+**[[Dashing Buster Shot|Dashing Buster Shot]]: 1.5
+*[[Chain Rod|Chain Rod]] attacks:
+**[[Chain Rod|Chain Rod]]: 2
+**[[Charged Chain Rod|Charged Chain Rod]]: 2
+*[[Shield Boomerang|Shield Boomerang]] attacks:
+**[[Reflect Shot|Reflect Shot]]: 1
+**[[Throw Shield|Throw Shield]]: 7
+*[[Z-Saber|Z-Saber]] attacks:
+**[[Charged Z-Saber Slash|Charged Z-Saber Slash]]: 8
+**[[Dash Slash|Dash Slash]]: 3
+**[[Jump Slash|Jump Slash]]: 2
+**Slash 1 (back slash): 2
+**Slash 2 (forward slash): 2
+**Slash 3 (overhead slash): 3
+**[[Walking Slash|Walking Slash]]: 1
+**[[Wall Slash|Wall Slash]]: 2
+
+===Energy Form===
+*Requirements: Pick up 25 life capsules in one stage.
+*Effects when equipped: Life capsules are dropped more often.
+*Damage Taken: Normal
+*Description: A form with an interesting Z-Saber combo and some good buster damage, does pretty good with stats and the extra life capsules make it a nice good form.
+*[[Buster|Buster]] attacks:
+**[[Buster Shot|Buster Shot]]: 1.5
+**[[Buster Shot (low charge)|Buster Shot (low charge)]]: 3
+**[[Buster Shot (max charge)|Buster Shot (max charge)]]: 6
+**[[Dashing Buster Shot|Dashing Buster Shot]]: 2
+*[[Chain Rod|Chain Rod]] attacks:
+**[[Chain Rod|Chain Rod]]: 2
+**[[Charged Chain Rod|Charged Chain Rod]]: 2
+*[[Shield Boomerang|Shield Boomerang]] attacks:
+**[[Reflect Shot|Reflect Shot]]: 1
+**[[Throw Shield|Throw Shield]]: 6
+*[[Z-Saber|Z-Saber]] attacks:
+**[[Charged Z-Saber Slash|Charged Z-Saber Slash]]: 8
+**[[Dash Slash|Dash Slash]]: 5
+**[[Jump Slash|Jump Slash]]: 4
+**Slash 1 (forward slash): 4
+**Slash 2 (forward slash): 4
+**Slash 3 (back slash): 5
+**[[Walking Slash|Walking Slash]]: 3
+**[[Wall Slash|Wall Slash]]: 4
+
+===Erase Form===
+*Requirements: Deflect 30 enemy projectiles with the Shield Boomerang in one stage.
+*Effects when equipped: Z-Saber slashes and Shield Boomerang destroy buster bullets.
+*Damage Taken: Normal
+*Description: Decent form, this makes shield useless but its good with your Z-Saber against Buster-wielding enemies.
+*[[Buster|Buster]] attacks:
+**[[Buster Shot|Buster Shot]]: 1
+**[[Buster Shot (low charge)|Buster Shot (low charge)]]: 3
+**[[Buster Shot (max charge)|Buster Shot (max charge)]]: 6
+**[[Dashing Buster Shot|Dashing Buster Shot]]: 1.5
+*[[Chain Rod|Chain Rod]] attacks:
+**[[Chain Rod|Chain Rod]]: 2
+**[[Charged Chain Rod|Charged Chain Rod]]: 2
+*[[Shield Boomerang|Shield Boomerang]] attacks:
+**[[Throw Shield|Throw Shield]]: 6
+*[[Z-Saber|Z-Saber]] attacks:
+**[[Charged Z-Saber Slash|Charged Z-Saber Slash]]: 8
+**[[Dash Slash|Dash Slash]]: 5
+**[[Jump Slash|Jump Slash]]: 4
+**Slash 1 (forward slash): 4
+**[[Walking Slash|Walking Slash]]: 3
+**[[Wall Slash|Wall Slash]]: 4
+
+===Normal Form===
+*Requirements: Automatically unlocked at the start of the game.
+*Effects when equipped: None
+*Damage Taken: Normal
+*Description: Your basic starting form, well-balanced but nothing special.
+*[[Buster|Buster]] attacks:
+**[[Buster Shot|Buster Shot]]: 1
+**[[Buster Shot (low charge)|Buster Shot (low charge)]]: 3
+**[[Buster Shot (max charge)|Buster Shot (max charge)]]: 6
+**[[Dashing Buster Shot|Dashing Buster Shot]]: 1.5
+*[[Chain Rod|Chain Rod]] attacks:
+**[[Chain Rod|Chain Rod]]: 2
+**[[Charged Chain Rod|Charged Chain Rod]]: 2
+*[[Shield Boomerang|Shield Boomerang]] attacks:
+**[[Reflect Shot|Reflect Shot]]: 1
+**[[Throw Shield|Throw Shield]]: 6
+*[[Z-Saber|Z-Saber]] attacks:
+**[[Charged Z-Saber Slash|Charged Z-Saber Slash]]: 8
+**[[Dash Slash|Dash Slash]]: 5
+**[[Jump Slash|Jump Slash]]: 4
+**Slash 1 (back slash): 4
+**Slash 2 (forward slash): 4
+**Slash 3 (overhead slash): 5
+**[[Walking Slash|Walking Slash]]: 3
+**[[Wall Slash|Wall Slash]]: 4
+
+===Power Form===
+*Requirements: Pull objects or enemies 30 times using the Chain Rod in one stage.
+*Effects when equipped: none
+*Damage Taken: Normal
+*Description: A nice strong form that does good damage with all weapons except Shield Boomerang. It only has a one-hit saber combo and it's  really slow, so I recommend moving when using this.
+*[[Buster|Buster]] attacks:
+**[[Buster Shot|Buster Shot]]: 1.5
+**[[Buster Shot (low charge)|Buster Shot (low charge)]]: 3
+**[[Buster Shot (max charge)|Buster Shot (max charge)]]: 6
+**[[Dashing Buster Shot|Dashing Buster Shot]]: 2
+*[[Chain Rod|Chain Rod]] attacks:
+**[[Chain Rod|Chain Rod]]: 2.5
+**[[Charged Chain Rod|Charged Chain Rod]]: 2.5
+*[[Shield Boomerang|Shield Boomerang]] attacks:
+**[[Reflect Shot|Reflect Shot]]: 1
+**[[Throw Shield|Throw Shield]]: 6
+*[[Z-Saber|Z-Saber]] attacks:
+**[[Charged Z-Saber Slash|Charged Z-Saber Slash]]: 8
+**[[Dash Slash|Dash Slash]]: 6
+**[[Jump Slash|Jump Slash]]: 5
+**Slash 1 (overhead slash): 5
+**[[Walking Slash|Walking Slash]]: 4
+**[[Wall Slash|Wall Slash]]: 5
+
+===Proto Form===
+*Requirements: Beat the game once.
+*Effects when equipped: Weapons don't gain levels, weapons act as level 1. Weapons other than the Shield Boomerang cannot charge.
+*Damage Taken: Double
+*Description: Although this has some high attack power to it, you take lots of damage and are restricted to basic combos. Basically the opposite form of the [[Defense Form|Defense Form]], this is a lot of fun and makes you depend on EX Skills for boss fights. This is not recommended for less-skilled players. This is also your default form when you play ''Hard Mode''.
+*[[Buster|Buster]] attacks:
+**[[Buster Shot|Buster Shot]]: 2
+**[[Dashing Buster Shot|Dashing Buster Shot]]: 2.5
+*[[Chain Rod|Chain Rod]] attacks:
+**[[Chain Rod|Chain Rod]]: 3
+*[[Shield Boomerang|Shield Boomerang]] attacks:
+**[[Reflect Shot|Reflect Shot]]: 1
+**[[Throw Shield|Throw Shield]]: 7
+*[[Z-Saber|Z-Saber]] attacks:
+**[[Dash Slash|Dash Slash]]: 6
+**[[Jump Slash|Jump Slash]]: 5
+**Slash 1 (back slash): 5
+**[[Walking Slash|Walking Slash]]: 4
+**[[Wall Slash|Wall Slash]]: 5
+
+===Rise Form===
+*Requirements: Defeat 20 enemies with a mid-air Z-Saber slash in one stage.
+*Effects when equipped: None
+*Damage Taken: Normal
+*Description: The strongest stationary combo in the game and good for hitting airborne opponents while on ground. That's about all there is to say about this form.
+*[[Buster|Buster]] attacks:
+**[[Buster Shot|Buster Shot]]: 1
+**[[Buster Shot (low charge)|Buster Shot (low charge)]]: 3
+**[[Buster Shot (max charge)|Buster Shot (max charge)]]: 6
+**[[Dashing Buster Shot|Dashing Buster Shot]]: 1.5
+*[[Chain Rod|Chain Rod]] attacks:
+**[[Chain Rod|Chain Rod]]: 2
+**[[Charged Chain Rod|Charged Chain Rod]]: 2
+*[[Shield Boomerang|Shield Boomerang]] attacks:
+**[[Reflect Shot|Reflect Shot]]: 1
+**[[Throw Shield|Throw Shield]]: 6
+*[[Z-Saber|Z-Saber]] attacks:
+**[[Charged Z-Saber Slash|Charged Z-Saber Slash]]: 8
+**[[Dash Slash|Dash Slash]]: 5
+**[[Jump Slash|Jump Slash]]: 4
+**[[Walking Slash|Walking Slash]]: 3
+**[[Wall Slash|Wall Slash]]: 4
+**Slash 1 (back slash): 4
+**Slash 2 (forward slash): 4
+**Slash 3 (rise slash): 6
+
+===Ultimate Form===
+*Requirements: Collect every single Cyber Elves in the game, use them all and beat the game once.
+*Effects when equipped: Can use charge attacks with their own commands rather than charging manually. The following controls are used to charge different attacks:
+**[[Buster Shot (low charge)|Buster Shot (low charge)]]: DOWN d-pad, RIGHT d-pad, Shoot
+**[[Buster Shot (max charge)|Buster Shot (max charge)]]: DOWN d-pad, RIGHT d-pad, DOWN d-pad, RIGHT d-pad, Shoot
+**[[Z-Saber|Z-Saber]]: RIGHT d-pad, DOWN d-pad, Shoot
+**[[Chain Rod|Chain Rod]]: RIGHT d-pad, DOWN d-pad, RIGHT d-pad, Shoot
+**[[Shield Boomerang|Shield Boomerang]]: DOWN d-pad, RIGHT d-pad, Shoot
+*Damage Taken: Normal
+*Description: This form has a pretty good damage overall and when you are skilled enough. This allows you to execute charged attacks quickly, making it an all-around great form. You can only use this form after beating the game and fulfilling the requirements.
+*[[Buster|Buster]] attacks:
+**[[Buster Shot|Buster Shot]]: 1.5
+**[[Buster Shot (low charge)|Buster Shot (low charge)]]: 3
+**[[Buster Shot (max charge)|Buster Shot (max charge)]]: 6
+**[[Dashing Buster Shot|Dashing Buster Shot]]: 2
+*[[Chain Rod|Chain Rod]] attacks:
+**[[Chain Rod|Chain Rod]]: 2.5
+**[[Charged Chain Rod|Charged Chain Rod]]: 2.5
+*[[Shield Boomerang|Shield Boomerang]] attacks:
+**[[Reflect Shot|Reflect Shot]]: 1
+**[[Throw Shield|Throw Shield]]: 6
+*[[Z-Saber|Z-Saber]] attacks:
+**[[Charged Z-Saber Slash|Charged Z-Saber Slash]]: 8
+**[[Dash Slash|Dash Slash]]: 5
+**[[Jump Slash|Jump Slash]]: 4
+**Slash 1 (back slash): 4
+**Slash 2 (forward slash): 5
+**Slash 3 (overhead slash): 5
+**[[Walking Slash|Walking Slash]]: 3
+**[[Wall Slash|Wall Slash]]: 4
+
+===X Form===
+*Requirements: Defeat 50 enemies using the Buster in one stage.
+*Effects when equipped: Fires 4 buster shots at a time instead of 3.
+*Damage Taken: Normal
+*Description: The best form for your Buster. I suggest using this form whenever you use your Buster.
+*[[Buster|Buster]] attacks:
+**[[Buster Shot|Buster Shot]]: 2
+**[[Buster Shot (low charge)|Buster Shot (low charge)]]: 4
+**[[Buster Shot (max charge)|Buster Shot (max charge)]]: 7
+**[[Dashing Buster Shot|Dashing Buster Shot]]: 2.5
+*[[Chain Rod|Chain Rod]] attacks:
+**[[Chain Rod|Chain Rod]]: 2
+**[[Charged Chain Rod|Charged Chain Rod]]: 2
+*[[Shield Boomerang|Shield Boomerang]] attacks:
+**[[Reflect Shot|Reflect Shot]]: 1
+**[[Throw Shield|Throw Shield]]: 6
+*[[Z-Saber|Z-Saber]] attacks:
+**[[Charged Z-Saber Slash|Charged Z-Saber Slash]]: 8
+**[[Dash Slash|Dash Slash]]: 5
+**[[Jump Slash|Jump Slash]]: 4
+**Slash 1 (forward slash) : 4
+**[[Walking Slash|Walking Slash]]: 3
+**[[Wall Slash|Wall Slash]]: 4
+
+==EX Skills==
+
+EX Skills are obtained by beating bosses while you have an A or S rank. EX Skills always do the same damage regardless of the form you use.
+
+===Buster EX Skills===
+
+Zero can use one [[Buster|Buster]] EX Skill at a time, depending on which chip is equipped. Each skill replaces your [[Buster Shot (max charge)|Buster Shot (max charge)]] depending on the elemental chip equipped.
+
+====Blast Shot====
+*Obtained by: Defeat Fefnir with an A or S rank
+*Elemental chip to equip: flame
+*Damage: 3
+*Damage of explosion: 1
+
+When it hits, it creates an explosion to occur continuously, hitting anyone who touches it. Has flame chip elemental properties. Good for normal enemies but extremely terrible for bosses, who don't get hurt by the following explosion.
+
+====Laser Shot====
+*Obtained by: Defeat Hyleg Ourobockle with an A or S rank
+*Elemental chip to equip: none
+*Damage: 5
+
+It pierces through objects and keeps going. When there are obstacles that you need this to pierce through use it but for the most part avoid it, as it reduces damage.
+
+====Spark Shot====
+*Obtained by: Defeat Panter Flauclaws with an A or S rank
+*Elemental chip to equip: thunder
+*Damage of spark shot before it hits: 5
+*Damage of spark shot once it splits: 2
+
+After hitting, 2 smaller shots are shot out upwards and downwards. Has thunder chip elemental properties. There is rarely a time when the sparks will hit so I don't recommend using this, due to the damage reduction.
+
+====Triple Shot====
+*Obtained by: Defeat Poler Kamrous with an A or S rank
+*Elemental chip to equip: ice
+*Damage for main triple shot blast before splitting: 5
+*Damage of the 3 shards: 3
+
+After hitting its target, it splits into 3 ice shards that go forwards and fan out. Has ice chip elemental properties. Useful when fighting many enemies in a row however otherwise I wouldn't use this as it does less damage.
+
+===Chain Rod EX Skills===
+
+====Energy Chain====
+*Obtained by: Defeat Burble Hekelot with an A or S rank
+*Damage: 0.5
+*Heal amount: 1
+
+An EX Skill that lets you drain your enemy's life by holding the attack button after using [[Chain Rod|Chain Rod]]. Useful for healing and filling sub tanks though the process is a bit slow. You have to make sure that there are no enemies nearby that can hurt you before using this.
+
+===Shield Boomerang EX Skills===
+
+====Filter Shield====
+*Obtained by: Defeat Rainbow Devil Mk. II with an A or S rank
+*Damage: 0
+
+An EX Skill for the [[Shield Boomerang|Shield Boomerang]], you can use this to deflect enemy projectiles. Activate the skill just before an enemy shot hits, and it turns the shot into an E-Crystal. By rapidly tapping the B button in front of an enemy that fires multiple shots, like a Pantheon Gunner, it can be used to farm E-Crystals quickly.
+
+===Z-Saber EX Skills===
+
+Zero can use all 4 [[Z-Saber|Z-Saber]] skills without changing the equipped chip. With the exception of [[Kougenjin|Kougenjin]], if an elemental chip is equipped to a specific skill, it will upgrade that skill.
+
+====Kougenjin====
+*Obtained by: Defeat Sage Harpuia with an A or S rank
+*Other names: Light Illusion Blade
+*Damage of the energy wave: 3
+*Damage of the slash: 5
+
+An EX Skill used while holding down and attacking while stationary on the ground. This causes you to slash forward and release a wave of energy when used. The wave is good for giving yourself a little extra reach, even though your secondary weapon should be able to do it for you. The slash is excellent at killing regular enemies, but is not recommended for bosses who won't get hit by the wave after the slash.
+
+====Rakuretsuzan====
+*Obtained by: Defeat Fairy Leviathan with an A or S rank
+*Other names: Falling Fury Slash, Sharp Edge
+*Damage: 8
+
+A move that causes Zero to stab downward with the [[Z-Saber|Z-Saber]] when you hold down in the air and attack. This causes you to fall and hit enemies below you. This takes the elemental properties of the ice chip if it is equipped. Risky attack because you usually hurt yourself while using it. When you find a good situation to use it, it can really do some damage and having that nice ice effect.
+
+if the Ice chip is equipped, it freezes the enemies it hits.
+
+====Sengatotsu====
+*Obtained by: Defeat Kuwagust Anchus with an A or S rank
+*Other names: Whirling Fang Thrust
+*Damage: 6
+
+An EX Skill that replaces your [[Dash Slash|Dash Slash]] and [[Rolling Dash Slash|Rolling Dash Slash]]. It hits enemies in front of you. This takes the thunder chip elemental properties if the ice chip is equipped. A more powerful Dash Slash basically, this is great against enemies weak to thunder. This is not recommended if you have the [[Active Form|Active Form]] because Rolling Dash Slash is better in my opinion, but this is good for bosses nonetheless.
+
+if the Thunder chip is equipped, it turns into a sharper, electrified blade.
+
+====Tenshouzan====
+*Obtained by: Defeat Phoenix Magnion with an A or S rank
+*Other names: Ascension Slash, Heaven Rising
+*Damage: 6
+
+To use, hold the UP d-pad and attack while on the ground. This causes you to jump and swing your saber up, hitting enemies above you and in front of you while slightly increasing Zero's jump height. This takes the flame chip elemental properties if the flame chip is equipped. A great way to hit airborne enemies and do good flame damage without charging up. 
+
+if the Flame chip is equipped, it goes higher and burns things on contact.
+
+==Extra Combos and Tricks==
+
+This section contains all information and tricks I have on the game that I think is lesser known information and could be useful to helping you play better.
+
+===Buster Shot Carrying===
+
+When shooting your shots, go off-screen and then disappear and do nothing. It's beneficial for you on flat levels to continuously shoot while dashing. This way, you follow your shots and they cluster together in front of you and when you get to an enemy, you quickly kill them with your [[Buster Shot|Buster Shots]]. The fact that you are dashing makes your Buster stronger. This works best with [[X Form|X Form]], which allows you to shoot 4 buster shots at a time or [[Ultimate Form|Ultimate Form]], where if you're good enough, you can dash while shooting level 1 buster shots which have no on-screen limit so you can get lots of shots out.
+
+===Chain Rod Spike Kill===
+
+Drag your enemies onto spikes with your [[Chain Rod|Chain Rod]] for an instant kill. Take note that some enemies are immune to spikes. This will only work on some enemies.
+
+===Double Chain Rod Attack Trick===
+
+If you use the [[Chain Rod|Chain Rod]] right as you jump, you can hit the enemy twice once as it goes forwards and once as it goes back.
+
+===Double Jumping Z-Saber Slash===
+
+Jump in the air and use a jumping Saber slash and then turn in the opposite direction and Zero will redirect the slash behind him giving you two slashes instead of one. This trick also works when your saber is charged, allowing you to pretty much destroy anything around you.
+
+===Extra Z-Saber Attack Combo 1===
+
+If you do a walking slash then stop and do your Slash 1-3 combo, the walking slash will flow immediately into the Slash 1-3 combo, allowing you to get a quick extra hit on the combo. This is great for forms with only Slash 1 as it lets you take enemies out much more quickly.
+
+===Extra Z-Saber Attack Combo 2===
+
+If you do a [[Jump Slash|Jump Slash]] just before you hit the ground and then follow up with your standing Slash 1-3 combo, you will go straight into the combo, allowing for a quick extra hit.
+
+===Extra Z-Saber Attack Combo 3===
+
+Do a jumping slash just before you hit the ground then immediately walk a bit and do a walking slash, then stop and do your Slash 1-3 combo. All of these will flow smoothly while quickly allowing you to get lots of extra hits in.
+
+===Infinite Shield Throw Trick 1===
+
+Stand facing a wall with a slight gap between you and the wall jump a short bit and throw your [[Shield Boomerang|Shield Boomerang]]. If done right, it will hit the wall. It pauses there for a second then start circling around you but never actually getting to you. If you move it, it'll just go back to you and the glitch is over. Not many good uses for this that I have found.
+
+===Infinite Shield Throw Trick 2===
+
+Throw your [[Shield Boomerang|Shield Boomerang]]. When it comes towards you, dash away from it then quickly dash jump backwards over it. The shield will make another attempt to get to you and you can repeat this over and over to keep it from reaching you. This has not much use on levels but can be very helpful on bosses where the area is limited. I recommend you use the [[Defense Form|Defense Form]] for this trick as it makes your shield throw stronger and the damage reduction helps since you now have to avoid your shield while fighting the boss.
+
+===Infinite Z-Saber Attack Combo===
+
+Do a walking slash then stop and do Slash 1, then repeat over and over. Zero will slowly move forward, slashing wildly as these two attacks combo together really quickly.
+
+==Other Strategies==
+
+This section is just dedicated to strategies for doing absolutely anything and everything. This comprises of level and boss strategies. Although this is based on personal experience, readers are welcome to contirbute their strategies by [[Contact Information|emailing me]] with their tips.
+
+===Boss Strategies===
+
+When fighting bosses, I recommend using [[Z-Saber|Z-Saber]] and [[Shield Boomerang|Shield Boomerang]] in the [[Defense Form|Defense Form]] or [[Ultimate Form|Ultimate Form]]. With Defense Form, you'll be charging both weapons at once and alternate your hits between each form. Defense Form keeps you safe from damage, increases the damage of your Shield Boomerang, and won't suffer a damage penalty for using your charged saber. With Ultimate Form, stick to using the combos to continuously attack your enemy with charged slashes. If the enemy grabs you with a grab attack or you know you will be hit, pause and switch to Defense Form, then switch back to Ultimate Form when the attack is over.
+
+===Level Strategies===
+
+This is my basic advice for beating levels. I recommend [[Z-Saber|Z-Saber]] as your primary weapon and [[Chain Rod|Chain Rod]] as your secondary weapon. Chain Rod helps you get over things like spikes and is necessary on many levels for completion. When you obtain the [[Energy Chain|Energy Chain]], Chain Rod makes healing easy as long as you can find an enemy with a sizeable amount of life. Z-Saber is just a good strong weapon for killing stuff. I recommend [[Active Form|Active Form]] because it allows you to move through a level quickly, destroying anything that comes near you. Other good choices are [[Energy Form|Energy Form]] which gives you a healthy supply of life items to keep you going. If you don't have either of those then [[Rise Form|Rise Form]] is nice as it allows you to hit air enemies pretty well and makes your basic combo much stronger.
+
+==Contact Information==
+
+If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
+
+storm_iz_here[at]yahoo[dot]com 
+
+Replace "[at]" with "@" and "[dot]" with "." (remove quotation marks). Please put the subject as ''"Special Moves FAQ"'' to remind me that you are not spam. If not, the subject should be at least close to the previous one and I will try to answer you back.
+
+==Permitted Sites==
+
+If you posted this on your website without my supervision, it is a violation of the copyright. The following sites have MY PERMISSION to post this FAQ to their site:
+
+*www.gamefaqs.com
+*www.supercheats.com
+*www.neoseeker.com
+
+If your site isn't listed above, email me first. Never and never post this FAQ on your site WITHOUT MY PERMISSION. It is something that you shouldn't do and you really shouldn't do after all.
+
+==Credits==
+
+I would like to thank the following:
+
+*To GameFAQs and SuperCheats for hosting the FAQ.
+*To Capcom for making the game.
+*To you, as the reader.
+
+=-----=
+'''END OF DOCUMENT'''
+=-=
