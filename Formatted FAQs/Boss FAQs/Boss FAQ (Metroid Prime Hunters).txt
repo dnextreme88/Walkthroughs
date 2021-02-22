@@ -13,7 +13,10 @@ Copyright (c) Nintendo.
 **Submitted the FAQ.
 
 *Version 1.1 - Jan 14, 2021
-**Tips to defeat [[acebrock's contribution 1|Cretaphid, version 4]] and [[acebrock's contribution 2|Slench, version 4]] were contributed by a submitter named acebrock as well as an alternate strategy to the [[Noxus|Noxus]] boss battle was contributed by a submitter named [[Insane Celtic's contribution|Insane Celtic]]. Thank you!
+**Tips to defeat [[acebrock's contribution 1|Cretaphid, version 4]] and [[acebrock's contribution 2|Slench, version 4]] were contributed by a submitter named acebrock as well as an alternate strategy to the [[Noxus|Noxus]] boss battle was contributed by a submitter named [[Insane Celtic's contribution|Insane Celtic]]. Thank you very much!
+
+*Version 1.2 - Feb 22, 2021
+**Added contributions from submitters [[b_wingflyer's contribution|b_wingflyer]] and [[ba_la_fon's contribution|ba_la_fon]] in defeating the [[Guardians|Guardians]]. Thank you very much!
 
 ==Copyright Information==
 
@@ -364,6 +367,28 @@ you should unleash your missiles the most or you can chase them - either way wor
 You will be encountering more Guardians along the way. On certain occasions, the guardians can get on a ledge higher than you and sort of sneak up on you. They'll get new weapons to try to kill you with. I'm pretty sure they use every Hunter weapon there is. When you get the Shock Coil, Guardians are a pinch. The Shock Coil's auto-lock works wonders on the constantly moving targets and it depletes energy pretty fast. 
 =-=
 
+=====b_wingflyer's contribution=====
+=--NOTE--=
+I received an e-mail regarding a tip about defeating Guardians easily. Here are his exact words in the e-mail I received from him:
+
+"guardians are very weak against the Judicator and it only takes 5 shots with it to kill them
+ 
+sincerely,
+
+::b_wingflyer"
+
+Credit: ''b_wingflyer''
+=-=
+
+=====ba_la_fon's contribution=====
+=--NOTE--=
+I received another e-mail from another contributor regarding the Guardian's behaviors and attacks. Here are his exact words in the e-mail I received from him:
+
+"I notice that's guardians are almost easy to pass with the morph ball attack, our precision ability letting place to our 3-bombs rythm, and it's pretty fast."
+
+Credit: ''ba_la_fon''
+=-=
+
 ==Contact Information==
 
 If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
@@ -388,8 +413,9 @@ I would like to thank the following:
 
 *To GameFAQs and SuperCheats for hosting the FAQ.
 *To Nintendo for making the game.
-*To [[Insane Celtic's contribution|Insane Celtic]] for providing me an alternate strategy against [[Noxus|Noxus]].
 *To acebrock for his tips on [[acebrock's contribution 1|Cretaphid, version 4]] and [[acebrock's contribution 2|Slench, version 4]].
+*To [[b_wingflyer's contribution|b_wingflyer]] and [[ba_la_fon's contribution|ba_la_fon]]'s tips in defeating the [[Guardians|Guardians]].
+*To [[Insane Celtic's contribution|Insane Celtic]] for providing me an alternate strategy against [[Noxus|Noxus]].
 *To you, as the reader.
 
 =-----=
