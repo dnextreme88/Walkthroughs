@@ -17,6 +17,10 @@ Copyright (c) Ubisoft.
 *Version 1.1 - Jan 14, 2021
 **Added missing notes: [[Cult Orders (Deep North Water Treatment Plant)|Cult Orders (Deep North Water Treatment Plant)]], [[Kenny's note|Kenny's note]], [[RALLYING CALL|RALLYING CALL]], [[Story of Woe|Story of Woe]], [[Open Season|Open Season]], and [[Wolf Beacon Deployment|Wolf Beacon Deployment]].
 
+*Version 1.2 - Jun 12, 2021
+**Added [[True Facts Note Transcripts|"True Facts Note Transcripts"]] section. Huge thanks to BaldPrincess77 for discovering their locations. I emailed her about this and she's willing to let me include it on the guide.
+**Renamed "Feeney's Residence" to [[Feeney Residence|"Feeney Residence"]] sub-section.
+
 ==Copyright Information==
 
 =--IMPORTANT NOTICE: PLEASE READ--=
@@ -45,7 +49,7 @@ Location: Found in Dutch's Island in Central Radio Tower. Look for an abandoned 
 =-----=
 Mama,
 
-Please don't tell Dad. I don't understand how he can listen to that ass-hat Father Joseph?? Is Dad joining one of those reaping crews to what, fight our neighbors??
+Please don't tell Dad. I don't understand how he can listen to that *ss-hat Father Joseph?? Is Dad joining one of those reaping crews to what, fight our neighbors??
 
 Jack and I stayed out by the Ranger Station where he worked last year. We're ok. We're going away to get married and start a real life.
 
@@ -240,11 +244,11 @@ Faith's Path is finally prepared to received the devoted. It's a last hope for w
 With the Path ready, now everyone will have a chance at salvation.
 =-=
 
-===Feeney's Residence===
+===Feeney Residence===
 
 ====Feeney's note====
 
-Location: Found in Henbane River in Feeney's Residence. Look for a bunker and descend down. The note is found on a double-deck bed.
+Location: Found in Henbane River in Feeney Residence. Look for a bunker and descend down. The note is found on a double-deck bed.
 
 =-----=
 The techs seem excited about a new strain. I'll be at the Conservatory soon to confirm. Might finally be the one I give my name to. We'll have to celebrate privately rather than in the spotlight of academic publishing I suppose.
@@ -771,9 +775,7 @@ What do I do? I know you will forgive me, dear Lord. I don't know if Joseph will
 Location: Found in Holland Valley in Adams Ranch. Look for a small brown shed just after the first house you see upon entering the area and the note is just beside the door.
 
 =-----=
-Stranger, if you want to win an argument with a peggie, I've got something up in the barn's second floor that'll win them over to your side every time.
-
-Good luck.
+Stranger, if you want to win an argument with a peggie, I've got something up in the barn's second floor that'll win them over to your side every time. Good luck.
 =-=
 
 ===Armstrong Residence===
@@ -2124,7 +2126,7 @@ Praise Faith, Praise the Father.
 
 ====Chemist's Note (Whistling Beaver Brewery)====
 
-Location: Found in Henbane River in Whistling Beaver Brewery. This note is found on a separate location compared to the [[Chemist's note #1|first Chemist note]] and the [[Chemist's note #2|second Chemist note]] on Nolan's Fly Shop. Go to the warehouse and look for a white table. The note is found there.
+Location: Found in Henbane River in Whistling Beaver Brewery. This note is found on a separate location compared to the [[Chemist's Note #1|first Chemist note]] and the [[Chemist's Note #2|second Chemist note]] on Nolan's Fly Shop. Go to the warehouse and look for a white table. The note is found there.
 
 =-----=
 Powdered Bliss is only made by Faith's private chemists in her Gate.
@@ -2658,7 +2660,7 @@ The following sub-sections are transcripts of notes for Prepper Stash missions.
 
 ====Prepper's Note - Sunken Funds====
 
-Location: Found at Dutch Island in Silver Lake Boathouse. It is inside a metal box hung by the small brown shed of the pump house situated above the boathouse.
+Location: Found in Dutch Island in Silver Lake Boathouse. It is inside a metal box hung by the small brown shed of the pump house situated above the boathouse.
 
 =-----=
 Hey Mike,
@@ -3020,6 +3022,298 @@ NOTES: "The Spirit" along with pilot Fred Tanner went down March 8, 2013
 Recovered a lockbox from the fuselage. Key to lockbox still missing.
 =-=
 
+==True Facts Note Transcripts==
+
+The following sub-sections are transcripts of notes for True Facts notes. Most of the notes can be found on their actual spots that are marked on the map. 
+
+Credit: ''BaldPrincess77''
+
+===True Facts (Animals / Birds)===
+
+====True Facts: American Black Bear====
+
+Location: Found on a hunting tent south of Hope County Jail. (Henbane River)
+
+=-----=
+Unlike the Canadian Black Bear, these ones are loud, entitled, and don't apologize after killing you.
+=-=
+
+====True Facts: Bald Eagle====
+
+Location: Found on an area of cut trees southwest of Snowshoe Lake. (Whitetail Mountains)
+
+=-----=
+You probably think bald eagles are bold, majestic hunters, but they actually eat trash and steal food from other birds. USA! USA! USA!
+=-=
+
+====True Facts: Bison====
+
+Location: Found near a container in a small area west of Old Sun Outfitters. (Whitetail Mountains)
+
+=-----=
+A baby bison is called a "red dog" because the people who name things lack basic education. Also, humans slaughtered 50 million of them. 50 MILLION!
+=-=
+
+====True Facts: Caribou====
+
+Location: Found near a container on top of the hill northwest of Jacob's Bunker. (Whitetail Mountains)
+
+=-----=
+Reindeer and caribou are the same animal, only reindeer put on airs because they're European.
+=-=
+
+====True Facts: Cougar====
+
+Location: Found on a hunting tent north of Rae-Rae's Pumpkin Farm. (Holland Valley)
+
+=-----=
+Cougars have similar body types to house cats, only on a larger scale. Both types of cats are also giant *ssh*les.
+=-=
+
+====True Facts: Duck====
+
+Location: Found on a watchtower southwest of Silver Lake Campgrounds. (Henbane River)
+
+=-----=
+Duck penises are corkscrew shaped which is super handy for opening bottles of wine while camping.
+=-=
+
+====True Facts: Elk====
+
+Location: Found on a watchtower west of Dodd's Dumps. (Holland Valley)
+
+=-----=
+Elk are vegetarian, but are known to eat meat such as nestlings or bird eggs on rare occasions. Which makes them the animal equivalent of your old college roommate.
+=-=
+
+====True Facts: Grey Wolf====
+
+Location: Found on a hunting tent south of Catamount Mines. (Holland Valley)
+
+=-----=
+Wolves develop close relationships and strong social bonds. They are also known to hit the clubs after getting their pump on.
+=-=
+
+====True Facts: Grizzly Bear====
+
+Location: Found near a cooler southwest of Whitetail Park Ranger Station. (Whitetail Mountains)
+
+=-----=
+These omnivores are known to eat berries, fish, and, according to the Secretary of Education, children.
+=-=
+
+====True Facts: Hare====
+
+Location: Found on a treetop east of Dead Man's Mill. (Henbane River)
+
+=-----=
+Hares are adamant that they've never lost a race and warn everyone against believing FAKE NEWS from the Mainstream Tortoise Media.
+=-=
+
+====True Facts: Moose====
+
+Location: Found below a small ridge north of Taft Lookout Tower. (Henbane River)
+
+=-----=
+Moose are incredibly near-sighted, but are too cheap to pay for laser eye surgery.
+=-=
+
+====True Facts: Pronghorn====
+
+Location: Found on a watchtower southeast of The Last Best Resting Place. (Henbane River)
+
+=-----=
+Pronghorns are the second fastest mammal, behind the cheetah, but cheetahs are almost extinct so the pronghorns are happy to wait it out.
+=-=
+
+====True Facts: Rat====
+
+Location: Found below a drainage tunnel south of Silver Lake Trailer Park. (Holland Valley
+
+=-----=
+A rat can survive for up to two years in the wild, but only about two days in the mob.
+=-=
+
+====True Facts: Ruffed Grouse====
+
+Location: Found near a cooler northwest of Hope County Jail Bus. (Holland Valley)
+
+=-----=
+The Ruffed Grouse is non-migratory bird that forgets the fact that at one time, one of their ancestors migrated from somewhere.
+=-=
+
+====True Facts: Skunk====
+
+Location: Found on top of a container northwest of King's Hot Springs Hotel. (Henbane River)
+
+=-----=
+Skunks will only spray when threatened, as they live life under the principle "don't start none, won't be none."
+=-=
+
+====True Facts: Turkey Vulture====
+
+Location: Found on a hunting tent east of Kupka Ranch. (Holland Valley)
+
+=-----=
+A turkey and a vulture had a regrettable one-night stand. One of them believed life begins at conception and look at that... a new species!
+=-=
+
+====True Facts: White Tailed Deer====
+
+Location: Found on a treetop southeast of Redler Residence. (Holland Valley)
+
+=-----=
+Like a human, an adult deer has thirty-two teeth. Unlike a human, it will floss after every meal without fail.
+=-=
+
+====True Facts: Wild Boar====
+
+Location: Found on a watchtower east of Nature Cabin. (Henbane River)
+
+=-----=
+Wild boar are like pigs only they party harder.
+=-=
+
+====True Facts: Wolverine====
+
+Location: Found on a log in a camping site southeast of Puma Mine. (Henbane River)
+
+=-----=
+They're the best there are at what they do, and what they do is secrete a foul smelling yellow liquid from their *nal scent glands.
+=-=
+
+===True Facts (Fishes)===
+
+====True Facts: Artic Grayling Salmon====
+
+Location: Found near a chair in a camping site of the unnamed lake north of Rattlesnake Trail Bridge. (Whitetail Mountains)
+
+=-----=
+Arctic Graylings can be identified by their colorful and very large dorsal fin. Fly that fin loud and proud, you majestic creatures.
+=-=
+
+====True Facts: Bull Trout====
+
+Location: Found on top of a crate in the docks of an unnamed small island northwest of Henbane River Chalets. (Henbane River)
+
+=-----=
+Bull Trout are an extremely sensitive species that don't telorate high levels of sediment in their streams or any other environmental microaggressions.
+=-=
+
+====True Facts: Chinook Salmon====
+
+Location: Found on a dock northeast of Lansdowne Airstrip. (Whitetail Mountains)
+
+=-----=
+The Chinook swims from the ocean back to freshwater where it spawns and then dies. It's sad, but you can never go home again.
+=-=
+
+====True Facts: Golden Trout====
+
+Location: Found near a cooking pot in the fishing spot northeast of Security Gate. (Holland Valley)
+
+=-----=
+Different types of trout are capable of mating and producing viable offsprings, but they've remained distinct for thousands of years because trout are super racist.
+=-=
+
+====True Facts: Kokanee Salmon====
+
+Location: Found on a dock northeast of Elk Jaw Lodge. (Whitetail Mountains)
+
+=-----=
+The Kokanee are land-locked, and only live in freshwater. Like all salmon they die after spawning, which isn't such a bad way to go really.
+=-=
+
+====True Facts: Lake Trout====
+
+Location: Found near a cooler in the fishing spot west of Green-Busch Fertilizer Co. (Holland Valley)
+
+=-----=
+Lake Trout can be difficult to find because of their preference for cold, dark, and murky lower depths. You can also find them trolling online forums.
+=-=
+
+====True Facts: Largemouth Bass====
+
+Location: Found on a table in the fishing spot southeast of Feeney Residence. (Henbane River)
+
+=-----=
+The Largemouth Bass is similar to the Smallmouth Bass, only that the mouth is larger. Really, it's all there in the name.
+=-=
+
+====True Facts: Paddlefish====
+
+Location: Found near a cooler in the fishing spot south of Seed Ranch. (Holland Valley)
+
+=-----=
+Paddlefish caviar is a hot commodity, but even if you harvest the eggs yourself, you can't take them out of state. Isn't that just like the government to think they have a say over someone else's eggs?
+=-=
+
+====True Facts: Pallid Sturgeon====
+
+Location: Found near a cooler in the fishing spot west of Sawyer Residence. (Holland Valley)
+
+=-----=
+The pallid sturgeon has no teeth. It eats by sucking in its food and that's why they're known as the meth heads of the sea.
+=-=
+
+====True Facts: Rainbow Trout====
+
+Location: Found on a tree stump west of Silver Lake Summer Camp. (Henbane River)
+
+=-----=
+Rainbow Trout are the state's number one game fish and they never shut up about it. We get it, you won. Stop reminding us every day.
+=-=
+
+====True Facts: Rock Bass====
+
+Location: Found on top of a rock in the fishing spot southeast of The Misery. (Henbane River)
+
+=-----=
+Rock Bass are fresh water fish who don't have a problem with being around human activity. They are completely unimpressed by everything we do. Everything.
+=-=
+
+====True Facts: Smallmouth Bass====
+
+Location: Found on a tree stump in the fishing spot east of Dead Man's Mill. (Henbane River)
+
+=-----=
+It is the male Bass that stays back and guards the eggs. They are the stay-at-home dads of the fish world.
+=-=
+
+===True Facts (Plants)===
+
+====True Facts: Jimson Weed====
+
+Location: Found on a small shed near the dock north of Feeney Residence. (Henbane River)
+
+=-----=
+This nightshade was named "Jamestown weed" after soldiers there ate it and got blasted. YOLO.
+=-=
+
+====True Facts: Lupine====
+
+Location: Found near a tent in a camping site of an unnamed island southeast of McCallough's Garage. (Henbane River)
+
+=-----=
+A wolf-like destroyer of soil quality. They say full moons don't affect it, but we all know the truth.
+=-=
+
+====True Facts: Mustard====
+
+Location: Found beside a small house south of Adams Ranch. (Holland Valley)
+
+=-----=
+That yellow condiment in your fridge starts from this plant and is made in another type of plant.
+=-=
+
+====True Facts: Prairie Fire====
+
+Location: Found on a mattress in a train tunnel north of The Last Best Resting Place. (Henbane River)
+
+=-----=
+It hooks up with neighboring plants, steals nutrients, and gives flowers. Sounds like THAT ex.
+=-=
+
 ==Contact Information==
 
 If you have any questions, suggestions or some corrections, feel free to e-mail me. My e-mail is
@@ -3044,6 +3338,7 @@ I would like to thank the following:
 
 *To GameFAQs and SuperCheats for hosting the FAQ.
 *To Ubisoft for making the game.
+*To [[True Facts Note Transcripts|BaldPrincess77]] for discovering the locations of the True Facts notes.
 *To you, as the reader.
 
 =-----=
