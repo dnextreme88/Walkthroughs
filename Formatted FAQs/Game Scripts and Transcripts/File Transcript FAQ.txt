@@ -17,7 +17,7 @@ Copyright (c) Ubisoft.
 *Version 1.1 - Jan 14, 2021
 **Added missing notes: [[Cult Orders (Deep North Water Treatment Plant)|Cult Orders (Deep North Water Treatment Plant)]], [[Kenny's note|Kenny's note]], [[RALLYING CALL|RALLYING CALL]], [[Story of Woe|Story of Woe]], [[Open Season|Open Season]], and [[Wolf Beacon Deployment|Wolf Beacon Deployment]].
 
-*Version 1.2 - Jun 12, 2021
+*Version 1.2 - Jun 13, 2021
 **Added [[True Facts Note Transcripts|"True Facts Note Transcripts"]] section. Huge thanks to BaldPrincess77 for discovering their locations. I emailed her about this and she's willing to let me include it on the guide.
 **Renamed "Feeney's Residence" to [[Feeney Residence|"Feeney Residence"]] sub-section.
 
@@ -1254,7 +1254,7 @@ We'll have to leave whatever's down there. Doubt the Peggies can hold their brea
 
 ===Miller Residence===
 
-====Miller's note====
+====Miller's Note====
 
 Location: Found in Holland Valley in Miller Residence. Look for a bunker near the white shed at the backyard of the house. Descend and the note will be found on the sink.
 
@@ -3148,6 +3148,14 @@ Location: Found on top of a container northwest of King's Hot Springs Hotel. (He
 
 =-----=
 Skunks will only spray when threatened, as they live life under the principle "don't start none, won't be none."
+=-=
+
+====True Facts: Turkey====
+
+Location: Found on a watchtower north of Rye & Sons Aviation. (Holland Valley)
+
+=-----=
+These large birds are the main event of every Thanksgiving dinner and signal the beginning of insane sales where people die trying to get a "deal."
 =-=
 
 ====True Facts: Turkey Vulture====
